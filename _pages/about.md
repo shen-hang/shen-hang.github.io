@@ -22,7 +22,7 @@ Email: hshen@njtech.edu.cn, helloshenhang@gmail.com
 
 Recent Highlights
 ======
-- Sep. 2020: Dr. Hang Shen has been elected as the senior member of CCF.
+- Sep. 2020: Dr. Hang Shen has been elected as the CCF senior member.
 - Sep. 2020: 课题组研究生团队获得中国高校计算机大赛-网络技术挑战赛华东赛区三等奖
 - Jun. 2020: Dr. Hang Shen is invited to join the Editorial Board of 《Mathematical Problems in Engineering》 (SCI-Indexed).
 - Jun. 2020: Natural Science Foundation of Jiangsu Province has been approved to be funded form 2020/07-2022/06 (江苏省自然科学基金面上项目获得立项)
