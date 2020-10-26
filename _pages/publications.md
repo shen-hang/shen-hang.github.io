@@ -1,6 +1,6 @@
 ---
 permalink: /publications/
-title: "Publications"
+title: "Publications (2015-Present)"
 author_profile: true
 redirect_from: 
   - /md/
@@ -19,7 +19,6 @@ redirect_from:
 8. **Hang Shen**, Guangwei Bai\*, Zhenmin Tang and Lu Zhao. [QMOR: QoS-Aware Multi-Sink Opportunistic Routing for Wireless Multimedia Sensor Networks](https://link.springer.com/article/10.1007/s11277-013-1425-0), *Springer Wireless Personal Communications (WPC)*, 2014, 75(2), pp. 1307-1330. (SCI)
 9. **Hang Shen**, Lingli Li, Tianjing Wang and Guangwei Bai\*. CDCS: Cluster-based Distributed Compressed Sensing to Facilitate QoS Routing in Cognitive Video Sensor Networks, *Entropy*, 2019, 21(4), 345, pp. 1-19. (SCI)
 10.  **Hang Shen**, Guangwei Bai\*, Ding Ma and Zhenmin Tang. C2EM: Cloud-assisted Complex Event Monitoring in Wireless Multimedia Sensor Networks, *Springer EURASIP Journal on Wireless Communications and Networking (JWCN)*, 2015, Article No. 124, 13 pages.  (SCI)
-11. **Hang Shen**, Guangwei Bai\*, Lu Zhao, and Zhenmin Tang. An Adaptive Opportunistic Network Coding Mechanism in Wireless Multimedia Sensor Networks, *International Journal of Distributed Sensor Networks*, 2012, 13 pages. (SCI)
 
 **B. Conference articles (\* indicates the correspondence author)**
 
