@@ -9,8 +9,9 @@ redirect_from:
 
 - Associate Editor, IEEE Access (2020-present)
 - Academic Editor, Mathematical Problems in Engineering (MPE) (2020-present)
-- Guest Editor, Peer-to-Peer Networking and Applications (2018)
-- Reviewer, IEEE Transactions on Vehicular Technology, IEEE Systems Journal, ACM/Springer Wireless Networks, Elsevier Robotics and Autonomous Systems, Springer Multimedia Tools and Applications
+- Guest Editor, Peer-to-Peer Networking and Applications (2018-2019)
+- Reviewer, IEEE Transactions on Vehicular Technology (TVT), IEEE Systems Journal, ACM/Springer Wireless Networks (WINE), Elsevier Robotics and Autonomous Systems (RAS),  Elsevier Measurement (MEAS). 
+- Springer Multimedia Tools and Applications
 - Member, Institute of Electrical and Electronics Engineers (IEEE) (2018-present)
 - Member, IEEE Communications Society (2019-present)
 - Member, IEEE Vehicular Technology Society (2020-present)
