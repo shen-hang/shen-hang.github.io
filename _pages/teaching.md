@@ -9,13 +9,13 @@ redirect_from:
 
 ---
 
-Computer Networks - Undergraduate course - Spring 2016, Spring 2017, Spring 2020
+Computer Networks - Undergraduate course - Spring 2016, Spring 2017, Spring 2020, Spring 2021
 
 
 | Item                | Links & Description                                          |
 | ------------------- | ------------------------------------------------------------ |
-| Textbook            | [《Computer Networks》, Andrew S. Tanenbaum, 5ed](ed2k//%7Cfile%7CComputer.Networks,.Andrew.S..Tanenbaum,.David.J..Wetherall,.5ed,.PH,.2011(ED2000.COM).pdf%7C8454231%7Cf0a691aab8968fbd2b14e98391a9da20%7Ch=d6qfkoyxhj3oottqmyykyhdfc75u6ms7%7C/) |
-| Reference           | [《Computer Networking: A Top-Down Approach》, James F. Kurose, 6ed.](http://www.bau.edu.jo/UserPortal/UserProfile/PostsAttach/10617_1870_1.pdf)<br/>《计算机网络》，作者：谢希仁，出版社：电子工业出版社，第7版 |
+| Textbook            | [《Computer Networks》, Andrew S. Tanenbaum, 5ed](ed2k//%7Cfile%7CComputer.Networks,.Andrew.S..Tanenbaum,.David.J..Wetherall,.5ed,.PH,.2011(ED2000.COM).pdf%7C8454231%7Cf0a691aab8968fbd2b14e98391a9da20%7Ch=d6qfkoyxhj3oottqmyykyhdfc75u6ms7%7C/)<br/>《计算机网络》，作者：谢希仁，出版社：电子工业出版社，第7版 |
+| Reference           | [《Computer Networking: A Top-Down Approach》, James F. Kurose, 6ed.](http://www.bau.edu.jo/UserPortal/UserProfile/PostsAttach/10617_1870_1.pdf) |
 | Introduction        | [基本概念](http://blog.csdn.net/goodboy1881/article/details/665041),  [网络分层结构](https://www.cnblogs.com/zhouxiangting/p/10651641.html), [协议vs服务vs服务原语vs接口](https://www.cnblogs.com/wx2013/archive/2013/04/23/3037514.html), [电路vs报文vs分组交换](https://blog.csdn.net/didiaola4003/article/details/102136766) |
 | Physical      Layer | [码元](https://blog.csdn.net/qq_40774175/article/details/82953153), [符号vs波特率vs比特率](https://blog.csdn.net/ymdq1113/article/details/69677116), [奈式准则与香农定理](https://blog.csdn.net/Bee_Darker/article/details/86757613) |
 | Datelink layer      | [ARQ与滑动窗口协议](https://blog.csdn.net/yo746862873/article/details/51546753)*,* [Transmission vs Propagation Delay动画](http://www.ccs-labs.org/teaching/rn/animations/propagation/)*,* [Queuing and Loss动画](http://www.ccs-labs.org/teaching/rn/animations/queue/)*,* [Flow Control动画](http://www.ccs-labs.org/teaching/rn/animations/flow/)*,* [Selective Repeat / Go Back N动画](http://www.ccs-labs.org/teaching/rn/animations/gbn_sr/)*,* [CSMA/CA原理](https://blog.csdn.net/loveCC_orange/article/details/79177129)*,* [CSMA/CA动画](http://www.ccs-labs.org/teaching/rn/animations/csma/)*,* [ALOHAnet](https://zh.wikipedia.org/wiki/ALOHAnet)*,* [1-persistent vs Non-persistent vs P-persistent CSMA](https://en.wikipedia.org/wiki/Carrier-sense_multiple_access)*,* [Exponential backoff](https://en.wikipedia.org/wiki/Exponential_backoff) |
