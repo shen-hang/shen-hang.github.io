@@ -14,7 +14,7 @@ Computer Networks - Undergraduate course - Spring 2016, Spring 2017, Spring 2020
 
 | Item                | Links & Description                                          |
 | ------------------- | ------------------------------------------------------------ |
-| Textbook            | [《Computer Networks》, Andrew S. Tanenbaum, 5ed](ed2k//%7Cfile%7CComputer.Networks,.Andrew.S..Tanenbaum,.David.J..Wetherall,.5ed,.PH,.2011(ED2000.COM).pdf%7C8454231%7Cf0a691aab8968fbd2b14e98391a9da20%7Ch=d6qfkoyxhj3oottqmyykyhdfc75u6ms7%7C/)<br/>《计算机网络》，作者：谢希仁，出版社：电子工业出版社，第7版 |
+| Textbook            | [《Computer Networks》, Andrew S. Tanenbaum, 5ed](ed2k//%7Cfile%7CComputer.Networks,.Andrew.S..Tanenbaum,.David.J..Wetherall,.5ed,.PH,.2011(ED2000.COM).pdf%7C8454231%7Cf0a691aab8968fbd2b14e98391a9da20%7Ch=d6qfkoyxhj3oottqmyykyhdfc75u6ms7%7C/)<br/>《计算机网络》，作者：谢希仁，出版社：电子工业出版社，第7版.  [参考PPT(vdmq)](https://pan.baidu.com/s/1XMxb10A7MJwhLi9NqAYbSA) |
 | Reference           | [《Computer Networking: A Top-Down Approach》, James F. Kurose, 6ed.](http://www.bau.edu.jo/UserPortal/UserProfile/PostsAttach/10617_1870_1.pdf) |
 | Introduction        | [基本概念](http://blog.csdn.net/goodboy1881/article/details/665041),  [网络分层结构](https://www.cnblogs.com/zhouxiangting/p/10651641.html), [协议vs服务vs服务原语vs接口](https://www.cnblogs.com/wx2013/archive/2013/04/23/3037514.html), [电路vs报文vs分组交换](https://blog.csdn.net/didiaola4003/article/details/102136766) |
 | Physical      Layer | [码元](https://blog.csdn.net/qq_40774175/article/details/82953153), [符号vs波特率vs比特率](https://blog.csdn.net/ymdq1113/article/details/69677116), [奈式准则与香农定理](https://blog.csdn.net/Bee_Darker/article/details/86757613) |
