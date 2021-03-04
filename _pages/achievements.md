@@ -9,7 +9,7 @@ redirect_from:
 
 | Year | **Description**                                              |
 | ---- | ------------------------------------------------------------ |
-| 2020 | 1.中国仪器仪表学会科学技术进步二等奖(排名第五)<br/>2. Excellent Annual Assessment Winner in Nanjing Tech University |
+| 2020 | 1. 中国仪器仪表学会科学技术进步二等奖(排名第五)<br/>2. Excellent Annual Assessment Winner in Nanjing Tech University |
 | 2019 | 1.“Talent in Six Peak Disciplines” of Jiangsu Province (江苏省六大人才高峰高层次人才计划)<br/>2. Innovation Talent Support Program of Nanjing Tech University (南工英才创新人才支持计划) |
 | 2018 | First Prize for Teaching Competition for Young Teachers in the School of Computer Science & Technology (计算机学院青年教师授课大赛一等奖) |
 | 2017 | 1. Jiangsu Government Scholarship for Overseas Studies (江苏省政府留学奖学金)<br/>2. Excellent Annual Assessment Winner in Nanjing Tech University<br/>3. Excellent Teaching Assessment Winner in Nanjing Tech University |
