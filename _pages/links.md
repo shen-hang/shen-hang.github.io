@@ -9,6 +9,7 @@ redirect_from:
 
 - Paper Search:  [Semantic Scholar](https://www.semanticscholar.org/), [Microsoft Academic](https://academic.microsoft.com/), [CiteSeer](http://citeseer.ist.psu.edu/cis), [IEEE Xplore](http://ieeexplore.ieee.org/), [ACM Portal](http://dl.acm.org/)
 - CFP:  [WikiCFP](http://www.wikicfp.com/cfp/home)
+- Vector Images: [Pixabay](https://pixabay.com/), [Canva](https://www.canva.com/zh_cn/) 
 - Mathwords:  [Terms and Formulas from Beginning Algebra to Calculus](http://www.mathwords.com/)
 - gnuplot: [Demo scripts](http://gnuplot.sourceforge.net/demo/), [Clustered/Stacked Filled Bar Graph Generator](http://www.burningcutlery.com/derek/bargraph/) 
 - Open Source: [Google Developers](https://developers.google.com/open-source/),  [Software for free](https://sourceforge.net/)
