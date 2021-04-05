@@ -22,6 +22,7 @@ Email: hshen@njtech.edu.cn, helloshenhang@gmail.com
 
 Recent Highlights
 ======
+- **Apr.  2021: Our paper "Drone-Small-Cell-Assisted Resource Slicing for 5G Uplink Radio Access Networks" is accepted by 《IEEE Transactions on Vehicular Technology》.**
 - Dec. 2020:  获得中国仪器仪表学会科技进步二等奖(排名第五)
 - Sep. 2020: Dr. Hang Shen has been elected as the CCF senior member.
 - Sep. 2020: 课题组获得中国高校计算机大赛-网络技术挑战赛华东赛区三等奖
