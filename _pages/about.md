@@ -23,19 +23,20 @@ Email: hshen@njtech.edu.cn, helloshenhang@gmail.com
 Recent Highlights
 ======
 - **Apr.  2021: Our paper "Drone-Small-Cell-Assisted Resource Slicing for 5G Uplink Radio Access Networks" is accepted by 《IEEE Transactions on Vehicular Technology》.**
-- Dec. 2020:  获得中国仪器仪表学会科技进步二等奖(排名第五)
+- Dec. 2020:  沈航博士获得中国仪器仪表学会科技进步二等奖(排名第五)
+- Dec. 2020: Dr. Hang Shen is invited to serve as an Associate Editor for 《IEEE Access》 (SCI-Indexed).
 - Sep. 2020: Dr. Hang Shen has been elected as the CCF senior member.
 - Sep. 2020: 课题组获得中国高校计算机大赛-网络技术挑战赛华东赛区三等奖
 - Jun. 2020: Dr. Hang Shen is invited to join the Editorial Board of 《Mathematical Problems in Engineering》 (SCI-Indexed).
 - Jun. 2020: Natural Science Foundation of Jiangsu Province has been approved to be funded form 2020/07-2022/06 (江苏省自然科学基金面上项目获得立项)
-- Jun. 2020: Congrats!!! Graduate student Yiren Gu has been elected as the outstanding graduate M.S. student of NanjingTech  (研究生顾伊人被评为南工优秀毕业研究生). 
-- Apr. 2020: Congrats!!! Graduate student Yue Wang has been recommended by the Postgraduate Research & Practice Innovation Program of Jiangsu Province (RMB 15,000) in the year 2020 (研究生汪悦获得江苏省科研与实践创新计划项目立项).
-- Nov. 2019: Congrats!! Graduate student Yiren Gu has been elected as National Scholarship Fellow (RMB 20,000) in the year 2019 (研究生顾伊人获得国家奖学金).
+- Jun. 2020: Congrats!!! Graduate student Yiren Gu has been elected as the outstanding graduate M.S. student of NanjingTech  (硕士生顾伊人被评为南工优秀毕业研究生). 
+- Apr. 2020: Congrats!!! Graduate student Yue Wang has been recommended by the Postgraduate Research & Practice Innovation Program of Jiangsu Province (RMB 15,000) in the year 2020 (硕士生汪悦获得江苏省科研与实践创新计划项目立项).
+- Nov. 2019: Congrats!! Graduate student Yiren Gu has been elected as National Scholarship Fellow (RMB 20,000) in the year 2019 (硕士生顾伊人获得国家奖学金).
 - Jun 2019: Dr. Hang Shen has been elected as “the Talent in Six Peak Disciplines” of Jiangsu Province, funded from 2019/07 to 2022/06 (江苏省“六大人才高峰”项目获得立项).  
-- Jun. 2019: Congrats!!! Graduate student Yiming Gu has been elected as the outstanding graduate M.S. student of NanjingTech  (研究生顾一鸣被评为南工优秀毕业研究生). 
-- Jun. 2019: Congrats!!! Graduate student Lingli Li‘s dissertation is awarded as outstanding master's thesis of NanjingTech  (研究生李伶俐的学位论文被评为南工优秀硕士学位论文). 
-- May 2019: Our paper is accepted by Springer Multimedia Systems (CCF Rank, SCI) (研究生顾伊人的论文被CCF推荐SCI期刊《Multimedia Systems》录用).
-- May 2019: Graduate student Jiajia Xu participated in IEEE ICC on behalf of our research group (研究生徐佳佳在IEEE ICC汇报研究工作).
+- Jun. 2019: Congrats!!! Graduate student Yiming Gu has been elected as the outstanding graduate M.S. student of NanjingTech  (硕士生顾一鸣被评为南工优秀毕业研究生). 
+- Jun. 2019: Congrats!!! Graduate student Lingli Li‘s dissertation is awarded as outstanding master's thesis of NanjingTech  (硕士生李伶俐的学位论文被评为南工优秀硕士学位论文). 
+- May 2019: Our paper is accepted by Springer Multimedia Systems (CCF Rank, SCI) (硕士生顾伊人的论文被CCF推荐SCI期刊《Multimedia Systems》录用).
+- May 2019: Graduate student Jiajia Xu participated in IEEE ICC on behalf of our research group (硕士生徐佳佳在IEEE ICC汇报研究工作).
 - Apr. 2019: Privacy Protection Project of Jiangsu Key Laboratory we applied for has been approved to be funded from 2019/05 to 2021/04 (江苏省大数据安全与智能处理重点实验室开放课题获得立项).
 - Mar. 2019: Our paper is accepted in Springer Wireless Personal Communications (SCI).
 - Feb. 2019: Our paper is accepted by  IEEE ICC 2019 - 2019 IEEE International Conference on Communications (ICC) (CCF Rank).
