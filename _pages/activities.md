@@ -21,6 +21,7 @@ redirect_from:
 - Technical Committee Member, Jiangsu Computer Society Big Data (2017-present)
 - Technical Committee Member, Jiangsu Computer Society Computers and Communications (2018-present)
 - TPC Member, International Conference on Advanced Cloud and Big Data (CBD) (2015-2018)
+- TPC Member,  the 4th International Conference on Pattern Recognition and Artificial Intelligence (2021)
 - TPC Member, Conference on Network and Data Communications in China (NDCC) (2016, 2018)
 
 ![Visitor Count](https://profile-counter.glitch.me/shen-hang/count.svg)
