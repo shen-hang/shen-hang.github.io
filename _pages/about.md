@@ -22,6 +22,7 @@ Email: hshen@njtech.edu.cn, helloshenhang@gmail.com
 
 Recent Highlights
 ======
+- Apr.  2021: 硕士生田一博获得江苏省科研与实践创新计划项目立项![avatar](https://shen-hang.github.io//images/new.jpg)
 - Apr.  2021: Our paper "Drone-Small-Cell-Assisted Resource Slicing for 5G Uplink Radio Access Networks" is accepted by 《IEEE Transactions on Vehicular Technology》![avatar](https://shen-hang.github.io//images/new.jpg)
 - Dec. 2020:  沈航博士获得中国仪器仪表学会科技进步二等奖(排名第五)
 - Sep. 2020:  沈航博士当选中国计算机学会(CCF)高级会员
