@@ -10,6 +10,7 @@ redirect_from:
 
 
 - **请研0和研一同学聆听：[Dr Xiangyang Shen (Harry Shum)'s talk - You are how you read](https://v.qq.com/x/page/e09683rw0pj.html)**
+- [Most Recent Call for Papers](http://call.grid.hust.edu.cn/call/)
 - Paper Search:   [Google Scholar](https://scholar.google.com/), [Microsoft Academic](https://academic.microsoft.com/), [CiteSeer](http://citeseer.ist.psu.edu/cis), [IEEE Xplore](http://ieeexplore.ieee.org/), [ACM Portal](http://dl.acm.org/)
 - 相关中文学报：[计算机学报](http://cjc.ict.ac.cn/)，[软件学报](http://www.jos.org.cn/jos/ch/index.aspx)，[计算机研究与发展](https://crad.ict.ac.cn/CN/1000-1239/home.shtml)，[电子学报](http://www.ejournal.org.cn/CN/volumn/current.shtml)，[通信学报]()，[电子与信息学报](http://www.infocomm-journal.com/txxb/CN/1000-436X/home.shtml)，[物联网学报](http://www.infocomm-journal.com/wlw/CN/2096-3750/home.shtml)，[天地一体化信息网络](http://www.infocomm-journal.com/sigin/CN/2096-8930/home.shtml)
 - CFP:  [WikiCFP](http://www.wikicfp.com/cfp/home)；Vector Images: [Pixabay](https://pixabay.com/), [Canva](https://www.canva.com/zh_cn/) 
