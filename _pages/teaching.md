@@ -26,13 +26,13 @@ Computer Networks - Undergraduate course - Spring 2016, Spring 2017, Spring 2020
 ---
 计算机网络实验相关问题：
 <details>
-<summary>A. 链路层实验</summary>
+<summary>A. 链路层实验(2课时，验证型)</summary>
 1、广播帧(broadcast frame)和单播帧(unicast frame)的区别是什么？<br/>
 2、从实验中任选一个广播帧，一个单播帧，分析这两个帧帧头中每个字段的含义，并比较它们的区别。<br/>
 3、什么是以太网的帧类型(Ethernet Type)? 它的重要性是什么? 
 </details>
 <details>
-<summary>B. 网络层实验</summary>
+<summary>B. 网络层实验(2课时，综合型)</summary>
 1、 针对实验2.1，试着将ITS 1的interface 1的子网掩码(subnet mask)数值改为 “255.255.255.255”或“255.255.0.0”。这样一来，ITS 1是不是还可以在这个网络拓扑中传递IP数据报？<br/>
 2、针对实验2.2，在路由规则中，Destination(目的网络)字段与 Mask(掩码)字段如果都设为“0.0.0.0”的话，代表什么意义？<br/>
 3、如果一个ISP(Internet Services Provider)要给数十万的网络使用者提供服务，静态路由(static routing)的方式是否可以满足需求？是否有其它的不同类型的路由方式？<br/>
@@ -44,7 +44,7 @@ Computer Networks - Undergraduate course - Spring 2016, Spring 2017, Spring 2020
 9、发送一个长度小于46字节的IP数据报，观察接收方数据链路层接收数据的情况，并解释该现象。
 </details>
 <details>
-<summary>C. 运输层实验</summary>
+<summary>C. 运输层实验(2课时，综合型)</summary>
 1、针对实验3.3，如果在ITS 1尚未处于监听状态的情形下，我们就从ITS 2要连接到ITS 1，会发生什么状况？<br/>
 2、找出TCP连接建立的三个报文，说明理由。<br/>
 3、观察发送窗口和接收窗口的变化。<br/>
@@ -52,7 +52,7 @@ Computer Networks - Undergraduate course - Spring 2016, Spring 2017, Spring 2020
 5、观察TCP连接释放的过程。TCP连接半关闭状态下是否可以发送和接收数据？
 </details>
 <details>
-<summary>D. 应用层实验</summary>
+<summary>D. 应用层实验(2课时，验证型)</summary>
 1、针对实验4.1，当ITS与指定服务器建立TCP连接后，在编辑框输入的命令不正确时，网站将如何回复？<br/>
 2、如果编辑框内输入GET命令，并且能正确收到服务器返回的页面，请从“Network Message Browser”窗口中，分析与GET命令和收到的页面相对应数据的链路层、网络层和运输层封装情况。<br/>
 </details>
