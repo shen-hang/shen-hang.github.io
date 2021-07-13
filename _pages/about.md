@@ -29,6 +29,7 @@ Email: hshen@njtech.edu.cn, helloshenhang@gmail.com
 Recent Highlights
 ======
 - Jun. 2021: 沈航博士被江苏省计算机学会评为”2020年度先进个人会员“![avatar](https://shen-hang.github.io//images/new.jpg)
+- Jun. 2021: 沈航博士当选中国计算机学会(CCF)传播大使![avatar](https://shen-hang.github.io//images/new.jpg)
 - May  2021: Dr. Hang Shen is invited to serve as a TPC member of the 18th Annual International Conference on Privacy, Security and Trust (PST2021)![avatar](https://shen-hang.github.io//images/new.jpg)
 - May  2021: Our paper "Drone-Small-Cell-Assisted Resource Slicing for 5G Uplink Radio Access Networks" has been accepted as a paper for publication in the IEEE Transactions on Vehicular Technology![avatar](https://shen-hang.github.io//images/new.jpg)
 - Apr. 2021: Congrats!!! Graduate student Yibo Tian has been recommended by the Postgraduate Research & Practice Innovation Program of Jiangsu Province (RMB 15,000) in the year 2020 (硕士生田一博获得江苏省科研与实践创新计划项目立项)
