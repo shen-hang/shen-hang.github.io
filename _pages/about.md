@@ -28,7 +28,7 @@ Email: hshen@njtech.edu.cn, helloshenhang@gmail.com
 
 Recent Highlights
 ======
-- Jul. 2021:  课题组获得中国高校网络技术挑战赛华东赛区二等奖和三等奖各一项![avatar](https://shen-hang.github.io//images/new.jpg)
+- Jul. 2021:  课题组获得中国高校计算机大赛-网络技术挑战赛华东赛区二等奖和三等奖各一项![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jun. 2021: 沈航博士被江苏省计算机学会评为”2020年度先进个人会员“![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jun. 2021: 沈航博士当选中国计算机学会(CCF)传播大使![avatar](https://shen-hang.github.io//images/new.jpg)
 - May  2021: Dr. Hang Shen is invited to serve as a TPC member of the 18th Annual International Conference on Privacy, Security and Trust (PST2021)![avatar](https://shen-hang.github.io//images/new.jpg)
