@@ -28,7 +28,7 @@ Email: hshen@njtech.edu.cn, helloshenhang@gmail.com
 
 Recent Highlights
 ======
-- Jul. 2021:  课题组获得中国高校计算机大赛-网络技术挑战赛华东赛区二等奖和三等奖各一项![avatar](https://shen-hang.github.io//images/new.jpg)
+- Jul. 2021:  课题组获得中国高校计算机大赛-网络技术挑战赛华东区二等奖和三等奖各一项![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jun. 2021: 沈航博士被江苏省计算机学会评为”2020年度先进个人会员“![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jun. 2021: 沈航博士当选中国计算机学会(CCF)传播大使![avatar](https://shen-hang.github.io//images/new.jpg)
 - May  2021: Dr. Hang Shen is invited to serve as a TPC member of the 18th Annual International Conference on Privacy, Security and Trust (PST2021)![avatar](https://shen-hang.github.io//images/new.jpg)
@@ -36,7 +36,7 @@ Recent Highlights
 - Apr. 2021: Congrats!!! Graduate student Yibo Tian has been recommended by the Postgraduate Research & Practice Innovation Program of Jiangsu Province (RMB 15,000) in the year 2020 (硕士生田一博获得江苏省科研与实践创新计划项目立项)
 - Dec. 2020:  沈航博士获得中国仪器仪表学会科技进步二等奖(排名第五)
 - Sep. 2020:  Dr. Hang Shen has been elected as a senior member of China Computer Federation (CCF) (沈航博士当选中国计算机学会(CCF)高级会员)
-- Sep. 2020: 课题组获得中国高校计算机大赛-网络技术挑战赛华东赛区三等奖
+- Sep. 2020: 课题组获得中国高校计算机大赛-网络技术挑战赛华东区三等奖
 - Jul. 2020:  Dr. Hang Shen is invited to serve as an Associate Editor for IEEE Access (SCI-Indexed).
 - Jun. 2020: Dr. Hang Shen is invited to join the Editorial Board of  the Mathematical Problems in Engineering (SCI-Indexed).
 - Jun. 2020: Natural Science Foundation of Jiangsu Province has been approved to be funded form 2020/07-2022/06 (江苏省自然科学基金面上项目获得立项)
