@@ -46,7 +46,7 @@ Recent Highlights
 - Jun 2019: Dr. Hang Shen has been elected as “the Talent in Six Peak Disciplines” of Jiangsu Province, funded from 2019/07 to 2022/06 (江苏省“六大人才高峰”项目获得立项).  
 - Jun. 2019: Congrats!!! Graduate student Yiming Gu has been elected as the outstanding graduate M.S. student of NanjingTech  (硕士生顾一鸣被评为南工优秀毕业研究生). 
 - Jun. 2019: Congrats!!! Graduate student Lingli Li‘s dissertation is awarded as outstanding master's thesis of NanjingTech  (硕士生李伶俐的学位论文被评为南工优秀硕士学位论文). 
-- May 2019: My paper is accepted by Springer Multimedia Systems (CCF Rank, SCI) (硕士生顾伊人的论文被CCF推荐SCI期刊《Multimedia Systems》录用).
+- May 2019: Our paper is accepted by Springer Multimedia Systems (CCF Rank, SCI) (硕士生顾伊人的论文被CCF推荐SCI期刊《Multimedia Systems》录用).
 - May 2019: Graduate student Jiajia Xu participated in IEEE ICC on behalf of our research group (硕士生徐佳佳在IEEE ICC汇报研究工作).
 - Apr. 2019: Privacy Protection Project of Jiangsu Key Laboratory we applied for has been approved to be funded from 2019/05 to 2021/04 (江苏省大数据安全与智能处理重点实验室开放课题获得立项).
 - Mar. 2019: My paper has been accepted for publication in the Springer Wireless Personal Communications (SCI).
