@@ -5,10 +5,10 @@ main:
     url: /publications/ 
   
   - title: "Research"
-    url: /grants/ 
+    url: /research/ 
 
   - title: "Awards & Honors"
-    url: /achievements/ 
+    url: /honors/ 
 
   #- title: "Publications"
   #  url: /publications/
