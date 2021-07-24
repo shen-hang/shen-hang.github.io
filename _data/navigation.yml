@@ -7,9 +7,6 @@ main:
   - title: "Research"
     url: /grants/ 
 
-  #- title: "Academic Activities"
-  #  url: /activities/ 
-
   - title: "Awards & Honors"
     url: /achievements/ 
 
@@ -23,7 +20,10 @@ main:
     url: /teaching/    
     
   - title: "Useful Info"
-    url: /links/   
+    url: /links/
+  
+  - title: "CV"
+    url: /cv/ 
   
   #- title: "Portfolio"
   #  url: /portfolio/
