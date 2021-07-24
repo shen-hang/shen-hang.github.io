@@ -1,6 +1,6 @@
 ---
-permalink: /achievements/
-title: "Achievements"
+permalink: /honors/
+title: "Awards & Honors"
 author_profile: true
 redirect_from: 
   - /md/
