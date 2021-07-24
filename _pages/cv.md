@@ -85,15 +85,11 @@ Sep 2010 -- Jan 2015: PhD (with honors) in Computer Science, Nanjing University 
 14. National Natural Science Foundation of China under Grant No. 60673185, Architecture and Protocol Study of Wireless Mobile Multimedia Networks, 2006/12–2009/12, **Research Staff**. 
 
 # Teaching
-
-- Undergraduate Course:
-
-- Computer Networks (Spring 2016, 2017, 2018, 2020, 2021)
-- Linux Programming (Spring 2015, Spring 2016, Spring 2017)
-- Internet of Things (Fall 2015, Fall 2016, Fall 2017, Fall 2019)
-- Graduate Course:
-- Wireless Networks & Mobile Computing (Spring 2016, Spring 2017)
-
-
+* Undergraduate Course:
+  * Computer Networks (Spring 2016, 2017, 2018, 2020, 2021)
+  * Linux Programming (Spring 2015, Spring 2016, Spring 2017)
+  * Internet of Things (Fall 2015, Fall 2016, Fall 2017, Fall 2019)
+* Graduate Course: 
+  * Wireless Networks & Mobile Computing (Spring 2016, Spring 2017)
 
 ![Visitor Count](https://profile-counter.glitch.me/shen-hang/count.svg)
