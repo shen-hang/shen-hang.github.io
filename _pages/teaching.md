@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-Computer Networks - Undergraduate course - Spring 2016, Spring 2017, Spring 2020, Spring 2021
+Computer Networks - Undergraduate course - Spring 2016, 2017, 2020, 2021
 
 
 | Item                | Links & Description                                          |
