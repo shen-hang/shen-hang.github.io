@@ -24,7 +24,7 @@ Computer Networks - Undergraduate course - Spring 2016, Spring 2017, Spring 2020
 | Appliaction Layer   | [DNS](http://blog.csdn.net/goodboy1881/article/details/743816), [FTP和TFTP](https://zhuanlan.zhihu.com/p/106279413), [HTTP](https://www.cnblogs.com/an-wen/p/11180076.html) |
 
 ---
-计算机网络实验中需要思考的问题：
+计算机网络实验：
 <details>
 <summary>A. 链路层实验（2课时，验证型）</summary>
 1、广播帧(broadcast frame)和单播帧(unicast frame)的区别是什么？<br/>
