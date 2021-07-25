@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<font size="4" color="#dd0000"  face="微软雅黑">欢迎各位同学填报我的研究生，也欢迎本科同学参与大创项目，欢迎随时联系。</font><br />
+**<font size="4" color="#dd0000"  face="微软雅黑">欢迎各位同学填报我的研究生，也欢迎本科同学参与大创项目，欢迎随时联系。</font>**<br />
 # Recent Highlights
 
 - Jul. 2021:  课题组获得中国高校网络技术挑战赛华东区二等奖和三等奖各一项![avatar](https://shen-hang.github.io//images/new.jpg)
