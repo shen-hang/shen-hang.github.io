@@ -40,6 +40,7 @@ redirect_from:
 - Program Committee Member, International Conference on Advanced Cloud and Big Data (CBD) (2015-2021)
 - Program Committee Member, the 4th International Conference on Pattern Recognition and Artificial Intelligence (2021)
 - Program Committee Member, Conference on Network and Data Communications in China (NDCC) (2016, 2018)
+- Reviewer, IEEE Transactions on Vehicular Technology (TVT), IEEE Systems Journal, ACM/Springer Wireless Networks (WINE), Elsevier Robotics and Autonomous Systems (RAS),  Elsevier Measurement (MEAS), Springer Multimedia Tools and Applications (MTAP), Journal on Communications (通信学报), IEEE Conference on Vehicular Technology (VTC)
 
 # Publications
 
