@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<table><tr><td bgcolor=#D1EEEE>欢迎各位同学填报我的研究生，也欢迎本科同学参与大创项目，欢迎随时联系。</td></tr></table>
+<table><tr><td bgcolor=#D1EEEE><font size="4">欢迎各位同学填报我的研究生，也欢迎本科同学参与大创项目，欢迎随时联系。</font><br /></td></tr></table>
 
 # Recent Highlights
 
