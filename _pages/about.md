@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+#### **欢迎各位同学填报我的研究生，也欢迎本科同学参与大创项目实践，欢迎随时联系。**
+
 # Recent Highlights
 
 - Jul. 2021:  课题组获得中国高校网络技术挑战赛华东区二等奖和三等奖各一项![avatar](https://shen-hang.github.io//images/new.jpg)
@@ -55,8 +57,6 @@ Hang Shen is currently an Associate Professor in the [Department of Computer Sci
 
 Contact Info
 ======
-**欢迎各位同学填报我的研究生，也欢迎本科同学参与项目实践，欢迎随时联系。**
-
 Department of Computer Science and Technology, Nanjing Tech University<br/>
 Addr: 30 South Puzhu Road, 79 Box, Nanjing, China, 211816 <br/>
 Email: hshen@njtech.edu.cn, helloshenhang@gmail.com
