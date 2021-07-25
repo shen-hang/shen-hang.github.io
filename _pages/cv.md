@@ -9,13 +9,13 @@ redirect_from:
 
 # Experience
 
-* Jan 2019 -- Present: Associate Professor, Department of Computer Science & Technology, Nanjing Tech University, Nanjing, China
+* Associate Professor, Department of Computer Science & Technology, Nanjing Tech University, Nanjing, China (Jan 2019 -- Present: )
 
-* Aug 2018 -- Aug 2019: Full-Time Postdoctoral Fellow, Broadband Communications Research (BBCR) Lab, Department of Electrical & Computer Engineering, University of Waterloo, Waterloo, ON, Canada, Supervisor: Prof. Weihua Zhuang (IEEE Fellow)
+* Full-Time Postdoctoral Fellow, Broadband Communications Research (BBCR) Lab, Department of Electrical & Computer Engineering, University of Waterloo, Waterloo, ON, Canada, Supervisor: Prof. Weihua Zhuang (IEEE Fellow) (Aug 2018 -- Aug 2019)
 
-* May 2015 -- Jan 2019: Assistant Professor, Department of Computer Science & Technology, Nanjing Tech University, Nanjing, China
+* Assistant Professor, Department of Computer Science & Technology, Nanjing Tech University, Nanjing, China (May 2015 -- Jan 2019)
 
-* Sep 2010 -- Jan 2015: PhD (with honors) in Computer Science, Nanjing University of Science & Technology, Nanjing, China, Supervisor: Prof. Guangwei Bai and Prof. Zhenmin Tang 
+* PhD (with honors) in Computer Science, Nanjing University of Science & Technology, Nanjing, China, Supervisor: Prof. Guangwei Bai and Prof. Zhenmin Tang (Sep 2010 -- Jan 2015)
 
 # Research Interests
 
