@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-#### **欢迎各位同学填报我的研究生，也欢迎本科同学参与大创项目实践，欢迎随时联系。**
+## 
+
+<font size="5" color="#dd0000"  face="黑体">欢迎各位同学填报我的研究生，也欢迎本科同学参与大创项目，欢迎随时联系。</font><br />
 
 # Recent Highlights
 
