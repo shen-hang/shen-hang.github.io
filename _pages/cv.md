@@ -9,13 +9,13 @@ redirect_from:
 
 # Experience
 
-Jan 2019 -- Present：Associate Professor, Department of Computer Science & Technology, Nanjing Tech University, Nanjing, China
+* Jan 2019 -- Present: Associate Professor, Department of Computer Science & Technology, Nanjing Tech University, Nanjing, China
 
-Aug 2018 -- Aug 2019, Full-Time Postdoctoral Fellow, Broadband Communications Research (BBCR) Lab, Department of Electrical & Computer Engineering, University of Waterloo, Waterloo, ON, Canada, Supervisor: Prof. Weihua Zhuang (IEEE Fellow)
+* Aug 2018 -- Aug 2019: Full-Time Postdoctoral Fellow, Broadband Communications Research (BBCR) Lab, Department of Electrical & Computer Engineering, University of Waterloo, Waterloo, ON, Canada, Supervisor: Prof. Weihua Zhuang (IEEE Fellow)
 
-May 2015 -- Jan 2019: Assistant Professor, Department of Computer Science & Technology, Nanjing Tech University, Nanjing, China
+* May 2015 -- Jan 2019: Assistant Professor, Department of Computer Science & Technology, Nanjing Tech University, Nanjing, China
 
-Sep 2010 -- Jan 2015: PhD (with honors) in Computer Science, Nanjing University of Science & Technology, Nanjing, China, Supervisor: Prof. Guangwei Bai and Prof. Zhenmin Tang 
+* Sep 2010 -- Jan 2015: PhD (with honors) in Computer Science, Nanjing University of Science & Technology, Nanjing, China, Supervisor: Prof. Guangwei Bai and Prof. Zhenmin Tang 
 
 # Research Interests
 
@@ -67,7 +67,7 @@ Sep 2010 -- Jan 2015: PhD (with honors) in Computer Science, Nanjing University 
 1. **Hang Shen**.  [Urban Big Data](https://www.google.com/url?q=https%3A%2F%2Flink.springer.com%2Freferenceworkentry%2F10.1007%2F978-3-319-32903-1_99-1&sa=D&sntz=1&usg=AFQjCNHiVUs35l18lY-et-uwsSb26ZAzLg). In: Xuemin (Sherman) Shen, Xiaodong Lin, Kuan Zhang (eds) Encyclopedia of Wireless Networks, 2019, DOI: 10.1007/978-3-319-32903-1_312-1, Springer, Cham.
 2. **Hang Shen**. [Privacy Game](https://www.google.com/url?q=https%3A%2F%2Flink.springer.com%2Freferenceworkentry%2F10.1007%2F978-3-319-32903-1_312-1&sa=D&sntz=1&usg=AFQjCNFZg-EMufyNHOSSNMPi75MyNjUzUw). In: Xuemin (Sherman) Shen, Xiaodong Lin, Kuan Zhang (eds) Encyclopedia of Wireless Networks. 2019, DOI: 10.1007/978-3-319-32903-1_99-1, Springer, Cham.
 
-# Research Grants
+# Research Projects
 
 1. Natural Science Foundation of Jiangsu Province under Grant No. BK20201357, 2020/07–2022/06, Intelligent Slicing for Drone-Small-Cell-Assisted Radio Access Networks, **Principal Investigator**.
 2. The Six Talent Peaks Project in Jiangsu Province under Grant No. RJFW-020, 2019/07-2022/06, Privacy-Preserving Mechanism in Location-based Big Data Services, **Principal Investigator**.
