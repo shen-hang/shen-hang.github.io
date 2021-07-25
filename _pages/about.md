@@ -19,16 +19,17 @@ redirect_from:
 - Sep. 2020: 课题组获得中国高校网络技术挑战赛华东区三等奖
 - Jul. 2020:  Dr. Hang Shen is invited to serve as an Associate Editor for IEEE Access (SCI-Indexed).
 - Jun. 2020: Dr. Hang Shen is invited to join the Editorial Board of  the Mathematical Problems in Engineering (SCI-Indexed).
-- Jun. 2020: Natural Science Foundation of Jiangsu Province has been approved to be funded form 2020/07-2022/06 (江苏省自然科学基金面上项目获得立项)
+- Jun. 2020: Natural Science Foundation of Jiangsu Province has been approved to be funded form 2020/07-2022/06 (沈航博士获得江苏省自然科学基金面上项目立项)
 - Jun. 2020: Congrats!!! Graduate student Yiren Gu has been elected as the outstanding graduate M.S. student of NanjingTech  (硕士生顾伊人被评为南工优秀毕业研究生). 
 - Apr. 2020: Congrats!!! Graduate student Yue Wang has been recommended by the Postgraduate Research & Practice Innovation Program of Jiangsu Province (RMB 15,000) in the year 2020 (硕士生汪悦获得江苏省科研与实践创新计划项目立项).
+- Nov. 2019: 沈航博士入选“南工英才”优秀青年科技创新人才计划
 - Nov. 2019: Congrats!! Graduate student Yiren Gu has been elected as National Scholarship Fellow (RMB 20,000) in the year 2019 (硕士生顾伊人获得国家奖学金).
-- Jun 2019: Dr. Hang Shen has been elected as “the Talent in Six Peak Disciplines” of Jiangsu Province, funded from 2019/07 to 2022/06 (江苏省“六大人才高峰”项目获得立项).  
+- Jun 2019: Dr. Hang Shen has been elected as “the Talent in Six Peak Disciplines” of Jiangsu Province, funded from 2019/07 to 2022/06 (沈航博士入选江苏省“六大人才高峰”高层次人才项目).  
 - Jun. 2019: Congrats!!! Graduate student Yiming Gu has been elected as the outstanding graduate M.S. student of NanjingTech  (硕士生顾一鸣被评为南工优秀毕业研究生). 
 - Jun. 2019: Congrats!!! Graduate student Lingli Li‘s dissertation is awarded as outstanding master's thesis of NanjingTech  (硕士生李伶俐的学位论文被评为南工优秀硕士学位论文). 
 - May 2019: Our paper is accepted by Springer Multimedia Systems (CCF Rank, SCI) (硕士生顾伊人的论文被CCF推荐SCI期刊《Multimedia Systems》录用).
 - May 2019: Graduate student Jiajia Xu participated in IEEE ICC on behalf of our research group (硕士生徐佳佳在IEEE ICC汇报研究工作).
-- Apr. 2019: Privacy Protection Project of Jiangsu Key Laboratory we applied for has been approved to be funded from 2019/05 to 2021/04 (江苏省大数据安全与智能处理重点实验室开放课题获得立项).
+- Apr. 2019: Privacy Protection Project of Jiangsu Key Laboratory we applied for has been approved to be funded from 2019/05 to 2021/04 (沈航博士获得江苏省大数据安全与智能处理重点实验室开放课题立项).
 - Mar. 2019: My paper has been accepted for publication in the Springer Wireless Personal Communications (SCI).
 - Feb. 2019: My paper has been accepred as a regular paper by  IEEE ICC 2019 - 2019 IEEE International Conference on Communications (ICC) (CCF Rank).
 - Feb. 2019: My manuscript “Urban Big Data” has been accepted by Springer Encyclopedia of Wireless Networks.
