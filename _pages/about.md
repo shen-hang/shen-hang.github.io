@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "Recent Highlights"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+# Recent Highlights
 
 - Jul. 2021:  课题组获得中国高校网络技术挑战赛华东区二等奖和三等奖各一项![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jun. 2021: 沈航博士被江苏省计算机学会评为”2020年度先进个人会员“![avatar](https://shen-hang.github.io//images/new.jpg)
