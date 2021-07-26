@@ -47,6 +47,8 @@ redirect_from:
 - Jul. 2018: Our paper is accepted as a full paper in ICA3PP 2018 (CCF Rank) (研究生顾伊人的论文被CCF推荐国际会议以长文形式录用). 
 - May 2018: 沈航博士获得计算机科学与技术学院青年教授授课大赛一等奖
 
+------
+
 # Biography
 
 沈航，博士、副教授、硕导，入选江苏省“六大人才高峰”高层次人才计划、“南工英才”优秀青年科技创新人才计划、“南工科技人才”培育计划。毕业于南京理工大学(优秀博士毕业生/优秀博士学位论文/博士生国奖获得者)，师从白光伟教授、唐振民教授。曾在加拿大滑铁卢大学电子与计算机工程系宽带通信实验室(Broadband Communications Research Laboratory, BBCR Lab)担任全职博士后研究员，师从Weihua Zhuang教授(加拿大皇家科学院院士、加拿大工程院院士、IEEE Fellow)。
@@ -57,8 +59,11 @@ redirect_from:
 
 Hang Shen is currently an Associate Professor in the [Department of Computer Science & Technology](http://cise.njtech.edu.cn/) at [Nanjing Tech University](http://www.njtech.edu.cn/), Nanjing, China. He received a Ph.D. degree (with honors) in Computer Science from the [Nanjing University of Science & Technology](http://www.njust.edu.cn/). He worked as a Full-Time Postdoctoral Fellow under the supervision of Prof. Weihua Zhuang (IEEE Fellow)  with the [Broadband Communications Research (BBCR) Lab](https://uwaterloo.ca/broadband-communications-research-lab/), [Department of Electrical & Computer Engineering](https://ece.uwaterloo.ca/Home/), [University of Waterloo](https://uwaterloo.ca/), Waterloo, ON, Canada, from 2018 to 2019. His research interests involve network slicing, space-air-ground integrated networks, and blockchain. He is an Associate Editor for the *IEEE Access*, an Academic Editor for the *Mathematical Problems in Engineering* (MPE) and was a Guest Editor for the *Peer-to-Peer Networking and Applications* (PPNA).  He is/was supported by the National Natural Science Foundation of China, the Natural Science Foundation of Jiangsu Province, and other research projects. He is a senior member of CCF, a member of IEEE, a member of the IEEE Communications Society (ComSoc), and IEEE Vehicular Technology Society (VTS), a member of ACM, an Executive Committee Member of ACM Nanjing Chapter.
 
+------
+
 Contact Info
 ======
+
 Department of Computer Science and Technology, Nanjing Tech University<br/>
 Addr: 30 South Puzhu Road, 79 Box, Nanjing, China, 211816 <br/>
 Email: hshen@njtech.edu.cn, helloshenhang@gmail.com
