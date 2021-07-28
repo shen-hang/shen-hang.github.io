@@ -41,7 +41,7 @@ redirect_from:
 - Feb. 2019: My manuscript “Urban Big Data” has been accepted by Springer Encyclopedia of Wireless Networks.
 - Jan. 2019: My paper has been accepted for publication in the Elsevier Journal of Systems Architecture (CCF Rank, SCI).
 - Dec. 2018: My manuscript “privacy game” has been accepted by Springer Encyclopedia of Wireless Networks.
-- Jul. 2018: My paper  has been published in the IEEE Transactions on Vehicular Technology (SCI).
+- Jul. 2018: My paper  has been published in the IEEE Transactions on Vehicular Technology.
 - Jun. 2018: The Special Issue “Fog/Edge Networking for Multimedia Applications” we applied for is accepted in Springer Peer-to-Peer Networking and Applications (CCF Rank).
 - Jul. 2018: Our paper is accepted as a full paper in ICA3PP 2018 (CCF Rank) (研究生胡煜家的论文被CCF推荐国际会议以长文形式录用). 
 - Jul. 2018: Our paper is accepted as a full paper in ICA3PP 2018 (CCF Rank) (研究生顾伊人的论文被CCF推荐国际会议以长文形式录用). 
