@@ -14,6 +14,8 @@ redirect_from:
 
 # Recent Highlights
 
+- Aug. 2021: 校企联合攻关项目“大规模网络攻防关键技术研究”获得资助并启动![avatar](https://shen-hang.github.io//images/new.jpg)
+- Aug. 2021: 校企联合攻关项目“网络安全态势感知与智能分析技术研究”获得资助并启动![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jul. 2021:  课题组获得中国高校网络技术挑战赛华东区二等奖和三等奖各一项![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jun. 2021: 沈航博士被江苏省计算机学会评为”2020年度先进个人会员“![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jun. 2021: 沈航博士当选中国计算机学会(CCF)传播大使![avatar](https://shen-hang.github.io//images/new.jpg)
@@ -53,7 +55,7 @@ redirect_from:
 
 沈航，博士、副教授、硕导，入选江苏省“六大人才高峰”高层次人才计划、“南工英才”优秀青年科技创新人才计划、“南工科技人才”培育计划。毕业于南京理工大学(优秀博士毕业生/优秀博士学位论文/博士生国奖获得者)，师从白光伟教授、唐振民教授。曾在加拿大滑铁卢大学电子与计算机工程系宽带通信实验室(Broadband Communications Research Laboratory, BBCR Lab)担任全职博士后研究员，师从Weihua Zhuang教授(加拿大皇家科学院院士、加拿大工程院院士、IEEE Fellow)。
 
-主要研究空天地一体化网络、网络安全与隐私保护、区块链和AI技术等。近年来以第一作者在国际知名期刊IEEE Transactions on Vehicular Technology (TVT)发表论文2篇，在Journal of Systems Architecture (JSA)、IEEE International Conference on Communications (ICC)等主流SCI期刊和旗舰国际会议发表论文10篇。参编学术专著《Encyclopedia of Wireless Networks》。授权国家发明专利14项。作为负责人主持国家自然科学基金和江苏省自然科学基金项目3项，江苏省教育厅和人社厅项目2项，国家/省重点实验室开放课题3项，企业横向课题2项。获得2020年中国仪器仪表学会科技进步二等奖 (排名第五)、2016年南京市自然科学优秀论文奖 (排名第一)、2011年江苏省网络与云计算学术会议优秀论文奖 (排名第一)、2011年南京市自然科学优秀论文奖(排名第三)。现担任SCI期刊IEEE Access副编辑 (Associate Editor)、SCI期刊Mathematical Problems in Engineering编委 (Academic Editor)，曾担任SCI期刊Peer-to-Peer Networking and Applications客座编委(Guest Editor)。 曾获计算机学院青年教师授课大赛一等奖。沈航是中国计算机学会(CCF)高级会员、CCF传播大使、CCF网络与数据通信专委会委员，国际计算机学会(ACM)南京分会执行委员，IEEE通信学会会员、IEEE车载技术学会会员。
+主要研究空天地一体化网络、网络安全与隐私保护、区块链和AI技术等。近年来以第一作者在国际知名期刊IEEE Transactions on Vehicular Technology (TVT)发表论文2篇，在Journal of Systems Architecture (JSA)、IEEE International Conference on Communications (ICC)等主流SCI期刊和旗舰国际会议发表论文10篇。参编学术专著《Encyclopedia of Wireless Networks》。授权国家发明专利14项。作为负责人主持国家自然科学基金和江苏省自然科学基金项目3项，江苏省教育厅和人社厅项目2项，国家/省重点实验室开放课题3项，企业横向课题4项。获得2020年中国仪器仪表学会科技进步二等奖 (排名第五)、2016年南京市自然科学优秀论文奖 (排名第一)、2011年江苏省网络与云计算学术会议优秀论文奖 (排名第一)、2011年南京市自然科学优秀论文奖(排名第三)。现担任SCI期刊IEEE Access副编辑 (Associate Editor)、SCI期刊Mathematical Problems in Engineering编委 (Academic Editor)，曾担任SCI期刊Peer-to-Peer Networking and Applications客座编委(Guest Editor)。 曾获计算机学院青年教师授课大赛一等奖。沈航是中国计算机学会(CCF)高级会员、CCF传播大使、CCF网络与数据通信专委会委员，国际计算机学会(ACM)南京分会执行委员，IEEE通信学会会员、IEEE车载技术学会会员。
 
 指导多位研究生获得国家奖学金/校优秀毕业研究生/优秀硕士学位论文。所指导的研究生毕业后大多就职于知名IT企业（包括：大华、阿里巴巴、微软、爱立信、诺基亚贝尔等）和科技金融机构（包括：微众银行、南京证券、中国银行等）研发部。
 
