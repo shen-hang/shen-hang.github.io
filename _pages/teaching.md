@@ -58,12 +58,12 @@ Computer Networks - Undergraduate course - Spring 2016, 2017, 2020, 2021
 </details>
 
 ---
-Internet of Things - Undergraduate course - Fall 2015-2017, Fall 2019-2021
+Introduction to Internet of Things - Undergraduate course - Fall 2015-2017, Fall 2019-2021
 
 | Item          | Links & Description                                          |
 | ------------- | ------------------------------------------------------------ |
-| Textbook      | 《物联网导论（第3版）》，作者：刘云浩，出版社：科学出版社    |
-| 参考课件      | [参考课件下载(rx4s)](https://pan.baidu.com/s/1dJMNoDkS6nUIZqXMK_is2A) |
+| Textbook      | 《物联网导论（第3版）》，刘云浩 著，科学出版社.  [参考PPT(rx4s)](https://pan.baidu.com/s/1dJMNoDkS6nUIZqXMK_is2A), [在线阅读](https://book.sciencereading.cn/shop/book/Booksimple/onlineRead.do?id=B5D6D0E0AF9514876B0AD90324971D2BC000&readMark=0) |
+| Reference      | 1. 《从互联到新工业革命》,  刘云浩 著，清华大学出版社. [在线阅读](https://wqbook.wqxuetang.com/read/pdf?bid=3184105)  <br/>2. 《移动互联网导论（第3版）》, 王新兵 著，清华大学出版社. [在线阅读](https://wqbook.wqxuetang.com/read/pdf?bid=3207888) |
 | RFID          | [RFID原理](https://blog.csdn.net/yuyangyg/article/details/78253069), [RFID攻防](https://blog.csdn.net/sinat_23338865/article/details/71195810) |
 | 定位技术      | [GPS定位基本原理](https://www.cnblogs.com/sddai/p/9692722.html), [AGPS定位机制](https://www.cnblogs.com/prayer521/p/6636457.html) |
 | 信息安全      | [数字签名](http://www.youdzone.com/signature.html), [数字证书](https://www.cnblogs.com/JeffreySun/archive/2010/06/24/1627247.html), [HTTPS原理](https://github.com/ljianshu/blog/issues/50), [非对称加密](https://blog.csdn.net/jijianshuai/article/details/80582187), [认证(authentication)vs授权(authorization)](https://www.cnblogs.com/xosg/p/10257792.html), [同态加密](https://blog.csdn.net/weixin_41564401/article/details/82777335), [椭圆曲线密码](https://www.cnblogs.com/pupilheart/p/9977458.html), [安全多方计算(Yao's两方协议)](https://blog.csdn.net/weixin_42934313/article/details/84989801), [私钥vs公钥vs地址](https://www.jianshu.com/p/af6328cc693e), [拜占庭将军问题](https://charlesliuyx.github.io/2018/03/03/%E3%80%90%E5%8C%BA%E5%9D%97%E9%93%BE%E3%80%91%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3%E6%8B%9C%E5%8D%A0%E5%BA%AD%E5%B0%86%E5%86%9B%E9%97%AE%E9%A2%98/)  |
@@ -75,7 +75,7 @@ Linux Programming - Undergraduate course - Spring 2015, Spring 2016, Spring 2017
 
 | Item                  | Links & Description                                          |
 | --------------------- | ------------------------------------------------------------ |
-| Textbook              | 《Linux教程（第4版）》，作者：孟庆昌等，出版社：电子工业出版社 |
+| Textbook              | 《Linux教程（第4版）》，孟庆昌等 著，电子工业出版社          |
 | Reference             | 《UNIX编程艺术》，作者：Eric S·Raymond，出版社：电子工业出版社，译者：姜宏等<br/>《TCP/IP详解》（共三卷），作者：W Richard Stevens等，出版社：机械工业出版社<br/>[《鸟哥的Linux私房菜》](http://linux.vbird.org/linux_basic/), [C Library](https://www-s.acm.illinois.edu/webmonkeys/book/c_guide/), [C++ library](http://www.cplusplus.com/reference/clibrary/), [STL](http://www.cplusplus.com/reference/stl/) |
 | Kernel data structure | [Kernel Archives](https://www.kernel.org/), [Cross Reference](http://lxr.free-electrons.com/), [Interactive map](http://www.makelinux.net/kernel_map/), [内核中文手册](http://net.pku.edu.cn/~yhf/lyceum/linuxK/tlk.html), [链表数据结构](https://www.ibm.com/developerworks/cn/linux/kernel/l-chain/), [Linked List](https://isis.poly.edu/kulesh/stuff/src/klist/), [循环双向链表(上)](http://blog.csdn.net/npy_lp/article/details/7294494/), [循环双向链表(下)](http://blog.csdn.net/npy_lp/article/details/7299375), [红黑树](http://blog.csdn.net/npy_lp/article/details/7420689), [ring buffer](http://blog.csdn.net/yusiguyuan/article/details/41985907), [内存池](https://www.ibm.com/developerworks/cn/linux/l-cn-ppp/index6.html), [编码风格](http://iyu.is-programmer.com/posts/30315.html), [设备驱动Hello World程序](http://coolshell.cn/articles/566.html) |
 | Process               | Preliminary: [fork函数详解](http://blog.csdn.net/jason314/article/details/5640969), [使用GDB调试多进程程序](https://www.ibm.com/developerworks/cn/linux/l-cn-gdbmp/)<br/>IPC: [管道](https://www.ibm.com/developerworks/cn/linux/l-ipc/part1/), [信号(上)](http://www.ibm.com/developerworks/cn/linux/l-ipc/part2/index1.html), [信号(下)](http://www.ibm.com/developerworks/cn/linux/l-ipc/part2/index2.html), [消息队列](https://www.ibm.com/developerworks/cn/linux/l-ipc/part3/), [信号灯](https://www.ibm.com/developerworks/cn/linux/l-ipc/part4/), [共享内存(上)](http://www.ibm.com/developerworks/cn/linux/l-ipc/part5/index1.html), [共享内存(下)](http://www.ibm.com/developerworks/cn/linux/l-ipc/part5/index2.html), [套接口](https://www.ibm.com/developerworks/cn/linux/l-ipc/part6/) |
@@ -87,7 +87,7 @@ Mobile Internet - Undergraduate course - Fall 2019
 
 | Item          | Links & Description                                          |
 | ------------- | ------------------------------------------------------------ |
-| Textbook      | 《移动互联网（第2版）》，作者：王新兵，出版社：清华大学出版社 |
+| Textbook      | 《移动互联网（第3版）》，王新兵 著，清华大学出版社           |
 | 基本概念      | [LTE基础概念](http://blog.csdn.net/wangkai_123456/article/details/77948540)*,* [天线科普](https://blog.csdn.net/zq07506149/article/details/80091140)*,* [信道极限容量](https://blog.csdn.net/cainv89/article/details/50582967) |
 | 5G            | [5G科普](http://network.51cto.com/art/201812/589511.htm)*,* [4G 5G区别](https://blog.csdn.net/csdnnews/article/details/93429083)*,* [5G接入网+承载网+核心网](https://blog.csdn.net/bingfeilongxin/article/details/93138651) |
 | 关键技术      | [多址接入技术](https://blog.csdn.net/jxwxg/article/details/53366657)*,* [OFDM原理](https://blog.csdn.net/madongchunqiu/article/details/18614233)*,* [移动IP](https://blog.csdn.net/williananjhon/article/details/90748688)*,* [数字签名](http://www.ruanyifeng.com/blog/2011/08/what_is_a_digital_signature.html)*,* [哈希锁](https://www.jianshu.com/p/d78196150350?utm_campaign) |
@@ -98,7 +98,7 @@ Wireless Networks & Mobile Computing  - Graduate course - Spring 2016, Fall 2017
 
 | Item      | Description                                                  |
 | --------- | ------------------------------------------------------------ |
-| Reference | 1. 《移动互联网导论（第2版）》, 作者：王新兵，出版社：清华大学出版社 <br/>2. 《从互联到新工业革命》, 作者：刘云浩，出版社：清华大学出版社 |
+| Reference | 1. 《移动互联网导论（第3版）》,  王新兵 著，清华大学出版社 <br/>2. 《从互联到新工业革命》, 刘云浩 著，清华大学出版社 |
 
 ---
 
