@@ -14,8 +14,8 @@ redirect_from:
 
 # Recent Highlights
 
-- Aug. 2021: 校企合作科技项目“大规模网络攻防关键技术研究”签约启动![avatar](https://shen-hang.github.io//images/new.jpg)
-- Aug. 2021: 校企合作科技项目“网络安全态势感知与智能分析技术研究”签约启动![avatar](https://shen-hang.github.io//images/new.jpg)
+- Aug. 2021: “大规模网络攻防关键技术研究”校企合作项目获得资助并启动![avatar](https://shen-hang.github.io//images/new.jpg)
+- Aug. 2021: “网络安全态势感知与智能分析技术研究”校企合作项目获得资助并启动![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jul. 2021:  课题组获得中国高校网络技术挑战赛华东区二等奖和三等奖各一项![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jun. 2021: 沈航博士被江苏省计算机学会评为”2020年度先进个人会员“![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jun. 2021: 沈航博士当选中国计算机学会(CCF)传播大使![avatar](https://shen-hang.github.io//images/new.jpg)
