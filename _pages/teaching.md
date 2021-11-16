@@ -62,7 +62,7 @@ Introduction to Internet of Things - Undergraduate course - Fall 2015-2017, Fall
 
 | Item          | Links & Description                                          |
 | ------------- | ------------------------------------------------------------ |
-| Textbook      | 《物联网导论（第3版）》，刘云浩 著，科学出版社.  [参考PPT(rx4s)](https://book.sciencereading.cn/shop/book/Booksimple/onlineRead.do?id=B9EBE4A4841F8973EE053020B0A0A9533000&readMark=0), [在线阅读](https://book.sciencereading.cn/shop/book/Booksimple/onlineRead.do?id=B9EBE4A4841F8973EE053020B0A0A9533000&readMark=0) |
+| Textbook      | 《物联网导论（第3版）》，刘云浩 著，科学出版社.  [参考PPT(xiv2)](https://pan.baidu.com/s/17U_wx4iujLxX1ixfKozccw), [在线阅读](https://book.sciencereading.cn/shop/book/Booksimple/onlineRead.do?id=B9EBE4A4841F8973EE053020B0A0A9533000&readMark=0) |
 | Reference      | 1. 《从互联到新工业革命》,  刘云浩 著，清华大学出版社. [在线阅读](https://wqbook.wqxuetang.com/read/pdf?bid=3184105)  <br/>2. 《移动互联网导论（第3版）》, 王新兵 著，清华大学出版社. [在线阅读](https://wqbook.wqxuetang.com/read/pdf?bid=3207888) |
 | RFID          | [RFID原理](https://blog.csdn.net/yuyangyg/article/details/78253069), [RFID攻防](https://blog.csdn.net/sinat_23338865/article/details/71195810) |
 | 定位技术      | [GPS定位基本原理](https://www.cnblogs.com/sddai/p/9692722.html), [AGPS定位机制](https://www.cnblogs.com/prayer521/p/6636457.html), [LANDMARC室内定位算法](https://zhuanlan.zhihu.com/p/349745108) |
