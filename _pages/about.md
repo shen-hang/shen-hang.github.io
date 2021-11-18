@@ -14,6 +14,7 @@ redirect_from:
 
 # Recent Highlights
 
+- Nov. 2021: 沈航博士的研究成果“基于网络切片的5G电力物联网关键技术研究及应用”获得中国电力联合会科技创新二等奖(排名第三) ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Aug. 2021: “大规模网络攻防关键技术研究”项目获得资助并启动![avatar](https://shen-hang.github.io//images/new.jpg)
 - Aug. 2021: “网络安全态势感知与智能分析技术研究”项目获得资助并启动![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jul. 2021:  课题组获得中国高校网络技术挑战赛华东区二等奖和三等奖各一项![avatar](https://shen-hang.github.io//images/new.jpg)
