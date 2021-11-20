@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<font size="3">欢迎小伙伴们加入我们课题组，欢迎联系。</font>
+<font size="3">欢迎小伙伴们加入我们课题组(网络与云计算技术研究所)，欢迎联系。</font>
 
 ------
 
