@@ -27,7 +27,20 @@ redirect_from:
 - Associate Editor, IEEE Access (2020-present)
 - Academic Editor, Mathematical Problems in Engineering (MPE) (2020-present)
 - Guest Editor,  Special Issue “Fog/Edge Networking for Multimedia Applications” in Peer-to-Peer Networking and Applications (2018-2019)
-- Reviewer, IEEE Transactions on Vehicular Technology (TVT), IEEE Systems Journal, ACM/Springer Wireless Networks (WINE), Elsevier Robotics and Autonomous Systems (RAS),  Elsevier Measurement (MEAS), Springer Multimedia Tools and Applications (MTAP), 通信学报, IEEE International Conference on Parallel and Distributed Systems (ICPADS), IEEE Conference on Vehicular Technology (VTC)
+- Reviewer for Journals
+  - IEEE Transactions on Vehicular Technology (TVT)
+  - IEEE Systems Journal
+  - ACM/Springer Wireless Networks (WINE)
+  - Elsevier Robotics and Autonomous Systems (RAS)
+  - Elsevier Measurement (MEAS)
+  - Springer Multimedia Tools and Applications (MTAP)
+  - 通信学报
+  - 物联网学报
+  - 网络与信息安全学报
+- Reviewer for International Conferences
+  - IEEE International Conference on Parallel and Distributed Systems (ICPADS)
+  - IEEE International Conference on Communications (ICC)
+  - IEEE Conference on Vehicular Technology (VTC)
 - Member, Institute of Electrical and Electronics Engineers (IEEE) (2018-present)
 - Member, IEEE Communications Society (ComSoc) (present)
 - Member, IEEE Vehicular Technology Society (VTS) (2020-present)
