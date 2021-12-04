@@ -8,14 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-<font size="3">过去一年（2020年12月至今），我们课题组获得中国电力联合会科技创新二等奖1项、中国仪器仪表学会科技进步二等奖1项、国家发明专利授权12项，并以第一作者在国际顶级期刊IEEE Transactions发表论文。欢迎各位同学加入，欢迎随时联系！</font>
+<font size="3">过去一年（2020年12月至今），我们课题组获得中国电力联合会科技创新二等奖1项、中国仪器仪表学会科技进步二等奖1项、国家发明专利授权12项，并以第一作者在国际顶级期刊IEEE Transactions发表论文。欢迎各位同学加入课题组，欢迎随时联系！</font>
 
 ------
 
 # Recent Highlights
 
 - Nov. 2021:  沈航博士的研究成果“基于网络切片的5G电力物联网关键技术研究及应用”获得中国电力联合会科技创新二等奖 (排名第三) ![avatar](https://shen-hang.github.io//images/new.jpg)
-- Nov. 2021:  课题组2021年获得国家发明专利授权12项 ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Aug. 2021: “大规模网络攻防关键技术研究”项目获得资助并启动![avatar](https://shen-hang.github.io//images/new.jpg)
 - Aug. 2021: “网络安全态势感知与智能分析技术研究”项目获得资助并启动![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jul. 2021:  课题组获得中国高校网络技术挑战赛华东区二等奖和三等奖各一项![avatar](https://shen-hang.github.io//images/new.jpg)
