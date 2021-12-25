@@ -16,7 +16,7 @@ redirect_from:
 - Vector Images: [Pixabay](https://pixabay.com/), [Canva](https://www.canva.com/zh_cn/) 
 - Mathwords:  [Terms and Formulas from Beginning Algebra to Calculus](http://www.mathwords.com/)
 - 3D: [webglsamples](https://webglsamples.org/), [threejs examples](https://threejs.org/examples/)
-- Plot: [Demo scripts](http://gnuplot.sourceforge.net/demo/), [Clustered/Stacked Filled Bar Graph Generator](http://www.burningcutlery.com/derek/bargraph/), [sigmaplot](https://systatsoftware.com/sigmaplot/) 
+- Plot: [Demo scripts](http://gnuplot.sourceforge.net/demo/), [Clustered/Stacked Filled Bar Graph Generator](http://www.burningcutlery.com/derek/bargraph/), [sigmaplot](https://systatsoftware.com/sigmaplot/), [diagams](https://daw.io)  
 - Color scheme: [Culrs](https://www.culrs.com/#/), [ColorSpace](https://mycolor.space/), [ColorLeap](https://colorleap.app/home), [WebGradients](https://webgradients.com/), [Adobe Color](https://color.adobe.com/zh/create/color-wheel)
 - Open Source: [Google Developers](https://developers.google.com/open-source/),  [Software for free](https://sourceforge.net/)
 - Course Resources：[Computer Networking: a Top Down Approach](https://gaia.cs.umass.edu/kurose_ross/index.html), [Optimization](http://bicmr.pku.edu.cn/~wenzw/optbook.html)
