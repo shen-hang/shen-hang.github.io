@@ -14,7 +14,8 @@ redirect_from:
 
 # Recent Highlights
 
-- Jan. 2022: 东方航空空铁一体化动态路由项目启动![avatar](https://shen-hang.github.io//images/new.jpg)
+- Jan. 2022: 东方航空联运网络优化二期项目--路由算法验证启动![avatar](https://shen-hang.github.io//images/new.jpg)
+- Nov. 2021: 东方航空联运网络优化一期项目--空铁一体化动态路由算法研究启动![avatar](https://shen-hang.github.io//images/new.jpg)
 - Nov. 2021:  沈航博士的研究成果“基于网络切片的5G电力物联网关键技术研究及应用”获得中国电力联合会科技创新二等奖 (排名第三) ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Aug. 2021: “大规模网络攻防关键技术研究”项目获得资助并启动![avatar](https://shen-hang.github.io//images/new.jpg)
 - Aug. 2021: “网络安全态势感知与智能分析技术研究”项目获得资助并启动![avatar](https://shen-hang.github.io//images/new.jpg)
@@ -59,7 +60,7 @@ redirect_from:
 
 主要研究空天地一体化网络、网络安全与隐私计算、区块链和AI技术等。近年来以第一作者在国际顶级期刊IEEE Transactions on Vehicular Technology发表论文2篇，在Journal of Systems Architecture、IEEE ICC等主流SCI期刊和旗舰国际会议发表论文10篇。参编学术专著《Encyclopedia of Wireless Networks》。授权国家发明专利20项。近5年作为负责人主持国家自然科学基金和省自然科学基金项目3项，省教育厅和人社厅项目2项，国家/省重点实验室开放课题3项，横向课题4项。获得2021年中国电力联合会科技创新二等奖 (排名第三)，2020年中国仪器仪表学会科技进步二等奖 (排名第五)，2018年计算机学院青年教师授课大赛一等奖，2016年南京市自然科学优秀论文奖 (排名第一)，2011年江苏省网络与云计算学术会议优秀论文奖 (排名第一)，2011年南京市自然科学优秀论文奖(排名第三)。现担任SCI期刊IEEE Access副编辑 (Associate Editor)、SCI期刊Mathematical Problems in Engineering编委 (Academic Editor)，曾担任SCI期刊Peer-to-Peer Networking and Applications客座编委(Guest Editor)。 沈航是中国计算机学会(CCF)高级会员、CCF网络与数据通信专委会委员，国际计算机学会(ACM)南京分会执行委员，IEEE通信学会会员、IEEE车载技术学会会员。
 
-指导多位研究生获得国家奖学金/校优秀毕业研究生/优秀硕士学位论文。课题组研究生毕业后大多就职于顶级IT企业（包括：华为南研所、展讯、大华、微软、爱立信、诺基亚贝尔、三星研究院、阿里巴巴等）和科技金融机构（包括：微众银行、南京证券、中国银行等）。
+指导多位研究生获得国家奖学金/校优秀毕业研究生/优秀硕士学位论文。课题组研究生毕业后大多就职于顶级IT企业（包括：华为南研所、展讯、大华、微软、爱立信、诺基亚、三星研究院等）和科技金融机构（包括：微众银行、南京证券、中国银行等）。
 
 Hang Shen is currently an Associate Professor in the [Department of Computer Science & Technology](http://cise.njtech.edu.cn/) at [Nanjing Tech University](http://www.njtech.edu.cn/), Nanjing, China. He received a Ph.D. degree (with honors) in Computer Science from the [Nanjing University of Science & Technology](http://www.njust.edu.cn/). He worked as a Full-Time Postdoctoral Fellow under the supervision of Prof. Weihua Zhuang (IEEE Fellow)  with the [Broadband Communications Research (BBCR) Lab](https://uwaterloo.ca/broadband-communications-research-lab/), [Department of Electrical & Computer Engineering](https://ece.uwaterloo.ca/Home/), [University of Waterloo](https://uwaterloo.ca/), Waterloo, ON, Canada, from 2018 to 2019. His research interests involve network slicing, space-air-ground integrated networks, and blockchain. He is an Associate Editor for the *IEEE Access*, an Academic Editor for the *Mathematical Problems in Engineering* (MPE) and was a Guest Editor for the *Peer-to-Peer Networking and Applications* (PPNA).  He is/was supported by the National Natural Science Foundation of China, the Natural Science Foundation of Jiangsu Province, and other research projects. He is a senior member of CCF, a member of IEEE, a member of the IEEE Communications Society (ComSoc), and IEEE Vehicular Technology Society (VTS), a member of ACM, an Executive Committee Member of ACM Nanjing Chapter.
 
