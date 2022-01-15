@@ -26,7 +26,6 @@ redirect_from:
   - [Ex­cel2LaTeX – Con­vert Ex­cel spread­sheets to LATEX ta­bles](https://www.ctan.org/tex-archive/support/excel2latex/), [Tables Generator](http://www.tablesgenerator.com/), [image-to-latex ](https://github.com/kingyiusuen/image-to-latex)
   - [Powerpoint](http://www.latextemplates.com/template/beamer-presentation), [CV](http://www.latextemplates.com/cat/curricula-vitae), [Making Poster](http://www.latextemplates.com/cat/curricula-vitae), [Making a poster in beamer](http://robjhyndman.com/hyndsight/beamer-poster/), [Beamer Poster Theme](http://www.shawnlankton.com/2008/06/latex-beamer-poster-theme-and-template/)
   - [How to embed all fonts in PDF](https://sites.google.com/site/xyzliwen/resource/embed_font_ieee_pdf_explore)
-- 
 
 ------
 ## [**Winners vs Losers**](http://h-a-s.org/tombaird/winners_vs_losers.htm)
