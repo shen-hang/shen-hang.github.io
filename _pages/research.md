@@ -48,10 +48,11 @@ redirect_from:
 - Member, Association for Computing Machinery (ACM) (2015-present)
 - Executive Committee Member, ACM Nanjing Chapter (2014-present)
 - Member (2011-2020), Senior Member (2020-present), China Computer Federation (CCF) 
-- Technical Committee Member, CCF Network and Data Communications (TCCOMM) (2015-present)
-- Program Committee Member, 18th Annual International Conference on Privacy, Security and Trust (PST2021)
-- Program Committee Member,  International Conference on Advanced Cloud and Big Data (CBD) (2015-2021)
-- Program Committee Member,  the 4th International Conference on Pattern Recognition and Artificial Intelligence (2021)
-- Program Committee Member, Conference on Network and Data Communications in China (NDCC) (2016, 2018)
+- Technical Committee Member
+  - CCF Network and Data Communications (TCCOMM) (2015-present)
+  - 18th Annual International Conference on Privacy, Security and Trust (PST2021)
+  - International Conference on Advanced Cloud and Big Data (CBD) (2015-2021)
+  - 4th International Conference on Pattern Recognition and Artificial Intelligence (2021)
+  - Conference on Network and Data Communications in China (NDCC) (2016, 2018)
 
 ![Visitor Count](https://profile-counter.glitch.me/shen-hang/count.svg)
