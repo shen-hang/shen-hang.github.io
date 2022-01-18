@@ -41,6 +41,7 @@ redirect_from:
   - IEEE International Conference on Parallel and Distributed Systems (ICPADS)
   - IEEE International Conference on Communications (ICC)
   - IEEE Conference on Vehicular Technology (VTC)
+  - IEEE INFOCOM WKSHPS
 - Member, Institute of Electrical and Electronics Engineers (IEEE) (2018-present)
 - Member, IEEE Communications Society (ComSoc) (present)
 - Member, IEEE Vehicular Technology Society (VTS) (2020-present)
