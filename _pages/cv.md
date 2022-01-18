@@ -25,22 +25,33 @@ redirect_from:
 
 # Professional Activities
 
-- Associate Editor: IEEE Access (2020-present)
-- Academic Editor: Mathematical Problems in Engineering (MPE) (2020-present)
-- Guest Editor, Springer Peer-to-Peer Networking and Applications (PPNA) (2018-2019)
-- Guest Editor, International Journal of Distributed Sensor Networks (2014)
-- Member, Institute of Electrical and Electronics Engineers (IEEE) (2019-present)
-- Member, IEEE Communications Society (ComSoc) (2019-present)
+- Associate Editor, IEEE Access (2020-present)
+- Academic Editor, Mathematical Problems in Engineering (MPE) (2020-present)
+- Guest Editor,  Special Issue “Fog/Edge Networking for Multimedia Applications” in Peer-to-Peer Networking and Applications (2018-2019)
+- Reviewer for Journals
+  - IEEE Transactions on Vehicular Technology (TVT)
+  - IEEE Systems Journal
+  - ACM/Springer Wireless Networks (WINE)
+  - Elsevier Robotics and Autonomous Systems (RAS)
+  - Elsevier Measurement (MEAS)
+  - Springer Multimedia Tools and Applications (MTAP)
+- Reviewer for International Conferences
+  - IEEE International Conference on Parallel and Distributed Systems (ICPADS)
+  - IEEE International Conference on Communications (ICC)
+  - IEEE Conference on Vehicular Technology (VTC)
+  - IEEE INFOCOM WKSHPS
+- Member, Institute of Electrical and Electronics Engineers (IEEE) (2018-present)
+- Member, IEEE Communications Society (ComSoc) (present)
 - Member, IEEE Vehicular Technology Society (VTS) (2020-present)
-- Member, Association for Computing Machinery (ACM) (2011-present)
+- Member, Association for Computing Machinery (ACM) (2015-present)
 - Executive Committee Member, ACM Nanjing Chapter (2014-present)
-- Senior Member, China Computer Federation (CCF) (2011-present)
-- Technical Committee Member, CCF Network and Data Communications (2015-present)
-- Program Committee Member, 18th Annual International Conference on Privacy, Security and Trust (PST2021)
-- Program Committee Member, International Conference on Advanced Cloud and Big Data (CBD) (2015-2021)
-- Program Committee Member, the 4th International Conference on Pattern Recognition and Artificial Intelligence (2021)
-- Program Committee Member, Conference on Network and Data Communications in China (NDCC) (2016, 2018)
-- Reviewer, IEEE Transactions on Vehicular Technology (TVT), IEEE Systems Journal, ACM/Springer Wireless Networks (WINE), Elsevier Robotics and Autonomous Systems (RAS),  Elsevier Measurement (MEAS), Springer Multimedia Tools and Applications (MTAP), Journal on Communications (通信学报), IEEE Conference on Vehicular Technology (VTC)
+- Member (2011-2020), Senior Member (2020-present), China Computer Federation (CCF) 
+- Technical Committee Member
+  - CCF Network and Data Communications (TCCOMM) (2015-present)
+  - 18th Annual International Conference on Privacy, Security and Trust (PST2021)
+  - International Conference on Advanced Cloud and Big Data (CBD) (2015-2021)
+  - 4th International Conference on Pattern Recognition and Artificial Intelligence (2021)
+  - Conference on Network and Data Communications in China (NDCC) (2016, 2018)
 
 # Publications
 
@@ -53,15 +64,15 @@ redirect_from:
 5. **Hang Shen**, Guangwei Bai\*, Mei Yang and Zhonghui Wang. [Protecting trajectory privacy: A user-centric analysis](https://www.sciencedirect.com/science/article/pii/S1084804517300413), *Elsevier Journal of Network and Computer Applications (JNCA)*, 82 (2017), pp. 128-139. (**CCF Rank, SCI**)
 6. **Hang Shen**, Guangwei Bai\*. [Routing in wireless multimedia sensor networks: A survey and challenges ahead](https://www.sciencedirect.com/science/article/pii/S1084804516301102), *Elsevier Journal of Network and Computer Applications (JNCA)*, 71 (2016), pp. 30-49. (**CCF Rank, SCI**) 
 7. **Hang Shen**, Guangwei Bai\*, Lu Zhao, Jinfeng Ge and Zhenmin Tang. [L2OR: Low-Cost Low-Complexity Opportunistic Routing for Wireless Sensor Networks](https://link.springer.com/article/10.1007/s11277-014-2214-0), *Springer Wireless Personal Communications  (WPC)*, 2015, 82(1), pp. 401-422. (**SCI**)
-8. Yiren Gu, **Hang Shen\***, Guangwei Bai, Tianjing Wang et al. [QoI-Aware Incentive for Multimedia Crowdsensing Enabled Learning System](https://link.springer.com/article/10.1007/s00530-019-00616-w), *Springer Multimedia Systems (MS)*, 2020, 26(1), pp. 3-16. (**CCF Rank, SCI**) (第一作者为指导的硕士生)
+8. Yiren Gu, **Hang Shen\***, Guangwei Bai, Tianjing Wang et al. [QoI-Aware Incentive for Multimedia Crowdsensing Enabled Learning System](https://link.springer.com/article/10.1007/s00530-019-00616-w), *Springer Multimedia Systems (MS)*, 2020, 26(1), pp. 3-16. (**CCF Rank, SCI**) 
 9. **Hang Shen**, Lingli Li, Tianjing Wang and Guangwei Bai\*. CDCS: Cluster-based Distributed Compressed Sensing to Facilitate QoS Routing in Cognitive Video Sensor Networks, *Entropy*, 2019, 21(4), 345, pp. 1-19. (**SCI**)
 10. **Hang Shen**, Guangwei Bai\*, Ding Ma and Zhenmin Tang. C2EM: Cloud-assisted Complex Event Monitoring in Wireless Multimedia Sensor Networks, *Springer EURASIP Journal on Wireless Communications and Networking (JWCN)*, 2015, Article No. 124, 13 pages.  (**SCI**)
 
 **B. Conference articles (\* indicates the correspondence author)**
 
 1. **Hang Shen**, Jiajia Xu, Tianjing Wang and Guangwei Bai\*. [Detecting Link Correlation Spoofing Attack: A Beacon-Trap Approach](https://ieeexplore.ieee.org/document/8761835), in *Proc. of the 53rd IEEE International Conference on Communications (ICC)*,  Regular Paper, Shanghai, China, May 20-24, 2019.   (**CCF Rank, EI**)
-2. Yujia Hu, **Hang Shen\***, Guangwei Bai and Tianjing Wang. Privacy-Preserving Task Allocation for Edge Computing Enhanced Mobile Crowdsensing, in *Proc. of International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP)*, Full Paper, 2018, pp. 431-446.  (**CCF Rank, EI**) (第一作者为指导的硕士生)
-3. Yiren Gu, **Hang Shen\***, Guangwei Bai, Tianjing Wang, et al. Incentivizing Multimedia Data Acquisition for Machine Learning System, in *Proc. of International Conference on Algorithm and Architectures for Parallel Processing (ICA3PP)*, Full Paper, 2018, pp. 142-158.  (**CCF Rank, EI**) (第一作者为指导的硕士生)
+2. Yujia Hu, **Hang Shen\***, Guangwei Bai and Tianjing Wang. Privacy-Preserving Task Allocation for Edge Computing Enhanced Mobile Crowdsensing, in *Proc. of International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP)*, Full Paper, 2018, pp. 431-446.  (**CCF Rank, EI**) 
+3. Yiren Gu, **Hang Shen\***, Guangwei Bai, Tianjing Wang, et al. Incentivizing Multimedia Data Acquisition for Machine Learning System, in *Proc. of International Conference on Algorithm and Architectures for Parallel Processing (ICA3PP)*, Full Paper, 2018, pp. 142-158.  (**CCF Rank, EI**)
 
 **C. Book Chapters**
 
