@@ -7,7 +7,7 @@ redirect_from:
   - /research.html
 ---
 
-1. Natural Science Foundation of Jiangsu Province under Grant No. BK20201357, 2020/07–2022/06, Intelligent Slicing for Drone-Small-Cell-Assisted Radio Access Networks, **Principal Investigator**.
+1. Natural Science Foundation of Jiangsu Province under Grant No. BK20201357, 2020/07–2023/06, Intelligent Slicing for Drone-Small-Cell-Assisted Radio Access Networks, **Principal Investigator**.
 2. The Six Talent Peaks Project in Jiangsu Province under Grant No. RJFW-020, 2019/07-2022/06, Privacy-Preserving Mechanism in Location-based Big Data Services, **Principal Investigator**.
 3. State Key Laboratory Program for Novel Software Technology under Grant No. KFKT2017B21, Location Privacy Preservation for Road Networks, 2017/07-2019/06, **Principal Investigator**. 
 4. National Engineering Research Center Program of Communications and Networking under Grant No.GCZX012, Privacy-Preserving Vehicular Communications, 2017/07-2019/06, **Principal Investigator**.
