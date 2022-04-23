@@ -71,9 +71,10 @@ redirect_from:
 
 **B. Conference articles (\* indicates the correspondence author)**
 
-1. **Hang Shen**, Jiajia Xu, Tianjing Wang and Guangwei Bai\*. [Detecting Link Correlation Spoofing Attack: A Beacon-Trap Approach](https://ieeexplore.ieee.org/document/8761835), in *Proc. of the 53rd IEEE International Conference on Communications (ICC)*,  Regular Paper, Shanghai, China, May 20-24, 2019.  
-2. Yujia Hu, **Hang Shen\***, Guangwei Bai and Tianjing Wang. Privacy-Preserving Task Allocation for Edge Computing Enhanced Mobile Crowdsensing, in *Proc. of International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP)*, Full Paper, 2018, pp. 431-446.  
-3. Yiren Gu, **Hang Shen\***, Guangwei Bai, Tianjing Wang, et al. Incentivizing Multimedia Data Acquisition for Machine Learning System, in *Proc. of International Conference on Algorithm and Architectures for Parallel Processing (ICA3PP)*, Full Paper, 2018, pp. 142-158.
+1. **Hang Shen**, Yilong Hen, Ning Shi, Tianjing Wang and Guangwei Bai\*. Drone-Small-Cell-Assisted Spectrum Management for 5G and Beyond Vehicular Networks, in *Proc. of the IEEE Symposium on Computers and Communications (ISCC)*,  Rhodes Island, Greece 30th June - 3rd July, 2022.  
+2. **Hang Shen**, Jiajia Xu, Tianjing Wang and Guangwei Bai\*. [Detecting Link Correlation Spoofing Attack: A Beacon-Trap Approach](https://ieeexplore.ieee.org/document/8761835), in *Proc. of the 53rd IEEE International Conference on Communications (ICC)*,  Regular Paper, Shanghai, China, May 20-24, 2019.  
+3. Yujia Hu, **Hang Shen\***, Guangwei Bai and Tianjing Wang. Privacy-Preserving Task Allocation for Edge Computing Enhanced Mobile Crowdsensing, in *Proc. of International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP)*, Full Paper, 2018, pp. 431-446.  
+4. Yiren Gu, **Hang Shen\***, Guangwei Bai, Tianjing Wang, et al. Incentivizing Multimedia Data Acquisition for Machine Learning System, in *Proc. of International Conference on Algorithm and Architectures for Parallel Processing (ICA3PP)*, Full Paper, 2018, pp. 142-158.
 
 **C. Book Chapters**
 
