@@ -22,7 +22,7 @@ redirect_from:
 
 **B. Conference articles (\* indicates the correspondence author)**
 
-1. **Hang Shen**, Yilong Hen, Ning Shi, Tianjing Wang\* and Guangwei Bai. Drone-Small-Cell-Assisted Spectrum Management for 5G and Beyond Vehicular Networks, in *Proc. of the 27th IEEE Symposium on Computers and Communications (ISCC)*,  Regular Paper, Rhodes Island, Greece, 30th June - 3rd July, 2022, pp. 1-8  (**CCF Rank) **[[Download paper](http://shen-hang.github.io/files/ISCC2022.pdf)]
+1. **Hang Shen**, Yilong Heng, Ning Shi, Tianjing Wang\* and Guangwei Bai. Drone-Small-Cell-Assisted Spectrum Management for 5G and Beyond Vehicular Networks, in *Proc. of the 27th IEEE Symposium on Computers and Communications (ISCC)*,  Regular Paper, Rhodes Island, Greece, 30th June - 3rd July, 2022, pp. 1-8  (**CCF Rank) **[[Download paper](http://shen-hang.github.io/files/ISCC2022.pdf)]
 2. **Hang Shen**, Jiajia Xu, Tianjing Wang and Guangwei Bai\*. [Detecting Link Correlation Spoofing Attack: A Beacon-Trap Approach](https://ieeexplore.ieee.org/document/8761835), in *Proc. of the 53rd IEEE International Conference on Communications (ICC)*,  Regular Paper, Shanghai, China, May 20-24, 2019, pp. 1-6   (**CCF Rank**) **[[Download paper](http://shen-hang.github.io/files/ICC2019.pdf)]** 
 
 **C. Book Chapters**
