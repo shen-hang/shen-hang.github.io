@@ -9,8 +9,8 @@ redirect_from:
 
 **A. Journal articles (\* indicates the correspondence author)**
 
-1. **Hang Shen**, Qiang Ye, Weihua Zhuang, Weisen Shi, Guangwei Bai, and Geng Yang. [Drone-Small-Cell-Assisted Resource Slicing for 5G Uplink Radio Access Networks](https://ieeexplore.ieee.org/document/9440683),  *IEEE Transactions on Vehicular Technology (TVT)*, 2021, 70(7), pp. 7071-7086. (**Top Journal in Telecom., SCI**) **[[Download paper](http://shen-hang.github.io/files/TVT2021.pdf)]** 
-2. **Hang Shen** and Guangwei Bai\*. [QoS-Guaranteed Wireless Broadcast Scheduling with Network Coding and Rate Adaptation](http://ieeexplore.ieee.org/abstract/document/8291004/), *IEEE Transactions on Vehicular Technology (TVT)*, 2018, 67(7), pp. 6492-6503. (**Top Journal in Telecom., SCI**) **[[Download paper](http://shen-hang.github.io/files/TVT2018.pdf)]** 
+1. **Hang Shen**, Qiang Ye, Weihua Zhuang, Weisen Shi, Guangwei Bai, and Geng Yang. [Drone-Small-Cell-Assisted Resource Slicing for 5G Uplink Radio Access Networks](https://ieeexplore.ieee.org/document/9440683),  *IEEE Transactions on Vehicular Technology (TVT)*, 2021, 70(7), pp. 7071-7086. (**Top Journal in Telecom., SCI**) **[[Download](http://shen-hang.github.io/files/TVT2021.pdf)]** 
+2. **Hang Shen** and Guangwei Bai\*. [QoS-Guaranteed Wireless Broadcast Scheduling with Network Coding and Rate Adaptation](http://ieeexplore.ieee.org/abstract/document/8291004/), *IEEE Transactions on Vehicular Technology (TVT)*, 2018, 67(7), pp. 6492-6503. (**Top Journal in Telecom., SCI**) **[[Download](http://shen-hang.github.io/files/TVT2018.pdf)]** 
 3. **Hang Shen**, Guangwei Bai\*, Yujia Hu and Tianjing Wang. [P2TA: Privacy-Preserving Task Allocation for Edge Computing Enhanced Mobile Crowdsensing](https://www.sciencedirect.com/science/article/pii/S138376211830451X), *Elsevier Journal of Systems Architecture (JSA)*, 97(2019), pp. 130-141. (**CCF Rank, SCI**)
 5. **Hang Shen**, Guangwei Bai\*, Junyuan Wang and Lu Zhao. [WGM: Wavelet-Based Gamma Model for Video Traffic in Wireless Multi-hop Networks](https://link.springer.com/article/10.1007/s11277-019-06289-y), *Springer Wireless Personal Communications (WPC)*, 2019, 107(1), pp. 565–587. (**SCI**)
 6. **Hang Shen**, Guangwei Bai\*, Mei Yang and Zhonghui Wang. [Protecting trajectory privacy: A user-centric analysis](https://www.sciencedirect.com/science/article/pii/S1084804517300413), *Elsevier Journal of Network and Computer Applications (JNCA)*, 82 (2017), pp. 128-139. (**CCF Rank, SCI**)
@@ -22,8 +22,8 @@ redirect_from:
 
 **B. Conference articles (\* indicates the correspondence author)**
 
-1. **Hang Shen**, Yilong Heng, Ning Shi, Tianjing Wang\* and Guangwei Bai. Drone-Small-Cell-Assisted Spectrum Management for 5G and Beyond Vehicular Networks, in *Proc. of the 27th IEEE Symposium on Computers and Communications (ISCC)*,  Regular Paper, Rhodes Island, Greece, 30th June - 3rd July, 2022, pp. 1-8  (**CCF Rank) **[[Download paper](http://shen-hang.github.io/files/ISCC2022.pdf)]
-2. **Hang Shen**, Jiajia Xu, Tianjing Wang and Guangwei Bai\*. [Detecting Link Correlation Spoofing Attack: A Beacon-Trap Approach](https://ieeexplore.ieee.org/document/8761835), in *Proc. of the 53rd IEEE International Conference on Communications (ICC)*,  Regular Paper, Shanghai, China, May 20-24, 2019, pp. 1-6   (**CCF Rank**) **[[Download paper](http://shen-hang.github.io/files/ICC2019.pdf)]** 
+1. **Hang Shen**, Yilong Heng, Ning Shi, Tianjing Wang\* and Guangwei Bai. Drone-Small-Cell-Assisted Spectrum Management for 5G and Beyond Vehicular Networks, in *Proc. of the 27th IEEE Symposium on Computers and Communications (ISCC)*,  Regular Paper, Rhodes Island, Greece, 30th June - 3rd July, 2022, pp. 1-8  (**CCF Rank**) **[[Download](http://shen-hang.github.io/files/ISCC2022.pdf)]**
+2. **Hang Shen**, Jiajia Xu, Tianjing Wang and Guangwei Bai\*. [Detecting Link Correlation Spoofing Attack: A Beacon-Trap Approach](https://ieeexplore.ieee.org/document/8761835), in *Proc. of the 53rd IEEE International Conference on Communications (ICC)*,  Regular Paper, Shanghai, China, May 20-24, 2019, pp. 1-6   (**CCF Rank**) **[[Download](http://shen-hang.github.io/files/ICC2019.pdf)]** 
 
 **C. Book Chapters**
 
