@@ -29,6 +29,7 @@ redirect_from:
 - Guest Editor,  Special Issue “Fog/Edge Networking for Multimedia Applications” in Peer-to-Peer Networking and Applications (2018-2019)
 - Reviewer for Journals
   - IEEE Transactions on Wireless Communications (TWC)
+  - IEEE Transactions on Intelligent Transportation Systems (TITS) 
   - IEEE Transactions on Vehicular Technology (TVT)
   - IEEE Systems Journal
   - ACM/Springer Wireless Networks (WINE)
