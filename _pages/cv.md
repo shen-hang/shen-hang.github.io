@@ -30,6 +30,8 @@ redirect_from:
   - Academic Editor, Mathematical Problems in Engineering (MPE) (2020-present)
   - Guest Editor,  Special Issue “Fog/Edge Networking for Multimedia Applications” in Peer-to-Peer Networking and Applications (2018-2019)
 - Reviewer for Journals
+  - IEEE Transactions on Wireless Communications (TWC)
+  - IEEE Transactions on Intelligent Transportation Systems (TITS) 
   - IEEE Transactions on Vehicular Technology (TVT)
   - IEEE Systems Journal
   - ACM/Springer Wireless Networks (WINE)
@@ -71,8 +73,8 @@ redirect_from:
 
 **B. Conference articles (\* indicates the correspondence author)**
 
-1. **Hang Shen**, Yilong Hen, Ning Shi, Tianjing Wang and Guangwei Bai\*. Drone-Small-Cell-Assisted Spectrum Management for 5G and Beyond Vehicular Networks, in *Proc. of the IEEE Symposium on Computers and Communications (ISCC)*,  Rhodes Island, Greece 30th June - 3rd July, 2022.  
-2. **Hang Shen**, Jiajia Xu, Tianjing Wang and Guangwei Bai\*. [Detecting Link Correlation Spoofing Attack: A Beacon-Trap Approach](https://ieeexplore.ieee.org/document/8761835), in *Proc. of the 53rd IEEE International Conference on Communications (ICC)*,  Regular Paper, Shanghai, China, May 20-24, 2019.  
+1. **Hang Shen**, Yilong Hen, Ning Shi, Tianjing Wang and Guangwei Bai\*. Drone-Small-Cell-Assisted Spectrum Management for 5G and Beyond Vehicular Networks, in *Proc. of the IEEE Symposium on Computers and Communications (ISCC)*,  Rhodes Island, Greece 30th June - 3rd July, 2022.  **[[Download](http://shen-hang.github.io/files/ISCC2022.pdf)]**
+2. **Hang Shen**, Jiajia Xu, Tianjing Wang and Guangwei Bai\*. [Detecting Link Correlation Spoofing Attack: A Beacon-Trap Approach](https://ieeexplore.ieee.org/document/8761835), in *Proc. of the 53rd IEEE International Conference on Communications (ICC)*,  Regular Paper, Shanghai, China, May 20-24, 2019.   **[[Download](http://shen-hang.github.io/files/ICC2019.pdf)]** 
 3. Yujia Hu, **Hang Shen\***, Guangwei Bai and Tianjing Wang. Privacy-Preserving Task Allocation for Edge Computing Enhanced Mobile Crowdsensing, in *Proc. of International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP)*, Full Paper, 2018, pp. 431-446.  
 4. Yiren Gu, **Hang Shen\***, Guangwei Bai, Tianjing Wang, et al. Incentivizing Multimedia Data Acquisition for Machine Learning System, in *Proc. of International Conference on Algorithm and Architectures for Parallel Processing (ICA3PP)*, Full Paper, 2018, pp. 142-158.
 
