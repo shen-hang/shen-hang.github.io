@@ -11,7 +11,7 @@ redirect_from:
 
 Computer Networks - Undergraduate course - Spring 2016, 2017, 2020, 2021, 2022
 
-(Course Work and Evaluation: 作业 (10%); 实验 (20%); Final Examination (70%) will have a 120-minute closed-book final examination (闭卷) by the end of this semester)
+Course Work and Evaluation: 作业 (10%); 实验 (20%); Final Examination (70%) will have a 120-minute closed-book final examination (闭卷) in English (全英文试卷) by the end of this semester.
 
 
 | Item                | Links & Description                                          |
