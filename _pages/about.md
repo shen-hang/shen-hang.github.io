@@ -14,7 +14,8 @@ redirect_from:
 
 # Recent Highlights
 
-- Apr. 2022:  Our paper has been accepted as a regular paper for presentation at the 2022 IEEE Symposium on Computers and Communications (ISCC)  (CCF Rank) ![avatar](https://shen-hang.github.io//images/new.jpg)
+- Jun. 2022: Congrats!!! 课题组童子源同学的论文“Joint Resource Optimization for NOMA Enhanced SVC Multicast in UAV-Assisted Radio Access Networks”被SCI期刊ETRI Journal录用 ![avatar](https://shen-hang.github.io//images/new.jpg)
+- Apr. 2022: Our paper has been accepted as a regular paper for presentation at the 2022 IEEE Symposium on Computers and Communications (ISCC)  (CCF Rank) ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jan. 2022: 东方航空-空铁一体化路由计算引擎v1.0(支持高并发和算力按需调度)开发完成([在线测试版入口](https://www.airrouter.top/#/)).![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jan. 2022: 东方航空联运网络优化(二期)项目--路由算法验证启动.![avatar](https://shen-hang.github.io//images/new.jpg)
 - Nov. 2021: 东方航空联运网络优化(一期)项目--空铁一体化动态路由计算引擎研发启动.![avatar](https://shen-hang.github.io//images/new.jpg)
