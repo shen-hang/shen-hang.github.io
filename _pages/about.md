@@ -8,18 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-<font size="3">2021年，我获得中国电力联合会科技创新二等奖1项、中国仪器仪表学会科技进步二等奖1项、国家发明专利授权12项，并以第一作者在国际权威期刊IEEE Transactions发表论文。欢迎各位同学加入课题组，欢迎联系！</font>
+<font size="3">2020年以来，我连续3年先后获得中国仪器仪表学会科技进步二等奖、中国电力联合会科技创新二等奖、中国特种设备检测协会科学技术二等奖，以第一作者在国际权威期刊IEEE Transactions发表论文，并指导学生以第一作者在Multimedia Systems等CCF推荐SCI期刊发表论文，欢迎各位同学加入课题组，欢迎联系！</font>
 
 ------
 
 # Recent Highlights
 
+- Nov. 2022:  沈航博士获得中国特种设备检测协会科学技术二等奖 (排名第三) ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jun. 2022: 课题组童子源同学的论文“Joint Resource Optimization for NOMA Enhanced SVC Multicast in UAV-Assisted Radio Access Networks”被SCI期刊ETRI Journal录用 ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Apr. 2022: Our paper has been accepted as a regular paper for presentation at the 2022 IEEE Symposium on Computers and Communications (ISCC)  (CCF Rank) ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jan. 2022: 东方航空-空铁一体化路由计算引擎v1.0(支持高并发和算力按需调度)开发完成([在线测试版入口](https://www.airrouter.top/#/)).![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jan. 2022: 东方航空联运网络优化(二期)项目--路由算法验证启动.![avatar](https://shen-hang.github.io//images/new.jpg)
 - Nov. 2021: 东方航空联运网络优化(一期)项目--空铁一体化动态路由计算引擎研发启动.![avatar](https://shen-hang.github.io//images/new.jpg)
-- Nov. 2021:  沈航博士的研究成果“基于网络切片的5G电力物联网关键技术研究及应用”获得中国电力联合会科技创新二等奖 (排名第三). ![avatar](https://shen-hang.github.io//images/new.jpg)
+- Nov. 2021:  沈航博士的成果“基于网络切片的5G电力物联网关键技术研究及应用”获得中国电力联合会科技创新二等奖 (排名第三). ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Aug. 2021: “大规模网络攻防关键技术研究”项目获得资助并启动.![avatar](https://shen-hang.github.io//images/new.jpg)
 - Aug. 2021: “网络安全态势感知与智能分析技术研究”项目获得资助并启动.![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jul. 2021:  课题组获得中国高校网络技术挑战赛华东区二等奖和三等奖各一项.![avatar](https://shen-hang.github.io//images/new.jpg)
