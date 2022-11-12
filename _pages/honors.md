@@ -9,6 +9,7 @@ redirect_from:
 
 | Year | **Description**                                              |
 | ---- | ------------------------------------------------------------ |
+| 2022 | 中国特种设备检测协会科学技术二等奖(排名第三)                 |
 | 2021 | 1. 中国电力联合会科技创新二等奖(排名第三)<br/>2. 江苏省计算机学会2020年度先进个人会员<br/>3. 当选中国计算机学会(CCF)传播大使 |
 | 2020 | 1. 中国仪器仪表学会科学技术进步二等奖(排名第五)<br/>2. 中国计算机学会(CCF)高级会员 <br/>3. Excellent Annual Assessment Winner in Nanjing Tech University |
 | 2019 | 1.“Talent in Six Peak Disciplines” of Jiangsu Province (江苏省“六大人才高峰“高层次人才计划)<br/>2. Innovation Talent Support Program of Nanjing Tech University (”南工英才“优秀青年科技创新人才计划) |
