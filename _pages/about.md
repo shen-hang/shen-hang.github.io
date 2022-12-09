@@ -28,7 +28,6 @@ redirect_from:
 - Jun. 2021: 沈航博士被江苏省计算机学会评为”2020年度先进个人会员“.![avatar](https://shen-hang.github.io//images/new.jpg)
 - May  2021: Dr. Hang Shen is invited to serve as a TPC member of the 18th Annual International Conference on Privacy, Security and Trust (PST2021).![avatar](https://shen-hang.github.io//images/new.jpg)
 - May  2021: Our paper has been accepted as a paper for publication in the IEEE Transactions on Vehicular Technology.![avatar](https://shen-hang.github.io//images/new.jpg)
-- Apr. 2021: Congrats!!! Graduate student Yibo Tian has been recommended by the Postgraduate Research & Practice Innovation Program of Jiangsu Province (RMB 15,000) in the year 2020 (硕士生田一博获得江苏省科研与实践创新计划项目立项).
 - Dec. 2020:  沈航博士获得中国仪器仪表学会科技进步二等奖(排名第五).
 - Sep. 2020:  Dr. Hang Shen has been elected as a senior member of China Computer Federation (CCF) (沈航博士当选中国计算机学会(CCF)高级会员).
 - Sep. 2020: 课题组获得中国高校网络技术挑战赛华东区三等奖.
@@ -36,7 +35,6 @@ redirect_from:
 - Jun. 2020: Dr. Hang Shen is invited to join the Editorial Board of  the Mathematical Problems in Engineering (SCI-Indexed).
 - Jun. 2020: Natural Science Foundation of Jiangsu Province has been approved to be funded form 2020/07-2022/06 (沈航博士获得江苏省自然科学基金面上项目立项).
 - Jun. 2020: Congrats!!! Graduate student Yiren Gu has been elected as the outstanding graduate M.S. student of NanjingTech  (硕士生顾伊人被评为南工优秀毕业研究生).
-- Apr. 2020: Congrats!!! Graduate student Yue Wang has been recommended by the Postgraduate Research & Practice Innovation Program of Jiangsu Province (RMB 15,000) in the year 2020 (硕士生汪悦获得江苏省科研与实践创新计划项目立项).
 - Nov. 2019: 沈航博士入选“南工英才”优秀青年科技创新人才计划
 - Nov. 2019: Congrats!! Graduate student Yiren Gu has been elected as National Scholarship Fellow (RMB 20,000) in the year 2019 (硕士生顾伊人获得国家奖学金).
 - Jun 2019: Dr. Hang Shen has been elected as “the Talent in Six Peak Disciplines” of Jiangsu Province, funded from 2019/07 to 2022/06 (沈航博士入选江苏省“六大人才高峰”高层次人才项目).
