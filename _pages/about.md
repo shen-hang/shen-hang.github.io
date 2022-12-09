@@ -14,9 +14,9 @@ redirect_from:
 
 # Recent Highlights
 
-- Nov. 2022:   Congrats!!! 课题组刘鑫同学的论文“Blockchain-Enabled Solution for Secure and Scalable V2V Video Content Dissemination”被CCF推荐SCI期刊《Peer-to-Peer Networking and Applications》录用 ![avatar](https://shen-hang.github.io//images/new.jpg)
+- Nov. 2022:   Congrats!!! 刘鑫同学的论文“Blockchain-Enabled Solution for Secure and Scalable V2V Video Content Dissemination”被CCF推荐SCI期刊《Peer-to-Peer Networking and Applications》录用 ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Nov. 2022:  沈航博士获得中国特种设备检测协会科学技术二等奖 (排名第三) ![avatar](https://shen-hang.github.io//images/new.jpg)
-- Jun. 2022:  Congrats!!! 课题组童子源同学的论文“Joint Resource Optimization for NOMA Enhanced SVC Multicast in UAV-Assisted Radio Access Networks”被SCI期刊《ETRI Journal》录用 ![avatar](https://shen-hang.github.io//images/new.jpg)
+- Jun. 2022:  Congrats!!! 童子源同学的论文“Joint Resource Optimization for NOMA Enhanced SVC Multicast in UAV-Assisted Radio Access Networks”被SCI期刊《ETRI Journal》录用 ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Apr. 2022: Our paper has been accepted as a regular paper for presentation at the 2022 IEEE Symposium on Computers and Communications (ISCC)  (CCF Rank) ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jan. 2022: 东方航空-空铁一体化路由计算引擎v1.0(支持高并发和算力按需调度)开发完成([在线测试版入口](https://www.airrouter.top/#/)).![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jan. 2022: 东方航空联运网络优化(二期)项目--路由算法验证启动.![avatar](https://shen-hang.github.io//images/new.jpg)
