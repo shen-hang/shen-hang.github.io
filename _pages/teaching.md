@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-Computer Networks - Undergraduate course - Spring 2016, 2017, 2020, 2021, 2022
+Computer Networks - Undergraduate course - Spring 2016-2018, 2020-2022
 
 Course Work and Evaluation: 作业 (10%); 实验 (20%); Final Examination (70%) will have a 120-minute closed-book final examination (闭卷) in English (全英文试卷) by the end of this semester.
 
@@ -60,7 +60,7 @@ Course Work and Evaluation: 作业 (10%); 实验 (20%); Final Examination (70%) 
 </details>
 
 ---
-Introduction to Internet of Things - Undergraduate course - Fall 2015-2017, Fall 2019-2021
+Introduction to Internet of Things - Undergraduate course - Fall 2015-2017, Fall 2019-2022
 
 | Item          | Links & Description                                          |
 | ------------- | ------------------------------------------------------------ |
