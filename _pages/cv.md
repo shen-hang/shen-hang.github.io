@@ -108,8 +108,8 @@ redirect_from:
 
 # Teaching
 * Undergraduate Course:
-  * Computer Networks (Spring 2016, 2017, 2018, 2020, 2021)
-  * Internet of Things (Fall 2015, Fall 2016, Fall 2017, Fall 2019)
+  * Computer Networks (Spring 2016-2018, 2020-2022)
+  * Introduction to Internet of Things (Fall 2015-2017, Fall 2019-2022)
   * Linux Programming (Spring 2015, Spring 2016, Spring 2017)
 * Graduate Course: 
   * Wireless Networks & Mobile Computing (Spring 2016, Spring 2017)
