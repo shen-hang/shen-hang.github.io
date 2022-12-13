@@ -38,6 +38,10 @@ redirect_from:
   - Elsevier Robotics and Autonomous Systems (RAS)
   - Elsevier Measurement (MEAS)
   - Springer Multimedia Tools and Applications (MTAP)
+  - Journal of Communications and Information Networks (JCIN)
+  - 通信学报
+  - 物联网学报
+  - 网络与信息安全学报
 - Reviewer for International Conferences
   - IEEE International Conference on Parallel and Distributed Systems (ICPADS)
   - IEEE International Conference on Communications (ICC)
@@ -62,14 +66,16 @@ redirect_from:
 
 1. **Hang Shen**, Qiang Ye, Weihua Zhuang, Weisen Shi, Guangwei Bai, and Geng Yang. [Drone-Small-Cell-Assisted Resource Slicing for 5G Uplink Radio Access Networks](https://ieeexplore.ieee.org/document/9440683),  *IEEE Transactions on Vehicular Technology (TVT)*, 2021, 70(7), pp. 7071-7086.  **[[Download paper](http://shen-hang.github.io/files/paper1.pdf)]** 
 2. **Hang Shen** and Guangwei Bai\*. [QoS-Guaranteed Wireless Broadcast Scheduling with Network Coding and Rate Adaptation](http://ieeexplore.ieee.org/abstract/document/8291004/), *IEEE Transactions on Vehicular Technology (TVT)*, 2018, 67(7), pp. 6492-6503.  **[[Download paper](http://shen-hang.github.io/files/paper2.pdf)]** 
-3. **Hang Shen**, Guangwei Bai\*, Yujia Hu and Tianjing Wang. [P2TA: Privacy-Preserving Task Allocation for Edge Computing Enhanced Mobile Crowdsensing](https://www.sciencedirect.com/science/article/pii/S138376211830451X), *Elsevier Journal of Systems Architecture (JSA)*, 97(2019), pp. 130-141. 
-4. **Hang Shen**, Guangwei Bai\*, Junyuan Wang and Lu Zhao. [WGM: Wavelet-Based Gamma Model for Video Traffic in Wireless Multi-hop Networks](https://link.springer.com/article/10.1007/s11277-019-06289-y), *Springer Wireless Personal Communications (WPC)*, 2019, 107(1), pp. 565–587. 
-5. **Hang Shen**, Guangwei Bai\*, Mei Yang and Zhonghui Wang. [Protecting trajectory privacy: A user-centric analysis](https://www.sciencedirect.com/science/article/pii/S1084804517300413), *Elsevier Journal of Network and Computer Applications (JNCA)*, 82 (2017), pp. 128-139. 
-6. **Hang Shen**, Guangwei Bai\*. [Routing in wireless multimedia sensor networks: A survey and challenges ahead](https://www.sciencedirect.com/science/article/pii/S1084804516301102), *Elsevier Journal of Network and Computer Applications (JNCA)*, 71 (2016), pp. 30-49. 
-7. **Hang Shen**, Guangwei Bai\*, Lu Zhao, Jinfeng Ge and Zhenmin Tang. [L2OR: Low-Cost Low-Complexity Opportunistic Routing for Wireless Sensor Networks](https://link.springer.com/article/10.1007/s11277-014-2214-0), *Springer Wireless Personal Communications  (WPC)*, 2015, 82(1), pp. 401-422. 
-8. Yiren Gu, **Hang Shen\***, Guangwei Bai, Tianjing Wang et al. [QoI-Aware Incentive for Multimedia Crowdsensing Enabled Learning System](https://link.springer.com/article/10.1007/s00530-019-00616-w), *Springer Multimedia Systems (MS)*, 2020, 26(1), pp. 3-16. 
-9. **Hang Shen**, Lingli Li, Tianjing Wang and Guangwei Bai\*. CDCS: Cluster-based Distributed Compressed Sensing to Facilitate QoS Routing in Cognitive Video Sensor Networks, *Entropy*, 2019, 21(4), 345, pp. 1-19. 
-10. **Hang Shen**, Guangwei Bai\*, Ding Ma and Zhenmin Tang. C2EM: Cloud-assisted Complex Event Monitoring in Wireless Multimedia Sensor Networks, *Springer EURASIP Journal on Wireless Communications and Networking (JWCN)*, 2015, Article No. 124, 13 pages.  
+3. **Hang Shen** , Xin Liu, Ning Shi, Tianjing Wang\* and Guangwei Bai, Blockchain-Enabled Solution for Secure and Scalable V2V Video Content Dissemination,  *Peer-to-Peer Networking and Applications (PPNA)*, 2022, DOI: 10.1007/s12083-022-01432-2.
+4. **Hang Shen**, Guangwei Bai\*, Yujia Hu and Tianjing Wang. [P2TA: Privacy-Preserving Task Allocation for Edge Computing Enhanced Mobile Crowdsensing](https://www.sciencedirect.com/science/article/pii/S138376211830451X), *Elsevier Journal of Systems Architecture (JSA)*, 97(2019), pp. 130-141. 
+5. Yiren Gu, **Hang Shen\***, Guangwei Bai, Tianjing Wang et al. [QoI-Aware Incentive for Multimedia Crowdsensing Enabled Learning System](https://link.springer.com/article/10.1007/s00530-019-00616-w), *Springer Multimedia Systems (MS)*, 2020, 26(1), pp. 3-16. 
+6. **Hang Shen**, Guangwei Bai\*, Junyuan Wang and Lu Zhao. [WGM: Wavelet-Based Gamma Model for Video Traffic in Wireless Multi-hop Networks](https://link.springer.com/article/10.1007/s11277-019-06289-y), *Springer Wireless Personal Communications (WPC)*, 2019, 107(1), pp. 565–587. 
+7. **Hang Shen**, Guangwei Bai\*, Mei Yang and Zhonghui Wang. [Protecting trajectory privacy: A user-centric analysis](https://www.sciencedirect.com/science/article/pii/S1084804517300413), *Elsevier Journal of Network and Computer Applications (JNCA)*, 82 (2017), pp. 128-139. 
+8. **Hang Shen**, Guangwei Bai\*. [Routing in wireless multimedia sensor networks: A survey and challenges ahead](https://www.sciencedirect.com/science/article/pii/S1084804516301102), *Elsevier Journal of Network and Computer Applications (JNCA)*, 71 (2016), pp. 30-49. 
+9. **Hang Shen**, Guangwei Bai\*, Lu Zhao, Jinfeng Ge and Zhenmin Tang. [L2OR: Low-Cost Low-Complexity Opportunistic Routing for Wireless Sensor Networks](https://link.springer.com/article/10.1007/s11277-014-2214-0), *Springer Wireless Personal Communications  (WPC)*, 2015, 82(1), pp. 401-422. 
+10. Ziyuan Tong, **Hang Shen\***, Ning Shi, Tianjing Wang, Guangwei Bai. [ Joint resource optimization for nonorthogonal multiple access-enhanced scalable video coding multicast in unmanned aerial vehicle-assisted radio-access networks](https://onlinelibrary.wiley.com/doi/10.4218/etrij.2022-0136), *Wiley ETRI Journal*, 2022, DOI: 10.4218/etrij.2022-0136.**[[Download](http://shen-hang.github.io/files/ETRI2022.pdf)]** 
+11. **Hang Shen**, Lingli Li, Tianjing Wang and Guangwei Bai\*. CDCS: Cluster-based Distributed Compressed Sensing to Facilitate QoS Routing in Cognitive Video Sensor Networks, *Entropy*, 2019, 21(4), 345, pp. 1-19. 
+12. **Hang Shen**, Guangwei Bai\*, Ding Ma and Zhenmin Tang. C2EM: Cloud-assisted Complex Event Monitoring in Wireless Multimedia Sensor Networks, *Springer EURASIP Journal on Wireless Communications and Networking (JWCN)*, 2015, Article No. 124, 13 pages.  
 
 **B. Conference articles (\* indicates the correspondence author)**
 
