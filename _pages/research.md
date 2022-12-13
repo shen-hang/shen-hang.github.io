@@ -50,7 +50,9 @@ redirect_from:
 - Member, IEEE Vehicular Technology Society (VTS) (2020-present)
 - Member, Association for Computing Machinery (ACM) (2015-present)
 - Executive Committee Member, ACM Nanjing Chapter (2014-present)
-- Member (2011-2020), Senior Member (2020-present), China Computer Federation (CCF) 
+- Member, China Computer Federation (CCF) (2011-2020)
+- Senior Member, CCF (2020-2022)
+- Member, Chinese Association for Artificial Intelligence (CAAI) (2022-present)
 - Technical Committee Member
   - CCF Network and Data Communications (TCCOMM) (2015-present)
   - 18th Annual International Conference on Privacy, Security and Trust (PST2021)
