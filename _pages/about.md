@@ -24,10 +24,10 @@ redirect_from:
 - Nov. 2021:  沈航博士的成果“基于网络切片的5G电力物联网关键技术研究及应用”获得中国电力联合会科技创新二等奖 (排名第三). ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Aug. 2021: “大规模网络攻防关键技术研究”项目获得资助并启动.![avatar](https://shen-hang.github.io//images/new.jpg)
 - Aug. 2021: “网络安全态势感知与智能分析技术研究”项目获得资助并启动.![avatar](https://shen-hang.github.io//images/new.jpg)
-- Jul. 2021:  课题组获得中国高校网络技术挑战赛华东区二等奖和三等奖各一项.![avatar](https://shen-hang.github.io//images/new.jpg)
-- Jun. 2021: 沈航博士被江苏省计算机学会评为”2020年度先进个人会员“.![avatar](https://shen-hang.github.io//images/new.jpg)
-- May  2021: Dr. Hang Shen is invited to serve as a TPC member of the 18th Annual International Conference on Privacy, Security and Trust (PST2021).![avatar](https://shen-hang.github.io//images/new.jpg)
-- May  2021: Our paper has been accepted as a paper for publication in the IEEE Transactions on Vehicular Technology.![avatar](https://shen-hang.github.io//images/new.jpg)
+- Jul. 2021:  课题组获得中国高校网络技术挑战赛华东区二等奖和三等奖各一项.
+- Jun. 2021: 沈航博士被江苏省计算机学会评为”2020年度先进个人会员“.
+- May  2021: Dr. Hang Shen is invited to serve as a TPC member of the 18th Annual International Conference on Privacy, Security and Trust (PST2021).
+- May  2021: Our paper has been accepted as a paper for publication in the IEEE Transactions on Vehicular Technology.
 - Dec. 2020:  沈航博士获得中国仪器仪表学会科技进步二等奖(排名第五).
 - Sep. 2020:  Dr. Hang Shen has been elected as a senior member of China Computer Federation (CCF) (沈航博士当选中国计算机学会(CCF)高级会员).
 - Sep. 2020: 课题组获得中国高校网络技术挑战赛华东区三等奖.
