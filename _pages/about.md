@@ -14,6 +14,7 @@ redirect_from:
 
 # Recent Highlights
 
+- Dec. 2022:  “领域知识图谱构建和应用系统研发”项目获得资助并启动. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Nov. 2022:   Congrats!!! 刘鑫同学的论文“Blockchain-Enabled Solution for Secure and Scalable V2V Video Content Dissemination”被CCF推荐SCI期刊《Peer-to-Peer Networking and Applications》录用 ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Nov. 2022:  沈航博士获得中国特种设备检测协会科学技术二等奖 (排名第三) ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jun. 2022:  Congrats!!! 童子源同学的论文“Joint Resource Optimization for NOMA Enhanced SVC Multicast in UAV-Assisted Radio Access Networks”被SCI期刊《ETRI Journal》录用 ![avatar](https://shen-hang.github.io//images/new.jpg)
