@@ -27,7 +27,7 @@ redirect_from:
 
 # Recent Highlights
 
-- Apr. 2023:  Congrats!!! 殷珉同学的论文“基于分层联邦学习的无人机小基站RAN切片方法”被《电子学报》(CCF推荐A类期刊)录用 ![avatar](https://shen-hang.github.io//images/new.jpg)
+- Apr. 2023:  Congrats!!! 殷珉同学的论文“基于分层联邦学习的无人机小基站RAN切片方法”被《电子学报》(CCF推荐中文A类期刊)录用 ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jan. 2023:  “领域知识图谱构建和应用系统研发”项目获得资助并启动. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Nov. 2022:   Congrats!!! 刘鑫同学的论文“Blockchain-Enabled Solution for Secure and Scalable V2V Video Content Dissemination”被CCF推荐SCI期刊《Peer-to-Peer Networking and Applications》录用 ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Nov. 2022:  沈航博士获得中国特种设备检测协会科学技术二等奖 (排名第三) ![avatar](https://shen-hang.github.io//images/new.jpg)
