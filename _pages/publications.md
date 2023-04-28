@@ -1,6 +1,6 @@
 ---
 permalink: /publications/
-title: "Publications (2015-Present)"
+title: "Selected Publications"
 author_profile: true
 redirect_from: 
   - /md/
