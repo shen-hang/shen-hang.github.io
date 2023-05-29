@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 
-
 # Recent Highlights
 
 - May. 2023:  Congrats!!! 童子源同学的硕士学位论文“无人机辅助的NOMA无线网络弹性视频多播机制研究”被答辩委员会评为优秀研究生论文 ![avatar](https://shen-hang.github.io//images/new.jpg)
