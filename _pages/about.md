@@ -17,7 +17,7 @@ redirect_from:
 - Nov. 2022:  沈航博士获得中国特种设备检测协会科学技术二等奖 (排名第三) ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jun. 2022:  Congrats!!! 童子源同学的论文“Joint Resource Optimization for NOMA Enhanced SVC Multicast in UAV-Assisted Radio Access Networks”被SCI期刊《ETRI Journal》录用 ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Apr. 2022: Congrats!!! 衡奕龙同学的论文“Drone-Small-Cell-Assisted Spectrum Management for 5G and Beyond Vehicular Networks”被CCF推荐国际会议IEEE Symposium on Computers and Communications (ISCC)以长文形式录用 ![avatar](https://shen-hang.github.io//images/new.jpg)
-- Jan. 2022: 东方航空-空铁一体化路由计算引擎v1.0(支持高并发和算力按需调度)开发完成([在线测试版入口].
+- Jan. 2022: 东方航空-空铁一体化路由计算引擎v1.0(支持高并发和算力按需调度)开发完成.
 - Jan. 2022: 东方航空联运网络优化(二期)项目--路由算法验证启动.
 - Nov. 2021: 东方航空联运网络优化(一期)项目--空铁一体化动态路由计算引擎研发启动.
 - Nov. 2021:  沈航博士的成果“基于网络切片的5G电力物联网关键技术研究及应用”获得中国电力联合会科技创新二等奖 (排名第三). 
