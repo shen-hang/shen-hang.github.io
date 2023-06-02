@@ -10,7 +10,7 @@ redirect_from:
 
 # Recent Highlights
 
-- Jun. 2023:  Congrats!!! 田一博同学的论文“Slicing-Based Task Offloading in Space-Air-Ground Integrated Vehicular Networks”被《IEEE Transactions on Mobile Computing》(**CCF推荐A类期刊**)录用 ![avatar](https://shen-hang.github.io//images/new.jpg)
+- May. 2023:  Congrats!!! 田一博同学的论文“Slicing-Based Task Offloading in Space-Air-Ground Integrated Vehicular Networks”被《IEEE Transactions on Mobile Computing》(**CCF推荐A类期刊**)录用 ![avatar](https://shen-hang.github.io//images/new.jpg)
 - May. 2023:  Congrats!!! 童子源同学的硕士学位论文“无人机辅助的NOMA无线网络弹性视频多播机制研究”被答辩委员会评为优秀研究生论文 ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Apr. 2023:  Congrats!!! 殷珉同学的论文“基于分层联邦学习的无人机小基站RAN切片方法”被《电子学报》(**CCF推荐中文A类期刊**)录用 ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jan. 2023:  “领域知识图谱构建和应用系统研发”项目获得资助并启动. ![avatar](https://shen-hang.github.io//images/new.jpg)
