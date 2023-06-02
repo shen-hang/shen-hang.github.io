@@ -41,9 +41,9 @@ redirect_from:
 - Jun. 2019: Congrats!!! 硕士生顾一鸣被评为南工优秀毕业研究生 (Graduate student Yiming Gu has been elected as the outstanding graduate M.S. student of NanjingTech).
 - Jun. 2019: Congrats!!! 硕士生李伶俐的学位论文被评为南工优秀硕士学位论文 (Graduate student Lingli Li's dissertation is awarded as outstanding master's thesis of NanjingTech). 
 - May 2019: 顾伊人同学的论文"QoI-Aware Incentive for Multimedia Crowdsensing Enabled Learning System"被SCI期刊《Multimedia Systems》(**CCF推荐国际期刊**)录用. 
-- May 2019: 徐佳佳同学在IEEE通信学会旗舰会议IEEE ICC报告研究工作(Graduate student Jiajia Xu participated in IEEE ICC on behalf of our research group).
+- May 2019: 徐佳佳同学在IEEE ICC报告研究工作(Graduate student Jiajia Xu participated in IEEE ICC on behalf of our research group).
 - Mar. 2019: My paper has been accepted for publication in the Springer Wireless Personal Communications (SCI).
-- Feb. 2019: My paper has been accepred as a regular paper at the 2019 IEEE International Conference on Communications (ICC) (**CCF推荐国际会议**).
+- Feb. 2019: 我们的论文“Detecting Link Correlation Spoofing Attack: A Beacon-Trap Approach”被IEEE通信学会旗舰会议IEEE International Conference on Communications (ICC)(**CCF推荐国际会议**)录用 (Our paper has been accepred as a regular paper at the 2019 IEEE International Conference on Communications (ICC)).
 - Feb. 2019: My manuscript “Urban Big Data” has been accepted by Springer Encyclopedia of Wireless Networks.
 - Jan. 2019: 我们的论文“P2TA: Privacy-Preserving Task Allocation for Edge Computing Enhanced Mobile Crowdsensing”被国际权威期刊《Journal of Systems Architecture》(**CCF推荐B类国际期刊**)录用 (My paper has been accepted for publication in the Elsevier Journal of Systems Architecture).
 - Dec. 2018: My manuscript “privacy game” has been accepted by Springer Encyclopedia of Wireless Networks.
@@ -51,7 +51,7 @@ redirect_from:
 - Jun. 2018: The Special Issue “Fog/Edge Networking for Multimedia Applications” we applied for is accepted in Springer Peer-to-Peer Networking and Applications (**CCF推荐国际期刊**).
 - Jul. 2018: 胡煜家同学的论文被CCF推荐国际会议以长文形式录用.
 - Jul. 2018: 顾伊人同学的论文被CCF推荐国际会议以长文形式录用.
-- May 2018: 沈航博士获得计算机科学与技术学院青年教师授课大赛一等奖
+- May 2018: 沈航博士获得计算机科学与技术学院青年教师授课大赛一等奖.
 
 ------
 
