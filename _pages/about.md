@@ -33,7 +33,7 @@ redirect_from:
 - Sep. 2020: 课题组获得中国高校网络技术挑战赛华东区三等奖.
 - Jul. 2020:  Dr. Hang Shen is invited to serve as an Associate Editor for IEEE Access (SCI-Indexed).
 - Jun. 2020: Dr. Hang Shen is invited to join the Editorial Board of  the Mathematical Problems in Engineering (SCI-Indexed).
-- Jun. 2020: Natural Science Foundation of Jiangsu Province has been approved to be funded form 2020/07-2022/06 (沈航博士获得江苏省自然科学基金面上项目立项).
+- Jun. 2020: 沈航博士获得江苏省自然科学基金面上项目立项 (Natural Science Foundation of Jiangsu Province has been approved to be funded form 2020/07-2023/06).
 - Jun. 2020: Congrats!!! Graduate student Yiren Gu has been elected as the outstanding graduate M.S. student of NanjingTech  (硕士生顾伊人被评为南工优秀毕业研究生).
 - Nov. 2019: 沈航博士入选“南工英才”优秀青年科技创新人才计划
 - Nov. 2019: Congrats!! Graduate student Yiren Gu has been elected as National Scholarship Fellow (RMB 20,000) in the year 2019 (硕士生顾伊人获得国家奖学金).
