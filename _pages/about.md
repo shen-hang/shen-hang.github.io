@@ -16,7 +16,7 @@ redirect_from:
 - Jan. 2023:  “领域知识图谱构建和应用系统研发”项目获得资助并启动. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Nov. 2022:   Congrats!!! 刘鑫同学的论文“Blockchain-Enabled Solution for Secure and Scalable V2V Video Content Dissemination”被SCI期刊《Peer-to-Peer Networking and Applications》录用(**CCF推荐国际期刊**) ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Nov. 2022:  沈航博士获得中国特种设备检测协会科学技术二等奖 (排名第三) ![avatar](https://shen-hang.github.io//images/new.jpg)
-- Jun. 2022: 朱唯周同学被评为
+- Jun. 2022: 朱唯周同学的论文“面向入侵检测的生成式对抗网络构建方法”被评为校优秀本科毕业论文. 
 - Jun. 2022:  Congrats!!! 童子源同学的论文“Joint Resource Optimization for NOMA Enhanced SVC Multicast in UAV-Assisted Radio Access Networks”被SCI期刊《ETRI Journal》录用 ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Apr. 2022: Congrats!!! 衡奕龙同学的论文“Drone-Small-Cell-Assisted Spectrum Management for 5G and Beyond Vehicular Networks”被IEEE Symposium on Computers and Communications (ISCC)(**CCF推荐国际会议**)以长文形式录用 ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jan. 2022: 东方航空-空铁一体化路由计算引擎v1.0(支持高并发和算力按需调度)开发完成.
