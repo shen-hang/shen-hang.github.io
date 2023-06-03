@@ -25,13 +25,14 @@ redirect_from:
 - Nov. 2021:  沈航博士的成果“基于网络切片的5G电力物联网关键技术研究及应用”获得**“中国电力联合会科技创新二等奖” (排名第三)**. 
 - Aug. 2021: “大规模网络攻防关键技术研究”项目获得资助并启动.
 - Aug. 2021: “网络安全态势感知与智能分析技术研究”项目获得资助并启动.
-- Jul. 2021:  课题组获得中国高校网络技术挑战赛华东区二等奖和三等奖各一项.
+- Jul. 2021:  阮辰晖、郭索眸、吴昕怡、童子源、吴赟寒、吉婷湘同学获获得中国高校网络技术挑战赛华东区二等奖.
+- Jul. 2021:  童子源、吴昕怡、阮辰晖、刘鑫、李玉阁、田一博同学获获得中国高校网络技术挑战赛华东区三等奖.
 - Jun. 2021: 沈航博士被江苏省计算机学会评为2020年度先进个人会员.
 - May  2021: Dr. Hang Shen is invited to serve as a TPC member of the 18th Annual International Conference on Privacy, Security and Trust (PST2021).
 - May  2021: 我们的论文“ Drone-Small-Cell-Assisted Resource Slicing for 5G Uplink Radio Access Networks”被国际权威期刊《IEEE Transactions on Vehicular Technology》 (**Top Journal in Telecom.**)录用.
 - Dec. 2020:  沈航博士获得**“中国仪器仪表学会科技进步二等奖”(排名第五)**.
 - Sep. 2020:  沈航博士当选中国计算机学会(CCF)高级会员 (Dr. Hang Shen has been elected as a senior member of China Computer Federation (CCF)).
-- Sep. 2020: 课题组获得中国高校网络技术挑战赛华东区三等奖.
+- Sep. 2020: 郭索眸、吴赟寒、唐昊、高志宇、纪洪运同学获得中国高校网络技术挑战赛华东区三等奖.
 - Jul. 2020:  Dr. Hang Shen is invited to serve as an Associate Editor for IEEE Access (SCI-Indexed).
 - Jun. 2020: Dr. Hang Shen is invited to join the Editorial Board of  the Mathematical Problems in Engineering (SCI-Indexed).
 - Jun. 2020: 沈航博士获得江苏省自然科学基金面上项目立项 (Natural Science Foundation of Jiangsu Province has been approved to be funded form 2020/07-2023/06).
