@@ -46,7 +46,7 @@ redirect_from:
 - Mar. 2019: My paper has been accepted for publication in the Springer Wireless Personal Communications (SCI).
 - Feb. 2019: 我们的论文“Detecting Link Correlation Spoofing Attack: A Beacon-Trap Approach”被IEEE International Conference on Communications (ICC)(**CCF推荐国际会议, IEEE通信学会旗舰会议**)录用.
 - Feb. 2019: My manuscript “Urban Big Data” has been accepted by Springer Encyclopedia of Wireless Networks.
-- Jan. 2019: 我们的论文“P2TA: Privacy-Preserving Task Allocation for Edge Computing Enhanced Mobile Crowdsensing”被国际权威期刊《Journal of Systems Architecture》(**CCF推荐国际期刊**)录用.
+- Jan. 2019: 我们的论文“P2TA: Privacy-Preserving Task Allocation for Edge Computing Enhanced Mobile Crowdsensing”被计算机体系结构领域国际权威期刊《Journal of Systems Architecture》(**CCF推荐国际期刊**)录用.
 - Dec. 2018: My manuscript “privacy game” has been accepted by Springer Encyclopedia of Wireless Networks.
 - Jul. 2018: 我们的论文“ QoS-Guaranteed Wireless Broadcast Scheduling with Network Coding and Rate Adaptation”被国际权威期刊《IEEE Transactions on Vehicular Technology》 (**Top Journal in Telecom.**)录用.
 - Jun. 2018: The Special Issue “Fog/Edge Networking for Multimedia Applications” we applied for is accepted in Springer Peer-to-Peer Networking and Applications (**CCF推荐国际期刊**).
