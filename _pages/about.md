@@ -44,7 +44,7 @@ redirect_from:
 - May 2019: 顾伊人同学的论文"QoI-Aware Incentive for Multimedia Crowdsensing Enabled Learning System"被SCI期刊《Multimedia Systems》(**CCF推荐国际期刊**)录用. 
 - May 2019: 徐佳佳同学在IEEE ICC报告研究工作(Graduate student Jiajia Xu participated in IEEE ICC on behalf of our research group).
 - Mar. 2019: My paper has been accepted for publication in the Springer Wireless Personal Communications (SCI).
-- Feb. 2019: 我们的论文“Detecting Link Correlation Spoofing Attack: A Beacon-Trap Approach”被IEEE通信学会旗舰会议IEEE International Conference on Communications (ICC)(**CCF推荐国际会议**)录用.
+- Feb. 2019: 我们的论文“Detecting Link Correlation Spoofing Attack: A Beacon-Trap Approach”被IEEE International Conference on Communications (ICC)(**CCF推荐国际会议, IEEE通信学会旗舰会议**)录用.
 - Feb. 2019: My manuscript “Urban Big Data” has been accepted by Springer Encyclopedia of Wireless Networks.
 - Jan. 2019: 我们的论文“P2TA: Privacy-Preserving Task Allocation for Edge Computing Enhanced Mobile Crowdsensing”被国际权威期刊《Journal of Systems Architecture》(**CCF推荐国际期刊**)录用.
 - Dec. 2018: My manuscript “privacy game” has been accepted by Springer Encyclopedia of Wireless Networks.
