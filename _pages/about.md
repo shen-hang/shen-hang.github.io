@@ -32,8 +32,8 @@ redirect_from:
 - Dec. 2020:  沈航博士获得**“中国仪器仪表学会科技进步二等奖”(排名第五)**.
 - Sep. 2020:  沈航博士当选中国计算机学会(CCF)高级会员.
 - Sep. 2020: 课题组同学获得中国高校网络技术挑战赛华东区三等奖.
-- Jul. 2020: 沈航博士受邀担任SCI期刊IEEE Access的副编辑(Associate Editor).
-- Jun. 2020: 沈航博士受邀担任SCI期刊Mathematical Problems in Engineering的编委(Academic Editor).
+- Jul. 2020: 沈航博士受邀担任SCI期刊《IEEE Access》的副编辑(Associate Editor).
+- Jun. 2020: 沈航博士受邀担任SCI期刊《Mathematical Problems in Engineering》的编委(Academic Editor).
 - Jun. 2020: 沈航博士获得江苏省自然科学基金面上项目立项.
 - Jun. 2020: Congrats!!! 顾伊人同学被评为南工优秀毕业研究生.
 - Nov. 2019: 沈航博士入选“南工英才”优秀青年科技创新人才计划.
