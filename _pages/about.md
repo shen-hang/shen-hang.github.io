@@ -25,23 +25,22 @@ redirect_from:
 - Nov. 2021:  沈航博士的成果“基于网络切片的5G电力物联网关键技术研究及应用”获得**“中国电力联合会科技创新二等奖” (排名第三)**. 
 - Aug. 2021: “大规模网络攻防关键技术研究”项目获得资助并启动.
 - Aug. 2021: “网络安全态势感知与智能分析技术研究”项目获得资助并启动.
-- Jul. 2021:  阮辰晖、郭索眸、吴昕怡、童子源、吴赟寒、吉婷湘同学获获得中国高校网络技术挑战赛华东区二等奖.
-- Jul. 2021:  童子源、吴昕怡、阮辰晖、刘鑫、李玉阁、田一博同学获获得中国高校网络技术挑战赛华东区三等奖.
+- Jul. 2021:  课题组同学获得中国高校网络技术挑战赛华东区二等奖和三等奖各1项.
 - Jun. 2021: 沈航博士被江苏省计算机学会评为2020年度先进个人会员.
 - May  2021: Dr. Hang Shen is invited to serve as a TPC member of the 18th Annual International Conference on Privacy, Security and Trust (PST2021).
-- May  2021: 我们的论文“ Drone-Small-Cell-Assisted Resource Slicing for 5G Uplink Radio Access Networks”被国际权威期刊《IEEE Transactions on Vehicular Technology》 (**Top Journal in Telecom.**)录用.
+- May  2021: 我们的论文“ Drone-Small-Cell-Assisted Resource Slicing for 5G Uplink Radio Access Networks”被国际权威期刊《IEEE Transactions on Vehicular Technology》 (**Top Journal in Telecom.**)以长文形式录用.
 - Dec. 2020:  沈航博士获得**“中国仪器仪表学会科技进步二等奖”(排名第五)**.
-- Sep. 2020:  沈航博士当选中国计算机学会(CCF)高级会员 (Dr. Hang Shen has been elected as a senior member of China Computer Federation (CCF)).
-- Sep. 2020: 郭索眸、吴赟寒、唐昊、高志宇、纪洪运同学获得中国高校网络技术挑战赛华东区三等奖.
-- Jul. 2020:  Dr. Hang Shen is invited to serve as an Associate Editor for IEEE Access (SCI-Indexed).
-- Jun. 2020: Dr. Hang Shen is invited to join the Editorial Board of  the Mathematical Problems in Engineering (SCI-Indexed).
-- Jun. 2020: 沈航博士获得江苏省自然科学基金面上项目立项 (Natural Science Foundation of Jiangsu Province has been approved to be funded form 2020/07-2023/06).
-- Jun. 2020: Congrats!!! 顾伊人同学被评为南工优秀毕业研究生 (Graduate student Yiren Gu has been elected as the outstanding graduate M.S. student of NanjingTech).
+- Sep. 2020:  沈航博士当选中国计算机学会(CCF)高级会员.
+- Sep. 2020: 课题组同学获得中国高校网络技术挑战赛华东区三等奖.
+- Jul. 2020: 沈航博士受邀担任SCI期刊IEEE Access的副编辑(Associate Editor).
+- Jun. 2020: 沈航博士受邀担任SCI期刊Mathematical Problems in Engineering的编委(Academic Editor).
+- Jun. 2020: 沈航博士获得江苏省自然科学基金面上项目立项.
+- Jun. 2020: Congrats!!! 顾伊人同学被评为南工优秀毕业研究生.
 - Nov. 2019: 沈航博士入选“南工英才”优秀青年科技创新人才计划.
-- Nov. 2019: Congrats!! Graduate student Yiren Gu has been elected as National Scholarship Fellow (RMB 20,000) in the year 2019 (顾伊人获得国家奖学金).
+- Nov. 2019: Congrats!! 顾伊人同学获得国家奖学金.
 - Jun 2019: 沈航博士入选江苏省“六大人才高峰”高层次人才计划.
-- Jun. 2019: Congrats!!! 顾一鸣同学被评为南工优秀毕业研究生 (Graduate student Yiming Gu has been elected as the outstanding graduate M.S. student of NanjingTech).
-- Jun. 2019: Congrats!!! 李伶俐的同学学位论文被评为南工优秀硕士学位论文 (Graduate student Lingli Li's dissertation is awarded as outstanding master's thesis of NanjingTech). 
+- Jun. 2019: Congrats!!! 顾一鸣同学被评为南工优秀毕业研究生.
+- Jun. 2019: Congrats!!! 李伶俐的同学学位论文被评为南工优秀硕士学位论文. 
 - May 2019: 顾伊人同学的论文"QoI-Aware Incentive for Multimedia Crowdsensing Enabled Learning System"被SCI期刊《Multimedia Systems》(**CCF推荐国际期刊**)录用. 
 - May 2019: 徐佳佳同学在IEEE ICC报告研究工作(Graduate student Jiajia Xu participated in IEEE ICC on behalf of our research group).
 - Mar. 2019: My paper has been accepted for publication in the Springer Wireless Personal Communications (SCI).
@@ -49,7 +48,7 @@ redirect_from:
 - Feb. 2019: My manuscript “Urban Big Data” has been accepted by Springer Encyclopedia of Wireless Networks.
 - Jan. 2019: 我们的论文“P2TA: Privacy-Preserving Task Allocation for Edge Computing Enhanced Mobile Crowdsensing”被计算机体系结构领域国际权威期刊《Journal of Systems Architecture》(**CCF推荐国际期刊**)录用.
 - Dec. 2018: My manuscript “privacy game” has been accepted by Springer Encyclopedia of Wireless Networks.
-- Jul. 2018: 我们的论文“ QoS-Guaranteed Wireless Broadcast Scheduling with Network Coding and Rate Adaptation”被国际权威期刊《IEEE Transactions on Vehicular Technology》 (**Top Journal in Telecom.**)录用.
+- Jul. 2018: 我们的论文“ QoS-Guaranteed Wireless Broadcast Scheduling with Network Coding and Rate Adaptation”被国际权威期刊《IEEE Transactions on Vehicular Technology》 (**Top Journal in Telecom.**)以长文形式录用.
 - Jun. 2018: The Special Issue “Fog/Edge Networking for Multimedia Applications” we applied for is accepted in Springer Peer-to-Peer Networking and Applications (**CCF推荐国际期刊**).
 - Jul. 2018: 胡煜家同学的论文被CCF推荐国际会议以长文形式录用.
 - Jul. 2018: 顾伊人同学的论文被CCF推荐国际会议以长文形式录用.
