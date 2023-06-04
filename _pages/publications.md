@@ -9,7 +9,7 @@ redirect_from:
 
 **A. Journal articles (\* indicates the correspondence author)**
 1. 殷珉, **沈航\***, 王天荆, 白光伟. 基于分层联邦学习的无人机小基站RAN切片方法, *电子学报*, 2023, DOI:10.12263/DZXB.C221083 (**CCF推荐A类中文期刊**). 
-2. **Hang Shen**, Yibo Tian, Tianjing Wang, and Guangwei Bai. Slicing-Based Task Offloading in Space-Air-Ground Integrated Vehicular Networks, *IEEE Transactions on Mobile Computing*, 2023, Accept as regular paper. (**CCF推荐A类国际期刊**)
+2. **Hang Shen\***, Yibo Tian, Tianjing Wang, and Guangwei Bai. Slicing-Based Task Offloading in Space-Air-Ground Integrated Vehicular Networks, *IEEE Transactions on Mobile Computing*, 2023, Accept as regular paper. (**CCF推荐A类国际期刊**)
 3. **Hang Shen**, Qiang Ye\*, Weihua Zhuang, Weisen Shi, Guangwei Bai, and Geng Yang. [Drone-Small-Cell-Assisted Resource Slicing for 5G Uplink Radio Access Networks](https://ieeexplore.ieee.org/document/9440683),  *IEEE Transactions on Vehicular Technology (TVT)*, 2021, 70(7), pp. 7071-7086. (**Top Journal in Telecom., SCI**) **[[Download](http://shen-hang.github.io/files/TVT2021.pdf)]** 
 4. **Hang Shen** and Guangwei Bai\*. [QoS-Guaranteed Wireless Broadcast Scheduling with Network Coding and Rate Adaptation](http://ieeexplore.ieee.org/abstract/document/8291004/), *IEEE Transactions on Vehicular Technology (TVT)*, 2018, 67(7), pp. 6492-6503. (**Top Journal in Telecom., SCI**) **[[Download](http://shen-hang.github.io/files/TVT2018.pdf)]** 
 5. **Hang Shen** , Xin Liu, Ning Shi, Tianjing Wang* and Guangwei Bai, [Blockchain-Enabled Solution for Secure and Scalable V2V Video Content Dissemination](https://link.springer.com/article/10.1007/s12083-022-01432-2), *Peer-to-Peer Networking and Applications (PPNA)*, 2022. (**CCF Rank, SCI**)  **[[Download](http://shen-hang.github.io/files/PPNA2022.pdf)]**
