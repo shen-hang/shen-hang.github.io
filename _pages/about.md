@@ -42,9 +42,9 @@ redirect_from:
 - Jun. 2019: Congrats!!! 顾一鸣同学被评为南工优秀毕业研究生.
 - Jun. 2019: Congrats!!! 李伶俐的同学学位论文被评为南工优秀硕士学位论文. 
 - May 2019: 顾伊人同学的论文"QoI-Aware Incentive for Multimedia Crowdsensing Enabled Learning System"被SCI期刊《Multimedia Systems》(**CCF推荐国际期刊**)录用. 
-- May 2019: 徐佳佳同学在IEEE International Conference on Communications (ICC)报告研究工作.
+- May 2019: 徐佳佳同学在IEEE通信学会旗舰会议IEEE ICC报告研究工作.
 - Mar. 2019: 我们的论文被SCI期刊《Wireless Personal Communications》录用.
-- Feb. 2019: 我们的论文被IEEE International Conference on Communications (ICC)(**CCF推荐国际会议, IEEE通信学会旗舰会议**)录用.
+- Feb. 2019: 我们的论文被IEEE International Conference on Communications (ICC)(**CCF推荐国际会议**)录用.
 - Feb. 2019: 我们的稿件 “Urban Big Data” 被《Encyclopedia of Wireless Networks》采用.
 - Jan. 2019: 我们的论文“P2TA: Privacy-Preserving Task Allocation for Edge Computing Enhanced Mobile Crowdsensing”被计算机体系结构领域国际权威期刊《Journal of Systems Architecture》(**CCF推荐国际期刊**)录用.
 - Dec. 2018: 我们的稿件 “privacy game” 被《Encyclopedia of Wireless Networks》采用.
