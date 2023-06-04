@@ -28,7 +28,7 @@ redirect_from:
 - Jul. 2021:  课题组同学获得中国高校网络技术挑战赛华东区二等奖和三等奖各1项.
 - Jun. 2021: 沈航博士被江苏省计算机学会评为2020年度先进个人会员.
 - May  2021: Dr. Hang Shen is invited to serve as a TPC member of the 18th Annual International Conference on Privacy, Security and Trust (PST2021).
-- May  2021: 我们的论文“ Drone-Small-Cell-Assisted Resource Slicing for 5G Uplink Radio Access Networks”被国际权威期刊《IEEE Transactions on Vehicular Technology》以长文形式录用.
+- May  2021: 我们的论文“ Drone-Small-Cell-Assisted Resource Slicing for 5G Uplink Radio Access Networks”被国际权威期刊《IEEE Transactions on Vehicular Technology》录用.
 - Dec. 2020:  沈航博士获得**“中国仪器仪表学会科技进步二等奖”(排名第五)**.
 - Sep. 2020:  沈航博士当选中国计算机学会(CCF)高级会员.
 - Sep. 2020: 课题组同学获得中国高校网络技术挑战赛华东区三等奖.
@@ -48,7 +48,7 @@ redirect_from:
 - Feb. 2019: 我们的稿件 “Urban Big Data” 被《Encyclopedia of Wireless Networks》采用.
 - Jan. 2019: 我们的论文“P2TA: Privacy-Preserving Task Allocation for Edge Computing Enhanced Mobile Crowdsensing”被计算机体系结构领域国际权威期刊《Journal of Systems Architecture》(**CCF推荐国际期刊**)录用.
 - Dec. 2018: 我们的稿件 “privacy game” 被《Encyclopedia of Wireless Networks》采用.
-- Jul. 2018: 我们的论文“ QoS-Guaranteed Wireless Broadcast Scheduling with Network Coding and Rate Adaptation”被国际权威期刊《IEEE Transactions on Vehicular Technology》以长文形式录用.
+- Jul. 2018: 我们的论文“ QoS-Guaranteed Wireless Broadcast Scheduling with Network Coding and Rate Adaptation”被国际权威期刊《IEEE Transactions on Vehicular Technology》录用.
 - Jun. 2018: The Special Issue “Fog/Edge Networking for Multimedia Applications” we applied for is accepted in Springer Peer-to-Peer Networking and Applications (**CCF推荐国际期刊**).
 - Jul. 2018: 胡煜家同学的论文被CCF推荐国际会议以长文形式录用.
 - Jul. 2018: 顾伊人同学的论文被CCF推荐国际会议以长文形式录用.
