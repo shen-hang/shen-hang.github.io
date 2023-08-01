@@ -44,12 +44,12 @@ redirect_from:
 - May 2019: 顾伊人同学的论文"QoI-Aware Incentive for Multimedia Crowdsensing Enabled Learning System"被SCI期刊《Multimedia Systems》(**CCF推荐国际期刊**)录用. 
 - May 2019: 徐佳佳同学在IEEE通信学会旗舰会议IEEE ICC报告研究工作.
 - Mar. 2019: 我们的论文被SCI期刊《Wireless Personal Communications》录用.
-- Feb. 2019: 我们的论文被IEEE ICC(**CCF推荐国际会议**)录用.
+- Feb. 2019: 我们的论文被IEEE ICC(CCF推荐国际会议)录用.
 - Feb. 2019: 我们的稿件 “Urban Big Data” 被《Encyclopedia of Wireless Networks》采用.
-- Jan. 2019: 我们的论文“P2TA: Privacy-Preserving Task Allocation for Edge Computing Enhanced Mobile Crowdsensing”被计算机体系结构领域国际权威期刊《Journal of Systems Architecture》(**CCF推荐国际期刊**)录用.
+- Jan. 2019: 我们的论文“P2TA: Privacy-Preserving Task Allocation for Edge Computing Enhanced Mobile Crowdsensing”被计算机体系结构领域国际权威期刊《Journal of Systems Architecture》(CCF推荐国际期刊)录用.
 - Dec. 2018: 我们的稿件 “privacy game” 被《Encyclopedia of Wireless Networks》采用.
 - Jul. 2018: 我们的论文“ QoS-Guaranteed Wireless Broadcast Scheduling with Network Coding and Rate Adaptation”被国际权威期刊《IEEE Transactions on Vehicular Technology》录用.
-- Jun. 2018: The Special Issue “Fog/Edge Networking for Multimedia Applications” we applied for is accepted in Springer Peer-to-Peer Networking and Applications (**CCF推荐国际期刊**).
+- Jun. 2018: The Special Issue “Fog/Edge Networking for Multimedia Applications” we applied for is accepted in Springer Peer-to-Peer Networking and Applications (CCF推荐国际期刊).
 - Jul. 2018: 胡煜家同学的论文被CCF推荐国际会议以长文形式录用.
 - Jul. 2018: 顾伊人同学的论文被CCF推荐国际会议以长文形式录用.
 - May 2018: 沈航博士获得计算机科学与技术学院青年教师授课大赛一等奖.
