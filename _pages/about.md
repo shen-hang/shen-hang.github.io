@@ -41,7 +41,7 @@ redirect_from:
 - Jun 2019: 沈航博士入选江苏省“六大人才高峰”高层次人才计划.
 - Jun. 2019: Congrats!!! 顾一鸣同学被评为南工优秀毕业研究生.
 - Jun. 2019: Congrats!!! 李伶俐的同学学位论文被评为南工优秀硕士学位论文. 
-- May 2019: 顾伊人同学的论文"QoI-Aware Incentive for Multimedia Crowdsensing Enabled Learning System"被SCI期刊《Multimedia Systems》(**CCF推荐国际期刊**)录用. 
+- May 2019: 顾伊人同学的论文"QoI-Aware Incentive for Multimedia Crowdsensing Enabled Learning System"被SCI期刊《Multimedia Systems》(CCF推荐国际期刊)录用. 
 - May 2019: 徐佳佳同学在IEEE通信学会旗舰会议IEEE ICC报告研究工作.
 - Mar. 2019: 我们的论文被SCI期刊《Wireless Personal Communications》录用.
 - Feb. 2019: 我们的论文被IEEE ICC(CCF推荐国际会议)录用.
