@@ -14,7 +14,7 @@ redirect_from:
 - May. 2023:  Congrats!!! 童子源同学的硕士学位论文“无人机辅助的NOMA无线网络弹性视频多播机制研究”被答辩委员会评为“**优秀研究生论文**”. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Apr. 2023:  Congrats!!! 殷珉同学的论文“基于分层联邦学习的无人机小基站RAN切片方法”被电子信息领域中文权威期刊《电子学报》(**CCF推荐A类中文期刊**)录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jan. 2023:  “领域知识图谱构建和应用系统研发”项目获得资助并启动. ![avatar](https://shen-hang.github.io//images/new.jpg)
-- Nov. 2022:  Congrats!!! 刘鑫同学的论文“Blockchain-Enabled Solution for Secure and Scalable V2V Video Content Dissemination”被SCI期刊《Peer-to-Peer Networking and Applications》(**CCF推荐国际期刊**)录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
+- Nov. 2022:  Congrats!!! 刘鑫同学的论文“Blockchain-Enabled Solution for Secure and Scalable V2V Video Content Dissemination”被SCI期刊《Peer-to-Peer Networking and Applications》(CCF推荐国际期刊)录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Nov. 2022: 沈航博士获得**“中国特种设备检测协会科学技术二等奖” (排名第三)**. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jun. 2022: 朱唯周同学的毕设论文“面向入侵检测的生成式对抗网络构建方法”被评为校“**优秀本科毕业论文**”. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jun. 2022:  Congrats!!! 童子源同学的论文“Joint Resource Optimization for NOMA Enhanced SVC Multicast in UAV-Assisted Radio Access Networks”被SCI期刊《ETRI Journal》录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
