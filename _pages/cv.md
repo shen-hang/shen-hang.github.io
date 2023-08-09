@@ -40,7 +40,7 @@ redirect_from:
   - Elsevier Measurement (MEAS)
   - Springer Multimedia Tools and Applications (MTAP)
   - Journal of Communications and Information Networks (JCIN)
-  - Wireless Communications and Mobile Computing (WCMC)
+  - Knowledge-Based Systems (KBS)
   - 通信学报
   - 物联网学报
   - 网络与信息安全学报
