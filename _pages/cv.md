@@ -35,6 +35,7 @@ redirect_from:
   - IEEE Transactions on Intelligent Transportation Systems (TITS) 
   - IEEE Transactions on Vehicular Technology (TVT)
   - IEEE Systems Journal
+  - IEEE Communications Letters
   - ACM/Springer Wireless Networks (WINE)
   - Elsevier Robotics and Autonomous Systems (RAS)
   - Elsevier Measurement (MEAS)
