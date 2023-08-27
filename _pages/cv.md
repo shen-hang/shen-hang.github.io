@@ -69,8 +69,8 @@ redirect_from:
 **A. Journal articles (\* indicates the correspondence author)**
 
 1. **Hang Shen\***, Yibo Tian, Tianjing Wang, and Guangwei Bai. [Slicing-Based Task Offloading in Space-Air-Ground Integrated Vehicular Networks](https://ieeexplore.ieee.org/document/10145842), *IEEE Transactions on Mobile Computing (TMC)*, 2023, DOI: 10.1109/TMC.2023.3283852. 
-2. **Hang Shen**, Qiang Ye, Weihua Zhuang, Weisen Shi, Guangwei Bai, and Geng Yang. [Drone-Small-Cell-Assisted Resource Slicing for 5G Uplink Radio Access Networks](https://ieeexplore.ieee.org/document/9440683),  *IEEE Transactions on Vehicular Technology (TVT)*, 2021, 70(7), pp. 7071-7086.  **[[Download paper](http://shen-hang.github.io/files/paper1.pdf)]** 
-3. **Hang Shen** and Guangwei Bai\*. [QoS-Guaranteed Wireless Broadcast Scheduling with Network Coding and Rate Adaptation](http://ieeexplore.ieee.org/abstract/document/8291004/), *IEEE Transactions on Vehicular Technology (TVT)*, 2018, 67(7), pp. 6492-6503.  **[[Download paper](http://shen-hang.github.io/files/paper2.pdf)]** 
+2. **Hang Shen**, Qiang Ye, Weihua Zhuang, Weisen Shi, Guangwei Bai, and Geng Yang. [Drone-Small-Cell-Assisted Resource Slicing for 5G Uplink Radio Access Networks](https://ieeexplore.ieee.org/document/9440683),  *IEEE Transactions on Vehicular Technology (TVT)*, 2021, 70(7), pp. 7071-7086.  **[[Download](http://shen-hang.github.io/files/paper1.pdf)]** 
+3. **Hang Shen** and Guangwei Bai\*. [QoS-Guaranteed Wireless Broadcast Scheduling with Network Coding and Rate Adaptation](http://ieeexplore.ieee.org/abstract/document/8291004/), *IEEE Transactions on Vehicular Technology (TVT)*, 2018, 67(7), pp. 6492-6503.  **[[Download](http://shen-hang.github.io/files/paper2.pdf)]** 
 4. **Hang Shen** , Xin Liu, Ning Shi, Tianjing Wang* and Guangwei Bai, [Blockchain-Enabled Solution for Secure and Scalable V2V Video Content Dissemination](https://link.springer.com/article/10.1007/s12083-022-01432-2), *Peer-to-Peer Networking and Applications (PPNA)*, 2022.  **[[Download](http://shen-hang.github.io/files/PPNA2022.pdf)]**
 5. **Hang Shen**, Guangwei Bai\*, Yujia Hu and Tianjing Wang. [P2TA: Privacy-Preserving Task Allocation for Edge Computing Enhanced Mobile Crowdsensing](https://www.sciencedirect.com/science/article/pii/S138376211830451X), *Elsevier Journal of Systems Architecture (JSA)*, 97(2019), pp. 130-141. 
 6. Yiren Gu, **Hang Shen\***, Guangwei Bai, Tianjing Wang et al. [QoI-Aware Incentive for Multimedia Crowdsensing Enabled Learning System](https://link.springer.com/article/10.1007/s00530-019-00616-w), *Multimedia Systems*, 2020, 26(1), pp. 3-16. 
@@ -111,10 +111,11 @@ redirect_from:
 
 # Teaching
 * Undergraduate Course:
-  * Computer Networks (Spring 2016-2018, 2020-2022)
-  * Introduction to Internet of Things (Fall 2015-2017, Fall 2019-2022)
+  * Computer Networks (Spring 2016-2018, 2020-2023)
+  * Introduction to Internet of Things (Fall 2015-2017, Fall 2019-2023)
   * Linux Programming (Spring 2015, Spring 2016, Spring 2017)
 * Graduate Course: 
+  * Advanced Computer Networks (Spring 2023)
   * Wireless Networks & Mobile Computing (Spring 2016, Spring 2017)
 
 ![Visitor Count](https://profile-counter.glitch.me/shen-hang/count.svg)
