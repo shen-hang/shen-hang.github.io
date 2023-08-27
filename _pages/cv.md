@@ -77,8 +77,12 @@ redirect_from:
 7. **Hang Shen**, Guangwei Bai\*, Junyuan Wang and Lu Zhao. [WGM: Wavelet-Based Gamma Model for Video Traffic in Wireless Multi-hop Networks](https://link.springer.com/article/10.1007/s11277-019-06289-y), *Wireless Personal Communications (WPC)*, 2019, 107(1), pp. 565–587. 
 8. **Hang Shen**, Guangwei Bai\*, Mei Yang and Zhonghui Wang. [Protecting trajectory privacy: A user-centric analysis](https://www.sciencedirect.com/science/article/pii/S1084804517300413), *Elsevier Journal of Network and Computer Applications (JNCA)*, 82 (2017), pp. 128-139. 
 9. **Hang Shen**, Guangwei Bai\*. [Routing in wireless multimedia sensor networks: A survey and challenges ahead](https://www.sciencedirect.com/science/article/pii/S1084804516301102), *Elsevier Journal of Network and Computer Applications (JNCA)*, 71 (2016), pp. 30-49. 
-10. **Hang Shen**, Guangwei Bai\*, Lu Zhao, Jinfeng Ge and Zhenmin Tang. [L2OR: Low-Cost Low-Complexity Opportunistic Routing for Wireless Sensor Networks](https://link.springer.com/article/10.1007/s11277-014-2214-0), *Wireless Personal Communications  (WPC)*, 2015, 82(1), pp. 401-422. 
-11. Ziyuan Tong, **Hang Shen\***, Ning Shi, Tianjing Wang, Guangwei Bai. [ Joint resource optimization for nonorthogonal multiple access-enhanced scalable video coding multicast in unmanned aerial vehicle-assisted radio-access networks](https://onlinelibrary.wiley.com/doi/10.4218/etrij.2022-0136), *Wiley ETRI Journal*, 2022, DOI: 10.4218/etrij.2022-0136.**[[Download](http://shen-hang.github.io/files/ETRI2022.pdf)]** 
+10. Ziyuan Tong, **Hang Shen\***, Ning Shi, Tianjing Wang, Guangwei Bai. [Joint resource optimization for nonorthogonal multiple access-enhanced scalable video coding multicast in unmanned aerial vehicle-assisted radio-access networks](https://onlinelibrary.wiley.com/doi/10.4218/etrij.2022-0136), *Wiley ETRI Journal*, 2022, DOI: 10.4218/etrij.2022-0136.**[[Download](http://shen-hang.github.io/files/ETRI2022.pdf)]** 
+11. **Hang Shen\***, Tianjing Wang, Yilong Heng, Guangwei Bai. Joint Resource Slicing and Vehicle Association for Drone-Assisted Vehicular Networks, *Drones*, 2023, 7 (8): 534, 23 Pages.
+12. Hang Shen, Lingli Li, Tianjing Wang and Guangwei Bai*. CDCS: Cluster-based Distributed Compressed Sensing to Facilitate QoS Routing in Cognitive Video Sensor Networks, \emph{Entropy}, 2019, 21(4), 345, 19 Pages.
+13. **Hang Shen**, Guangwei Bai\*, Lu Zhao, Jinfeng Ge and Zhenmin Tang. [L2OR: Low-Cost Low-Complexity Opportunistic Routing for Wireless Sensor Networks](https://link.springer.com/article/10.1007/s11277-014-2214-0), *Wireless Personal Communications  (WPC)*, 2015, 82(1), pp. 401-422. 
+14. **Hang Shen**,, Guangwei Bai*, Zhenmin Tang and Lu Zhao. QMOR: QoS-Aware Multi-Sink Opportunistic Routing for Wireless Multimedia Sensor Networks, *Wireless Personal Communications  (WPC)*, 2014, 75(2), pp. 1307-1330.
+
 
 **B. Conference articles (\* indicates the correspondence author)**
 
