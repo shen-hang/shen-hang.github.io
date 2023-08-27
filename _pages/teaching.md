@@ -67,7 +67,7 @@ Course Work and Evaluation: 作业 (10%); 实验 (20%); Final Examination (70%) 
 </details>
 
 ---
-物联网概论(Introduction to Internet of Things) - Undergraduate course - Fall 2015-2017, Fall 2019-2022
+物联网概论(Introduction to Internet of Things) - Undergraduate course - Fall 2015-2017, Fall 2019-2023
 
 | Item          | Links & Description                                          |
 | ------------- | ------------------------------------------------------------ |
