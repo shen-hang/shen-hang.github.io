@@ -8,15 +8,15 @@ redirect_from:
 ---
 
 ---
-Advanced Computer Networks  - Graduate course - Spring 2023
+高级计算机网络 (Advanced Computer Networks)  - Graduate course - Spring 2023
 
 | Item      | Description                                                  |
 | --------- | ------------------------------------------------------------ |
-| Reference | 1.  《高级计算机网络（第2版）》,  徐恪 著，清华大学出版社<br/>2. 《物联网导论（第4版）》，刘云浩 著，科学出版社<br/>3.《移动互联网导论（第3版）》,  王新兵 著，清华大学出版社 <br/>4. 《从互联到新工业革命》, 刘云浩 著，清华大学出版社 |
+| Reference | 1.  《高级计算机网络(第2版)》,  徐恪 著，清华大学出版社<br/>2. 《物联网导论(第4版)》，刘云浩 著，科学出版社<br/>3.《移动互联网导论(第3版)》,  王新兵 著，清华大学出版社 <br/>4. 《从互联到新工业革命》, 刘云浩 著，清华大学出版社 |
 
 
 ---
-Computer Networks - Undergraduate course - Spring 2016-2018, 2020-2022
+计算机网络 (Computer Networks) - Undergraduate course - Spring 2016-2018, 2020-2022
 
 Course Work and Evaluation: 作业 (10%); 实验 (20%); Final Examination (70%) will have a 120-minute closed-book final examination (闭卷) in English (全英文试卷) by the end of this semester.
 
@@ -67,7 +67,7 @@ Course Work and Evaluation: 作业 (10%); 实验 (20%); Final Examination (70%) 
 </details>
 
 ---
-Introduction to Internet of Things - Undergraduate course - Fall 2015-2017, Fall 2019-2022
+物联网概论(Introduction to Internet of Things) - Undergraduate course - Fall 2015-2017, Fall 2019-2022
 
 | Item          | Links & Description                                          |
 | ------------- | ------------------------------------------------------------ |
@@ -81,7 +81,7 @@ Introduction to Internet of Things - Undergraduate course - Fall 2015-2017, Fall
 | 作业&文献阅读 | [模板下载](http://cjc.ict.ac.cn/wltg/new/submit/CJC-Templet_Word2003.doc), [参考文献(uf8j)](https://pan.baidu.com/s/1Hdqtx3fph_KPXuzZkJQ83A) |
 
 ---
-Linux Programming - Undergraduate course - Spring 2015, Spring 2016, Spring 2017
+Linux编程 (Linux Programming) - Undergraduate course - Spring 2015, Spring 2016, Spring 2017
 
 | Item                  | Links & Description                                          |
 | --------------------- | ------------------------------------------------------------ |
@@ -93,7 +93,7 @@ Linux Programming - Undergraduate course - Spring 2015, Spring 2016, Spring 2017
 | Editor                | VIM: [实用技巧](https://www.ibm.com/developerworks/cn/linux/l-tip-vim1/), [常用插件](https://www.ibm.com/developerworks/cn/linux/l-tip-vim2/), [定制VIM](https://www.ibm.com/developerworks/cn/linux/l-tip-vim3/), [Vimdiff使用](https://www.ibm.com/developerworks/cn/linux/l-vimdiff/), [SpaceVim](http://spacevim.org/)<br/>Emacs: [Emacs Chat](https://plus.google.com/communities/114815898697665598016), [Planet Emacsen](http://planet.emacsen.org/), [EmacsWiki](http://planet.emacsen.org/), [Emacs论坛](https://plus.google.com/communities/114815898697665598016)<br/>Flowchart: [Drakon](http://drakon-editor.sourceforge.net/), [FSME](https://sourceforge.net/projects/fsme/) |
 
 ---
-Mobile Internet - Undergraduate course - Fall 2019
+移动互联网 (Mobile Internet) - Undergraduate course - Fall 2019
 
 | Item          | Links & Description                                          |
 | ------------- | ------------------------------------------------------------ |
@@ -104,7 +104,7 @@ Mobile Internet - Undergraduate course - Fall 2019
 | 作业&文献阅读 | [模板下载](http://cjc.ict.ac.cn/wltg/new/submit/CJC-Templet_Word2003.doc), [参考文献(sa7u)](https://pan.baidu.com/s/1o6WFIN45XVade5eRZkZMMQ) |
 
 ---
-Wireless Networks & Mobile Computing  - Graduate course - Spring 2016, Fall 2017
+无线网络与移动计算 (Wireless Networks & Mobile Computing)  - Graduate course - Spring 2016, Fall 2017
 
 | Item      | Description                                                  |
 | --------- | ------------------------------------------------------------ |
