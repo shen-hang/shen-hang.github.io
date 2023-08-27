@@ -28,7 +28,7 @@ redirect_from:
 - Editor for Journals
   - Associate Editor, IEEE Access (2020-present)
   - Academic Editor, Mathematical Problems in Engineering (MPE) (2020-present)
-  - Guest Editor,  Special Issue “Fog/Edge Networking for Multimedia Applications” in Peer-to-Peer Networking and Applications (2018-2019)
+  - Guest Editor, Peer-to-Peer Networking and Applications (PPNA) (2018-2019)
 - Reviewer for Journals
   - IEEE Transactions on Mobile Computing (TMC)
   - IEEE Transactions on Wireless Communications (TWC)
