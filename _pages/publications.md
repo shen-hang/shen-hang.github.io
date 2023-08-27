@@ -17,17 +17,12 @@ redirect_from:
 7. Yiren Gu, **Hang Shen\***, Guangwei Bai, Tianjing Wang et al. [QoI-Aware Incentive for Multimedia Crowdsensing Enabled Learning System](https://link.springer.com/article/10.1007/s00530-019-00616-w), *Multimedia Systems*, 2020, 26(1), pp. 3-16. (**CCF Rank, SCI**)
 8. **Hang Shen**, Guangwei Bai\*, Mei Yang and Zhonghui Wang. [Protecting trajectory privacy: A user-centric analysis](https://www.sciencedirect.com/science/article/pii/S1084804517300413), *Elsevier Journal of Network and Computer Applications (JNCA)*, 82 (2017), pp. 128-139. (**CCF Rank, SCI**)
 9. **Hang Shen**, Guangwei Bai\*. [Routing in wireless multimedia sensor networks: A survey and challenges ahead](https://www.sciencedirect.com/science/article/pii/S1084804516301102), *Elsevier Journal of Network and Computer Applications (JNCA)*, 71 (2016), pp. 30-49. (**CCF Rank, SCI**) (**研究综述**) **[[Download](http://shen-hang.github.io/files/JNCA2016.pdf)]** 
-10. **Hang Shen**, Guangwei Bai\*, Junyuan Wang and Lu Zhao. [WGM: Wavelet-Based Gamma Model for Video Traffic in Wireless Multi-hop Networks](https://link.springer.com/article/10.1007/s11277-019-06289-y), *Wireless Personal Communications (WPC)*, 2019, 107(1), pp. 565–587. (**SCI**)
-11. **Hang Shen**, Guangwei Bai\*, Lu Zhao, Jinfeng Ge and Zhenmin Tang. [L2OR: Low-Cost Low-Complexity Opportunistic Routing for Wireless Sensor Networks](https://link.springer.com/article/10.1007/s11277-014-2214-0), *Wireless Personal Communications (WPC)*, 2015, 82(1), pp. 401-422. (**SCI**)
-12. Ziyuan Tong, **Hang Shen\***, Ning Shi, Tianjing Wang, Guangwei Bai. [ Joint resource optimization for nonorthogonal multiple access-enhanced scalable video coding multicast in unmanned aerial vehicle-assisted radio-access networks](https://onlinelibrary.wiley.com/doi/10.4218/etrij.2022-0136), *Wiley ETRI Journal*, 2022, to be published, DOI: 10.4218/etrij.2022-0136. (**SCI**)  **[[Download](http://shen-hang.github.io/files/ETRI2022.pdf)]** 
 
 
 **B. Conference articles (\* indicates the correspondence author)**
 
 1. **Hang Shen**, Yilong Heng, Ning Shi, Tianjing Wang\* and Guangwei Bai.  [Drone-Small-Cell-Assisted Spectrum Management for 5G and Beyond Vehicular Networks](https://ieeexplore.ieee.org/abstract/document/9912871), in *Proc. of the 27th IEEE Symposium on Computers and Communications (ISCC)*, Regular Paper, Rhodes Island, Greece, 30th June - 3rd July, 2022, pp. 1-8.  (**CCF Rank**) **[[Download](http://shen-hang.github.io/files/ISCC2022.pdf)]**
 2. **Hang Shen**, Jiajia Xu, Tianjing Wang and Guangwei Bai\*. [Detecting Link Correlation Spoofing Attack: A Beacon-Trap Approach](https://ieeexplore.ieee.org/document/8761835), in *Proc. of the 53rd IEEE International Conference on Communications (ICC)*,  Regular Paper, Shanghai, China, May 20-24, 2019, pp. 1-6. (**CCF Rank**) **[[Download](http://shen-hang.github.io/files/ICC2019.pdf)]** 
-3.  Yujia Hu, **Hang Shen\***, Guangwei Bai and Tianjing Wang. Privacy-Preserving Task Allocation for Edge Computing Enhanced Mobile Crowdsensing, in *ICA3PP*, Full Paper, Guangzhou, China, Nov 15 - 17, 2018, pp. 431-446. (**CCF Rank**)
-4.  Yiren Gu, **Hang Shen\***, Guangwei Bai, Tianjing Wang, et al. Incentivizing Multimedia Data Acquisition for Machine Learning System, in *ICA3PP*, Full Paper, Guangzhou, China, Nov 15 - 17, 2018, pp. 142-158. (**CCF Rank**)
 
 **C. Book Chapters**
 
