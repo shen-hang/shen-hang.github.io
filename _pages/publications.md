@@ -19,12 +19,10 @@ redirect_from:
 9. Yiren Gu, **Hang Shen\***, Guangwei Bai, Tianjing Wang et al. [QoI-Aware Incentive for Multimedia Crowdsensing Enabled Learning System](https://link.springer.com/article/10.1007/s00530-019-00616-w), *Multimedia Systems*, 2020, 26(1), pp. 3-16. (**CCF Rank, SCI**)
 
 **B. Conference articles (\* indicates the correspondence author)**
-
 1. **Hang Shen**, Yilong Heng, Ning Shi, Tianjing Wang\* and Guangwei Bai.  [Drone-Small-Cell-Assisted Spectrum Management for 5G and Beyond Vehicular Networks](https://ieeexplore.ieee.org/abstract/document/9912871), in *Proc. of the 27th IEEE Symposium on Computers and Communications (ISCC)*, Regular Paper, Rhodes Island, Greece, 30th June - 3rd July, 2022, pp. 1-8.  (**CCF Rank**) **[[Download](http://shen-hang.github.io/files/ISCC2022.pdf)]**
 2. **Hang Shen**, Jiajia Xu, Tianjing Wang and Guangwei Bai\*. [Detecting Link Correlation Spoofing Attack: A Beacon-Trap Approach](https://ieeexplore.ieee.org/document/8761835), in *Proc. of the 53rd IEEE International Conference on Communications (ICC)*,  Regular Paper, Shanghai, China, May 20-24, 2019, pp. 1-6. (**CCF Rank**) **[[Download](http://shen-hang.github.io/files/ICC2019.pdf)]** 
 
 **C. Book Chapters**
-
 1. **Hang Shen**.  [Urban Big Data](https://www.google.com/url?q=https%3A%2F%2Flink.springer.com%2Freferenceworkentry%2F10.1007%2F978-3-319-32903-1_99-1&sa=D&sntz=1&usg=AFQjCNHiVUs35l18lY-et-uwsSb26ZAzLg). In: Xuemin (Sherman) Shen, Xiaodong Lin, Kuan Zhang (eds) Encyclopedia of Wireless Networks, 2019, DOI: 10.1007/978-3-319-32903-1_312-1, Springer, Cham.
 2. **Hang Shen**. [Privacy Game](https://www.google.com/url?q=https%3A%2F%2Flink.springer.com%2Freferenceworkentry%2F10.1007%2F978-3-319-32903-1_312-1&sa=D&sntz=1&usg=AFQjCNFZg-EMufyNHOSSNMPi75MyNjUzUw). In: Xuemin (Sherman) Shen, Xiaodong Lin, Kuan Zhang (eds) Encyclopedia of Wireless Networks. 2019, DOI: 10.1007/978-3-319-32903-1_99-1, Springer, Cham.
 
