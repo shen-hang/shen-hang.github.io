@@ -8,14 +8,6 @@ redirect_from:
 ---
 
 ---
-高级计算机网络 (Advanced Computer Networks)  - Graduate course - Spring 2023
-
-| Item      | Description                                                  |
-| --------- | ------------------------------------------------------------ |
-| Reference | 1.  《高级计算机网络(第2版)》,  徐恪 著，清华大学出版社<br/>2. 《物联网导论(第4版)》，刘云浩 著，科学出版社<br/>3.《移动互联网导论(第3版)》,  王新兵 著，清华大学出版社 <br/>4. 《从互联到新工业革命》, 刘云浩 著，清华大学出版社 |
-
-
----
 计算机网络 (Computer Networks) - Undergraduate course - Spring 2016-2018, 2020-2022
 
 Course Work and Evaluation: 作业 (10%); 实验 (20%); Final Examination (70%) will have a 120-minute closed-book final examination (闭卷) in English (全英文试卷) by the end of this semester.
@@ -71,7 +63,7 @@ Course Work and Evaluation: 作业 (10%); 实验 (20%); Final Examination (70%) 
 
 | Item          | Links & Description                                          |
 | ------------- | ------------------------------------------------------------ |
-| Textbook      | 《物联网导论（第4版）》，刘云浩 著，科学出版社.  [参考PPT(8yja)](https://pan.baidu.com/s/1vEBvoxhY0I_BDJnH_1yxnQ), [在线阅读](https://book.sciencereading.cn/shop/book/Booksimple/onlineRead.do?id=B9EBE4A4841F8973EE053020B0A0A9533000&readMark=0) |
+| Textbook      | 《物联网导论（第4版）》，刘云浩 著，科学出版社.  [参考PPT(8yja)](https://pan.baidu.com/s/1vEBvoxhY0I_BDJnH_1yxnQ), [在线阅读](https://book.sciencereading.cn/shop/book/Booksimple/onlineRead.do?id=BE53EF192FECA8983E053020B0A0AFCE7000&readMark=0) |
 | Reference      | 1. 《从互联到新工业革命》,  刘云浩 著，清华大学出版社. [在线阅读](https://wqbook.wqxuetang.com/read/pdf?bid=3184105)  <br/>2. 《移动互联网导论（第3版）》, 王新兵 著，清华大学出版社. [在线阅读](https://wqbook.wqxuetang.com/read/pdf?bid=3207888) |
 | RFID          | [RFID原理](https://blog.csdn.net/yuyangyg/article/details/78253069), [RFID攻防](https://blog.csdn.net/sinat_23338865/article/details/71195810) |
 | 定位技术      | [GPS定位基本原理](https://www.cnblogs.com/sddai/p/9692722.html), [AGPS定位机制](https://www.cnblogs.com/prayer521/p/6636457.html), [LANDMARC室内定位算法](https://zhuanlan.zhihu.com/p/349745108) |
@@ -102,6 +94,13 @@ Linux编程 (Linux Programming) - Undergraduate course - Spring 2015, Spring 201
 | 5G            | [5G科普](http://network.51cto.com/art/201812/589511.htm)*,* [4G 5G区别](https://blog.csdn.net/csdnnews/article/details/93429083)*,* [5G接入网+承载网+核心网](https://blog.csdn.net/bingfeilongxin/article/details/93138651) |
 | 关键技术      | [多址接入技术](https://blog.csdn.net/jxwxg/article/details/53366657)*,* [OFDM原理](https://blog.csdn.net/madongchunqiu/article/details/18614233)*,* [移动IP](https://blog.csdn.net/williananjhon/article/details/90748688)*,* [数字签名](http://www.ruanyifeng.com/blog/2011/08/what_is_a_digital_signature.html)*,* [哈希锁](https://www.jianshu.com/p/d78196150350?utm_campaign) |
 | 作业&文献阅读 | [模板下载](http://cjc.ict.ac.cn/wltg/new/submit/CJC-Templet_Word2003.doc), [参考文献(sa7u)](https://pan.baidu.com/s/1o6WFIN45XVade5eRZkZMMQ) |
+
+---
+高级计算机网络 (Advanced Computer Networks)  - Graduate course - Spring 2023
+
+| Item      | Description                                                  |
+| --------- | ------------------------------------------------------------ |
+| Reference | 1.  《高级计算机网络(第2版)》,  徐恪 著，清华大学出版社<br/>2. 《物联网导论(第4版)》，刘云浩 著，科学出版社<br/>3.《移动互联网导论(第3版)》,  王新兵 著，清华大学出版社 <br/>4. 《从互联到新工业革命》, 刘云浩 著，清华大学出版社 |
 
 ---
 无线网络与移动计算 (Wireless Networks & Mobile Computing)  - Graduate course - Spring 2016, Fall 2017
