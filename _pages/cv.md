@@ -37,6 +37,7 @@ redirect_from:
   - IEEE Systems Journal
   - IEEE Communications Letters
   - ACM/Springer Wireless Networks (WINE)
+  - Concurrency and Computation: Practice and Experience (CCPE)
   - Elsevier Robotics and Autonomous Systems (RAS)
   - Elsevier Measurement (MEAS)
   - Springer Multimedia Tools and Applications (MTAP)
