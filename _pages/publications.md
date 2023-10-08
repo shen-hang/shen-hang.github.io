@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 **A. Journal articles (\* indicates the correspondence author)**
-1. 殷珉, **沈航\***, 王天荆, 白光伟. 基于分层联邦学习的无人机小基站RAN切片方法, *电子学报*, 2023, DOI:10.12263/DZXB.C221083. (**CCF Rank-A**) 
+1. 殷珉, **沈航\***, 王天荆, 白光伟. [基于分层联邦学习的无人机小基站RAN切片方法](https://www.ejournal.org.cn/CN/10.12263/DZXB.20221083), *电子学报*, 2023, 51(7): 1774-1780. (**CCF Rank-A**) **[[Download](http://shen-hang.github.io/files/电子学报2023.pdf)]** 
 2. **Hang Shen\***, Yibo Tian, Tianjing Wang, and Guangwei Bai. [Slicing-Based Task Offloading in Space-Air-Ground Integrated Vehicular Networks](https://ieeexplore.ieee.org/document/10145842), *IEEE Transactions on Mobile Computing (TMC)*, 2023, DOI: 10.1109/TMC.2023.3283852. (**CCF Rank-A, SCI**)  
 3. **Hang Shen**, Qiang Ye\*, Weihua Zhuang, Weisen Shi, Guangwei Bai, and Geng Yang. [Drone-Small-Cell-Assisted Resource Slicing for 5G Uplink Radio Access Networks](https://ieeexplore.ieee.org/document/9440683),  *IEEE Transactions on Vehicular Technology (TVT)*, 2021, 70(7), pp. 7071-7086. (**Top Journal in Telecom., SCI**) **[[Download](http://shen-hang.github.io/files/TVT2021.pdf)]** 
 4. **Hang Shen** and Guangwei Bai\*. [QoS-Guaranteed Wireless Broadcast Scheduling with Network Coding and Rate Adaptation](http://ieeexplore.ieee.org/abstract/document/8291004/), *IEEE Transactions on Vehicular Technology (TVT)*, 2018, 67(7), pp. 6492-6503. (**Top Journal in Telecom., SCI**) **[[Download](http://shen-hang.github.io/files/TVT2018.pdf)]** 
