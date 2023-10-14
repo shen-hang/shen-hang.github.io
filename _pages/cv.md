@@ -33,6 +33,7 @@ redirect_from:
   - IEEE Transactions on Mobile Computing (TMC)
   - IEEE Transactions on Wireless Communications (TWC)
   - IEEE Transactions on Intelligent Transportation Systems (TITS) 
+  - IEEE Transactions on Broadcasting (TBC)
   - IEEE Transactions on Vehicular Technology (TVT)
   - IEEE Systems Journal
   - IEEE Communications Letters
