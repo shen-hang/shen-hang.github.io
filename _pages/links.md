@@ -15,16 +15,17 @@ redirect_from:
 - Vector Images: [Pixabay](https://pixabay.com/), [Canva](https://www.canva.com/zh_cn/) 
 - Mathwords:  [Terms and Formulas from Beginning Algebra to Calculus](http://www.mathwords.com/)
 - 3D: [webglsamples](https://webglsamples.org/), [threejs examples](https://threejs.org/examples/)
-- Plot: [Demo scripts](http://gnuplot.sourceforge.net/demo/), [Clustered/Stacked Filled Bar Graph Generator](http://www.burningcutlery.com/derek/bargraph/), [sigmaplot](https://systatsoftware.com/sigmaplot/), [diagams](https://daw.io)  
+- Plot: [使用gnuplot科学作图](http://ouc.ai/zhenghaiyong/courses/tutorials/gnuplot/gnuplot-zh.pdf), [Demo scripts](http://gnuplot.sourceforge.net/demo/), [Clustered/Stacked Filled Bar Graph Generator](http://www.burningcutlery.com/derek/bargraph/), [sigmaplot](https://systatsoftware.com/sigmaplot/), [diagams](https://daw.io)  
 - Color scheme: [Culrs](https://www.culrs.com/#/), [ColorSpace](https://mycolor.space/), [ColorLeap](https://colorleap.app/home), [WebGradients](https://webgradients.com/), [Adobe Color](https://color.adobe.com/zh/create/color-wheel)
 - Open Source: [Google Developers](https://developers.google.com/open-source/),  [Software for free](https://sourceforge.net/)
 - Course Resources：[Computer Networking: a Top Down Approach](https://gaia.cs.umass.edu/kurose_ross/index.html), [Optimization](http://bicmr.pku.edu.cn/~wenzw/optbook.html)
 -  [The Twelve Networking Truths](https://datatracker.ietf.org/doc/html/rfc1925)
 - Text Formatting with LaTeX
+  -  [LATEX科技排版入门](https://math.ecnu.edu.cn/~jypan/Latex/Latex_Talk2023.pdf), [如何使用LATEX排版论文](https://stu.cs.tsinghua.edu.cn/~harry/latex-talk.pdf)
   - [LaTeX编辑部](http://zzg34b.w3.c361.com/index.htm), [华东师范大学数学系 LaTeX 教学](http://math.ecnu.edu.cn/~latex/), [学位论文Latex模板](https://code.google.com/p/scutthesis/wiki/latex_template_list)
   - [Collaborative Writing and Publishing](https://www.overleaf.com/), [Emacs+LaTeX](http://cs2.swfc.edu.cn/~wx672/lecture_notes/linux/latex/latex_tutorial.html), [Emacs as the LaTeX Editor](http://piotrkazmierczak.com/2010/emacs-as-the-ultimate-latex-editor/)
   - [Ex­cel2LaTeX – Con­vert Ex­cel spread­sheets to LATEX ta­bles](https://www.ctan.org/tex-archive/support/excel2latex/), [Tables Generator](http://www.tablesgenerator.com/), [image-to-latex ](https://github.com/kingyiusuen/image-to-latex)
-  - [Powerpoint](http://www.latextemplates.com/template/beamer-presentation), [CV](http://www.latextemplates.com/cat/curricula-vitae), [Making Poster](http://www.latextemplates.com/cat/curricula-vitae), [Making a poster in beamer](http://robjhyndman.com/hyndsight/beamer-poster/), [Beamer Poster Theme](http://www.shawnlankton.com/2008/06/latex-beamer-poster-theme-and-template/)
+  - [用LATEX制作PPT(beamer-theme-list)](https://github.com/martinbjeldbak/ultimate-beamer-theme-list), [Powerpoint](http://www.latextemplates.com/template/beamer-presentation), [CV](http://www.latextemplates.com/cat/curricula-vitae), [Making Poster](http://www.latextemplates.com/cat/curricula-vitae), [Making a poster in beamer](http://robjhyndman.com/hyndsight/beamer-poster/), [Beamer Poster Theme](http://www.shawnlankton.com/2008/06/latex-beamer-poster-theme-and-template/)
   - [How to embed all fonts in PDF](https://sites.google.com/site/xyzliwen/resource/embed_font_ieee_pdf_explore)
 
 ------
