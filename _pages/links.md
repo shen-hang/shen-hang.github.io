@@ -18,8 +18,7 @@ redirect_from:
 - Plot: [使用gnuplot科学作图](http://ouc.ai/zhenghaiyong/courses/tutorials/gnuplot/gnuplot-zh.pdf), [Demo scripts](http://gnuplot.sourceforge.net/demo/), [Clustered/Stacked Filled Bar Graph Generator](http://www.burningcutlery.com/derek/bargraph/), [sigmaplot](https://systatsoftware.com/sigmaplot/), [diagams](https://daw.io)  
 - Color scheme: [Culrs](https://www.culrs.com/#/), [ColorSpace](https://mycolor.space/), [ColorLeap](https://colorleap.app/home), [WebGradients](https://webgradients.com/), [Adobe Color](https://color.adobe.com/zh/create/color-wheel)
 - Open Source: [Google Developers](https://developers.google.com/open-source/),  [Software for free](https://sourceforge.net/)
-- Course Resources：[Computer Networking: a Top Down Approach](https://gaia.cs.umass.edu/kurose_ross/index.html), [Optimization](http://bicmr.pku.edu.cn/~wenzw/optbook.html)
--  [The Twelve Networking Truths](https://datatracker.ietf.org/doc/html/rfc1925)
+- [The Twelve Networking Truths](https://datatracker.ietf.org/doc/html/rfc1925)
 - Text Formatting with LaTeX
   - [LATEX科技排版入门](https://math.ecnu.edu.cn/~jypan/Latex/Latex_Talk2023.pdf), [如何使用LATEX排版论文](https://stu.cs.tsinghua.edu.cn/~harry/latex-talk.pdf)
   - [LaTeX编辑部](http://zzg34b.w3.c361.com/index.htm), [华东师范大学数学系 LaTeX 教学](http://math.ecnu.edu.cn/~latex/), [学位论文Latex模板](https://code.google.com/p/scutthesis/wiki/latex_template_list)
