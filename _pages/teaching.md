@@ -73,6 +73,13 @@ Course Work and Evaluation: 作业 (10%); 实验 (20%); Final Examination (70%) 
 | 作业&文献阅读 | [模板下载](http://cjc.ict.ac.cn/wltg/new/submit/CJC-Templet_Word2003.doc), [参考文献(uf8j)](https://pan.baidu.com/s/1Hdqtx3fph_KPXuzZkJQ83A) |
 
 ---
+**计算机专业写作**  - 本科生课程 - Spring 2023
+
+| Item      | Description                                                  |
+| --------- | ------------------------------------------------------------ |
+| 大作业要求 | 用Latex模板写一篇短文（不少于2000字），覆盖如下内容：<br/>1. 课题价值和意义<br/>2. 当前研究进展（做了什么、怎么做的）<br/>3. 当前方法存在的主要问题<br/>4. 你的问题解决方案或思路<br/>5. 所提方案的优越性 |
+
+---
 **Linux编程 (Linux Programming)** - Undergraduate course - Spring 2015, Spring 2016, Spring 2017
 
 | Item                  | Links & Description                                          |
