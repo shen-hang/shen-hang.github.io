@@ -77,7 +77,7 @@ Course Work and Evaluation: 作业 (10%); 实验 (20%); Final Examination (70%) 
 
 | Item      | Description                                                  |
 | --------- | ------------------------------------------------------------ |
-| 大作业要求 | 用Latex或overlead([模板下载(zxwj)](https://pan.baidu.com/s/144VbIAGMZ3qCV-a3qxmstQ))写一篇短文(不少于2000字)，覆盖如下内容：<br/>1. 课题价值和意义<br/>2. 当前研究进展（做了什么、怎么做的）<br/>3. 当前方法存在的主要问题<br/>4. 你的问题解决方案或思路<br/>5. 所提方案的优越性 |
+| 大作业要求 | 用Latex或overleaf([模板下载(zxwj)](https://pan.baidu.com/s/144VbIAGMZ3qCV-a3qxmstQ))写一篇短文(不少于2000字)，覆盖如下内容：<br/>1. 课题价值和意义<br/>2. 当前研究进展（做了什么、怎么做的）<br/>3. 当前方法存在的主要问题<br/>4. 你的问题解决方案或思路<br/>5. 所提方案的优越性 |
 
 ---
 **Linux编程 (Linux Programming)** - Undergraduate course - Spring 2015, Spring 2016, Spring 2017
