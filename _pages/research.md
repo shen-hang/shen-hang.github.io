@@ -33,6 +33,7 @@ redirect_from:
   - IEEE Transactions on Intelligent Transportation Systems (TITS) 
   - IEEE Transactions on Broadcasting (TBC)
   - IEEE Transactions on Vehicular Technology (TVT)
+  - IEEE Network Magazine
   - IEEE Systems Journal
   - IEEE Communications Letters
   - ACM/Springer Wireless Networks (WINE)
