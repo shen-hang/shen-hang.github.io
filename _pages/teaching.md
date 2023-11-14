@@ -108,7 +108,7 @@ Course Work and Evaluation: 作业 (10%); 实验 (20%); Final Examination (70%) 
 | Item      | Description                                                  |
 | --------- | ------------------------------------------------------------ |
 | Reference | 1.  《高级计算机网络(第2版)》,  徐恪 著，清华大学出版社<br/>2. 《物联网导论(第4版)》，刘云浩 著，科学出版社<br/>3.《移动互联网导论(第3版)》,  王新兵 著，清华大学出版社 <br/>4. 《从互联到新工业革命》, 刘云浩 著，清华大学出版社 |
-| 研究报告撰写要求 | **A. 请用Latex或overleaf([模板下载(yq9t)](https://pan.baidu.com/s/1iDuHz69JxvC5ZJqP6e20Og))编排，长度不少于5页**<br/>B. 范围包括但不限于此：**<br/>1. AI for Networks or Networks for AI<br/>2. 网络体系架构和协议<br/>3. 多媒体网络和服务质量<br/>4. 网络安全与隐私计算<br/>5. 无线网络与移动计算<br/>6. 云计算、边缘计算和分散计算<br/>7. 定位和基于位置的服务<br/>9. 未来网络和新兴网络技术<br/>8. 数据采集和感知<br/>**C. 研究报告需覆盖如下内容：**<br/>1. 课题背景和意义<br/>2. 当前研究进展<br/>3. 当前方法存在的主要问题<br/>4. 你的思考及解决方案<br/>5. 你所考虑方案的优越性 |
+| 研究报告撰写要求 | **A. 请用Latex或overleaf([模板下载(yq9t)](https://pan.baidu.com/s/1iDuHz69JxvC5ZJqP6e20Og))编排，长度不少于5页**<br/>B. 范围包括但不限于此：**<br/>1. AI for Networks or Networks for AI<br/>2. 网络体系架构和协议<br/>3. 多媒体网络和服务质量<br/>4. 网络安全与隐私计算<br/>5. 无线网络与移动计算<br/>6. 云计算、边缘计算和分散计算<br/>7. 定位和基于位置的服务<br/>8. 数据采集和感知<br/>9. Software-Defined Networking and Network Functions Virtualization<br/>10. 未来网络和新兴网络技术<br/>**C. 研究报告需覆盖如下内容：**<br/>1. 课题背景和意义<br/>2. 当前研究进展<br/>3. 当前方法存在的主要问题<br/>4. 你的思考及解决方案<br/>5. 你所考虑方案的优越性 |
 
 
 ---
