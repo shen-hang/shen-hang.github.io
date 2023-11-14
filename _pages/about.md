@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 # Recent Highlights
-
+- Nov. 2023:  Congrats!!! 李芳同学的论文“Pre-trained Language Model-Enhanced Conditional Generative Adversarial Networks for Intrusion Detection”被CCF推荐SCI期刊《Peer-to-Peer Networking and Applications》录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Oct. 2023:  Congrats!!! 童子源同学的论文“UAV-Relay-Assisted Live Layered Video Multicast for Cell-Edge Users in NOMA Networks”被《IEEE Transactions on Broadcasting》(**中科院计算机科学一区Top期刊**)以长文形式录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - May. 2023:  Congrats!!! 田一博同学的论文“Slicing-Based Task Offloading in Space-Air-Ground Integrated Vehicular Networks”被计算机网络领域顶级期刊《IEEE Transactions on Mobile Computing》(**CCF推荐A类国际期刊**)以长文形式录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - May. 2023:  Congrats!!! 童子源同学的硕士学位论文“无人机辅助的NOMA无线网络弹性视频多播机制研究”被答辩委员会评为“**优秀研究生论文**”. ![avatar](https://shen-hang.github.io//images/new.jpg)
-- Apr. 2023:  Congrats!!! 殷珉同学的论文“基于分层联邦学习的无人机小基站RAN切片方法”被电子信息领域中文权威期刊《电子学报》(**CCF推荐A类中文期刊**)录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
+- Apr. 2023:  Congrats!!! 殷珉同学的论文“基于分层联邦学习的无人机小基站RAN切片方法”被《电子学报》(**CCF推荐A类中文期刊**)录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jan. 2023:  “领域知识图谱构建和应用系统研发”项目获得资助并启动. ![avatar](https://shen-hang.github.io//images/new.jpg)
-- Nov. 2022:  Congrats!!! 刘鑫同学的论文“Blockchain-Enabled Solution for Secure and Scalable V2V Video Content Dissemination”被SCI期刊《Peer-to-Peer Networking and Applications》(CCF推荐国际期刊)录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
+- Nov. 2022:  Congrats!!! 刘鑫同学的论文“Blockchain-Enabled Solution for Secure and Scalable V2V Video Content Dissemination”被CCF推荐SCI期刊《Peer-to-Peer Networking and Applications》录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Nov. 2022: 沈航博士获得**“中国特种设备检测协会科学技术二等奖” (排名第三)**. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jun. 2022: 朱唯周同学的毕设论文“面向入侵检测的生成式对抗网络构建方法”被评为校“**优秀本科毕业论文**”. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jun. 2022:  Congrats!!! 童子源同学的论文“Joint Resource Optimization for NOMA Enhanced SVC Multicast in UAV-Assisted Radio Access Networks”被SCI期刊《ETRI Journal》录用. 
@@ -23,15 +23,15 @@ redirect_from:
 - Jan. 2022: 东方航空-空铁一体化路由计算引擎v1.0(支持高并发和算力按需调度)开发完成.
 - Jan. 2022: 东方航空联运网络优化(二期)项目--路由算法验证启动.
 - Nov. 2021: 东方航空联运网络优化(一期)项目--空铁一体化动态路由计算引擎研发启动.
-- Nov. 2021:  沈航博士的成果“基于网络切片的5G电力物联网关键技术研究及应用”获得**“中国电力联合会科技创新二等奖” (排名第三)**. 
+- Nov. 2021: 沈航博士的成果“基于网络切片的5G电力物联网关键技术研究及应用”获得**“中国电力联合会科技创新二等奖” (排名第三)**. 
 - Aug. 2021: “大规模网络攻防关键技术研究”项目获得资助并启动.
 - Aug. 2021: “网络安全态势感知与智能分析技术研究”项目获得资助并启动.
-- Jul. 2021:  课题组同学获得中国高校网络技术挑战赛华东区二等奖和三等奖各1项.
+- Jul. 2021: 课题组同学获得中国高校网络技术挑战赛华东区二等奖和三等奖各1项.
 - Jun. 2021: 沈航博士被江苏省计算机学会评为2020年度先进个人会员.
 - May  2021: Dr. Hang Shen is invited to serve as a TPC member of the 18th Annual International Conference on Privacy, Security and Trust (PST2021).
 - May  2021: 我们的论文“ Drone-Small-Cell-Assisted Resource Slicing for 5G Uplink Radio Access Networks”被知名国际期刊《IEEE Transactions on Vehicular Technology》录用.
-- Dec. 2020:  沈航博士获得**“中国仪器仪表学会科技进步二等奖”(排名第五)**.
-- Sep. 2020:  沈航博士当选中国计算机学会(CCF)高级会员.
+- Dec. 2020: 沈航博士获得**“中国仪器仪表学会科技进步二等奖”(排名第五)**.
+- Sep. 2020: 沈航博士当选中国计算机学会(CCF)高级会员.
 - Sep. 2020: 课题组同学获得中国高校网络技术挑战赛华东区三等奖.
 - Jul. 2020: 沈航博士受邀担任SCI期刊《IEEE Access》的副编辑(Associate Editor).
 - Jun. 2020: 沈航博士受邀担任SCI期刊《Mathematical Problems in Engineering》的编委(Academic Editor).
