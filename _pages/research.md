@@ -36,11 +36,11 @@ redirect_from:
   - IEEE Network Magazine
   - IEEE Systems Journal
   - IEEE Communications Letters
-  - ACM/Springer Wireless Networks (WINE)
+  - Wireless Networks (WINE)
   - Concurrency and Computation: Practice and Experience (CCPE)
-  - Elsevier Robotics and Autonomous Systems (RAS)
-  - Elsevier Measurement (MEAS)
-  - Springer Multimedia Tools and Applications (MTAP)
+  - Robotics and Autonomous Systems (RAS)
+  - Measurement
+  - Multimedia Tools and Applications (MTAP)
   - Journal of Communications and Information Networks (JCIN)
   - Knowledge-Based Systems (KBS)
   - ETRI Journal
