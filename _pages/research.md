@@ -43,6 +43,7 @@ redirect_from:
   - Springer Multimedia Tools and Applications (MTAP)
   - Journal of Communications and Information Networks (JCIN)
   - Knowledge-Based Systems (KBS)
+  - ETRI Journal
   - 通信学报
   - 物联网学报
   - 网络与信息安全学报
