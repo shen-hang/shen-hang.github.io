@@ -45,9 +45,9 @@ redirect_from:
   - Springer Multimedia Tools and Applications (MTAP)
   - Journal of Communications and Information Networks (JCIN)
   - Knowledge-Based Systems (KBS)
-  - 通信学报
-  - 物联网学报
-  - 网络与信息安全学报
+  - Journal on Communications (通信学报)
+  - Chinese Journal on Internet of Things (物联网学报)
+  - Chinese Jouurnal of Network and Information Security (网络与信息安全学报)
 - Reviewer for International Conferences
   - IEEE International Conference on Parallel and Distributed Systems (ICPADS)
   - IEEE International Conference on Communications (ICC)
