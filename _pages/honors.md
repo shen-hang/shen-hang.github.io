@@ -1,6 +1,6 @@
 ---
 permalink: /honors/
-title: "Awards & Honors"
+title: "Awards"
 author_profile: true
 redirect_from: 
   - /md/
