@@ -30,6 +30,6 @@ redirect_from:
 2. Yiren Gu, **Hang Shen\***, Guangwei Bai, Tianjing Wang et al. [QoI-Aware Incentive for Multimedia Crowdsensing Enabled Learning System](https://link.springer.com/article/10.1007/s00530-019-00616-w), *Multimedia Systems*, 2020, 26(1), pp. 3-16. (**CCF Rank, SCI**)
 3. **Hang Shen**, Guangwei Bai\*, Junyuan Wang and Lu Zhao. [WGM: Wavelet-Based Gamma Model for Video Traffic in Wireless Multi-hop Networks](https://link.springer.com/article/10.1007/s11277-019-06289-y), *Wireless Personal Communications (WPC)*, 2019, 107(1), pp. 565–587. (**SCI**)
 4. **Hang Shen**, Guangwei Bai\*, Lu Zhao, Jinfeng Ge and Zhenmin Tang. [L2OR: Low-Cost Low-Complexity Opportunistic Routing for Wireless Sensor Networks](https://link.springer.com/article/10.1007/s11277-014-2214-0), *Wireless Personal Communications  (WPC)*, 2015, 82(1), pp. 401-422. (**SCI**)
-5. **Hang Shen**, Guangwei Bai*, Zhenmin Tang and Lu Zhao. QMOR: QoS-Aware Multi-Sink Opportunistic Routing for Wireless Multimedia Sensor Networks, *Wireless Personal Communications  (WPC)*, 2014, 75(2), pp. 1307-1330.
+5. **Hang Shen**, Guangwei Bai*, Zhenmin Tang and Lu Zhao. QMOR: QoS-Aware Multi-Sink Opportunistic Routing for Wireless Multimedia Sensor Networks, *Wireless Personal Communications  (WPC)*, 2014, 75(2), pp. 1307-1330. (**SCI**)
 
 ![Visitor Count](https://profile-counter.glitch.me/shen-hang/count.svg)
