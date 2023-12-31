@@ -47,6 +47,7 @@ redirect_from:
   - 通信学报
   - 物联网学报
   - 网络与信息安全学报
+  - 信息网络安全
 - Reviewer for International Conferences
   - IEEE International Conference on Parallel and Distributed Systems (ICPADS)
   - IEEE International Conference on Communications (ICC)
