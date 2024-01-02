@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 # Recent Highlights
+- Jan. 2024:  Congrats!!! 沈航博士受邀担任《Journal of Information Processing Systems》的副编辑(Associate Editor). ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Nov. 2023:  Congrats!!! 李芳同学的论文“Pre-trained Language Model-Enhanced Conditional Generative Adversarial Networks for Intrusion Detection”被CCF推荐SCI期刊《Peer-to-Peer Networking and Applications》录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Oct. 2023:  Congrats!!! 童子源同学的论文“UAV-Relay-Assisted Live Layered Video Multicast for Cell-Edge Users in NOMA Networks”被《IEEE Transactions on Broadcasting》(**中科院计算机科学一区Top期刊**)以长文形式录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - May. 2023:  Congrats!!! 田一博同学的论文“Slicing-Based Task Offloading in Space-Air-Ground Integrated Vehicular Networks”被计算机网络领域顶级期刊《IEEE Transactions on Mobile Computing》(**CCF推荐A类国际期刊**)以长文形式录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
