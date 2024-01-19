@@ -24,7 +24,7 @@ redirect_from:
 10.1007/s12083-023-01595-6. (**CCF Rank, SCI**) **[[Download](http://shen-hang.github.io/files/PPNA2023-2.pdf)]**
 6. Tianjing Wang, Xiaokang Luo, **Hang Shen\***, Yu Zhang, Guangwei Bai.  GraphACGAN: A GNN-Enhanced ACGAN Framework for Network Intrusion Detection, *Peer-to-Peer Networking and Applications (PPNA)*, 2023. (**CCF Rank, SCI**)
  
-**C. Multimedia Networking**
+**C. Multimedia**
 
 1. **Hang Shen** and Guangwei Bai\*. [QoS-Guaranteed Wireless Broadcast Scheduling with Network Coding and Rate Adaptation](http://ieeexplore.ieee.org/abstract/document/8291004/), *IEEE Transactions on Vehicular Technology (TVT)*, 2018, 67(7), pp. 6492-6503. (**Top Journal**, **中科院计算机二区**) **[[Download](http://shen-hang.github.io/files/TVT2018.pdf)]** 
 2. **Hang Shen**, Guangwei Bai\*. [Routing in wireless multimedia sensor networks: A survey and challenges ahead](https://www.sciencedirect.com/science/article/pii/S1084804516301102), *Elsevier Journal of Network and Computer Applications (JNCA)*, 71 (2016), pp. 30-49. (**CCF Rank**, **中科院计算机二区**) (**研究综述**) **[[Download](http://shen-hang.github.io/files/JNCA2016.pdf)]** 
