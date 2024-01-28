@@ -24,13 +24,14 @@ redirect_from:
 10.1007/s12083-023-01595-6. (**CCF Rank, SCI**) **[[Download](http://shen-hang.github.io/files/PPNA2023-2.pdf)]**
 6. Tianjing Wang, Xiaokang Luo, **Hang Shen\***, Yu Zhang, Guangwei Bai.  GraphACGAN: A GNN-Enhanced ACGAN Framework for Network Intrusion Detection, *Peer-to-Peer Networking and Applications (PPNA)*, 2023. (**CCF Rank, SCI**)
  
-**C. Multimedia**
+**C. Mobile Multimedia**
 
 1. **Hang Shen** and Guangwei Bai\*. [QoS-Guaranteed Wireless Broadcast Scheduling with Network Coding and Rate Adaptation](http://ieeexplore.ieee.org/abstract/document/8291004/), *IEEE Transactions on Vehicular Technology (TVT)*, 2018, 67(7), pp. 6492-6503. (**Top Journal**, **中科院计算机二区**) **[[Download](http://shen-hang.github.io/files/TVT2018.pdf)]** 
 2. **Hang Shen**, Guangwei Bai\*. [Routing in wireless multimedia sensor networks: A survey and challenges ahead](https://www.sciencedirect.com/science/article/pii/S1084804516301102), *Elsevier Journal of Network and Computer Applications (JNCA)*, 71 (2016), pp. 30-49. (**CCF Rank**, **中科院计算机二区**) (**研究综述**) **[[Download](http://shen-hang.github.io/files/JNCA2016.pdf)]** 
 3. Yiren Gu, **Hang Shen\***, Guangwei Bai, Tianjing Wang et al. [QoI-Aware Incentive for Multimedia Crowdsensing Enabled Learning System](https://link.springer.com/article/10.1007/s00530-019-00616-w), *Multimedia Systems*, 2020, 26(1), pp. 3-16. (**CCF Rank, SCI**)
-4. Ziyuan Tong, **Hang Shen\***, Ning Shi, Tianjing Wang, Guangwei Bai. [Joint resource optimization for nonorthogonal multiple access-enhanced scalable video coding multicast in unmanned aerial vehicle-assisted radio-access networks](https://onlinelibrary.wiley.com/doi/10.4218/etrij.2022-0136), *Wiley ETRI Journal*, 2023, 45(5), pp. 874-886.**[[Download](http://shen-hang.github.io/files/ETRI2023.pdf)]** (**SCI**)
-5. **Hang Shen**, Guangwei Bai\*, Junyuan Wang and Lu Zhao. [WGM: Wavelet-Based Gamma Model for Video Traffic in Wireless Multi-hop Networks](https://link.springer.com/article/10.1007/s11277-019-06289-y), *Wireless Personal Communications (WPC)*, 2019, 107(1), pp. 565–587. (**SCI**)
-6. **Hang Shen**, Guangwei Bai\*, Lu Zhao, Jinfeng Ge and Zhenmin Tang. [L2OR: Low-Cost Low-Complexity Opportunistic Routing for Wireless Sensor Networks](https://link.springer.com/article/10.1007/s11277-014-2214-0), *Wireless Personal Communications  (WPC)*, 2015, 82(1), pp. 401-422. (**SCI**)
+4. Yu Liu, **Hang Shen\***, Tianjing Wang, and Guangwei Bai. Vehicle Counting in the UAV: An Adaptive Approach with Spatial Attention and Multi-Scale Receptive Fields, *Wiley ETRI Journal*, 2024, to appear. (**SCI**)
+5. Ziyuan Tong, **Hang Shen\***, Ning Shi, Tianjing Wang, Guangwei Bai. [Joint resource optimization for nonorthogonal multiple access-enhanced scalable video coding multicast in unmanned aerial vehicle-assisted radio-access networks](https://onlinelibrary.wiley.com/doi/10.4218/etrij.2022-0136), *Wiley ETRI Journal*, 2023, 45(5), pp. 874-886.**[[Download](http://shen-hang.github.io/files/ETRI2023.pdf)]** (**SCI**)
+6. **Hang Shen**, Guangwei Bai\*, Junyuan Wang and Lu Zhao. [WGM: Wavelet-Based Gamma Model for Video Traffic in Wireless Multi-hop Networks](https://link.springer.com/article/10.1007/s11277-019-06289-y), *Wireless Personal Communications (WPC)*, 2019, 107(1), pp. 565–587. (**SCI**)
+
 
 ![Visitor Count](https://profile-counter.glitch.me/shen-hang/count.svg)
