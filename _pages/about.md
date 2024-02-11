@@ -62,7 +62,7 @@ redirect_from:
 
 沈航，博士、副教授、硕导，入选“江苏省六大人才高峰”高层次人才计划、“南工英才”优秀青年科技创新人才计划、“南工科技人才”培育计划。毕业于南京理工大学(优秀博士毕业生/优秀博士学位论文/博士生国奖获得者)，师从白光伟教授、唐振民教授。曾在加拿大滑铁卢大学电子与计算机工程系BBCR实验室 (Broadband Communications Research Laboratory)担任全职博士后研究员，师从Weihua Zhuang教授(加拿大皇家科学院院士、加拿大工程院院士、IEEE Fellow)。
 
-主要研究空天地一体化网络、网络安全与隐私计算、AI大模型等。以第一作者在IEEE TMC、IEEE TBC、IEEE TVT、IEEE ICC等著名国际期刊和会议发表论文20余篇；指导学生发表论文90余篇。参编学术专著《Encyclopedia of Wireless Networks》；授权国家发明专利30余项。主持国家自然科学基金项目和省自然科学基金项目3项，厅级项目2项，国家/省重点实验室开放课题3项，横向项目5项。获得2022年中国特种设备检测协会科学技术二等奖 (排名第三)，2021年中国电力联合会科技创新二等奖 (排名第三)，2020年中国仪器仪表学会科技进步二等奖 (排名第五)，2016年南京市自然科学优秀论文奖 (排名第一)，2011年江苏省网络与云计算学术会议优秀论文奖 (排名第一)。现任JCR期刊IEEE Access和Journal of Information Processing Systems副编辑 (Associate Editor)，曾任SCI期刊Peer-to-Peer Networking and Applications客座编委 (Guest Editor)和Annual International Conference on Privacy, Security and Trust (PST) 2021的TPC成员。沈航是CCF高级会员，CAAI会员、ACM南京分会执委，IEEE计算机学会会员、IEEE通信学会会员、IEEE车载技术学会会员。曾获计算机学院青年教师授课大赛一等奖。
+主要研究空天地一体化网络、网络安全与隐私计算、AI大模型等。以第一作者在IEEE TMC、IEEE TBC、IEEE TVT、IEEE ICC等著名国际期刊和会议发表论文20余篇；指导学生发表论文90余篇。参编学术专著《Encyclopedia of Wireless Networks》；授权国家发明专利30余项。主持国家自然科学基金项目和省自然科学基金项目3项，厅级项目2项，国家/省重点实验室开放课题3项，横向项目5项。获得2022年中国特种设备检测协会科学技术二等奖 (排名第三)，2021年中国电力联合会科技创新二等奖 (排名第三)，2020年中国仪器仪表学会科技进步二等奖 (排名第五)，2016年南京市自然科学优秀论文奖 (排名第一)，2011年江苏省网络与云计算学术会议优秀论文奖 (排名第一)。现任JCR期刊IEEE Access和Journal of Information Processing Systems副编辑 (Associate Editor)，曾任SCI期刊Peer-to-Peer Networking and Applications客座编委 (Guest Editor)和2021 Annual International Conference on Privacy, Security and Trust (PST)的TPC成员。沈航是CCF高级会员，CAAI会员、ACM南京分会执委，IEEE计算机学会会员、IEEE通信学会会员、IEEE车载技术学会会员。曾获计算机学院青年教师授课大赛一等奖。
 
 指导学生获得国家奖学金/优秀毕业研究生/优秀硕士学位论文/优秀本科毕业论文。课题组毕业同学就职于顶级IT企业 (包括：华为南京、上海、深圳、武汉研究所、大疆、展锐、海康、大华、华勤、微软、爱立信、诺基亚、三星研究院等) 和科技金融机构 (包括：微众银行、南京证券、中国银行等) 或在知名高校攻读博士论文。
 
