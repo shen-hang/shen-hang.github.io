@@ -39,6 +39,7 @@ redirect_from:
   - IEEE Communications Letters
   - Wireless Networks (WINE)
   - Concurrency and Computation: Practice and Experience (CCPE)
+  - Peer-to-Peer Networking and Applications (PPNA)
   - Robotics and Autonomous Systems (RAS)
   - Measurement
   - Multimedia Tools and Applications (MTAP)
