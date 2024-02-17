@@ -41,9 +41,10 @@ redirect_from:
   - IEEE Communications Letters
   - ACM/Springer Wireless Networks (WINE)
   - Concurrency and Computation: Practice and Experience (CCPE)
+  - Peer-to-Peer Networking and Applications (PPNA)
   - Elsevier Robotics and Autonomous Systems (RAS)
   - Elsevier Measurement (MEAS)
-  - Springer Multimedia Tools and Applications (MTAP)
+  - Multimedia Tools and Applications (MTAP)
   - Journal of Communications and Information Networks (JCIN)
   - Knowledge-Based Systems (KBS)
   - Journal on Communications (通信学报)
