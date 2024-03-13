@@ -25,7 +25,7 @@ redirect_from:
  
 **C. Mobile Multimedia**
 
-1. **Hang Shen** and Guangwei Bai\*. [QoS-Guaranteed Wireless Broadcast Scheduling with Network Coding and Rate Adaptation](http://ieeexplore.ieee.org/abstract/document/8291004/), *IEEE Transactions on Vehicular Technology (TVT)*, 2018, 67(7), pp. 6492-6503. (**Top Journal**, **中科院计算机二区**) **[[Download](http://shen-hang.github.io/files/TVT2018.pdf)]** 
+1. **Hang Shen** and Guangwei Bai\*. [QoS-Guaranteed Wireless Broadcast Scheduling with Network Coding and Rate Adaptation](http://ieeexplore.ieee.org/abstract/document/8291004/), *IEEE Transactions on Vehicular Technology (TVT)*, 2018, 67(7), pp. 6492-6503. (**中科院计算机二区Top**) **[[Download](http://shen-hang.github.io/files/TVT2018.pdf)]** 
 2. Yiren Gu, **Hang Shen\***, Guangwei Bai, Tianjing Wang et al. [QoI-Aware Incentive for Multimedia Crowdsensing Enabled Learning System](https://link.springer.com/article/10.1007/s00530-019-00616-w), *Multimedia Systems*, 2020, 26(1), pp. 3-16. (**CCF推荐国际期刊**)
 3. Yu Liu, **Hang Shen\***, Tianjing Wang, and Guangwei Bai. Vehicle Counting in UAV Images: An Adaptive Approach with Spatial Attention and Multi-Scale Receptive Fields, *Wiley ETRI Journal*, 2024, DOI: 10.4218/etrij.2023-0426. (**SCI**)
 4. Ziyuan Tong, **Hang Shen\***, Ning Shi, Tianjing Wang, Guangwei Bai. [Joint resource optimization for nonorthogonal multiple access-enhanced scalable video coding multicast in unmanned aerial vehicle-assisted radio-access networks](https://onlinelibrary.wiley.com/doi/10.4218/etrij.2022-0136), *Wiley ETRI Journal*, 2023, 45(5), pp. 874-886.**[[Download](http://shen-hang.github.io/files/ETRI2023.pdf)]** (**SCI**)
