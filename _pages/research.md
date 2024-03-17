@@ -58,7 +58,8 @@ redirect_from:
   - IEEE Conference on Vehicular Technology (VTC)
   - IEEE INFOCOM WKSHPS
 - Member, Institute of Electrical and Electronics Engineers (IEEE) (2018-present)
-- Member, IEEE Communications Society (ComSoc) (present)
+- Member, IEEE Computer Society (2023-present)
+- Member, IEEE Communications Society (ComSoc) (2020-present)
 - Member, IEEE Vehicular Technology Society (VTS) (2020-present)
 - Member, Association for Computing Machinery (ACM) (2015-present)
 - Executive Committee Member, ACM Nanjing Chapter (2014-present)
