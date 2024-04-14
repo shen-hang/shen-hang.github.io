@@ -34,6 +34,7 @@ redirect_from:
   - IEEE Transactions on Intelligent Transportation Systems (TITS) 
   - IEEE Transactions on Broadcasting (TBC)
   - IEEE Transactions on Vehicular Technology (TVT)
+  - IEEE Transactions on Green Communications and Networking (TGCN) 
   - IEEE Network Magazine
   - IEEE Systems Journal
   - IEEE Communications Letters
