@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # Recent Highlights
-- May 2024:  Congrats!!!  张羽同学的论文“Task Partitioning and Scheduling Based on Stochastic Policy Gradient in Mobile Crowdsensing ”被国际著名期刊《IEEE Transactions on Computational Social Systems》录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
+- May 2024:  Congrats!!!  张羽同学的论文“Task Partitioning and Scheduling Based on Stochastic Policy Gradient in Mobile Crowdsensing ”被国际著名期刊《IEEE Transactions on Computational Social Systems》以长文形式录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Feb. 2024:  Congrats!!! 张贝宁同学的论文“Consortium Blockchain-Based Secure Cross-Operator V2V Video Content Distribution”被CCF推荐SCI期刊《Peer-to-Peer Networking and Applications》录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jan. 2024:  Congrats!!! 刘宇同学的论文“Vehicle Counting in UAV Images: An Adaptive Approach with Spatial Attention and Multi-Scale Receptive Fields” 被SCI期刊《ETRI Journal》录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jan. 2024:  沈航博士应邀担任JCR期刊《Journal of Information Processing Systems》副编辑(Associate Editor). ![avatar](https://shen-hang.github.io//images/new.jpg)
