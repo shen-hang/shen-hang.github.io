@@ -36,6 +36,7 @@ redirect_from:
   - IEEE Transactions on Intelligent Transportation Systems (TITS) 
   - IEEE Transactions on Broadcasting (TBC)
   - IEEE Transactions on Vehicular Technology (TVT)
+  - IEEE Transactions on Green Communications and Networking (TGCN)
   - IEEE Network Magazine
   - IEEE Systems Journal
   - IEEE Communications Letters
@@ -82,8 +83,8 @@ DOI: 10.1109/TCSS.2024.3398430.
 5. **Hang Shen** and Guangwei Bai\*. [QoS-Guaranteed Wireless Broadcast Scheduling with Network Coding and Rate Adaptation](http://ieeexplore.ieee.org/abstract/document/8291004/), *IEEE Transactions on Vehicular Technology (TVT)*, 2018, 67(7), pp. 6492-6503.  **[[Download](http://shen-hang.github.io/files/paper2.pdf)]** 
 6. Fang Li, **Hang Shen\***, Jieai Mai, Tianjing Wang, Yuanfei Dai, Xiaodong Miao. [Pre-trained Language Model-Enhanced Conditional Generative Adversarial Networks for Intrusion Detection](https://link.springer.com/article/10.1007/s12083-023-01595-6),  *Peer-to-Peer Networking and Applications (PPNA)*, 2024, 17, pp. 227–245. 
 7. **Hang Shen** , Xin Liu, Ning Shi, Tianjing Wang* and Guangwei Bai, [Blockchain-Enabled Solution for Secure and Scalable V2V Video Content Dissemination](https://link.springer.com/article/10.1007/s12083-022-01432-2), *Peer-to-Peer Networking and Applications (PPNA)*, 2023, 16(3), pp. 554–570. **[[Download](http://shen-hang.github.io/files/PPNA2022.pdf)]** 
-8. **Hang Shen**, Beining Zhang, Tianjing Wang\*, Xin Liu, and Guangwei Bai. [Consortium Blockchain-Based Secure Cross-Operator V2V Video Content Distribution](https://link.springer.com/journal/12083), *Peer-to-Peer Networking and Applications (PPNA)*, 2024, DOI: 10.1007/s12083-024-01674-2. (**CCF Rank, SCI**)
-9. Beining Zhang, **Hang Shen\***, Tianjing Wang, and Guangwei Bai. [Invisible Man: Blockchain-enabled peer-to-peer collaborative privacy games in LBSs](https://link.springer.com/article/10.1007/s12083-024-01728-5), *Peer-to-Peer Networking and Applications*, 2024, DOI: 10.1007/s12083-024-01728-5. (**CCF Rank, SCI**)
+8. **Hang Shen**, Beining Zhang, Tianjing Wang\*, Xin Liu, and Guangwei Bai. [Consortium Blockchain-Based Secure Cross-Operator V2V Video Content Distribution](https://link.springer.com/journal/12083), *Peer-to-Peer Networking and Applications (PPNA)*, 2024, DOI: 10.1007/s12083-024-01674-2. 
+9. Beining Zhang, **Hang Shen\***, Tianjing Wang, and Guangwei Bai. [Invisible Man: Blockchain-enabled peer-to-peer collaborative privacy games in LBSs](https://link.springer.com/article/10.1007/s12083-024-01728-5), *Peer-to-Peer Networking and Applications*, 2024, DOI: 10.1007/s12083-024-01728-5. 
 10. **Hang Shen**, Guangwei Bai\*, Yujia Hu and Tianjing Wang. [P2TA: Privacy-Preserving Task Allocation for Edge Computing Enhanced Mobile Crowdsensing](https://www.sciencedirect.com/science/article/pii/S138376211830451X), *Elsevier Journal of Systems Architecture (JSA)*, 97(2019), pp. 130-141. 
 11. Yiren Gu, **Hang Shen\***, Guangwei Bai, Tianjing Wang et al. [QoI-Aware Incentive for Multimedia Crowdsensing Enabled Learning System](https://link.springer.com/article/10.1007/s00530-019-00616-w), *Multimedia Systems*, 2020, 26(1), pp. 3-16. 
 12. **Hang Shen**, Guangwei Bai\*, Junyuan Wang and Lu Zhao. [WGM: Wavelet-Based Gamma Model for Video Traffic in Wireless Multi-hop Networks](https://link.springer.com/article/10.1007/s11277-019-06289-y), *Wireless Personal Communications (WPC)*, 2019, 107(1), pp. 565–587. 
