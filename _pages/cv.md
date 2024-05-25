@@ -28,7 +28,7 @@ redirect_from:
 - Editor for Journals
   - Associate Editor, Journal of Information Processing Systems (JIPS) (2024-present)
   - Associate Editor, IEEE Access (2020-present)
-  - Academic Editor, Mathematical Problems in Engineering (MPE) (2020-present)
+  - Academic Editor, Mathematical Problems in Engineering (MPE) (2020-2024)
   - Guest Editor, Peer-to-Peer Networking and Applications (PPNA) (2018-2019)
 - Reviewer for Journals
   - IEEE Transactions on Mobile Computing (TMC)
