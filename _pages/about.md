@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 # Recent Highlights
+- May. 2024:  Congrats!!! 张贝宁同学的硕士学位论文“基于区块链的协作查询隐私保护方法研究”被答辩委员会推荐为“**优秀研究生论文**”. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - May 2024:  Congrats!!!  张羽同学的论文“Task Partitioning and Scheduling Based on Stochastic Policy Gradient in Mobile Crowdsensing ”被国际著名期刊《IEEE Transactions on Computational Social Systems》以长文形式录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - May 2024:  Congrats!!! 张贝宁同学的论文“Invisible Man: Blockchain-enabled peer-to-peer collaborative privacy games in LBSs”被CCF推荐SCI期刊《Peer-to-Peer Networking and Applications》录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Feb. 2024:  Congrats!!! 张贝宁同学的论文“Consortium Blockchain-Based Secure Cross-Operator V2V Video Content Distribution”被CCF推荐SCI期刊《Peer-to-Peer Networking and Applications》录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
