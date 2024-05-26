@@ -17,7 +17,7 @@ redirect_from:
 - Nov. 2023:  Congrats!!! 李芳同学的论文“Pre-trained Language Model-Enhanced Conditional Generative Adversarial Networks for Intrusion Detection”被CCF推荐SCI期刊《Peer-to-Peer Networking and Applications》录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Oct. 2023:  Congrats!!! 童子源同学的论文“UAV-Relay-Assisted Live Layered Video Multicast for Cell-Edge Users in NOMA Networks”被《IEEE Transactions on Broadcasting》(**中科院计算机科学一区Top期刊**)以长文形式录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - May. 2023:  Congrats!!! 田一博同学的论文“Slicing-Based Task Offloading in Space-Air-Ground Integrated Vehicular Networks”被计算机网络领域顶级期刊《IEEE Transactions on Mobile Computing》(**CCF推荐A类国际期刊**)以长文形式录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
-- May. 2023:  Congrats!!! 童子源同学的硕士学位论文“无人机辅助的NOMA无线网络弹性视频多播机制研究”被答辩委员会评为“**优秀研究生论文**”. ![avatar](https://shen-hang.github.io//images/new.jpg)
+- May. 2023:  Congrats!!! 童子源同学的硕士学位论文“无人机辅助的NOMA无线网络弹性视频多播机制研究”被答辩委员会推荐为“**优秀研究生论文**”. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Apr. 2023:  Congrats!!! 殷珉同学的论文“基于分层联邦学习的无人机小基站RAN切片方法”被《电子学报》(**CCF推荐A类中文期刊**)录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jan. 2023:  “领域知识图谱构建和应用系统研发”项目获得资助并启动. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Nov. 2022:  Congrats!!! 刘鑫同学的论文“Blockchain-Enabled Solution for Secure and Scalable V2V Video Content Dissemination”被CCF推荐SCI期刊《Peer-to-Peer Networking and Applications》录用. 
