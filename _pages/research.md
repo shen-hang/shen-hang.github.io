@@ -46,6 +46,7 @@ redirect_from:
   - Multimedia Tools and Applications (MTAP)
   - Journal of Communications and Information Networks (JCIN)
   - Knowledge-Based Systems (KBS)
+  - International Journal of Data Science and Analytics
   - ETRI Journal
   - Applied Computational Intelligence and Soft Computing
   - 通信学报
