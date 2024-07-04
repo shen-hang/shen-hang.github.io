@@ -65,10 +65,11 @@ redirect_from:
 - Executive Committee Member, ACM Nanjing Chapter (2014-present)
 - Member (2011-2020), Senior Member (2020-present), China Computer Federation (CCF) 
 - Technical Committee Member
+  - 2024 IEEE International Conference on High Performance Computing and Communications (HPCC)
+  - 2021 Annual International Conference on Privacy, Security and Trust (PST)
   - CCF Network and Data Communications (TCCOMM) (2015-present)
-  - 18th Annual International Conference on Privacy, Security and Trust (PST2021)
   - International Conference on Advanced Cloud and Big Data (CBD) (2015-2021)
-  - 4th International Conference on Pattern Recognition and Artificial Intelligence (2021)
+  - 2021 International Conference on Pattern Recognition and Artificial Intelligence
   - Conference on Network and Data Communications in China (NDCC) (2016, 2018)
 
 # Publications
