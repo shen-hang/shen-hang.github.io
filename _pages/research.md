@@ -28,6 +28,13 @@ redirect_from:
 - Associate Editor, IEEE Access (2020-present)
 - Academic Editor, Mathematical Problems in Engineering (MPE) (2020-2024)
 - Guest Editor,  Special Issue “Fog/Edge Networking for Multimedia Applications” in Peer-to-Peer Networking and Applications (2018-2019)
+- Technical Committee Member
+  - 2024 IEEE International Conference on High Performance Computing and Communications (HPCC)
+  - 2021 Annual International Conference on Privacy, Security and Trust (PST)
+  - CCF Network and Data Communications (TCCOMM) (2015-present)
+  - International Conference on Advanced Cloud and Big Data (CBD) (2015-2021)
+  - 2021 International Conference on Pattern Recognition and Artificial Intelligence
+  - Conference on Network and Data Communications in China (NDCC) (2016, 2018)
 - Reviewer for Journals
   - IEEE Transactions on Mobile Computing (TMC)
   - IEEE Transactions on Wireless Communications (TWC)
@@ -53,13 +60,6 @@ redirect_from:
   - 物联网学报
   - 网络与信息安全学报
   - 信息网络安全
-- Technical Committee Member
-  - 2024 IEEE International Conference on High Performance Computing and Communications (HPCC)
-  - 2021 Annual International Conference on Privacy, Security and Trust (PST)
-  - CCF Network and Data Communications (TCCOMM) (2015-present)
-  - International Conference on Advanced Cloud and Big Data (CBD) (2015-2021)
-  - 2021 International Conference on Pattern Recognition and Artificial Intelligence
-  - Conference on Network and Data Communications in China (NDCC) (2016, 2018)
 - Reviewer for International Conferences
   - IEEE International Conference on Parallel and Distributed Systems (ICPADS)
   - IEEE International Conference on Communications (ICC)
