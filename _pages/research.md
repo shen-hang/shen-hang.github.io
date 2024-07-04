@@ -69,8 +69,9 @@ redirect_from:
 - Senior Member, CCF (2020-2022)
 - Member, Chinese Association for Artificial Intelligence (CAAI) (2022-present)
 - Technical Committee Member
+  - 2024 IEEE International Conference on High Performance Computing and Communications (HPCC)
+  - 2021 Annual International Conference on Privacy, Security and Trust (PST)
   - CCF Network and Data Communications (TCCOMM) (2015-present)
-  - 18th Annual International Conference on Privacy, Security and Trust (PST2021)
   - International Conference on Advanced Cloud and Big Data (CBD) (2015-2021)
   - 4th International Conference on Pattern Recognition and Artificial Intelligence (2021)
   - Conference on Network and Data Communications in China (NDCC) (2016, 2018)
