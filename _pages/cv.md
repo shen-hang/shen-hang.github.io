@@ -30,6 +30,13 @@ redirect_from:
   - Associate Editor, IEEE Access (2020-present)
   - Academic Editor, Mathematical Problems in Engineering (MPE) (2020-2024)
   - Guest Editor, Peer-to-Peer Networking and Applications (PPNA) (2018-2019)
+- Technical Committee Member
+  - 2024 IEEE International Conference on High Performance Computing and Communications (HPCC)
+  - 2021 Annual International Conference on Privacy, Security and Trust (PST)
+  - CCF Network and Data Communications (TCCOMM) (2015-present)
+  - International Conference on Advanced Cloud and Big Data (CBD) (2015-2021)
+  - 2021 International Conference on Pattern Recognition and Artificial Intelligence
+  - Conference on Network and Data Communications in China (NDCC) (2016, 2018)  
 - Reviewer for Journals
   - IEEE Transactions on Mobile Computing (TMC)
   - IEEE Transactions on Wireless Communications (TWC)
@@ -51,13 +58,6 @@ redirect_from:
   - Journal on Communications (通信学报)
   - Chinese Journal on Internet of Things (物联网学报)
   - Chinese Jouurnal of Network and Information Security (网络与信息安全学报)
-- Technical Committee Member
-  - 2024 IEEE International Conference on High Performance Computing and Communications (HPCC)
-  - 2021 Annual International Conference on Privacy, Security and Trust (PST)
-  - CCF Network and Data Communications (TCCOMM) (2015-present)
-  - International Conference on Advanced Cloud and Big Data (CBD) (2015-2021)
-  - 2021 International Conference on Pattern Recognition and Artificial Intelligence
-  - Conference on Network and Data Communications in China (NDCC) (2016, 2018)  
 - Reviewer for International Conferences
   - IEEE International Conference on Parallel and Distributed Systems (ICPADS)
   - IEEE International Conference on Communications (ICC)
