@@ -73,7 +73,7 @@ redirect_from:
   - 2021 Annual International Conference on Privacy, Security and Trust (PST)
   - CCF Network and Data Communications (TCCOMM) (2015-present)
   - International Conference on Advanced Cloud and Big Data (CBD) (2015-2021)
-  - 4th International Conference on Pattern Recognition and Artificial Intelligence (2021)
+  - 2021 International Conference on Pattern Recognition and Artificial Intelligence
   - Conference on Network and Data Communications in China (NDCC) (2016, 2018)
 
 ![Visitor Count](https://profile-counter.glitch.me/shen-hang/count.svg)
