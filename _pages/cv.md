@@ -9,7 +9,7 @@ redirect_from:
 
 # Experience
 
-* Associate Professor, Department of Computer Science & Technology, Nanjing Tech University, Nanjing, China (Jan 2019 -- Present: )
+* Associate Professor, Department of Computer Science & Technology, Nanjing Tech University, Nanjing, China (Jan 2019 -- Present)
 
 * Full-Time Postdoctoral Fellow, Broadband Communications Research (BBCR) Lab, Department of Electrical & Computer Engineering, University of Waterloo, Waterloo, ON, Canada, Supervisor: Prof. Weihua Zhuang (IEEE Fellow) (Aug 2018 -- Aug 2019)
 
@@ -19,9 +19,8 @@ redirect_from:
 
 # Research Interests
 
-* Artificial Intelligence for 5G/6G Network Slicing
-* Space-Air-Ground Integrated Networks
-* Blockchain-based Network Security
+* Artificial Intelligence for Future Networks
+* Blockchain and Cyberecurity
 
 # Professional Activities
 
