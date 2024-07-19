@@ -101,7 +101,7 @@ DOI: 10.1109/TCSS.2024.3398430. **[[Download](http://shen-hang.github.io/files/T
 
 **B. Conference articles (\* indicates the correspondence author)**
 
-1. Hang Shen, Yanjing Zhou, **Tianjing Wang\***, et al. Blockchain-Assisted Cross-silo Graph Federated Learning for Network Intrusion Detection, *IEEE Global Blockchain Conference (GBC)*, ShangHai, China, Oct/Nov, 2024, Accepted for publication. 
+1. **Hang Shen**, Yanjing Zhou, Tianjing Wang\*, et al. Blockchain-Assisted Cross-silo Graph Federated Learning for Network Intrusion Detection, *IEEE Global Blockchain Conference (GBC)*, ShangHai, China, Oct/Nov, 2024, Accepted for publication. 
 2. Beining Zhang, **Hang Shen\***, Tianjing Wang, and Guangwei Bai. Monero Covert Communication-Enhanced Collaboration for Privacy-Preserving Queries, *IEEE Global Blockchain Conference (GBC)*, ShangHai, China, Oct/Nov, 2024, Accepted for publication. 
 3. **Hang Shen**, Yilong Hen, Ning Shi, Tianjing Wang and Guangwei Bai\*. Drone-Small-Cell-Assisted Spectrum Management for 5G and Beyond Vehicular Networks, in *Proc. of the IEEE Symposium on Computers and Communications (ISCC)*,  Rhodes Island, Greece 30th June - 3rd July, 2022.  **[[Download](http://shen-hang.github.io/files/ISCC2022.pdf)]**
 4. **Hang Shen**, Jiajia Xu, Tianjing Wang and Guangwei Bai\*. [Detecting Link Correlation Spoofing Attack: A Beacon-Trap Approach](https://ieeexplore.ieee.org/document/8761835), in *Proc. of the 53rd IEEE International Conference on Communications (ICC)*,  Regular Paper, Shanghai, China, May 20-24, 2019.   **[[Download](http://shen-hang.github.io/files/ICC2019.pdf)]** 
