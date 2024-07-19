@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 # Recent Highlights
-- Jul. 2024: Congrats!!! 张贝宁同学的论文"Monero Covert Communication-Enhanced Collaboration for Privacy-Preserving Queries"被IEEE Global Blockchain Conference(IEEE区块链学会旗舰会议)以长文形式录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jul. 2024: Congrats!!! 周妍婧同学的论文"Blockchain-Assisted Cross-silo Graph Federated Learning for Network Intrusion Detection"被IEEE Global Blockchain Conference(IEEE区块链学会旗舰会议)以长文形式录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
+- Jul. 2024: Congrats!!! 张贝宁同学的论文"Monero Covert Communication-Enhanced Collaboration for Privacy-Preserving Queries"被IEEE Global Blockchain Conference(IEEE区块链学会旗舰会议)以长文形式录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jul. 2024: 沈航博士应邀担任CCF推荐国际会议IEEE International Conference on High Performance Computing and Communications (HPCC)的TPC成员. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - May. 2024:  Congrats!!! 张贝宁同学的硕士学位论文“基于区块链的协作查询隐私保护方法研究”被答辩委员会推荐为“**优秀研究生论文**”. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - May. 2024:  Congrats!!! 朱天赐同学的毕设论文“CPU-GPU异构计算平台上稀疏矩阵乘性能优化研究”被推荐为“**优秀本科毕业论文**”. ![avatar](https://shen-hang.github.io//images/new.jpg)
