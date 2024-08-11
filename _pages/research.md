@@ -49,6 +49,7 @@ redirect_from:
   - Wireless Networks (WINE)
   - Concurrency and Computation: Practice and Experience (CCPE)
   - Peer-to-Peer Networking and Applications (PPNA)
+  - Cluster Computing
   - Robotics and Autonomous Systems (RAS)
   - Measurement
   - Multimedia Tools and Applications (MTAP)
