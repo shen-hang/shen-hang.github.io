@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+**<mark>招收大模型、车联网、网络安全方向的研究生，欢迎与我联系。</mark>**
+
 **<mark>招募领域大模型和知识图谱开发者（实际项目、非大创），欢迎感兴趣的本科同学与我联系。</mark>**
 
 # Recent Highlights
