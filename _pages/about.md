@@ -9,6 +9,8 @@ redirect_from:
 ---
 
 # Recent Highlights
+- Aug 2024: 横向项目“工业定检大模型及知识图谱设计”获得立项并启动. ![avatar](https://shen-hang.github.io//images/new.jpg)
+- Aug 2024: 横向项目“农产数据知识图谱和大语言模型”获得立项并启动. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jul. 2024: 沈航博士应邀担任国际期刊《Frontiers in Blockchain》(IF 1.9)副编辑(Associate Editor). ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jul. 2024: Congrats!!! 周妍婧同学的论文"Blockchain-Assisted Cross-silo Graph Federated Learning for Network Intrusion Detection"被IEEE Global Blockchain Conference (GBC)(IEEE区块链学会旗舰会议)以长文形式录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jul. 2024: Congrats!!! 张贝宁同学的论文"Monero Covert Communication-Enhanced Collaboration for Privacy-Preserving Queries"被IEEE Global Blockchain Conference (GBC)(IEEE区块链学会旗舰会议)以长文形式录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
