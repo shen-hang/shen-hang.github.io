@@ -13,30 +13,30 @@ redirect_from:
 **招募领域大模型和知识图谱（实际项目、非大创）开发者，欢迎感兴趣的本科同学联系我。**
 
 # Recent Highlights
-- Aug 2024: 横向项目“工业定检大模型及知识图谱设计”获得立项并启动. ![avatar](https://shen-hang.github.io//images/new.jpg)
-- Aug 2024: 横向项目“农产数据知识图谱和大语言模型”获得立项并启动. ![avatar](https://shen-hang.github.io//images/new.jpg)
-- Jul. 2024: 沈航博士应邀担任国际期刊Frontiers in Blockchain (IF 1.9)副编辑(Associate Editor). ![avatar](https://shen-hang.github.io//images/new.jpg)
+- Aug. 2024: 横向项目“工业定检大模型及知识图谱设计”获得立项并启动. ![avatar](https://shen-hang.github.io//images/new.jpg)
+- Aug. 2024: 横向项目“农产数据知识图谱和大语言模型”获得立项并启动. ![avatar](https://shen-hang.github.io//images/new.jpg)
+- Jul. 2024: 沈航博士应邀SCI期刊Frontiers in Blockchain (IF 1.9)副编辑(Associate Editor). ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jul. 2024: Congrats!!! 周妍婧同学的论文"Blockchain-Assisted Cross-silo Graph Federated Learning for Network Intrusion Detection"被IEEE区块链学会旗舰会议IEEE Global Blockchain Conference (GBC)以长文形式录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jul. 2024: Congrats!!! 张贝宁同学的论文"Monero Covert Communication-Enhanced Collaboration for Privacy-Preserving Queries"被IEEE区块链学会旗舰会议IEEE Global Blockchain Conference (GBC)以长文形式录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jul. 2024: 沈航博士应邀担任CCF推荐国际会议IEEE International Conference on High Performance Computing and Communications (HPCC)的TPC成员. ![avatar](https://shen-hang.github.io//images/new.jpg)
-- May. 2024:  Congrats!!! 张贝宁同学的硕士学位论文“基于区块链的协作查询隐私保护方法研究”被答辩委员会推荐为“**优秀研究生论文**”. ![avatar](https://shen-hang.github.io//images/new.jpg)
-- May. 2024:  Congrats!!! 朱天赐同学的毕设论文“CPU-GPU异构计算平台上稀疏矩阵乘性能优化研究”被推荐为“**优秀本科毕业论文**”. ![avatar](https://shen-hang.github.io//images/new.jpg)
-- May 2024:  Congrats!!!  张羽同学的论文“Task Partitioning and Scheduling Based on Stochastic Policy Gradient in Mobile Crowdsensing ”被国际著名期刊IEEE Transactions on Computational Social Systems以长文形式录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
-- May 2024:  Congrats!!! 张贝宁同学的论文“Invisible Man: Blockchain-enabled peer-to-peer collaborative privacy games in LBSs”被CCF推荐SCI期刊Peer-to-Peer Networking and Applications录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
-- Feb. 2024:  Congrats!!! 张贝宁同学的论文“Consortium Blockchain-Based Secure Cross-Operator V2V Video Content Distribution”被CCF推荐SCI期刊Peer-to-Peer Networking and Applications录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
-- Jan. 2024:  Congrats!!! 刘宇同学的论文“Vehicle Counting in UAV Images: An Adaptive Approach with Spatial Attention and Multi-Scale Receptive Fields” 被SCI期刊ETRI Journal录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
-- Jan. 2024:  沈航博士应邀担任国际期刊Journal of Information Processing Systems(IF 0.8)副编辑(Associate Editor). ![avatar](https://shen-hang.github.io//images/new.jpg) 
-- Nov. 2023:  Congrats!!! 李芳同学的论文“Pre-trained Language Model-Enhanced Conditional Generative Adversarial Networks for Intrusion Detection”被CCF推荐SCI期刊Peer-to-Peer Networking and Applications录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
-- Oct. 2023:  Congrats!!! 童子源同学的论文“UAV-Relay-Assisted Live Layered Video Multicast for Cell-Edge Users in NOMA Networks”被IEEE Transactions on Broadcasting(**中科院计算机科学一区Top期刊**)以长文形式录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
-- May. 2023:  Congrats!!! 童子源同学的硕士学位论文“无人机辅助的NOMA无线网络弹性视频多播机制研究”被答辩委员会推荐为“**优秀研究生论文**”. ![avatar](https://shen-hang.github.io//images/new.jpg)
-- May. 2023:  Congrats!!! 田一博同学的论文“Slicing-Based Task Offloading in Space-Air-Ground Integrated Vehicular Networks”被计算机网络领域顶级期刊IEEE Transactions on Mobile Computing(**CCF推荐A类国际期刊**)以长文形式录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
-- Apr. 2023:  Congrats!!! 殷珉同学的论文“基于分层联邦学习的无人机小基站RAN切片方法”被电子学报(**CCF推荐A类中文期刊**)录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
-- Jan. 2023:  横向项目“领域知识图谱构建和应用系统研发”获得资助并启动. ![avatar](https://shen-hang.github.io//images/new.jpg)
-- Nov. 2022:  Congrats!!! 刘鑫同学的论文“Blockchain-Enabled Solution for Secure and Scalable V2V Video Content Dissemination”被CCF推荐SCI期刊《Peer-to-Peer Networking and Applications》录用. 
+- May. 2024: Congrats!!! 张贝宁同学的硕士学位论文“基于区块链的协作查询隐私保护方法研究”被答辩委员会推荐为“**优秀研究生论文**”. ![avatar](https://shen-hang.github.io//images/new.jpg)
+- May. 2024: Congrats!!! 朱天赐同学的毕设论文“CPU-GPU异构计算平台上稀疏矩阵乘性能优化研究”被推荐为“**优秀本科毕业论文**”. ![avatar](https://shen-hang.github.io//images/new.jpg)
+- May 2024: Congrats!!!  张羽同学的论文“Task Partitioning and Scheduling Based on Stochastic Policy Gradient in Mobile Crowdsensing ”被国际著名期刊IEEE Transactions on Computational Social Systems以长文形式录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
+- May 2024: Congrats!!! 张贝宁同学的论文“Invisible Man: Blockchain-enabled peer-to-peer collaborative privacy games in LBSs”被CCF推荐SCI期刊Peer-to-Peer Networking and Applications录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
+- Feb. 2024: Congrats!!! 张贝宁同学的论文“Consortium Blockchain-Based Secure Cross-Operator V2V Video Content Distribution”被CCF推荐SCI期刊Peer-to-Peer Networking and Applications录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
+- Jan. 2024: Congrats!!! 刘宇同学的论文“Vehicle Counting in UAV Images: An Adaptive Approach with Spatial Attention and Multi-Scale Receptive Fields” 被SCI期刊ETRI Journal录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
+- Jan. 2024: 沈航博士应邀担任SCI期刊Journal of Information Processing Systems(IF 0.8)副编辑(Associate Editor). ![avatar](https://shen-hang.github.io//images/new.jpg) 
+- Nov. 2023: Congrats!!! 李芳同学的论文“Pre-trained Language Model-Enhanced Conditional Generative Adversarial Networks for Intrusion Detection”被CCF推荐SCI期刊Peer-to-Peer Networking and Applications录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
+- Oct. 2023: Congrats!!! 童子源同学的论文“UAV-Relay-Assisted Live Layered Video Multicast for Cell-Edge Users in NOMA Networks”被IEEE Transactions on Broadcasting(**中科院计算机科学一区Top期刊**)以长文形式录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
+- May. 2023: Congrats!!! 童子源同学的硕士学位论文“无人机辅助的NOMA无线网络弹性视频多播机制研究”被答辩委员会推荐为“**优秀研究生论文**”. ![avatar](https://shen-hang.github.io//images/new.jpg)
+- May. 2023: Congrats!!! 田一博同学的论文“Slicing-Based Task Offloading in Space-Air-Ground Integrated Vehicular Networks”被计算机网络领域顶级期刊IEEE Transactions on Mobile Computing(**CCF推荐A类国际期刊**)以长文形式录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
+- Apr. 2023: Congrats!!! 殷珉同学的论文“基于分层联邦学习的无人机小基站RAN切片方法”被电子学报(**CCF推荐A类中文期刊**)录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
+- Jan. 2023: 横向项目“领域知识图谱构建和应用系统研发”获得资助并启动. ![avatar](https://shen-hang.github.io//images/new.jpg)
+- Nov. 2022: Congrats!!! 刘鑫同学的论文“Blockchain-Enabled Solution for Secure and Scalable V2V Video Content Dissemination”被CCF推荐SCI期刊Peer-to-Peer Networking and Applications录用. 
 - Nov. 2022: 沈航博士获得**“中国特种设备检测协会科学技术二等奖” (排名第三)**. 
 - Jun. 2022: 朱唯周同学的毕设论文“面向入侵检测的生成式对抗网络构建方法”被推荐为“**优秀本科毕业论文**”. 
-- Jun. 2022:  Congrats!!! 童子源同学的论文“Joint Resource Optimization for NOMA Enhanced SVC Multicast in UAV-Assisted Radio Access Networks”被SCI期刊ETRI Journal录用. 
-- Apr. 2022: Congrats!!! 衡奕龙同学的论文“Drone-Small-Cell-Assisted Spectrum Management for 5G and Beyond Vehicular Networks”被IEEE Symposium on Computers and Communications (ISCC)(CCF推荐国际会议)以长文形式录用. 
+- Jun. 2022: Congrats!!! 童子源同学的论文“Joint Resource Optimization for NOMA Enhanced SVC Multicast in UAV-Assisted Radio Access Networks”被SCI期刊ETRI Journal录用. 
+- Apr. 2022: Congrats!!! 衡奕龙同学的论文“Drone-Small-Cell-Assisted Spectrum Management for 5G and Beyond Vehicular Networks”被CCF推荐国际会议IEEE Symposium on Computers and Communications (ISCC)以长文形式录用. 
 - Jan. 2022: 东方航空-空铁一体化路由计算引擎v1.0(支持高并发和算力按需调度)开发完成.
 - Jan. 2022: 东方航空联运网络优化(二期)项目--路由算法验证启动.
 - Nov. 2021: 东方航空联运网络优化(一期)项目--空铁一体化动态路由计算引擎研发启动.
@@ -50,23 +50,23 @@ redirect_from:
 - Dec. 2020: 沈航博士获得**“中国仪器仪表学会科技进步二等奖”(排名第五)**.
 - Sep. 2020: 沈航博士当选中国计算机学会(CCF)高级会员.
 - Sep. 2020: 课题组同学获得中国高校网络技术挑战赛华东区三等奖.
-- Jul. 2020: 沈航博士应邀担任SCI期刊《IEEE Access》副编辑(Associate Editor).
-- Jun. 2020: 沈航博士应邀担任SCI期刊《Mathematical Problems in Engineering》编委(Academic Editor).
+- Jul. 2020: 沈航博士应邀担任SCI期刊IEEE Access副编辑(Associate Editor).
+- Jun. 2020: 沈航博士应邀担任SCI期刊Mathematical Problems in Engineering编委(Academic Editor).
 - Jun. 2020: 沈航博士获得江苏省自然科学基金面上项目立项.
 - Jun. 2020: Congrats!!! 顾伊人同学被评为南工优秀毕业研究生.
 - Nov. 2019: 沈航博士入选“南工英才”优秀青年科技创新人才计划.
 - Nov. 2019: Congrats!! 顾伊人同学获得国家奖学金.
-- Jun 2019: 沈航博士入选江苏省“六大人才高峰”高层次人才计划.
+- Jun. 2019: 沈航博士入选江苏省“六大人才高峰”高层次人才计划.
 - Jun. 2019: Congrats!!! 顾一鸣同学被评为南工优秀毕业研究生.
 - Jun. 2019: Congrats!!! 李伶俐的同学学位论文被评为南工优秀硕士学位论文. 
-- May 2019: 顾伊人同学的论文"QoI-Aware Incentive for Multimedia Crowdsensing Enabled Learning System"被SCI期刊《Multimedia Systems》(CCF推荐国际期刊)录用. 
+- May 2019: 顾伊人同学的论文"QoI-Aware Incentive for Multimedia Crowdsensing Enabled Learning System"被Multimedia Systems(CCF推荐国际期刊)录用. 
 - May 2019: 徐佳佳同学在IEEE通信学会旗舰会议IEEE ICC报告研究工作.
-- Mar. 2019: 我们的论文被SCI期刊《Wireless Personal Communications》录用.
+- Mar. 2019: 我们的论文被SCI期刊Wireless Personal Communications录用.
 - Feb. 2019: 我们的论文被IEEE ICC(CCF推荐国际会议)录用.
 - Feb. 2019: 我们的稿件 “Urban Big Data” 被《Encyclopedia of Wireless Networks》采用.
-- Jan. 2019: 我们的论文“P2TA: Privacy-Preserving Task Allocation for Edge Computing Enhanced Mobile Crowdsensing”被计算机体系结构领域国际权威期刊《Journal of Systems Architecture》(CCF推荐国际期刊)录用.
+- Jan. 2019: 我们的论文“P2TA: Privacy-Preserving Task Allocation for Edge Computing Enhanced Mobile Crowdsensing”被Journal of Systems Architecture(计算机体系结构领域国际著名期刊)录用.
 - Dec. 2018: 我们的稿件 “privacy game” 被《Encyclopedia of Wireless Networks》采用.
-- Jul. 2018: 我们的论文“ QoS-Guaranteed Wireless Broadcast Scheduling with Network Coding and Rate Adaptation”被知名国际期刊《IEEE Transactions on Vehicular Technology》录用.
+- Jul. 2018: 我们的论文“ QoS-Guaranteed Wireless Broadcast Scheduling with Network Coding and Rate Adaptation”被知名国际期刊IEEE Transactions on Vehicular Technology录用.
 - Jun. 2018: The Special Issue “Fog/Edge Networking for Multimedia Applications” we applied for is accepted in Springer Peer-to-Peer Networking and Applications (CCF推荐国际期刊).
 - Jul. 2018: 胡煜家同学的论文被CCF推荐国际会议以长文形式录用.
 - Jul. 2018: 顾伊人同学的论文被CCF推荐国际会议以长文形式录用.
