@@ -28,7 +28,7 @@ redirect_from:
 - Associate Editor, Journal of Information Processing Systems (JIPS) (2024-present)
 - Associate Editor, IEEE Access (2020-present)
 - Academic Editor, Mathematical Problems in Engineering (MPE) (2020-2024)
-- Guest Editor,  Special Issue “Fog/Edge Networking for Multimedia Applications” in Peer-to-Peer Networking and Applications (2018-2019)
+- Guest Editor, Special Issue “Fog/Edge Networking for Multimedia Applications” in Peer-to-Peer Networking and Applications (2018-2019)
 - Technical Committee Member
   - 2024 IEEE International Conference on High Performance Computing and Communications (HPCC)
   - 2021 Annual International Conference on Privacy, Security and Trust (PST)
@@ -39,7 +39,7 @@ redirect_from:
 - Reviewer for Journals
   - IEEE Transactions on Mobile Computing (TMC)
   - IEEE Transactions on Wireless Communications (TWC)
-  - IEEE Transactions on Intelligent Transportation Systems (TITS) 
+  - IEEE Transactions on Intelligent Transportation Systems (TITS)
   - IEEE Transactions on Broadcasting (TBC)
   - IEEE Transactions on Vehicular Technology (TVT)
   - IEEE Transactions on Network and Service Management (TNSM)
@@ -51,11 +51,12 @@ redirect_from:
   - Concurrency and Computation: Practice and Experience (CCPE)
   - Peer-to-Peer Networking and Applications (PPNA)
   - Cluster Computing
+  - Knowledge-Based Systems (KBS)
+  - Big Data Mining and Analytics (BDMA)
   - Robotics and Autonomous Systems (RAS)
   - Measurement
   - Multimedia Tools and Applications (MTAP)
   - Journal of Communications and Information Networks (JCIN)
-  - Knowledge-Based Systems (KBS)
   - International Journal of Data Science and Analytics
   - ETRI Journal
   - Applied Computational Intelligence and Soft Computing
