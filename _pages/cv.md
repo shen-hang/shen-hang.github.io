@@ -50,6 +50,7 @@ redirect_from:
   - ACM/Springer Wireless Networks (WINE)
   - Concurrency and Computation: Practice and Experience (CCPE)
   - Cluster Computing
+  - Big Data Mining and Analytics (BDMA)
   - Peer-to-Peer Networking and Applications (PPNA)
   - Elsevier Robotics and Autonomous Systems (RAS)
   - Elsevier Measurement (MEAS)
