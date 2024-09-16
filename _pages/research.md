@@ -79,6 +79,8 @@ redirect_from:
 - Member, China Computer Federation (CCF) (2011-2020)
 - Senior Member, CCF (2020-2022)
 - Member, Chinese Association for Artificial Intelligence (CAAI) (2022-present)
+- CCF网络与数据通信专委会委员
+- CCF物联网专委会委员
 
 
 ![Visitor Count](https://profile-counter.glitch.me/shen-hang/count.svg)
