@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 **Articles divided by research field (\* indicates the correspondence author)**<br/><br/>
-**A. Space-Air-Ground Integrated Networks (Future Networks)**  
+**A. Future Networks (Space-Air-Ground Integrated Networks)**  
 1. **Hang Shen\***, Yibo Tian, Tianjing Wang, and Guangwei Bai. [Slicing-Based Task Offloading in Space-Air-Ground Integrated Vehicular Networks](https://ieeexplore.ieee.org/document/10145842), *IEEE Transactions on Mobile Computing (TMC)*, 2024, 23(5): 4009-4024. (**CCF推荐A类国际期刊**) **[[Download](http://shen-hang.github.io/files/TMC2024.pdf)]** 
 2. **Hang Shen\***, Ziyuan Tong, Tianjing Wang, and Guangwei Bai. [UAV-Relay-Assisted Live Layered Video Multicast for Cell-Edge Users in NOMA Networks](https://ieeexplore.ieee.org/document/10314431), *IEEE Transactions on Broadcasting (TBC)*, 2024, 70(1):135-147. (**中科院计算机一区Top**) **[[Download](http://shen-hang.github.io/files/TBC2024.pdf)]** 
 3. **Hang Shen**, Qiang Ye\*, Weihua Zhuang, Weisen Shi, Guangwei Bai, and Geng Yang. [Drone-Small-Cell-Assisted Resource Slicing for 5G Uplink Radio Access Networks](https://ieeexplore.ieee.org/document/9440683),  *IEEE Transactions on Vehicular Technology (TVT)*, 2021, 70(7), pp. 7071-7086. (**中科院计算机二区Top**) **[[Download](http://shen-hang.github.io/files/TVT2021.pdf)]** 
