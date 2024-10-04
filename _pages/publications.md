@@ -19,7 +19,7 @@ redirect_from:
 
 
 **B. Mobile and Ubiquitous Computing**
-1. Tianjing Wang, Yu Zhang, **Hang Shen\***, and Guangwei Bai. [Task Partitioning and Scheduling Based on Stochastic Policy Gradient in Mobile Crowdsensing](https://ieeexplore.ieee.org/document/10550173), *IEEE Transactions on Computational Social Systems (TCSS)*, 2024, 11(5), pp. 6580 - 6591. (**中科院计算机二区**) **[[Download](http://shen-hang.github.io/files/TCSS2024.pdf)]** 
+1. Tianjing Wang, Yu Zhang, **Hang Shen\***, and Guangwei Bai. [Task Partitioning and Scheduling Based on Stochastic Policy Gradient in Mobile Crowdsensing](https://ieeexplore.ieee.org/document/10550173), *IEEE Transactions on Computational Social Systems (TCSS)*, 2024, 11(5), pp. 6580-6591. (**中科院计算机二区**) **[[Download](http://shen-hang.github.io/files/TCSS2024.pdf)]** 
 2. **Hang Shen** and Guangwei Bai\*. [QoS-Guaranteed Wireless Broadcast Scheduling with Network Coding and Rate Adaptation](http://ieeexplore.ieee.org/abstract/document/8291004/), *IEEE Transactions on Vehicular Technology (TVT)*, 2018, 67(7), pp. 6492-6503. (**中科院计算机二区Top**) **[[Download](http://shen-hang.github.io/files/TVT2018.pdf)]** 
 3. **Hang Shen**, Guangwei Bai\*, Yujia Hu and Tianjing Wang. [P2TA: Privacy-Preserving Task Allocation for Edge Computing Enhanced Mobile Crowdsensing](https://www.sciencedirect.com/science/article/pii/S138376211830451X), *Elsevier Journal of Systems Architecture (JSA)*, 97(2019), pp. 130-141. (**CCF推荐B类国际期刊**)
 4. Yiren Gu, **Hang Shen\***, Guangwei Bai, Tianjing Wang et al. [QoI-Aware Incentive for Multimedia Crowdsensing Enabled Learning System](https://link.springer.com/article/10.1007/s00530-019-00616-w), *Multimedia Systems*, 2020, 26(1), pp. 3-16. (**CCF推荐国际期刊**)
