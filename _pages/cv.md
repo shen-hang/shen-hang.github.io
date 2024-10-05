@@ -25,6 +25,7 @@ redirect_from:
 # Professional Activities
 
 - Editor for Journals
+  - Associate Editor, Frontiers in Blockchain (2024-present)
   - Associate Editor, Journal of Information Processing Systems (JIPS) (2024-present)
   - Associate Editor, IEEE Access (2020-present)
   - Academic Editor, Mathematical Problems in Engineering (MPE) (2020-2024)
