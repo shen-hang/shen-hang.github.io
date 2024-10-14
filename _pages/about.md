@@ -10,9 +10,10 @@ redirect_from:
 
 **招收车联网、网络安全、大模型及知识图谱方向的硕士生，也欢迎本科生加入课题组。**
 
-**招募领域大模型和知识图谱（实际项目）开发者，团队指导，欢迎感兴趣的本科同学联系我。**
+**招募领域大模型、知识图谱和嵌入式AI算法（实际项目）开发者，团队指导，欢迎感兴趣的本科同学联系我。**
 
 # Recent Highlights
+- Oct. 2024: 校企合作项目“基于深度强化学习的嵌入式泵组调度算法研发”获得立项. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Aug. 2024: 校企合作项目“工业定检大模型及知识图谱设计”获得立项. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Aug. 2024: 校企合作项目“农产数据知识图谱和大语言模型”获得立项. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jul. 2024: 沈航应邀担任SCI期刊Frontiers in Blockchain (IF 1.9)副编辑(Associate Editor). ![avatar](https://shen-hang.github.io//images/new.jpg)
