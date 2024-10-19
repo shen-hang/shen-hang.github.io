@@ -44,6 +44,7 @@ redirect_from:
   - IEEE Transactions on Vehicular Technology (TVT)
   - IEEE Transactions on Network and Service Management (TNSM)
   - IEEE Transactions on Green Communications and Networking (TGCN) 
+  - IEEE Transactions on Neural Networks and Learning Systems (TNNLS) 
   - IEEE Network Magazine
   - IEEE Systems Journal
   - IEEE Communications Letters
