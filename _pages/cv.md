@@ -41,11 +41,11 @@ redirect_from:
   - IEEE Transactions on Mobile Computing (TMC)
   - IEEE Transactions on Wireless Communications (TWC)
   - IEEE Transactions on Intelligent Transportation Systems (TITS) 
-  - IEEE Transactions on Broadcasting (TBC)
   - IEEE Transactions on Vehicular Technology (TVT)
   - IEEE Transactions on Network and Service Management (TNSM)
   - IEEE Transactions on Green Communications and Networking (TGCN)
   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS) 
+  - IEEE Transactions on Consumer Electronics (TCE)
   - IEEE Network Magazine
   - IEEE Systems Journal
   - IEEE Communications Letters
