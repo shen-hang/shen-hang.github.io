@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**招收车联网、网络安全、大模型及知识图谱方向的硕士生，也欢迎本科生加入课题组。**
+**招收车联网、网络安全、大模型及嵌入式AI方向的硕士生，也欢迎本科生加入课题组。**
 
 **招募领域大模型、知识图谱和嵌入式AI算法（实际项目）开发者，团队指导，欢迎感兴趣的本科同学联系我。**
 
@@ -77,7 +77,7 @@ redirect_from:
 
 # Biography
 
-沈航，博士、副教授、硕导，入选“江苏省六大人才高峰”高层次人才计划、“南工英才”优秀青年科技创新人才计划、“南工科技人才”培育计划。毕业于南京理工大学(优秀博士毕业生/优秀博士学位论文/博士生国奖获得者)，师从白光伟教授、唐振民教授。曾在加拿大滑铁卢大学电子与计算机工程系BBCR实验室担任全职博士后研究员，师从Weihua Zhuang教授(加拿大皇家科学院院士、加拿大工程院院士、IEEE Fellow)。
+沈航，入选“江苏省六大人才高峰”高层次人才计划、“南工英才”优秀青年科技创新人才计划、“南工科技人才”培育计划。毕业于南京理工大学(优秀博士毕业生/优秀博士学位论文/博士生国奖获得者)，师从白光伟教授、唐振民教授。曾在加拿大滑铁卢大学电子与计算机工程系BBCR实验室担任全职博士后研究员，师从Weihua Zhuang教授(加拿大皇家科学院院士、加拿大工程院院士、IEEE Fellow)。
 
 主要研究车联网、网络安全、AI大模型等。以第一作者在IEEE TMC、IEEE TBC、IEEE TVT、IEEE ICC等著名国际期刊和会议发表论文20余篇；指导学生发表论文110余篇。参编学术专著《Encyclopedia of Wireless Networks》；授权国家发明专利30余件。主持国家自然科学基金和省自然科学基金项目3项，厅级项目2项，国家/省重点实验室开放课题3项，横向项目5项。获得2022年中国特种设备检测协会科学技术二等奖 (排名第三)，2021年中国电力联合会科技创新二等奖 (排名第三)，2020年中国仪器仪表学会科技进步二等奖 (排名第五)，2016年南京市自然科学优秀论文奖 (排名第一)，2011年江苏省网络与云计算会议优秀论文奖 (排名第一)。现任Frontiers in Blockchain (IF 1.9)、Journal of Information Processing Systems (IF 0.8)和IEEE Access (IF 3.4)、等国际期刊的副编辑 (Associate Editor)，曾任CCF推荐国际期刊Peer-to-Peer Networking and Applications客座编委 (Guest Editor)。担任2024 IEEE International Conference on High Performance Computing and Communications (HPCC)和2021 Annual International Conference on Privacy, Security and Trust (PST)的程序委员会成员。沈航是CCF高级会员，CCF网络与数据通信专委会、CCF物联网专委会委员，CAAI会员、ACM南京分会执委，IEEE计算机学会/通信学会/车载技术会员。曾获计算机学院青年教师授课大赛一等奖。 
 
