@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**招收车联网、网络安全、大模型及嵌入式AI方向的硕士生，所指导同学就职于华为、中兴、大疆、展锐、海康威视、大华、华勤、微软中国、德州仪器、爱立信、诺基亚、三星研究院等。有志读博的同学，可推荐至国内外知名高校。**
+**招收车联网、网络安全、大模型及嵌入式AI方向的硕士生，所指导同学就职于华为、中兴通信、大疆、展锐、海康威视、大华、百度、华勤、微软中国、德州仪器、爱立信、诺基亚、三星研究院等。有志读博的同学，可推荐至国内外知名高校。**
 
 **招募嵌入式AI算法（城市供水调度和视频检测落地项目）、领域大模型及知识图谱（工业检测和智慧农业落地项目）开发者，团队指导，欢迎感兴趣的本科同学联系我。**
 
@@ -79,9 +79,9 @@ redirect_from:
 
 沈航，入选“江苏省六大人才高峰”高层次人才计划、“南工英才”优秀青年科技创新人才计划、“南工科技人才”培育计划。毕业于南京理工大学(优秀博士毕业生/优秀博士学位论文/博士生国奖获得者)，师从白光伟教授、唐振民教授。曾在加拿大滑铁卢大学电子与计算机工程系BBCR实验室担任全职博士后研究员，师从Weihua Zhuang教授(加拿大皇家科学院院士、加拿大工程院院士、IEEE Fellow)。
 
-主要研究车联网、网络安全、AI大模型等。以第一作者在IEEE TMC、IEEE TBC、IEEE TVT、IEEE ICC等著名国际期刊和会议发表论文20余篇；指导学生发表论文110余篇。参编学术专著《Encyclopedia of Wireless Networks》；授权国家发明专利30余件。主持国家自然科学基金和省自然科学基金项目3项，厅级项目2项，国家/省重点实验室开放课题3项，横向项目5项。获得2022年中国特种设备检测协会科学技术二等奖 (排名第三)，2021年中国电力联合会科技创新二等奖 (排名第三)，2020年中国仪器仪表学会科技进步二等奖 (排名第五)，2016年南京市自然科学优秀论文奖 (排名第一)，2011年江苏省网络与云计算会议优秀论文奖 (排名第一)。现任Frontiers in Blockchain (IF 1.9)、Journal of Information Processing Systems (IF 0.8)和IEEE Access (IF 3.4)、等国际期刊的副编辑 (Associate Editor)，曾任CCF推荐国际期刊Peer-to-Peer Networking and Applications客座编委 (Guest Editor)。担任2024 IEEE International Conference on High Performance Computing and Communications (HPCC)和2021 Annual International Conference on Privacy, Security and Trust (PST)的程序委员会成员。沈航是CCF高级会员，CCF网络与数据通信专委会、CCF物联网专委会委员，CAAI会员、ACM南京分会执委，IEEE计算机学会/通信学会/车载技术会员。曾获计算机学院青年教师授课大赛一等奖。 
+主要研究车联网、网络安全、AI大模型等。以第一作者在IEEE TMC、IEEE TBC、IEEE TVT、IEEE ICC等著名国际期刊和会议发表论文20余篇；指导学生发表论文110余篇。参编学术专著《Encyclopedia of Wireless Networks》；授权国家发明专利30余件。主持国家自然科学基金和省自然科学基金项目3项，厅级项目2项，国家/省重点实验室开放课题3项，横向项目5项。获得2022年中国特种设备检测协会科学技术二等奖 (排名第三)，2021年中国电力联合会科技创新二等奖 (排名第三)，2020年中国仪器仪表学会科技进步二等奖 (排名第五)，2016年南京市自然科学优秀论文奖 (排名第一)，2011年江苏省网络与云计算会议优秀论文奖 (排名第一)。现任Frontiers in Blockchain (IF 1.9)、Journal of Information Processing Systems (IF 0.8)和IEEE Access (IF 3.4)等国际期刊的副编辑 (Associate Editor)，曾任CCF推荐国际期刊Peer-to-Peer Networking and Applications客座编委 (Guest Editor)。担任2024 IEEE International Conference on High Performance Computing and Communications (HPCC)和2021 Annual International Conference on Privacy, Security and Trust (PST)的程序委员会成员。沈航是CCF高级会员，CCF网络与数据通信专委会、CCF物联网专委会委员，CAAI会员、ACM南京分会执委，IEEE计算机学会/通信学会/车载技术会员。曾获计算机学院青年教师授课大赛一等奖。 
 
-指导学生获得国家奖学金/优秀毕业研究生/优秀硕士学位论文/优秀本科毕业论文。所指导的研究生就职于顶级IT企业 (包括：华为(南京、上海、深圳、武汉)研究所、中兴通讯、大疆、展锐、海康、大华、华勤、德州仪器、微软、爱立信、诺基亚、三星研究院等) 和科技金融机构 (包括：微众银行、南京证券、中国银行等) 或在知名高校攻读博士论文。
+指导学生获得国家奖学金/优秀毕业研究生/优秀硕士学位论文/优秀本科毕业论文。所指导的研究生就职于顶级IT企业 (包括：华为(南京、上海、深圳、武汉)研究所、中兴通讯、大疆、展锐、海康、大华、百度、华勤、德州仪器、微软、爱立信、诺基亚、三星研究院等) 和科技金融机构 (包括：中国银行软件中心、微众银行、南京证券等) 或在知名高校攻读博士论文。
 
 Hang Shen received the Ph.D. degree with honors in Computer Science from the [Nanjing University of Science and Technology](http://www.njust.edu.cn/). He worked as a Full-Time Postdoctoral Fellow under the supervision of Prof. Weihua Zhuang (IEEE Fellow) in the [Broadband Communications Research (BBCR) Lab](https://uwaterloo.ca/broadband-communications-research-lab/), Department of Electrical and Computer Engineering at the University of Waterloo in Waterloo, Canada from 2018 to 2019. He is currently an Associate Professor in the [Department of Computer Science and Technology](http://cise.njtech.edu.cn/) at [Nanjing Tech University](http://www.njtech.edu.cn/) in Nanjing, China. His research interests include space-air-ground integrated networks, cybersecurity, and blockchain. He has published papers in prestigious journals and conferences including IEEE TMC, IEEE TBC, IEEE TVT, IEEE TCSS, and IEEE ICC. He serves as an Associate Editor for  *Journal of Information Processing Systems*, *Frontiers in Blockchain*, and *IEEE Access* and was a Guest Editor for *Peer-to-Peer Networking and Applications*. He serves/served as a TPC member of the 2024 IEEE International Conference on High Performance Computing and Communications (HPCC) and the 2021 Annual International Conference on Privacy, Security and Trust (PST). He is a CCF Senior Member, a member of CAAI and IEEE, and an Executive Committee member of the ACM Nanjing Chapter.
 
