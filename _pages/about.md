@@ -13,6 +13,7 @@ redirect_from:
 **招募嵌入式AI算法（面向城市供水调度和视频检测落地项目）、领域大模型及知识图谱（面向工业检测和智慧农业落地项目）开发者，团队指导，欢迎感兴趣的本科同学联系我。**
 
 # Recent Highlights
+- Dec. 2024: Congrats!!! 刘宇同学的论文“Vehicle Counting in UAV Images: An Adaptive Approach with Spatial Attention and Multi-Scale Receptive Fields” 被SCI期刊ETRI Journal评选为2025年第二期**亮点论文(Featured Article)**. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Oct. 2024: 校企合作项目“基于深度强化学习的嵌入式泵组调度算法研发”获得立项. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Aug. 2024: 校企合作项目“工业定检大模型及知识图谱设计”获得立项. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Aug. 2024: 校企合作项目“农产数据知识图谱和大语言模型”获得立项. ![avatar](https://shen-hang.github.io//images/new.jpg)
