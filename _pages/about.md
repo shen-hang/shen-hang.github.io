@@ -13,7 +13,7 @@ redirect_from:
 **🌟招收本科生：嵌入式AI(智慧水务和云边协作落地项目)、领域大模型及知识图谱(工业检测和智慧农业落地项目)开发者。提供专业指导，你将深入实际场景，与顶尖技术共舞，攻克实际难题。**
 
 # Recent Highlights
-- Dec. 2024: Congrats!!! 刘宇同学的论文“Vehicle Counting in UAV Images: An Adaptive Approach with Spatial Attention and Multi-Scale Receptive Fields” 被SCI期刊ETRI Journal选为2025年第二期**亮点论文(Featured Article)**. ![avatar](https://shen-hang.github.io//images/new.jpg)
+- Dec. 2024: Congrats!!! 刘宇同学的论文“Vehicle Counting in UAV Images: An Adaptive Approach with Spatial Attention and Multi-Scale Receptive Fields” 被SCI期刊ETRI Journal选为2025年02月的**亮点论文(Featured Article)**. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Oct. 2024: 校企合作项目“基于深度强化学习的嵌入式泵组调度算法研发”获得立项. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Aug. 2024: 校企合作项目“工业定检大模型及知识图谱设计”获得立项. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Aug. 2024: 校企合作项目“农产数据知识图谱和大语言模型”获得立项. ![avatar](https://shen-hang.github.io//images/new.jpg)
