@@ -10,7 +10,7 @@ redirect_from:
 
 **🚀招收研究生：车联网、网络安全、大模型及嵌入式AI方向**<br/>**培养的研究生就职于顶级IT企业(包括：华为(南京、深圳、武汉)、中兴通讯、大疆、展锐、海康威视、大华、百度、华勤、微软中国、德州仪器、爱立信、诺基亚、三星研究院)和科技金融机构(包括：中行软开、微众银行、蚂蚁金融、南京证券)。有志读博的同学可推荐至国内外名校。**
 
-**🌟招收本科生：嵌入式AI(智慧水务和边缘计算落地项目)、领域大模型及知识图谱(工业检测和智慧农业落地项目)开发者。专业指导，深入实景，与顶尖技术共舞，攻克实际难题。**
+**🌟招收本科生：领域大模型及知识图谱(工业检测和智慧农业落地项目)、嵌入式AI(智慧水务和边缘计算落地项目)开发者。专业指导，深入实景，与前沿技术共舞，攻克实际难题。**
 
 # Recent Highlights
 - Dec. 2024: Congrats!!! 刘宇同学发表于SCI期刊ETRI Journal的论文“Vehicle Counting in UAV Images: An Adaptive Approach with Spatial Attention and Multi-Scale Receptive Fields” 被编委会选为2025年02月的**亮点论文(Featured Article)**. ![avatar](https://shen-hang.github.io//images/new.jpg)
