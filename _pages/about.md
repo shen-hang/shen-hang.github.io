@@ -13,8 +13,9 @@ redirect_from:
 **🌟招收本科生：领域大模型及知识图谱(工业检测和智慧农业落地项目)、嵌入式AI(智慧水务和边缘计算落地项目)开发者。专业指导，深入实景，与前沿技术共舞，攻克实际难题。**
 
 # Recent Highlights
-- Dec. 2024: Congrats!!! 刘宇同学关于无人机视觉的论文“Vehicle Counting in UAV Images: An Adaptive Approach with Spatial Attention and Multi-Scale Receptive Fields” 被SCI期刊ETRI Journal编委会评选为2025年02月的**亮点论文(Featured Article)**. ![avatar](https://shen-hang.github.io//images/new.jpg)
-- Dec. 2024: Congrats!!! 周微淋同学获得华为ICT挑战赛(AI赛道)省级一等奖 ![avatar](https://shen-hang.github.io//images/new.jpg)
+- Dec. 2024: Congrats!!! 李想同学获得**全球校园人工智能算法大赛(睡眠医学诊断及推理知识图谱)全国总决赛一等奖** ![avatar](https://shen-hang.github.io//images/new.jpg)
+- Dec. 2024: Congrats!!! 周微淋同学获得**华为ICT挑战赛(AI赛道)省级一等奖** ![avatar](https://shen-hang.github.io//images/new.jpg)
+- Dec. 2024: Congrats!!! 刘宇同学关于无人机视觉的论文“Vehicle Counting in UAV Images: An Adaptive Approach with Spatial Attention and Multi-Scale Receptive Fields” 被SCI期刊ETRI Journal编委会评选为**2025年02月亮点论文(Featured Article)**. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Oct. 2024: 校企合作项目“基于深度强化学习的嵌入式泵组调度算法研发”获得立项. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Aug. 2024: 校企合作项目“工业定检大模型及知识图谱设计”获得立项. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Aug. 2024: 校企合作项目“农产数据知识图谱和大语言模型”获得立项. ![avatar](https://shen-hang.github.io//images/new.jpg)
