@@ -10,14 +10,14 @@ redirect_from:
 
 | Year | **Description**                                              |
 | ---- | ------------------------------------------------------------ |
-| 2024 | 1. 全球校园人工智能算法大赛(睡眠医学诊断及推理知识图谱)全国总决赛一等奖指导教师<br/>2. 第九届华为ICT大赛获奖者(AI赛道省级一等奖)指导教师                |
+| 2024 | 1. 全球校园人工智能算法大赛(睡眠医学诊断及推理知识图谱)全国总决赛一等奖指导教师<br/>2. 第九届华为ICT大赛获奖者(AI赛道省级一等奖)指导教师   |
 | 2023 | 第五届全球校园人工智能算法精英大赛优秀指导教师                |
 | 2022 | 中国特种设备检测协会科学技术二等奖(排名第三)                 |
 | 2021 | 1. 中国电力联合会科技创新二等奖(排名第三)<br/>2. 江苏省计算机学会2020年度先进个人会员<br/>3. 当选中国计算机学会(CCF)传播大使 |
-| 2020 | 1. 中国仪器仪表学会科学技术进步二等奖(排名第五)<br/>2. 中国计算机学会(CCF)高级会员 <br/>3. Excellent Annual Assessment Winner in Nanjing Tech University |
-| 2019 | 1.“Talent in Six Peak Disciplines” of Jiangsu Province (江苏省“六大人才高峰“高层次人才计划)<br/>2. Innovation Talent Support Program of Nanjing Tech University (”南工英才“优秀青年科技创新人才计划) |
+| 2020 | 1. 中国仪器仪表学会科学技术进步二等奖(排名第五)<br/>2. 中国计算机学会(CCF)高级会员  |
+| 2019 | 1. 江苏省六大人才高峰高层次人才计划<br/>2. 南工英才优秀青年科技创新人才计划 |
 | 2018 | 计算机学院青年教师授课大赛一等奖  |
-| 2017 | 1. 江苏省政府留学奖学金<br/>2. Excellent Annual Assessment Winner in Nanjing Tech University<br/>3. Excellent Teaching Assessment Winner in Nanjing Tech University |
+| 2017 | 江苏省政府留学奖学金 |
 | 2016 | 1. 南京理工大学优秀博士学位论文<br/>2. 南京市第十一届自然科学优秀学术论文奖(排名第一)<br/>3. 南工科技人才培育计划|
 | 2014 | 南京理工大学优秀博士毕业生 |
 | 2012 | 博士研究生国家奖学金 |
