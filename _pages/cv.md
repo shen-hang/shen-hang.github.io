@@ -49,6 +49,7 @@ redirect_from:
   - IEEE Transactions on Cognitive Communications and Networking (TCCN) 
   - IEEE Network Magazine
   - IEEE Systems Journal
+  - IEEE Sensors Journal
   - IEEE Communications Letters
   - ACM/Springer Wireless Networks (WINE)
   - Concurrency and Computation: Practice and Experience (CCPE)
