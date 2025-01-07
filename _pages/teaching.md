@@ -59,7 +59,7 @@ Course Work and Evaluation: 作业 (10%); 实验 (20%); Final Examination (70%) 
 </details>
 
 ---
-**物联网概论(Introduction to Internet of Things)** - Undergraduate course - Fall 2015-2017, Fall 2019-2023
+**物联网概论(Introduction to Internet of Things)** - Undergraduate course - Fall 2015-2017, Fall 2019-2024
 
 | Item          | Links & Description                                          |
 | ------------- | ------------------------------------------------------------ |
@@ -92,7 +92,7 @@ Course Work and Evaluation: 作业 (10%); 实验 (20%); Final Examination (70%) 
 | Editor                | VIM: [实用技巧](https://www.ibm.com/developerworks/cn/linux/l-tip-vim1/), [常用插件](https://www.ibm.com/developerworks/cn/linux/l-tip-vim2/), [定制VIM](https://www.ibm.com/developerworks/cn/linux/l-tip-vim3/), [Vimdiff使用](https://www.ibm.com/developerworks/cn/linux/l-vimdiff/), [SpaceVim](http://spacevim.org/)<br/>Emacs: [Emacs Chat](https://plus.google.com/communities/114815898697665598016), [Planet Emacsen](http://planet.emacsen.org/), [EmacsWiki](http://planet.emacsen.org/), [Emacs论坛](https://plus.google.com/communities/114815898697665598016)<br/>Flowchart: [Drakon](http://drakon-editor.sourceforge.net/), [FSME](https://sourceforge.net/projects/fsme/) |
 
 ---
-**高级计算机网络 (Advanced Computer Networks)**  - Graduate course - Spring 2023
+**高级计算机网络 (Advanced Computer Networks)**  - Graduate course - Spring 2023-2024
 
 | Item      | Description                                                  |
 | --------- | ------------------------------------------------------------ |
