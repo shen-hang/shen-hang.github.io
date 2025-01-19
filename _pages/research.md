@@ -51,8 +51,8 @@ redirect_from:
   - IEEE Systems Journal
   - IEEE Sensors Journal
   - IEEE Communications Letters
-  - Wireless Networks (WINE)
-  - Concurrency and Computation: Practice and Experience (CCPE)
+ > - Wireless Networks (WINE)
+ > - Concurrency and Computation: Practice and Experience (CCPE)
   - Peer-to-Peer Networking and Applications (PPNA)
   - Cluster Computing
   - Knowledge-Based Systems (KBS)
