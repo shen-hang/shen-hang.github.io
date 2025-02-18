@@ -24,7 +24,7 @@ redirect_from:
 - Jul. 2024: 沈航应邀担任CCF推荐国际会议IEEE International Conference on High Performance Computing and Communications (HPCC)的TPC成员. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - May 2024: Congrats!!! 张贝宁同学的硕士学位论文“基于区块链的协作查询隐私保护方法研究”被答辩委员会推荐为“**优秀研究生论文**”. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - May 2024: Congrats!!! 朱天赐同学的毕设论文“CPU-GPU异构计算平台上稀疏矩阵乘性能优化研究”被推荐为“**优秀本科毕业论文**”. ![avatar](https://shen-hang.github.io//images/new.jpg)
-- May 2024: Congrats!!!  张羽同学的论文“Task Partitioning and Scheduling Based on Stochastic Policy Gradient in Mobile Crowdsensing ”被国际著名期刊IEEE Transactions on Computational Social Systems以长文形式录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
+- May 2024: Congrats!!! 张羽同学的论文“Task Partitioning and Scheduling Based on Stochastic Policy Gradient in Mobile Crowdsensing ”被国际著名期刊IEEE Transactions on Computational Social Systems以长文形式录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - May 2024: Congrats!!! 张贝宁同学的论文“Invisible Man: Blockchain-enabled peer-to-peer collaborative privacy games in LBSs”被CCF推荐SCI期刊Peer-to-Peer Networking and Applications录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Feb. 2024: Congrats!!! 张贝宁同学的论文“Consortium Blockchain-Based Secure Cross-Operator V2V Video Content Distribution”被CCF推荐SCI期刊Peer-to-Peer Networking and Applications录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jan. 2024: Congrats!!! 刘宇同学的论文“Vehicle Counting in UAV Images: An Adaptive Approach with Spatial Attention and Multi-Scale Receptive Fields” 被SCI期刊ETRI Journal录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
