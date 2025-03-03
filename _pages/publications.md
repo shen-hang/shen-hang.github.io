@@ -10,7 +10,7 @@ redirect_from:
 **Articles divided by research field (\* indicates the correspondence author)**<br/><br/>
 **A. Drone/Car Vision Computing (无人机/车视觉计算，新方向)**
 1. **Hang Shen\***, Qi Liu, Yuanyi Wang, Tianjing Wang, and Guangwei Bai. MT-DyNN: Multi-Teacher Distilled Dynamic Neural Network for Instance-Adaptive Detection in Autonomous Driving, *IEEE Transactions on Intelligent Transportation Systems (TITS)*, 2025, Accepted for publication. (**CCF推荐B类国际期刊, 中科院一区Top**) **[[Download](http://shen-hang.github.io/files/TITS2025.pdf)]**
-2. Yu Liu, **Hang Shen\***, Tianjing Wang, and Guangwei Bai. [Vehicle Counting in UAV Images: An Adaptive Approach with Spatial Attention and Multi-Scale Receptive Fields](https://onlinelibrary.wiley.com/doi/10.4218/etrij.2023-0426), *Wiley ETRI Journal*, 2025, 47(1), pp. 7-19. (**SCI, 被编委会评为2025年1-2月唯一亮点论文(Featured Article)**)  (**[Download](https://onlinelibrary.wiley.com/journal/22337326)**)
+2. Yu Liu, **Hang Shen\***, Tianjing Wang, and Guangwei Bai. [Vehicle Counting in UAV Images: An Adaptive Approach with Spatial Attention and Multi-Scale Receptive Fields](https://onlinelibrary.wiley.com/doi/10.4218/etrij.2023-0426), *ETRI Journal*, 2025, 47(1), pp. 7-19. (**SCI, 被编委会评为2025年1-2月唯一亮点论文(Featured Article)**)  (**[Download](https://onlinelibrary.wiley.com/journal/22337326)**)
 
 **B. Vehicular Networks**  
 1. **Hang Shen\***, Yibo Tian, Tianjing Wang, and Guangwei Bai. [Slicing-Based Task Offloading in Space-Air-Ground Integrated Vehicular Networks](https://ieeexplore.ieee.org/document/10145842), *IEEE Transactions on Mobile Computing (TMC)*, 2024, 23(5): 4009-4024. (**CCF推荐A类国际期刊**) **[[Download](http://shen-hang.github.io/files/TMC2024.pdf)]** 
