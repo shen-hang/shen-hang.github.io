@@ -64,6 +64,7 @@ redirect_from:
   - International Journal of Data Science and Analytics
   - ETRI Journal
   - Applied Computational Intelligence and Soft Computing
+  - 电子学报
   - 通信学报
   - 物联网学报
   - 网络与信息安全学报
