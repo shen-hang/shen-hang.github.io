@@ -12,7 +12,7 @@ redirect_from:
 
 **Course Work and Evaluation**: Assignments (作业) (10%); Lab Experiments (实验) (20%); Final Examination (70%) will have a 120-minute closed-book final examination (闭卷) in English (全英文试卷) by the end of this semester.
 
-**Assignment Guidelines**:
+**Assignment Guidelines**:<br/>
 1、Use a standard assignment notebook and do not copy the questions.<br/>
 2、Show your complete problem-solving process clearly.<br/>
 3、Writing in English is encouraged, and mistakes are acceptable.<br/>
