@@ -14,7 +14,7 @@ redirect_from:
 
 # Recent Highlights
 - Mar. 2025: Congrats!!! 我们关于**车辆视觉计算**的论文“MT-DyNN: Multi-Teacher Distilled Dynamic Neural Network for Instance-Adaptive Detection in Autonomous Driving”被国际著名期刊IEEE Transactions on Intelligent Transportation Systems(TITS)以长文形式录用. 
-- Feb. 2024: Congrats!!! 我们关于多智能体渗透测试的论文“Collaborative path penetration in 5G-IoT networks: A multi-agent deep reinforcement learning approach”被CCF推荐国际期刊Peer-to-Peer Networking and Applications录用. 
+- Feb. 2025: Congrats!!! 我们关于多智能体渗透测试的论文“Collaborative path penetration in 5G-IoT networks: A multi-agent deep reinforcement learning approach”被CCF推荐国际期刊Peer-to-Peer Networking and Applications录用. 
 - Dec. 2024: Congrats!!! 李想、王孝琦、吴华峰同学获得**全球校园人工智能算法大赛(推理知识图谱赛道)全国总决赛一等奖(排名第一)** ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Dec. 2024: Congrats!!! 刘宇同学关于**无人机视觉计算**的论文“Vehicle Counting in UAV Images: An Adaptive Approach with Spatial Attention and Multi-Scale Receptive Fields” 被SCI期刊ETRI Journal编委会评选为**2025年第一期(1-2月)亮点论文(Featured Article)**. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Oct. 2024: 校企合作项目“基于深度强化学习的嵌入式泵组调度算法研发”获得立项. ![avatar](https://shen-hang.github.io//images/new.jpg)
