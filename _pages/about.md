@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-**🚀招收研究生：车联网(车计算)、大模型赋能网络安全、具身智能无人机/车导航方向**<br/>培养的研究生就职于顶级IT企业(包括：华为(南京、上海、深圳、武汉)、中兴、大疆、展讯、海康威视、大华、百度、华勤、微软中国、德州仪器、爱立信、诺基亚贝尔、三星研究院)和科技金融机构(包括：中行软开、微众、蚂蚁、南京证券)。有志读博的同学可推荐至国内外名校。
+**🚀招收研究生：车联网(车计算)、大模型赋能网络安全、具身智能无人机/车**<br/>培养的研究生就职于顶级IT企业(包括：华为(南京、上海、深圳、武汉)、中兴、大疆、展讯、海康威视、大华、百度、华勤、微软中国、德州仪器、爱立信、诺基亚贝尔、三星研究院)和科技金融机构(包括：中行软开、微众、蚂蚁、南京证券)。有志读博的同学可推荐至国内外名校。
 
 **🌟招收本科生：领域大模型及知识图谱、嵌入式AI开发者**<br/>面向工业检测大模型、农业大模型、智慧水务落地项目。专业指导，深入实景，攻克难题。
 
 # Recent Highlights
-- Mar. 2025: Congrats!!! 我们关于**车辆视觉计算**的论文“MT-DyNN: Multi-Teacher Distilled Dynamic Neural Network for Instance-Adaptive Detection in Autonomous Driving”被**国际著名期刊IEEE Transactions on Intelligent Transportation Systems (TITS)**以长文形式录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
+- Mar. 2025: Congrats!!! 我们关于**车辆视觉**的论文“MT-DyNN: Multi-Teacher Distilled Dynamic Neural Network for Instance-Adaptive Detection in Autonomous Driving”被**国际著名期刊IEEE Transactions on Intelligent Transportation Systems (TITS)**以长文形式录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Feb. 2025: Congrats!!! 我们关于多智能体渗透测试的论文“Collaborative path penetration in 5G-IoT networks: A multi-agent deep reinforcement learning approach”被CCF推荐国际期刊Peer-to-Peer Networking and Applications录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Dec. 2024: Congrats!!! 李想、王孝琦、吴华峰同学获得**全球校园人工智能算法大赛(推理知识图谱赛道)全国总决赛一等奖(排名第一)** ![avatar](https://shen-hang.github.io//images/new.jpg)
-- Dec. 2024: Congrats!!! 刘宇同学关于**无人机视觉计算**的论文“Vehicle Counting in UAV Images: An Adaptive Approach with Spatial Attention and Multi-Scale Receptive Fields” 被SCI期刊ETRI Journal编委会评选为**2025年1-2月唯一亮点论文(Featured Article)**. ![avatar](https://shen-hang.github.io//images/new.jpg)
+- Dec. 2024: Congrats!!! 刘宇同学关于**无人机视觉**的论文“Vehicle Counting in UAV Images: An Adaptive Approach with Spatial Attention and Multi-Scale Receptive Fields” 被SCI期刊ETRI Journal编委会评选为**2025年1-2月唯一亮点论文(Featured Article)**. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Oct. 2024: 校企合作项目“基于深度强化学习的嵌入式泵组调度算法研发”获得立项. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Aug. 2024: 校企合作项目“工业定检大模型及知识图谱设计”获得立项. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Aug. 2024: 校企合作项目“农产数据知识图谱和大语言模型”获得立项. ![avatar](https://shen-hang.github.io//images/new.jpg)
