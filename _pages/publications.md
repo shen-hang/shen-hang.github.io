@@ -31,7 +31,7 @@ redirect_from:
 
 
 **D. Blockchain and Cybersecurity**
-1. **Hang Shen**, Xiang Li, Yan Wang, Tianjing Wang\* and Guangwei Bai. [Collaborative path penetration in 5G-IoT networks: A multi-agent deep reinforcement learning approach](https://link.springer.com/article/10.1007/s12083-025-01939-4), *Peer-to-Peer Networking and Applications*, 2025, DOI: 10.1007/s12083-025-01939-4. (**CCF推荐国际期刊**) 
+1. **Hang Shen**, Xiang Li, Yan Wang, Tianjing Wang\* and Guangwei Bai. [Collaborative path penetration in 5G-IoT networks: A multi-agent deep reinforcement learning approach](https://link.springer.com/article/10.1007/s12083-025-01939-4), *Peer-to-Peer Networking and Applications*, Vol. 18, article number 113, pp. 1-20. (**CCF推荐国际期刊**) 
 2. **Hang Shen**, Yanjing Zhou, Tianjing Wang\*, et al. Blockchain-Assisted Cross-silo Graph Federated Learning for Network Intrusion Detection, *IEEE Global Blockchain Conference (GBC)*, ShangHai, China, 14-16 Nov, 2024, to appear.  (**IEEE区块链学会旗舰会议**)
 3. Beining Zhang, **Hang Shen\***, Tianjing Wang, and Guangwei Bai. Monero Covert Communication-Enhanced Collaboration for Privacy-Preserving Queries, *IEEE Global Blockchain Conference (GBC)*, ShangHai, China, 14-16 Nov, 2024, to appear.  (**IEEE区块链学会旗舰会议**) 
 4. **Hang Shen**, Beining Zhang, Tianjing Wang\*, Xin Liu, and Guangwei Bai. [Consortium Blockchain-Based Secure Cross-Operator V2V Video Content Distribution](https://link.springer.com/article/10.1007/s12083-024-01674-2), *Peer-to-Peer Networking and Applications (PPNA)*, 2024, Vol. 17, pp. 1631–1644. (**CCF推荐国际期刊**) **[[Download](http://shen-hang.github.io/files/Consortium blockchain.pdf)]** 
