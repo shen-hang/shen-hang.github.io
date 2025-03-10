@@ -39,6 +39,7 @@ redirect_from:
 - Reviewer for Journals
   - IEEE/ACM Transactions on Networking (TON)
   - IEEE Transactions on Mobile Computing (TMC)
+  - IEEE Transactions on Dependable and Secure Computing (TDSC)
   - IEEE Transactions on Wireless Communications (TWC)
   - IEEE Transactions on Intelligent Transportation Systems (TITS)
   - IEEE Transactions on Vehicular Technology (TVT)
