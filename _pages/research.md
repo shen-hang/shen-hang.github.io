@@ -44,10 +44,10 @@ redirect_from:
   - IEEE Transactions on Intelligent Transportation Systems (TITS)
   - IEEE Transactions on Vehicular Technology (TVT)
   - IEEE Transactions on Network and Service Management (TNSM)
-  - IEEE Transactions on Green Communications and Networking (TGCN) 
   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS) 
-  - IEEE Transactions on Consumer Electronics (TCE) 
+  - IEEE Transactions on Computational Social Systems (TCSS)
   - IEEE Transactions on Cognitive Communications and Networking (TCCN) 
+  - IEEE Transactions on Consumer Electronics (TCE) 
   - IEEE Network Magazine
   - IEEE Systems Journal
   - IEEE Sensors Journal
