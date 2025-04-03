@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**🚀招收研究生：车联网(车计算)、大模型赋能网络安全、无人机/智能网联汽车视觉计算**<br/>培养的研究生就职于顶级IT企业(包括：华为(南京、上海、深圳、武汉)、中兴通讯、大疆、展讯、字节、海康威视、大华、百度、新华三、微软中国、德州仪器、爱立信、诺基亚贝尔、三星研究院)和科技金融机构(包括：中行软开、微众、蚂蚁、南京证券)。有志读博的同学可推荐至国内外名校。
+**🚀招收研究生：车联网(车计算)、大模型赋能网络安全、无人机/智能网联汽车视觉计算**<br/>培养的研究生就职于顶级IT企业(包括：华为(南京、上海、深圳、武汉)、中兴通讯、大疆、展讯、字节、海康威视、大华、百度、H3C、微软中国、德州仪器、爱立信、诺基亚-贝尔、三星研究院)和科技金融机构(包括：中行软开、微众、蚂蚁、南京证券)。**有志读博的同学可推荐至国内外名校**。
 
 **🌟招收本科生：领域大模型及知识图谱、嵌入式AI开发者**<br/>面向工业检测大模型、农业大模型、智慧水务落地项目。专业指导，深入实景，攻克难题。
 
@@ -85,7 +85,7 @@ redirect_from:
 
 主要研究车联网(车计算)、大模型赋能网络安全、无人机视觉导航等。以第一作者在IEEE TMC、IEEE TITS、IEEE TBC、IEEE TVT、IEEE ICC等著名国际期刊和会议发表论文20余篇；指导学生发表论文110余篇。参编学术专著《Encyclopedia of Wireless Networks》；授权国家发明专利30余件。主持国家自然科学基金和省自然科学基金项目3项，厅级项目2项，国家/省重点实验室开放课题3项，横向项目5项。获得2022年中国特种设备检测协会科学技术二等奖(排名第三)，2021年中国电力联合会科技创新二等奖(排名第三)，2020年中国仪器仪表学会科技进步二等奖(排名第五)，2016年南京市自然科学优秀论文奖(排名第一)，2011年江苏省网络与云计算会议优秀论文奖(排名第一)。现任Frontiers in Blockchain(IF 1.9)、Journal of Information Processing Systems(IF 0.8)和IEEE Access(IF 3.4)等国际期刊的副编辑(Associate Editor)，曾任CCF推荐国际期刊Peer-to-Peer Networking and Applications客座编委(Guest Editor)。担任2024 IEEE International Conference on High Performance Computing and Communications (HPCC)和2021 Annual International Conference on Privacy, Security and Trust (PST)的程序委员会成员。沈航是CCF高级会员，CAAI会员、ACM南京分会执委，IEEE会员。曾获计算机学院青年教师授课大赛一等奖。 
 
-指导学生获得国家奖学金/优秀毕业研究生/优秀硕士学位论文/优秀本科毕业论文。所指导的研究生就职于顶级IT企业(包括：华为(南京、上海、深圳、武汉)研究所、中兴通讯、大疆、展讯、海康威视、大华、字节、百度、新华三、华勤、德州仪器、微软、爱立信、诺基亚贝尔、三星研究院等)和科技金融机构(包括：中行软件中心、微众银行、蚂蚁金融、南京证券等)或在知名高校攻读博士论文。
+指导学生获得国家奖学金/优秀毕业研究生/优秀硕士学位论文/优秀本科毕业论文。所指导的研究生就职于顶级IT企业(包括：华为(南京、上海、深圳、武汉)研究所、中兴通讯、大疆、展讯、海康威视、大华、字节、百度、H3C、德州仪器、微软、爱立信、诺基亚贝尔、三星研究院等)和科技金融机构(包括：中行软件中心、微众银行、蚂蚁金融、南京证券等)或在知名高校攻读博士论文。
 
 Hang Shen received the Ph.D. degree with honors in Computer Science from the [Nanjing University of Science and Technology](http://www.njust.edu.cn/). He worked as a Full-Time Postdoctoral Fellow under the supervision of Prof. Weihua Zhuang (IEEE Fellow) in the [Broadband Communications Research (BBCR) Lab](https://uwaterloo.ca/broadband-communications-research-lab/), Department of Electrical and Computer Engineering at the University of Waterloo in Waterloo, Canada from 2018 to 2019. He is currently an Associate Professor in the [Department of Computer Science and Technology](http://cise.njtech.edu.cn/) at [Nanjing Tech University](http://www.njtech.edu.cn/) in Nanjing, China. His research interests include vehicular networks, large language models for cybersecurity, and drone/vehicle vision-language navigation. He has published papers in prestigious journals and conferences including IEEE TMC, IEEE TITS, IEEE TBC, IEEE TVT, IEEE TCSS, and IEEE ICC. He serves as an Associate Editor for  *Journal of Information Processing Systems*, *Frontiers in Blockchain*, and *IEEE Access* and was a Guest Editor for *Peer-to-Peer Networking and Applications*. He serves/served as a TPC member of the 2024 IEEE International Conference on High Performance Computing and Communications (HPCC) and the 2021 Annual International Conference on Privacy, Security and Trust (PST). He is a CCF Senior Member, an IEEE member, and an Executive Committee Member of the ACM Nanjing Chapter.
 
