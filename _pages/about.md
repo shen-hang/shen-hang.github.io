@@ -10,7 +10,7 @@ redirect_from:
 
 **🚀招收研究生：车联网(车计算)、大模型赋能网络安全、无人机/智能网联汽车视觉计算**<br/>培养的研究生就职于顶级IT企业(包括：华为(南京、上海、深圳、武汉)、中兴通讯、大疆、展讯、字节、海康威视、大华、百度、H3C、微软中国、德州仪器、爱立信、诺基亚、三星研究院)和科技金融机构(包括：中行软开、微众、蚂蚁、南京证券)。**有志读博的同学可推荐至国内外名校**。
 
-**🌟招收本科生：领域大模型及知识图谱、嵌入式AI开发者**<br/>面向工业检测大模型、农业大模型、智慧水务落地项目。专业指导，深入实景，攻克难题。
+**🌟招收本科生：领域大模型及知识图谱、嵌入式AI开发者**<br/>面向工业检测大模型、医疗知识图谱、智慧水务落地项目。专业指导，深入实景，攻克难题。
 
 # Recent Highlights
 - Mar. 2025: Congrats!!! 我们关于**网联汽车视觉计算**的论文“MT-DyNN: Multi-Teacher Distilled Dynamic Neural Network for Instance-Adaptive Detection in Autonomous Driving”被国际著名期刊IEEE Transactions on Intelligent Transportation Systems以长文形式录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
