@@ -30,6 +30,7 @@ redirect_from:
 - Academic Editor, Mathematical Problems in Engineering (MPE) (2020-2024)
 - Guest Editor, Special Issue “Fog/Edge Networking for Multimedia Applications” in Peer-to-Peer Networking and Applications (2018-2019)
 - Technical Committee Member
+  - 2025 IEEE International Conference on High Performance Computing and Communications (HPCC)
   - 2024 IEEE International Conference on High Performance Computing and Communications (HPCC)
   - 2021 Annual International Conference on Privacy, Security and Trust (PST)
   - CCF Network and Data Communications (TCCOMM) (2015-present)
