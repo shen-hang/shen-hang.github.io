@@ -50,6 +50,7 @@ redirect_from:
   - IEEE Transactions on Cognitive Communications and Networking (TCCN) 
   - IEEE Transactions on Consumer Electronics (TCE) 
   - IEEE Transactions on Aerospace and Electronic Systems (TAES)
+  - IEEE Transactions on Sustainable Computing (TSUSC)
   - IEEE Network Magazine
   - IEEE Systems Journal
   - IEEE Sensors Journal
