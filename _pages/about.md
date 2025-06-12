@@ -13,6 +13,7 @@ redirect_from:
 **🌟招收本科生：领域大模型及知识图谱、嵌入式AI开发者**<br/>面向工业检测大模型、医疗知识图谱、智慧水务落地项目。专业指导，深入实景，攻克难题。
 
 # Recent Highlights
+- Jun. 2025: 司天铖同学的毕业论文“基于LLM增强自监督对比学习的加密流量检测”被评选为“**校优秀本科毕业论文**”.
 - Apr. 2025: 沈航应邀担任CCF推荐国际会议IEEE International Conference on High Performance Computing and Communications (HPCC)的程序委员会成员. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Mar. 2025: Congrats!!! 我们关于**网联汽车视觉计算**的论文“MT-DyNN: Multi-Teacher Distilled Dynamic Neural Network for Instance-Adaptive Detection in Autonomous Driving”被国际著名期刊IEEE Transactions on Intelligent Transportation Systems以长文形式录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Feb. 2025: Congrats!!! 我们关于多智能体渗透测试的论文“Collaborative path penetration in 5G-IoT networks: A multi-agent deep reinforcement learning approach”被CCF推荐国际期刊Peer-to-Peer Networking and Applications录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
