@@ -31,7 +31,7 @@ redirect_from:
   - Academic Editor, Mathematical Problems in Engineering (MPE) (2020-2024)
   - Guest Editor, Peer-to-Peer Networking and Applications (PPNA) (2018-2019)
 - Technical Committee Member
-  - 2024 IEEE International Conference on High Performance Computing and Communications (HPCC)
+  - IEEE International Conference on High Performance Computing and Communications (HPCC) (2024, 2025)
   - 2021 Annual International Conference on Privacy, Security and Trust (PST)
   - CCF Network and Data Communications (TCCOMM) (2015-present)
   - International Conference on Advanced Cloud and Big Data (CBD) (2015-2021)
@@ -56,16 +56,19 @@ redirect_from:
   - IEEE Systems Journal
   - IEEE Sensors Journal
   - IEEE Communications Letters
-  - ACM/Springer Wireless Networks (WINE)
+  - Wireless Networks (WINE)
   - Concurrency and Computation: Practice and Experience (CCPE)
   - Cluster Computing
   - Big Data Mining and Analytics (BDMA)
   - Peer-to-Peer Networking and Applications (PPNA)
   - Elsevier Robotics and Autonomous Systems (RAS)
-  - Elsevier Measurement (MEAS)
+  - Elsevier Measurement
   - Multimedia Tools and Applications (MTAP)
   - Journal of Communications and Information Networks (JCIN)
   - Knowledge-Based Systems (KBS)
+  - Telecommunication Systems
+  - ETRI Journal
+  - Acta Electronica Sinica (电子学报)
   - Journal on Communications (通信学报)
   - Chinese Journal on Internet of Things (物联网学报)
   - Chinese Jouurnal of Network and Information Security (网络与信息安全学报)
