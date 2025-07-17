@@ -30,8 +30,10 @@ redirect_from:
 - Academic Editor, Mathematical Problems in Engineering (MPE) (2020-2024)
 - Guest Editor, Special Issue “Fog/Edge Networking for Multimedia Applications” in Peer-to-Peer Networking and Applications (2018-2019)
 - Technical Committee Member
+
   - IEEE International Conference on High Performance Computing and Communications (HPCC) (2024, 2025)
-  - 2021 Annual International Conference on Privacy, Security and Trust (PST)
+  - Annual International Conference on Privacy, Security and Trust (PST) (2021)
+  - International Conference on Artificial Intelligence Computing and Systems (AICompS) (2024, 2025)
   - CCF Network and Data Communications (TCCOMM) (2015-present)
   - International Conference on Advanced Cloud and Big Data (CBD) (2015-2021)
   - 2021 International Conference on Pattern Recognition and Artificial Intelligence
