@@ -42,6 +42,7 @@ redirect_from:
   - IEEE/ACM Transactions on Networking (TON)
   - IEEE Transactions on Mobile Computing (TMC)
   - IEEE Transactions on Dependable and Secure Computing (TDSC)
+  - IEEE Transactions on Services Computing (TSC)
   - IEEE Transactions on Wireless Communications (TWC)
   - IEEE Transactions on Communications (TCOM)
   - IEEE Transactions on Intelligent Transportation Systems (TITS)
@@ -53,6 +54,7 @@ redirect_from:
   - IEEE Transactions on Consumer Electronics (TCE) 
   - IEEE Transactions on Aerospace and Electronic Systems (TAES)
   - IEEE Transactions on Sustainable Computing (TSUSC)
+  - IEEE Internet of Things Journal
   - IEEE Network Magazine
   - IEEE Systems Journal
   - IEEE Sensors Journal
