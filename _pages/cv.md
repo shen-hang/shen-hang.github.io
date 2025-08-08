@@ -32,10 +32,11 @@ redirect_from:
   - Guest Editor, Peer-to-Peer Networking and Applications (PPNA) (2018-2019)
 - Technical Committee Member
   - IEEE International Conference on High Performance Computing and Communications (HPCC) (2024, 2025)
-  - 2021 Annual International Conference on Privacy, Security and Trust (PST)
+  - International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP) (2025)
+  - Annual International Conference on Privacy, Security and Trust (PST) (2021)
   - CCF Network and Data Communications (TCCOMM) (2015-present)
   - International Conference on Advanced Cloud and Big Data (CBD) (2015-2021)
-  - 2021 International Conference on Pattern Recognition and Artificial Intelligence
+  - International Conference on Pattern Recognition and Artificial Intelligence (2021)
   - Conference on Network and Data Communications in China (NDCC) (2016, 2018)  
 - Reviewer for Journals
   - IEEE/ACM Transactions on Networking (TON)
