@@ -32,6 +32,7 @@ redirect_from:
 - Technical Committee Member
 
   - IEEE International Conference on High Performance Computing and Communications (HPCC) (2024, 2025)
+  - International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP) (2025)
   - Annual International Conference on Privacy, Security and Trust (PST) (2021)
   - International Conference on Artificial Intelligence Computing and Systems (AICompS) (2024, 2025)
   - CCF Network and Data Communications (TCCOMM) (2015-present)
