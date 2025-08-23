@@ -6,7 +6,6 @@ redirect_from:
   - /md/
   - /publications.html
 ---
-Hang Shen, Qi Liu, Yu Liu, Tianjing Wang, and Guangwei Bai
 **Articles divided by research field (\* indicates the correspondence author)**<br/><br/>
 **A. Drone/Car Vision Computing (网联无人机/汽车视觉计算)**
 1. **Hang Shen\***, Qi Liu, Yuanyi Wang, Tianjing Wang, and Guangwei Bai. [MT-DyNN: Multi-Teacher Distilled Dynamic Neural Network for Instance-Adaptive Detection in Autonomous Driving](https://ieeexplore.ieee.org/document/10927614), *IEEE Transactions on Intelligent Transportation Systems (TITS)*, 2025, 26(5), pp. 6116-6129. (**CCF推荐B类国际期刊**) **[[Download](http://shen-hang.github.io/files/TITS2025.pdf)]** 
