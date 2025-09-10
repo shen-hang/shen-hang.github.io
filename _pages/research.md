@@ -47,6 +47,7 @@ redirect_from:
   - IEEE Transactions on Wireless Communications (TWC)
   - IEEE Transactions on Communications (TCOM)
   - IEEE Transactions on Intelligent Transportation Systems (TITS)
+  - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
   - IEEE Transactions on Vehicular Technology (TVT)
   - IEEE Transactions on Network and Service Management (TNSM)
   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS) 
