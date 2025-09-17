@@ -18,8 +18,8 @@ redirect_from:
 **🚀招收研究生：车联网(车计算)、领域大模型、网络安全**<br/>培养的研究生就职于顶级IT企业(包括：华为(南京、上海、深圳、武汉)、中兴通讯、大疆、展讯、字节、海康威视、大华、百度、H3C、微软中国、德州仪器、爱立信、诺基亚、三星研究院)和科技金融机构(包括：中行软开、微众、蚂蚁、南京证券)。**有志读博的同学可推荐至国内外名校**。
 
 # Recent Highlights
-- Sep. 2025: 团队负责的企业级项目“压力容器定检方案大模型”获得立项. 
-- Sep. 2025: 作为合作单位承担的“大语言模型与知识图谱双驱动的承压特种设备检验方案生成技术及应用示范”被江苏省市场监管局立项为重点项目. 
+- Sep. 2025: 团队负责的企业级项目“压力容器定检方案大模型”获得立项.![avatar](https://shen-hang.github.io//images/new.jpg)
+- Sep. 2025: 作为合作单位承担的“大语言模型与知识图谱双驱动的承压特种设备检验方案生成技术及应用示范”被江苏省市场监管局立项为重点项目.![avatar](https://shen-hang.github.io//images/new.jpg) 
 - Aug. 2025: Congrats!!! 关于**无人机视觉计算**的论文“MA-DyNN: Modal-Adaptive Dynamic Neural Network for Crowd-Counting on Consumer Drones”被被国际著名期刊IEEE Transactions on Consumer Electronics录用为长文. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Aug. 2025: Congrats!!! 关于**大模型与社交网络**的论文“LACL: LLM-Augmented Contrastive Learning for Misinformation Detection in Social Networks”被被国际著名期刊IEEE Transactions on Computational Social Systems录用为长文. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Apr. 2025: 沈航应邀担任CCF推荐国际会议International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2025)的程序委员会成员. ![avatar](https://shen-hang.github.io//images/new.jpg)
