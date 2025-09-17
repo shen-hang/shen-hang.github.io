@@ -8,16 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-**🎯 招收感兴趣的同学参与企业级项目“工业定检大模型及知识图谱”的开发**：<br/>
-✅ 深入产业热点：紧跟产业趋势，**积累AI工程经验**，为求职/升学加码<br/>
-✅ 深度参与合作：与甲方负责人对接交流，**掌握大模型垂直应用开发架构**<br/>
+**🎯 招收感兴趣、有专注力的同学参与企业级项目“压力容器定检方案大模型”的开发**：<br/>
+✅ 深入产业热点：**积累AI工程经验**，为求职/升学加码<br/>
+✅ 深度参与合作：**掌握大模型垂直应用开发架构**<br/>
 ✅ 实践证明支持：**可开具项目实践证明**，助力你未来的职业发展<br/>
 ✅ 项目津贴保障：**提供项目补贴**，认可你的努力和付出<br/>
 
 
-**🚀招收研究生：车联网(车计算)、大模型赋能网络安全、网联无人机/汽车视觉计算**<br/>培养的研究生就职于顶级IT企业(包括：华为(南京、上海、深圳、武汉)、中兴通讯、大疆、展讯、字节、海康威视、大华、百度、H3C、微软中国、德州仪器、爱立信、诺基亚、三星研究院)和科技金融机构(包括：中行软开、微众、蚂蚁、南京证券)。**有志读博的同学可推荐至国内外名校**。
+**🚀招收研究生：车联网(车计算)、领域大模型、网络安全、网联无人机/汽车视觉计算**<br/>培养的研究生就职于顶级IT企业(包括：华为(南京、上海、深圳、武汉)、中兴通讯、大疆、展讯、字节、海康威视、大华、百度、H3C、微软中国、德州仪器、爱立信、诺基亚、三星研究院)和科技金融机构(包括：中行软开、微众、蚂蚁、南京证券)。**有志读博的同学可推荐至国内外名校**。
 
 # Recent Highlights
+- Sep. 2025: 企业级项目“压力容器定检方案大模型”获得立项. 
 - Aug. 2025: Congrats!!! 关于**无人机视觉计算**的论文“MA-DyNN: Modal-Adaptive Dynamic Neural Network for Crowd-Counting on Consumer Drones”被被国际著名期刊IEEE Transactions on Consumer Electronics录用为长文. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Aug. 2025: Congrats!!! 关于**大模型与社交网络**的论文“LACL: LLM-Augmented Contrastive Learning for Misinformation Detection in Social Networks”被被国际著名期刊IEEE Transactions on Computational Social Systems录用为长文. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Apr. 2025: 沈航应邀担任CCF推荐国际会议International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2025)的程序委员会成员. ![avatar](https://shen-hang.github.io//images/new.jpg)
@@ -27,9 +28,9 @@ redirect_from:
 - Feb. 2025: Congrats!!! 关于**多智能体渗透测试**的论文“Collaborative path penetration in 5G-IoT networks: A multi-agent deep reinforcement learning approach”被CCF推荐国际期刊Peer-to-Peer Networking and Applications录用为长文. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Dec. 2024: Congrats!!! 李想、王孝琦、吴华峰同学获得**全球校园人工智能算法大赛(推理知识图谱赛道)全国总决赛一等奖(排名第一)** ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Dec. 2024: Congrats!!! 刘宇同学关于**无人机视觉计算**的论文“Vehicle Counting in UAV Images: An Adaptive Approach with Spatial Attention and Multi-Scale Receptive Fields” 被SCI期刊ETRI Journal编委会评选为**2025年1-2月唯一亮点论文(Featured Article)并邀请制作宣传封面**. ![avatar](https://shen-hang.github.io//images/new.jpg)
-- Oct. 2024: 校企合作项目“基于深度强化学习的嵌入式泵组调度算法研发”获得立项. ![avatar](https://shen-hang.github.io//images/new.jpg)
-- Aug. 2024: 校企合作项目“工业定检大模型及知识图谱设计”获得立项. ![avatar](https://shen-hang.github.io//images/new.jpg)
-- Aug. 2024: 校企合作项目“农产数据知识图谱和大语言模型”获得立项. ![avatar](https://shen-hang.github.io//images/new.jpg)
+- Oct. 2024: 企业级项目“基于深度强化学习的嵌入式泵组调度算法研发”获得立项. ![avatar](https://shen-hang.github.io//images/new.jpg)
+- Aug. 2024: 企业级项目“工业定检大模型及知识图谱设计”获得立项. ![avatar](https://shen-hang.github.io//images/new.jpg)
+- Aug. 2024: 企业级项目“农产数据知识图谱和大语言模型”获得立项. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jul. 2024: 沈航应邀担任SCI期刊Frontiers in Blockchain (IF 1.9)副编辑(Associate Editor). ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jul. 2024: Congrats!!! 周妍婧同学的论文"Blockchain-Assisted Cross-silo Graph Federated Learning for Network Intrusion Detection"被IEEE区块链旗舰会议IEEE Global Blockchain Conference (GBC)以长文形式录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jul. 2024: Congrats!!! 张贝宁同学的论文"Monero Covert Communication-Enhanced Collaboration for Privacy-Preserving Queries"被IEEE区块链旗舰会议IEEE Global Blockchain Conference (GBC)以长文形式录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
@@ -92,7 +93,7 @@ redirect_from:
 
 沈航，入选“江苏省六大人才高峰”高层次人才计划、“南工英才”优秀青年科技创新人才计划。毕业于南京理工大学(优秀博士毕业生/优秀博士学位论文/博士生国奖获得者)，师从白光伟教授、唐振民教授。曾在加拿大滑铁卢大学电子与计算机工程系BBCR实验室担任全职博士后研究员，师从Weihua Zhuang教授(加拿大皇家科学院院士、加拿大工程院院士、IEEE Fellow)。
 
-主要研究车联网(车计算)、大模型赋能网络安全、无人机视觉导航等。以第一作者在IEEE TMC、IEEE TITS、IEEE TBC、IEEE TVT、IEEE TCSS、IEEE TCE、IEEE ICC、IEEE GBC等著名国际期刊和会议发表论文20余篇；指导学生发表论文110余篇。参编学术专著《Encyclopedia of Wireless Networks》；授权国家发明专利30余件。主持国家自然科学基金和省自然科学基金项目3项，厅级项目2项，国家/省重点实验室开放课题3项，横向项目5项。获得2022年中国特种设备检测协会科学技术二等奖(排名第三)，2021年中国电力联合会科技创新二等奖(排名第三)，2020年中国仪器仪表学会科技进步二等奖(排名第五)，2016年南京市自然科学优秀论文奖(排名第一)，2011年江苏省网络与云计算会议优秀论文奖(排名第一)。现任Frontiers in Blockchain(IF 1.9)、Journal of Information Processing Systems(IF 0.8)和IEEE Access(IF 3.4)等国际期刊的副编辑(Associate Editor)，曾任CCF推荐国际期刊Peer-to-Peer Networking and Applications客座编委(Guest Editor)。担任IEEE International Conference on High Performance Computing and Communications (HPCC)、Annual International Conference on Privacy, Security and Trust (PST)、International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP)等主流国际会议的程序委员会成员。沈航是CCF高级会员，CAAI会员、ACM南京分会执委，IEEE会员。曾获计算机学院青年教师授课大赛一等奖。 
+主要研究车联网(车计算)、领域大模型、网络安全、无人机视觉导航等。以第一作者在IEEE TMC、IEEE TITS、IEEE TBC、IEEE TVT、IEEE TCSS、IEEE TCE、IEEE ICC、IEEE GBC等著名国际期刊和会议发表论文20余篇；指导学生发表论文110余篇。参编学术专著《Encyclopedia of Wireless Networks》；授权国家发明专利30余件。主持国家自然科学基金和省自然科学基金项目3项，厅级项目2项，国家/省重点实验室开放课题3项，横向项目5项。获得2022年中国特种设备检测协会科学技术二等奖(排名第三)，2021年中国电力联合会科技创新二等奖(排名第三)，2020年中国仪器仪表学会科技进步二等奖(排名第五)，2016年南京市自然科学优秀论文奖(排名第一)，2011年江苏省网络与云计算会议优秀论文奖(排名第一)。现任Frontiers in Blockchain(IF 1.9)、Journal of Information Processing Systems(IF 0.8)和IEEE Access(IF 3.4)等国际期刊的副编辑(Associate Editor)，曾任CCF推荐国际期刊Peer-to-Peer Networking and Applications客座编委(Guest Editor)。担任IEEE International Conference on High Performance Computing and Communications (HPCC)、Annual International Conference on Privacy, Security and Trust (PST)、International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP)等主流国际会议的程序委员会成员。沈航是CCF高级会员，CAAI会员、ACM南京分会执委，IEEE会员。曾获计算机学院青年教师授课大赛一等奖。 
 
 指导学生获得国家奖学金/优秀毕业研究生/优秀硕士学位论文/优秀本科毕业论文。所指导的研究生就职于顶级IT企业(包括：华为(南京、上海、深圳、武汉)研究所、中兴通讯、大疆、展讯、海康威视、大华、字节、百度、H3C、德州仪器、微软、爱立信、诺基亚贝尔、三星研究院等)和科技金融机构(包括：中行软件中心、微众银行、蚂蚁金融、南京证券等)或在知名高校攻读博士论文。
 
