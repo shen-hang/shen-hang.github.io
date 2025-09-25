@@ -53,9 +53,7 @@ redirect_from:
 - Jun. 2022: 朱唯周同学的毕设论文“面向入侵检测的生成式对抗网络构建方法”被推荐为“**优秀本科毕业论文**”. 
 - Jun. 2022: Congrats!!! 童子源同学的论文“Joint Resource Optimization for NOMA Enhanced SVC Multicast in UAV-Assisted Radio Access Networks”被SCI期刊ETRI Journal录用. 
 - Apr. 2022: Congrats!!! 衡奕龙同学的论文“Drone-Small-Cell-Assisted Spectrum Management for 5G and Beyond Vehicular Networks”被CCF推荐国际会议IEEE Symposium on Computers and Communications (ISCC)以长文形式录用. 
-- Jan. 2022: 东方航空-空铁一体化路由计算引擎v1.0(支持高并发和算力按需调度)开发完成.
-- Jan. 2022: 东方航空联运网络优化(二期)项目--路由算法验证启动.
-- Nov. 2021: 东方航空联运网络优化(一期)项目--空铁一体化动态路由计算引擎研发启动.
+- Nov. 2021: 东方航空联运网络优化项目--空铁一体化动态路由计算引擎研发启动.
 - Nov. 2021: 沈航的成果“基于网络切片的5G电力物联网关键技术研究及应用”获得**“中国电力联合会科技创新二等奖” (排名第三)**. 
 - Aug. 2021: “大规模网络攻防关键技术研究”项目获得资助并启动.
 - Aug. 2021: “网络安全态势感知与智能分析技术研究”项目获得资助并启动.
@@ -64,29 +62,6 @@ redirect_from:
 - May  2021: Dr. Hang Shen is invited to serve as a TPC member of the 18th Annual International Conference on Privacy, Security and Trust (PST2021).
 - May  2021: 我们的论文“ Drone-Small-Cell-Assisted Resource Slicing for 5G Uplink Radio Access Networks”被知名国际期刊《IEEE Transactions on Vehicular Technology》录用.
 - Dec. 2020: 沈航获得**“中国仪器仪表学会科技进步二等奖”(排名第五)**.
-- Sep. 2020: 沈航当选中国计算机学会(CCF)高级会员.
-- Sep. 2020: 课题组同学获得中国高校网络技术挑战赛华东区三等奖.
-- Jul. 2020: 沈航应邀担任SCI期刊IEEE Access副编辑(Associate Editor).
-- Jun. 2020: 沈航应邀担任SCI期刊Mathematical Problems in Engineering编委(Academic Editor).
-- Jun. 2020: 沈航获得江苏省自然科学基金面上项目立项.
-- Jun. 2020: Congrats!!! 顾伊人同学被评为南工优秀毕业研究生.
-- Nov. 2019: 沈航入选“南工英才”优秀青年科技创新人才计划.
-- Nov. 2019: Congrats!! 顾伊人同学获得国家奖学金.
-- Jun. 2019: 沈航入选江苏省“六大人才高峰”高层次人才计划.
-- Jun. 2019: Congrats!!! 顾一鸣同学被评为南工优秀毕业研究生.
-- Jun. 2019: Congrats!!! 李伶俐的同学学位论文被评为南工优秀硕士学位论文. 
-- May 2019: 顾伊人同学的论文"QoI-Aware Incentive for Multimedia Crowdsensing Enabled Learning System"被Multimedia Systems(CCF推荐国际期刊)录用. 
-- May 2019: 徐佳佳同学在IEEE通信学会旗舰会议IEEE ICC报告研究工作.
-- Mar. 2019: 我们的论文被SCI期刊Wireless Personal Communications录用.
-- Feb. 2019: 我们的论文被IEEE ICC(CCF推荐国际会议)录用.
-- Feb. 2019: 我们的稿件 “Urban Big Data” 被《Encyclopedia of Wireless Networks》采用.
-- Jan. 2019: 我们的论文“P2TA: Privacy-Preserving Task Allocation for Edge Computing Enhanced Mobile Crowdsensing”被Journal of Systems Architecture(计算机体系结构领域国际著名期刊)录用.
-- Dec. 2018: 我们的稿件 “privacy game” 被《Encyclopedia of Wireless Networks》采用.
-- Jul. 2018: 我们的论文“ QoS-Guaranteed Wireless Broadcast Scheduling with Network Coding and Rate Adaptation”被知名国际期刊IEEE Transactions on Vehicular Technology录用.
-- Jun. 2018: The Special Issue “Fog/Edge Networking for Multimedia Applications” we applied for is accepted in Springer Peer-to-Peer Networking and Applications (CCF推荐国际期刊).
-- Jul. 2018: 胡煜家同学的论文被CCF推荐国际会议以长文形式录用.
-- Jul. 2018: 顾伊人同学的论文被CCF推荐国际会议以长文形式录用.
-- May 2018: 沈航获得计算机科学与技术学院青年教师授课大赛一等奖.
 
 ------
 
