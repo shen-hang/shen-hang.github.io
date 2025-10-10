@@ -18,10 +18,10 @@ redirect_from:
 **🚀招收研究生（或有专注力的本科生）：车联网(车计算)、领域大模型、网络安全**<br/>培养的研究生就职于顶级IT企业(包括：华为(南京、上海、深圳、武汉)、中兴、大疆、展讯、字节、海康威视、大华、百度、H3C、微软中国、德州仪器、爱立信、诺基亚、三星电子南京研究所)和科技金融机构(包括：中行软开、微众、蚂蚁、南京证券)。**有志读博的同学可推荐至国内外名校**。
 
 # Recent Highlights
-- Oct. 2025: 我们的论文“面向社交网络跨语言虚假信息检测的LLM增强自监督域自适应方法”被电子学报(**CCF推荐A类中文期刊**)录用. 
+- Oct. 2025: Congrats!!! 我们的论文“面向社交网络跨语言虚假信息检测的LLM增强自监督域自适应方法”被电子学报(**CCF推荐A类中文期刊**)录用. 
 - Oct. 2025: 企业横向项目“同异构分布式算力协同串行并行推理算法研究”启动.![avatar](https://shen-hang.github.io//images/new.jpg)
 - Sep. 2025: 企业横向项目“压力容器定检方案大模型”启动.![avatar](https://shen-hang.github.io//images/new.jpg)
-- Sep. 2025: 作为合作单位承担的“大语言模型与知识图谱双驱动的承压特种设备检验方案生成技术及应用示范”被江苏省市场监管局立项为重点项目.![avatar](https://shen-hang.github.io//images/new.jpg) 
+- Sep. 2025: Congrats!!! 作为合作单位承担的“大语言模型与知识图谱双驱动的承压特种设备检验方案生成技术及应用示范”被江苏省市场监管局立项为重点项目.![avatar](https://shen-hang.github.io//images/new.jpg) 
 - Aug. 2025: Congrats!!! 关于**无人机视觉计算**的论文“MA-DyNN: Modal-Adaptive Dynamic Neural Network for Crowd-Counting on Consumer Drones”被被国际著名期刊IEEE Transactions on Consumer Electronics录用为长文. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Aug. 2025: Congrats!!! 关于**大模型与社交网络**的论文“LACL: LLM-Augmented Contrastive Learning for Misinformation Detection in Social Networks”被被国际著名期刊IEEE Transactions on Computational Social Systems录用为长文. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Apr. 2025: 沈航应邀担任CCF推荐国际会议International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2025)的程序委员会成员. ![avatar](https://shen-hang.github.io//images/new.jpg)
@@ -31,9 +31,9 @@ redirect_from:
 - Feb. 2025: Congrats!!! 关于**多智能体渗透测试**的论文“Collaborative path penetration in 5G-IoT networks: A multi-agent deep reinforcement learning approach”被CCF推荐国际期刊Peer-to-Peer Networking and Applications录用为长文. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Dec. 2024: Congrats!!! 李想、王孝琦、吴华峰同学获得**全球校园人工智能算法大赛(推理知识图谱赛道)全国总决赛一等奖(排名第一)** ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Dec. 2024: Congrats!!! 刘宇同学关于**无人机视觉计算**的论文“Vehicle Counting in UAV Images: An Adaptive Approach with Spatial Attention and Multi-Scale Receptive Fields” 被SCI期刊ETRI Journal编委会评选为**2025年1-2月唯一亮点论文(Featured Article)并邀请制作宣传封面**. ![avatar](https://shen-hang.github.io//images/new.jpg)
-- Oct. 2024: 团队负责的企业横向项目“基于深度强化学习的嵌入式泵组调度算法研发”获得立项. ![avatar](https://shen-hang.github.io//images/new.jpg)
-- Aug. 2024: 团队负责的企业横向项目“工业定检大模型及知识图谱设计”获得立项. ![avatar](https://shen-hang.github.io//images/new.jpg)
-- Aug. 2024: 团队负责的企业横向项目“农产数据知识图谱和大语言模型”获得立项. ![avatar](https://shen-hang.github.io//images/new.jpg)
+- Oct. 2024: 企业横向项目“基于深度强化学习的嵌入式泵组调度算法研发”获得立项. ![avatar](https://shen-hang.github.io//images/new.jpg)
+- Aug. 2024: 企业横向项目“工业定检大模型及知识图谱设计”获得立项. ![avatar](https://shen-hang.github.io//images/new.jpg)
+- Aug. 2024: 企业横向项目“农产数据知识图谱和大语言模型”获得立项. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jul. 2024: 沈航应邀担任SCI期刊Frontiers in Blockchain (IF 1.9)副编辑(Associate Editor). ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jul. 2024: Congrats!!! 周妍婧同学的论文"Blockchain-Assisted Cross-silo Graph Federated Learning for Network Intrusion Detection"被IEEE区块链旗舰会议IEEE Global Blockchain Conference (GBC)以长文形式录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jul. 2024: Congrats!!! 张贝宁同学的论文"Monero Covert Communication-Enhanced Collaboration for Privacy-Preserving Queries"被IEEE区块链旗舰会议IEEE Global Blockchain Conference (GBC)以长文形式录用. ![avatar](https://shen-hang.github.io//images/new.jpg)
