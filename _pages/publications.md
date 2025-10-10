@@ -14,7 +14,7 @@ redirect_from:
 
 **B. Large Language Models (大语言模型赋能互联网技术)**
 1. **沈航\***, 王旭, 王天荆, 戴远飞, 白光伟. 面向社交网络跨语言虚假信息检测的LLM增强自监督域自适应方法, *电子学报*, 2025, 录用待刊出. (**CCF推荐A类中文期刊**, **把论文写在祖国的大地上**) 
-2. **Hang Shen**, Xiang Li, Xu Wang, Yuanfei Dai\*, Tianjing Wang, and Guangwei Bai. [LACL: LLM-Augmented Contrastive Learning for Misinformation Detection in Social Networks](https://ieeexplore.ieee.org/document/11170418), *IEEE Transactions on Computational Social Systems (TCSS)*, 2025, online avaliable. **[[Download](http://shen-hang.github.io/files/TCSS2025.pdf)]**
+2. **Hang Shen**, Xiang Li, Xu Wang, Yuanfei Dai\*, Tianjing Wang, and Guangwei Bai. [LACL: LLM-Augmented Contrastive Learning for Misinformation Detection in Social Networks](https://ieeexplore.ieee.org/document/11170418), *IEEE Transactions on Computational Social Systems (TCSS)*, 2025, online avaliable. (**CCF推荐国际期刊**) **[[Download](http://shen-hang.github.io/files/TCSS2025.pdf)]**
 3. Fang Li, **Hang Shen\***, Jieai Mai, Tianjing Wang, Yuanfei Dai, Xiaodong Miao. [Pre-trained Language Model-Enhanced Conditional Generative Adversarial Networks for Intrusion Detection](https://link.springer.com/article/10.1007/s12083-023-01595-6),  *Peer-to-Peer Networking and Applications (PPNA)*, 2024, vol. 17, pp. 227–245. (**CCF推荐国际期刊**) **[[Download](http://shen-hang.github.io/files/PPNA2024.pdf)]**
 
 **C.  Vehicular Networks (Space-Air-Ground Integrated Networks)**  
