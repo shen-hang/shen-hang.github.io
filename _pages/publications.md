@@ -13,7 +13,7 @@ redirect_from:
 3. Yu Liu, **Hang Shen\***, Tianjing Wang, and Guangwei Bai. [Vehicle Counting in UAV Images: An Adaptive Approach with Spatial Attention and Multi-Scale Receptive Fields](https://onlinelibrary.wiley.com/doi/10.4218/etrij.2023-0426), *ETRI Journal*, 2025, 47(1), pp. 7-19. (**SCI, 被期刊编委会评为2025年1-2月唯一亮点论文(Featured Article)**) **[[Infographic Design](http://shen-hang.github.io/files/ETRIR_48_3_infographics_January_06_2025.pdf)]**  **[[Article Download](http://shen-hang.github.io/files/ETRI2025.pdf)]**
 
 **B. Large Language Models (大语言模型赋能互联网技术)**
-1. **沈航\***, 王旭, 王天荆, 戴远飞, 白光伟. 面向社交网络跨语言虚假信息检测的LLM增强自监督域自适应方法, 电子学报, 2025, 录用待刊出. (**CCF推荐A类中文期刊**, **把论文写在祖国的大地上**) 
+1. **沈航\***, 王旭, 王天荆, 戴远飞, 白光伟. 面向社交网络跨语言虚假信息检测的LLM增强自监督域自适应方法, *电子学报*, 2025, 录用待刊出. (**CCF推荐A类中文期刊**, **把论文写在祖国的大地上**) 
 2. **Hang Shen**, Xiang Li, Xu Wang, Yuanfei Dai\*, Tianjing Wang, and Guangwei Bai. [LACL: LLM-Augmented Contrastive Learning for Misinformation Detection in Social Networks](https://ieeexplore.ieee.org/document/11170418), *IEEE Transactions on Computational Social Systems (TCSS)*, 2025. **[[Download](http://shen-hang.github.io/files/TCSS2025.pdf)]**
 3. Fang Li, **Hang Shen\***, Jieai Mai, Tianjing Wang, Yuanfei Dai, Xiaodong Miao. [Pre-trained Language Model-Enhanced Conditional Generative Adversarial Networks for Intrusion Detection](https://link.springer.com/article/10.1007/s12083-023-01595-6),  *Peer-to-Peer Networking and Applications (PPNA)*, 2024, vol. 17, pp. 227–245. (**CCF推荐国际期刊**) **[[Download](http://shen-hang.github.io/files/PPNA2024.pdf)]**
 
@@ -23,7 +23,6 @@ redirect_from:
 3. **Hang Shen**, Qiang Ye\*, Weihua Zhuang, Weisen Shi, Guangwei Bai, and Geng Yang. [Drone-Small-Cell-Assisted Resource Slicing for 5G Uplink Radio Access Networks](https://ieeexplore.ieee.org/document/9440683),  *IEEE Transactions on Vehicular Technology (TVT)*, 2021, 70(7), pp. 7071-7086. (**中科院二区**) **[[Download](http://shen-hang.github.io/files/TVT2021.pdf)]** 
 4. 殷珉, **沈航\***, 王天荆, 白光伟. 基于分层联邦学习的无人机小基站RAN切片方法, *电子学报*, 2023, 51(7): 1774-1780. (**CCF推荐A类中文期刊**, **把论文写在祖国的大地上**) **[[Download](http://shen-hang.github.io/files/电子学报2023.pdf)]** 
 5. **Hang Shen**, Yilong Heng, Ning Shi, Tianjing Wang\* and Guangwei Bai.  [Drone-Small-Cell-Assisted Spectrum Management for 5G and Beyond Vehicular Networks](https://ieeexplore.ieee.org/abstract/document/9912871), in *Proc. of the 27th IEEE Symposium on Computers and Communications (ISCC)*, Regular Paper, Rhodes Island, Greece, 30th June - 3rd July, 2022, pp. 1-8.  (**CCF推荐国际会议**) **[[Download](http://shen-hang.github.io/files/ISCC2022.pdf)]**
-
 
 **D. Wireless Algorithms**
 1. Tianjing Wang, Yu Zhang, **Hang Shen\***, and Guangwei Bai. [Task Partitioning and Scheduling Based on Stochastic Policy Gradient in Mobile Crowdsensing](https://ieeexplore.ieee.org/document/10550173), *IEEE Transactions on Computational Social Systems (TCSS)*, 2024, 11(5), pp. 6580-6591. (**中科院二区**) **[[Download](http://shen-hang.github.io/files/TCSS2024.pdf)]** 
