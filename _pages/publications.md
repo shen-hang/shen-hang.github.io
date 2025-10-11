@@ -39,7 +39,7 @@ redirect_from:
 5. **Hang Shen**, Jiajia Xu, Tianjing Wang and Guangwei Bai\*. [Detecting Link Correlation Spoofing Attack: A Beacon-Trap Approach](https://ieeexplore.ieee.org/document/8761835), in *Proc. of the 53rd IEEE International Conference on Communications (ICC)*, Regular Paper, Shanghai, China, May 20-24, 2019, pp. 1-6. (**CCF推荐国际会议**, **IEEE通信学会旗舰会议**) **[[Download](http://shen-hang.github.io/files/ICC2019.pdf)]**
 
 
-**E. Blockchain**
+**F. Blockchain**
 1. **Hang Shen**, Yanjing Zhou, Tianjing Wang\*, et al. [Blockchain-Assisted Cross-silo Graph Federated Learning for Network Intrusion Detection](https://ieeexplore.ieee.org/document/11134474), *IEEE Global Blockchain Conference (GBC)*, ShangHai, China, 19-21 Jun, 2025, pp. 1-8.  (**IEEE区块链旗舰会议**) **[[Download](http://shen-hang.github.io/files/GBC2025-Graph.pdf)]** 
 2. Beining Zhang, **Hang Shen\***, Tianjing Wang, and Guangwei Bai. [Monero Covert Communication-Enhanced Collaboration for Privacy-Preserving Queries](https://ieeexplore.ieee.org/document/11134462), *IEEE Global Blockchain Conference (GBC)*, ShangHai, China, 19-21 Jun, 2025, pp. 1-6.  (**IEEE区块链旗舰会议**) **[[Download](http://shen-hang.github.io/files/GBC2025-Monero.pdf)]**   
 3. **Hang Shen**, Beining Zhang, Tianjing Wang\*, Xin Liu, and Guangwei Bai. [Consortium Blockchain-Based Secure Cross-Operator V2V Video Content Distribution](https://link.springer.com/article/10.1007/s12083-024-01674-2), *Peer-to-Peer Networking and Applications (PPNA)*, 2024, Vol. 17, pp. 1631–1644. (**CCF推荐国际期刊**) **[[Download](http://shen-hang.github.io/files/Consortium blockchain.pdf)]** 
