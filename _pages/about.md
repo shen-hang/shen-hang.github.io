@@ -24,8 +24,8 @@ redirect_from:
 - Sep. 2025: Congrats!!! 作为合作单位承担的“大语言模型与知识图谱双驱动的承压特种设备检验方案生成技术及应用示范”被江苏省市场监管局立项为重点项目.![avatar](https://shen-hang.github.io//images/new.jpg) 
 - Aug. 2025: Congrats!!! 关于**无人机视觉计算**的论文“MA-DyNN: Modal-Adaptive Dynamic Neural Network for Crowd-Counting on Consumer Drones”被被国际著名期刊IEEE Transactions on Consumer Electronics录用为长文. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Aug. 2025: Congrats!!! 关于**大模型与社交网络**的论文“LACL: LLM-Augmented Contrastive Learning for Misinformation Detection in Social Networks”被被国际著名期刊IEEE Transactions on Computational Social Systems录用为长文. ![avatar](https://shen-hang.github.io//images/new.jpg)
-- Jul. 2025: 沈航应邀在第二十七届中国科协年会-大模型时代的计算机网络新技术专题论坛做学术报告。
-- Apr. 2025: 沈航应邀担任CCF推荐国际会议International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2025)的程序委员会成员. ![avatar](https://shen-hang.github.io//images/new.jpg)
+- Aug. 2025: 沈航应邀担任CCF推荐国际会议International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2025)的程序委员会成员. ![avatar](https://shen-hang.github.io//images/new.jpg)
+- Jul. 2025: 沈航应邀在第二十七届中国科协年会-大模型时代的计算机网络新技术专题论坛做学术报告.
 - Jun. 2025: Congrats!!! 司天铖同学的本科毕业论文“基于LLM增强自监督对比学习的加密流量检测”被评选为“**校优秀本科毕业论文**”.
 - Apr. 2025: 沈航应邀担任CCF推荐国际会议IEEE International Conference on High Performance Computing and Communications (HPCC)的程序委员会成员. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Mar. 2025: Congrats!!! 关于**网联汽车视觉计算**的论文“MT-DyNN: Multi-Teacher Distilled Dynamic Neural Network for Instance-Adaptive Detection in Autonomous Driving”被国际著名期刊IEEE Transactions on Intelligent Transportation Systems录用为长文. ![avatar](https://shen-hang.github.io//images/new.jpg)
