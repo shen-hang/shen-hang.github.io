@@ -19,7 +19,7 @@ redirect_from:
 # Recent Highlights
 - Oct. 2025: Congrats!!! 我们的论文“MobiFormer: Split-Federated Transfer Learning for Drone RAN Slicing with Multi-Head Attention”被计算机网络领域顶级期刊IEEE Transactions on Mobile Computing(**CCF推荐A类国际期刊**)以长文形式录用.![avatar](https://shen-hang.github.io//images/new.jpg)
 - Oct. 2025: Congrats!!! 我们的论文“面向社交网络跨语言虚假信息检测的LLM增强自监督域自适应方法”被电子学报(**CCF推荐A类中文期刊**)刊用.![avatar](https://shen-hang.github.io//images/new.jpg)
-- Oct. 2025: Congrats!!! 李想、刘棋同学获得硕士研究生国家奖学金.![avatar](https://shen-hang.github.io//images/new.jpg)
+- Oct. 2025: Congrats!!! 李想、刘棋同学获得**硕士研究生国家奖学金**.![avatar](https://shen-hang.github.io//images/new.jpg)
 - Oct. 2025: 企业横向项目“同异构分布式算力协同串行并行推理算法研究”启动.![avatar](https://shen-hang.github.io//images/new.jpg)
 - Sep. 2025: 企业横向项目“压力容器定检方案大模型”启动.![avatar](https://shen-hang.github.io//images/new.jpg)
 - Sep. 2025: 作为合作单位承担的“大语言模型与知识图谱双驱动的承压特种设备检验方案生成技术及应用示范”被江苏省市场监管局立项为重点项目.![avatar](https://shen-hang.github.io//images/new.jpg) 
