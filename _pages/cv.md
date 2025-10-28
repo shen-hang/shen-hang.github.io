@@ -95,7 +95,7 @@ redirect_from:
 
 **A. Journal articles (\* indicates the correspondence author)**
 
-1. **Hang Shen\***, Yanke Yao, Tianjing Wang, and Guangwei Bai. MobiFormer: Split-Federated Transfer Learning for Drone RAN Slicing with Multi-Head Attention, *IEEE Transactions on Mobile Computing (TMC)*, 2025, Accepted as a regular paper. **[[Download](http://shen-hang.github.io/files/TMC2025.pdf)]**
+1. **Hang Shen\***, Yanke Yao, Tianjing Wang, and Guangwei Bai. MobiFormer: Split-Federated Transfer Learning for Drone RAN Slicing with Multi-Head Attention, *IEEE Transactions on Mobile Computing (TMC)*, 2025, DOI: 10.1109/TMC.2025.3627068. **[[Download](http://shen-hang.github.io/files/TMC2025.pdf)]**
 2. **Hang Shen\***, Yibo Tian, Tianjing Wang, and Guangwei Bai. [Slicing-Based Task Offloading in Space-Air-Ground Integrated Vehicular Networks](https://ieeexplore.ieee.org/document/10145842), *IEEE Transactions on Mobile Computing (TMC)*, 2024, 23(5), pp. 4009-4024. **[[Download](http://shen-hang.github.io/files/TMC2024.pdf)]** 
 3. **Hang Shen\***, Qi Liu, Yuanyi Wang, Tianjing Wang, and Guangwei Bai. [MT-DyNN: Multi-Teacher Distilled Dynamic Neural Network for Instance-Adaptive Detection in Autonomous Driving](https://ieeexplore.ieee.org/document/10927614), *IEEE Transactions on Intelligent Transportation Systems (TITS)*, 2025, 26(5), pp. 6116-6129. **[[Download](http://shen-hang.github.io/files/TITS2025.pdf)]**
 4. **Hang Shen**, Xiang Li, Xu Wang, Yuanfei Dai\*, Tianjing Wang, and Guangwei Bai. [LACL: LLM-Augmented Contrastive Learning for Misinformation Detection in Social Networks](https://ieeexplore.ieee.org/document/11170418), *IEEE Transactions on Computational Social Systems (TCSS)*, 2025. **[[Download](http://shen-hang.github.io/files/TCSS2025.pdf)]**
