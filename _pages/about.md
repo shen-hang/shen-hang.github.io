@@ -8,21 +8,35 @@ redirect_from:
   - /about.html
 ---
 
-**🎯 诚邀有兴趣从事开发的同学参与“领域大模型”和“AI模型串/并行推理”落地项目**：<br/>
-✅ 项目津贴保障：提供项目补贴，认可你的努力和付出<br/>
-✅ 深入产业热点：积累AI工程经验，为求职/升学加码<br/>
-✅ 深度理解架构：掌握大模型垂直应用开发架构<br/>
-✅ 实践证明支持：提供项目实践证明，助力未来职业发展<br/>
+🎯 **诚邀热爱开发的同学参与「领域大模型」与「AI模型串/并行推理」落地项目**：<br/>
+🚀 内部培养体系 —— 团队全程指导，提供专业化训练和实践机会<br/>
+💰 项目津贴支持 —— 根据参与度发放补贴，认可你的努力与成果<br/>
+🏭 聚焦产业前沿 —— 深入AI工程与落地应用场景，积累真实经验<br/>
+🧠 掌握核心架构 —— 系统理解大模型垂直应用框架及扩展性设计<br/>
+📜 实践能力认证 —— 提供项目实践和实习证明，助力升学与求职<br/>
 
-**🚀招收研究生(或有专注力的本科同学)开展车联网(车计算)、领域大模型、网络安全方向的研究**<br/>培养的研究生就职于顶级IT企业(包括：华为(南京、上海、深圳、武汉)、中兴、大疆、展讯、字节、海康威视、大华、百度、H3C、微软中国、德州仪器、爱立信、诺基亚、三星南京研究所)和科技金融机构(包括：中行软开、微众、蚂蚁、南京证券)。**有志读博的同学可推荐至国内外名校**。
+🎓 **诚招研究生（及具备专注力的本科同学）加入团队，共同开展以下前沿方向研究：**<br/>
+🚗 车联网与车计算 —— 面向智能驾驶与V2X协同推理架构和方法<br/>
+🛰️ 无人机视觉计算 —— 空地协同、跨模态感知与视觉推理技术<br/>
+🧠 领域大模型 —— 聚焦工业、安全及交通领域的垂直大模型研发与应用<br/>
+🔒 网络与信息安全 —— 探索加密流量检测、隐私保护与安全计算新方法<br/>
+
+🌟 培养的研究生受聘于国内外顶尖IT与科技企业，包括：**<br/>
+**华为（南京、上海、深圳、武汉）｜中兴｜大疆｜展锐｜字节跳动｜海康威视｜大华｜百度｜H3C｜微软中国｜德州仪器｜爱立信｜诺基亚｜三星南京研究所**
+以及知名科技金融机构：**<br/>
+**中国银行软件中心｜微众银行｜蚂蚁集团｜南京证券**等。**<br/>
+🎯 **有志于继续深造的同学**，可推荐至国内外知名高校攻读博士学位。
+
+
+
 
 # Recent Highlights
 - Oct. 2025: Congrats!!! 我们**智能无人机网络**方向的论文“MobiFormer: Split-Federated Transfer Learning for Drone RAN Slicing with Multi-Head Attention”被计算机网络领域顶级期刊IEEE Transactions on Mobile Computing(**CCF推荐A类国际期刊**)以长文形式录用.![avatar](https://shen-hang.github.io//images/new.jpg)
 - Oct. 2025: Congrats!!! 我们**大模型与社交网络**方向的论文“面向社交网络跨语言虚假信息检测的LLM增强自监督域自适应方法”被电子学报(**CCF推荐A类中文期刊**)刊用.![avatar](https://shen-hang.github.io//images/new.jpg)
-- Oct. 2025: Congrats!!! 李想、刘棋同学获得**硕士研究生国家奖学金**.![avatar](https://shen-hang.github.io//images/new.jpg)
-- Oct. 2025: 企业横向项目“同异构分布式算力协同串行并行推理算法研究”启动.![avatar](https://shen-hang.github.io//images/new.jpg)
-- Sep. 2025: 企业横向项目“压力容器定检方案大模型”启动.![avatar](https://shen-hang.github.io//images/new.jpg)
-- Sep. 2025: 作为合作单位承担的“大语言模型与知识图谱双驱动的承压特种设备检验方案生成技术及应用示范”被江苏省市场监管局立项为重点项目.![avatar](https://shen-hang.github.io//images/new.jpg) 
+- Oct. 2025: Congrats!!! 李想、刘棋同学获得硕士**研究生国家奖学金**.![avatar](https://shen-hang.github.io//images/new.jpg)
+- Oct. 2025: 企业横向项目“同异构分布式算力协同**串行并行推理**算法研究”启动.![avatar](https://shen-hang.github.io//images/new.jpg)
+- Sep. 2025: 企业横向项目“压力容器定检方案**大模型**”启动.![avatar](https://shen-hang.github.io//images/new.jpg)
+- Sep. 2025: 作为合作单位承担的“**大语言模型与知识图谱**双驱动的承压特种设备检验方案生成技术及应用示范”被江苏省市场监管局立项为重点项目.![avatar](https://shen-hang.github.io//images/new.jpg) 
 - Aug. 2025: Congrats!!! 我们**无人机视觉计算**方向的论文“MA-DyNN: Modal-Adaptive Dynamic Neural Network for Crowd-Counting on Consumer Drones”被国际著名期刊IEEE Transactions on Consumer Electronics录用为长文. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Aug. 2025: Congrats!!! 我们**大模型与社交网络**方向的论文“LACL: LLM-Augmented Contrastive Learning for Misinformation Detection in Social Networks”被国际著名期刊IEEE Transactions on Computational Social Systems(**CCF推荐国际期刊**)录用为长文. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Aug. 2025: 沈航应邀担任CCF推荐国际会议International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2025)的程序委员会成员. ![avatar](https://shen-hang.github.io//images/new.jpg)
