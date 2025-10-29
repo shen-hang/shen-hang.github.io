@@ -36,7 +36,7 @@ redirect_from:
 - Oct. 2025: 企业横向项目“同异构分布式算力协同**串行并行推理**算法研究”启动.![avatar](https://shen-hang.github.io//images/new.jpg)
 - Sep. 2025: 企业横向项目“压力容器**定检方案大模型**”启动.![avatar](https://shen-hang.github.io//images/new.jpg)
 - Sep. 2025: 作为合作单位承担的“**大语言模型与知识图谱**双驱动的承压特种设备检验方案生成技术及应用示范”被江苏省市场监管局立项为重点项目.![avatar](https://shen-hang.github.io//images/new.jpg) 
-- Aug. 2025: Congrats!!! 我们**无人机视觉计算**方向的论文“MA-DyNN: Modal-Adaptive Dynamic Neural Network for Crowd-Counting on Consumer Drones”被国际著名期刊*IEEE Transactions on Consumer Electronics*(中科院二区)录用为长文. ![avatar](https://shen-hang.github.io//images/new.jpg)
+- Aug. 2025: Congrats!!! 我们**无人机视觉计算**方向的论文“MA-DyNN: Modal-Adaptive Dynamic Neural Network for Crowd-Counting on Consumer Drones”被国际著名期刊*IEEE Transactions on Consumer Electronics*录用为长文. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Aug. 2025: Congrats!!! 我们**大模型与社交网络**方向的论文“LACL: LLM-Augmented Contrastive Learning for Misinformation Detection in Social Networks”被国际著名期刊*IEEE Transactions on Computational Social Systems*录用为长文. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Aug. 2025: 沈航应邀担任CCF推荐国际会议*International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2025)*的程序委员会成员. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Jul. 2025: 沈航应邀在第二十七届中国科协年会-大模型时代的计算机网络新技术专题论坛做学术报告.
