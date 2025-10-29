@@ -34,7 +34,7 @@ redirect_from:
 - Oct. 2025: Congrats!!! 我们**大模型与社交网络**方向的论文“面向社交网络跨语言虚假信息检测的LLM增强自监督域自适应方法”被*电子学报*(**CCF推荐A类中文期刊**)刊用.![avatar](https://shen-hang.github.io//images/new.jpg)
 - Oct. 2025: Congrats!!! 李想、刘棋同学获得硕士**研究生国家奖学金**.![avatar](https://shen-hang.github.io//images/new.jpg)
 - Oct. 2025: 企业横向项目“同异构分布式算力协同**串行并行推理**算法研究”启动.![avatar](https://shen-hang.github.io//images/new.jpg)
-- Sep. 2025: 企业横向项目“压力容器定检方案**大模型**”启动.![avatar](https://shen-hang.github.io//images/new.jpg)
+- Sep. 2025: 企业横向项目“压力容器**定检方案大模型**”启动.![avatar](https://shen-hang.github.io//images/new.jpg)
 - Sep. 2025: 作为合作单位承担的“**大语言模型与知识图谱**双驱动的承压特种设备检验方案生成技术及应用示范”被江苏省市场监管局立项为重点项目.![avatar](https://shen-hang.github.io//images/new.jpg) 
 - Aug. 2025: Congrats!!! 我们**无人机视觉计算**方向的论文“MA-DyNN: Modal-Adaptive Dynamic Neural Network for Crowd-Counting on Consumer Drones”被国际著名期刊*IEEE Transactions on Consumer Electronics*(中科院二区)录用为长文. ![avatar](https://shen-hang.github.io//images/new.jpg)
 - Aug. 2025: Congrats!!! 我们**大模型与社交网络**方向的论文“LACL: LLM-Augmented Contrastive Learning for Misinformation Detection in Social Networks”被国际著名期刊*IEEE Transactions on Computational Social Systems*录用为长文. ![avatar](https://shen-hang.github.io//images/new.jpg)
