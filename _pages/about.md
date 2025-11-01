@@ -88,21 +88,21 @@ redirect_from:
 
 <p>Aug. 2024: 企业横向项目 “农产数据知识图谱和大语言模型” 获立项。</p>
 
-<p>Jul. 2024: 沈航应邀担任 SCI 期刊 <b><i>Frontiers in Blockchain</i></b> (IF 1.9) 副编辑 (Associate Editor)。 </p>
+<p>Jul. 2024: 沈航应邀担任 SCI 期刊 <b><i>Frontiers in Blockchain</i></b> (IF 1.9) 副编辑 (Associate Editor)。</p>
 
-<p>Jul. 2024: 周妍婧同学论文 “Blockchain-Assisted Cross-silo Graph Federated Learning for Network Intrusion Detection” 被 IEEE 区块链旗舰会议 <b><i>IEEE Global Blockchain Conference (GBC)</i></b> 录用为长文。 </p>
+<p>Jul. 2024: 周妍婧同学论文 “Blockchain-Assisted Cross-silo Graph Federated Learning for Network Intrusion Detection” 被 IEEE 区块链旗舰会议 <b><i>IEEE Global Blockchain Conference (GBC)</i></b> 录用为长文。</p>
 
-<p>Jul. 2024: 张贝宁同学论文 “Monero Covert Communication-Enhanced Collaboration for Privacy-Preserving Queries” 被 IEEE 区块链旗舰会议 <b><i>IEEE Global Blockchain Conference (GBC)</i></b> 录用为长文。 </p>
+<p>Jul. 2024: 张贝宁同学论文 “Monero Covert Communication-Enhanced Collaboration for Privacy-Preserving Queries” 被 IEEE 区块链旗舰会议 <b><i>IEEE Global Blockchain Conference (GBC)</i></b> 录用为长文。</p>
 
-<p>Jul. 2024: 沈航应邀担任 CCF 推荐国际会议 <b><i>IEEE International Conference on High Performance Computing and Communications (HPCC)</i></b> 程序委员会成员。 </p>
+<p>Jul. 2024: 沈航应邀担任 CCF 推荐国际会议 <b><i>IEEE International Conference on High Performance Computing and Communications (HPCC)</i></b> 程序委员会成员。</p>
 
 <p>May 2024: 张贝宁同学硕士论文 “基于区块链的协作查询隐私保护方法研究” 被推荐为 <b>优秀研究生论文</b>。</p> 
 
 <p>May 2024: 朱天赐同学毕设论文 “CPU-GPU 异构计算平台上稀疏矩阵乘性能优化研究” 被推荐为 <b>优秀本科毕业论文</b>。</p>
 
-<p>May 2024: 张羽同学论文 “Task Partitioning and Scheduling Based on Stochastic Policy Gradient in Mobile Crowdsensing” 被国际著名期刊 <b><i>IEEE Transactions on Computational Social Systems</i></b> 录用为长文。 </p>
+<p>May 2024: 张羽同学论文 “Task Partitioning and Scheduling Based on Stochastic Policy Gradient in Mobile Crowdsensing” 被国际著名期刊 <b><i>IEEE Transactions on Computational Social Systems</i></b> 录用为长文。</p>
 
-<p>May 2024: 张贝宁同学论文 “Invisible Man: Blockchain-enabled Peer-to-Peer Collaborative Privacy Games in LBSs” 被 CCF 推荐 SCI 期刊 <b><i>Peer-to-Peer Networking and Applications</i></b> 录用。 </p>
+<p>May 2024: 张贝宁同学论文 “Invisible Man: Blockchain-enabled Peer-to-Peer Collaborative Privacy Games in LBSs” 被 CCF 推荐 SCI 期刊 <b><i>Peer-to-Peer Networking and Applications</i></b> 录用。</p>
 
 <p>Feb. 2024: 张贝宁同学论文 “Consortium Blockchain-Based Secure Cross-Operator V2V Video Content Distribution” 被 CCF 推荐 SCI 期刊 <b><i>Peer-to-Peer Networking and Applications</i></b> 录用。</p>
 
