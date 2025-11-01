@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 <h2 style="font-size:20px; color:#2c3e50; border-left:4px solid #1E90FF; padding-left:10px; margin-bottom:10px; margin-top:20px;">
-  **计算机网络 (Computer Networks)** - Undergraduate course - Spring 2016-2018, 2020-2025
+  计算机网络 (Computer Networks) - Undergraduate course - Spring 2016-2018, 2020-2025
 </h2>
 
 **Course Work and Evaluation**: Assignments (作业) (10%); Lab Experiments (实验) (20%); Final Examination (70%) will have a 120-minute closed-book final examination (闭卷) in English (全英文试卷) by the end of this semester.
