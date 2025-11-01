@@ -235,7 +235,7 @@ redirect_from:
   </details>
 
   <details>
-    <summary style="font-weight:bold; color:#1E90FF; cursor:pointer;">C. 内容结构建议</summary>
+    <summary style="font-weight:bold; color:#1E90FF; cursor:pointer;">C. 结构和内容要求</summary>
     <ol style="margin-top:6px; margin-left:24px;">
       <li>研究背景与意义</li>
       <li>当前研究进展</li>
@@ -245,7 +245,7 @@ redirect_from:
     </ol>
 
     <div style="margin-top:10px; background-color:#fff; border-left:4px solid #1E90FF; padding:8px 10px; border-radius:6px; font-size:14px; color:#444;">
-      <b>提示：</b> 研究报告需包含<b>题目、摘要与结论</b>，内容应分段清晰，篇幅不少于 <b>6页</b>。
+      <b>注：</b> 研究报告需包含<b>题目、摘要与结论</b>，内容应分段清晰，篇幅不少于 <b>6页</b>。
     </div>
   </details>
 </div>
