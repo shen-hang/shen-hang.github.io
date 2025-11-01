@@ -318,15 +318,15 @@ redirect_from:
       QMOR: QoS-Aware Multi-Sink Opportunistic Routing for Wireless Multimedia Sensor Networks</a>, 
       <i>Wireless Personal Communications (WPC)</i>, 2014, 75(2), pp. 1307–1330.
     </li>
-    </ol>
-  </ul>
+ </ul>
 </div>
 
-**B. Conference articles (\* indicates the correspondence author)**
+<div style="background-color:#f9f9f9; border-radius:10px; padding:10px 16px; line-height:1.6; font-size:15px; box-shadow:0 1px 4px rgba(0,0,0,0.08); margin-bottom:16px;">
+  <p style="font-weight:bold; color:#2c3e50; margin-top:0; margin-bottom:8px;">
+    B. Conference Articles <span style="font-weight:normal; color:#555;">(* indicates the correspondence author)</span>
+  </p>
 
-<div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:8px;">
-  <ul style="list-style-type: none; padding-left: 0;">
-  <ol style="margin-top:6px; margin-bottom:0;">
+  <ul style="list-style-type:none; padding-left:8px; margin:0;">
     <li>
       <b>Hang Shen</b>, Yanjing Zhou, Tianjing Wang*, et al.
       <a href="https://ieeexplore.ieee.org/document/11134474" style="color:#000; text-decoration:none;">
@@ -378,7 +378,6 @@ redirect_from:
       <i>Proc. of the International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP)</i>, Full Paper, 2018, pp. 142–158.
       <b>(CCF推荐国际会议)</b>
     </li>
-  </ol>
   </ul>
 </div>
 
