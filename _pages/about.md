@@ -49,9 +49,9 @@ redirect_from:
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 18px; line-height:1.4; font-size:15px;">
 
-<p>Oct. 2025: 我们 <b>智能无人机网络</b> 方向的论文 <i>"MobiFormer: Split-Federated Transfer Learning for Drone RAN Slicing with Multi-Head Attention"</i> 被计算机网络领域顶级期刊 <b><i>IEEE Transactions on Mobile Computing</i></b> (<b>CCF推荐A类国际期刊</b>) 以长文形式录用。 <span style="background:linear-gradient(90deg,#ff4d4f,#ff7875); color:white; font-weight:bold; border-radius:4px; padding:1px 6px; font-size:12px;">NEW</span></p>
+<p>Oct. 2025: 我们 <b>智能无人机网络</b> 方向的论文 <i>"MobiFormer: Split-Federated Transfer Learning for Drone RAN Slicing with Multi-Head Attention"</i> 被计算机网络领域顶级期刊 <b><i>IEEE Transactions on Mobile Computing</i></b> (<b>CCF推荐A类国际期刊</b>) 以长文形式录用。 <span style="border:1px solid #bbb; color:#555; font-weight:500; border-radius:4px; padding:1px 6px; font-size:12px; background-color:#f3f3f3;">NEW</span>
 
-<p>Oct. 2025: 我们 <b>大模型与社交网络</b> 方向的论文 “面向社交网络跨语言虚假信息检测的 LLM 增强自监督域自适应方法” 被 <b><i>电子学报</i></b> (<b>CCF推荐A类中文期刊</b>) 刊用。 <span style="background:linear-gradient(90deg,#ff4d4f,#ff7875); color:white; font-weight:bold; border-radius:4px; padding:1px 6px; font-size:12px;">NEW</span></p>
+<p>Oct. 2025: 我们 <b>大模型与社交网络</b> 方向的论文 “面向社交网络跨语言虚假信息检测的 LLM 增强自监督域自适应方法” 被 <b><i>电子学报</i></b> (<b>CCF推荐A类中文期刊</b>) 刊用。 <span style="border:1px solid #bbb; color:#555; font-weight:500; border-radius:4px; padding:1px 6px; font-size:12px; background-color:#f3f3f3;">NEW</span>
 
 <p>Oct. 2025: 李想、刘棋同学获得硕士 <b>研究生国家奖学金</b>。 <span style="background:linear-gradient(90deg,#ff4d4f,#ff7875); color:white; font-weight:bold; border-radius:4px; padding:1px 6px; font-size:12px;">NEW</span></p>
 
