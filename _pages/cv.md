@@ -21,16 +21,93 @@ redirect_from:
 # Research Interests
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:16px;">
-  * Artificial Intelligence for Future Networks<br/>
+  * Vehicular Networks (Vehicle Computing) and Space-Air-Ground Integrated Networks<br/>
+  * Vertical Domain-Specific Large Language Models<br/>
+  * Drone/Vehicle Vision-Language Navigation<br/>
   * Blockchain and Cybersecurity
 </div>
 
 # Professional Activities
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:16px;">
-  - <b>Editor for Journals</b><br/>
-    - Associate Editor, <i>Journal of Information Processing Systems (JIPS)</i> (2024-present)<br/>
-    - Associate Editor, <i>Frontiers in Blockchain</i> (2024-present)
+  <b>Editor for Journals</b><br/>
+  - Associate Editor, Journal of Information Processing Systems (JIPS) (2024-present)<br/>
+  - Associate Editor, Frontiers in Blockchain (2024-present)<br/>
+  - Associate Editor, IEEE Access (2020-present)<br/>
+  - Academic Editor, Mathematical Problems in Engineering (MPE) (2020-2024)<br/>
+  - Guest Editor, Peer-to-Peer Networking and Applications (PPNA) (2018-2019)<br/>
+</div>
+
+<div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:16px;">
+  <b>Technical Committee Member</b><br/>
+  - IEEE International Conference on High Performance Computing and Communications (HPCC) (2024, 2025)<br/>
+  - International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP) (2025)<br/>
+  - Annual International Conference on Privacy, Security and Trust (PST) (2021)<br/>
+  - CCF Network and Data Communications (TCCOMM) (2015-present)<br/>
+  - International Conference on Advanced Cloud and Big Data (CBD) (2015-2021)<br/>
+  - International Conference on Pattern Recognition and Artificial Intelligence (2021)<br/>
+  - Conference on Network and Data Communications in China (NDCC) (2016, 2018)<br/>
+</div>
+
+<div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:16px;">
+  <b>Reviewer for Journals</b><br/>
+  - IEEE/ACM Transactions on Networking (TON)<br/>
+  - IEEE Transactions on Mobile Computing (TMC)<br/>
+  - IEEE Transactions on Dependable and Secure Computing (TDSC)<br/>
+  - IEEE Transactions on Services Computing (TSC)<br/>
+  - IEEE Transactions on Wireless Communications (TWC)<br/>
+  - IEEE Transactions on Communications (TCOM)<br/>
+  - IEEE Transactions on Intelligent Transportation Systems (TITS)<br/>
+  - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)<br/>
+  - IEEE Transactions on Vehicular Technology (TVT)<br/>
+  - IEEE Transactions on Network and Service Management (TNSM)<br/>
+  - IEEE Transactions on Green Communications and Networking (TGCN)<br/>
+  - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)<br/>
+  - IEEE Transactions on Computational Social Systems (TCSS)<br/>
+  - IEEE Transactions on Consumer Electronics (TCE)<br/>
+  - IEEE Transactions on Cognitive Communications and Networking (TCCN)<br/>
+  - IEEE Transactions on Sustainable Computing (TSUSC)<br/>
+  - IEEE Internet of Things Journal<br/>
+  - IEEE Network Magazine<br/>
+  - IEEE Systems Journal<br/>
+  - IEEE Sensors Journal<br/>
+  - IEEE Communications Letters<br/>
+  - Wireless Networks (WINE)<br/>
+  - Concurrency and Computation: Practice and Experience (CCPE)<br/>
+  - Cluster Computing<br/>
+  - Big Data Mining and Analytics (BDMA)<br/>
+  - Peer-to-Peer Networking and Applications (PPNA)<br/>
+  - Elsevier Robotics and Autonomous Systems (RAS)<br/>
+  - Elsevier Measurement<br/>
+  - Multimedia Tools and Applications (MTAP)<br/>
+  - Journal of Communications and Information Networks (JCIN)<br/>
+  - Knowledge-Based Systems (KBS)<br/>
+  - Telecommunication Systems<br/>
+  - ETRI Journal<br/>
+  - Acta Electronica Sinica (电子学报)<br/>
+  - Journal on Communications (通信学报)<br/>
+  - Chinese Journal on Internet of Things (物联网学报)<br/>
+  - Chinese Journal of Network and Information Security (网络与信息安全学报)<br/>
+</div>
+
+<div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:16px;">
+  <b>Reviewer for International Conferences</b><br/>
+  - IEEE International Conference on Parallel and Distributed Systems (ICPADS)<br/>
+  - IEEE International Conference on Communications (ICC)<br/>
+  - IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA)<br/>
+  - IEEE Conference on Vehicular Technology (VTC)<br/>
+  - IEEE INFOCOM WKSHPS<br/>
+</div>
+
+<div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:16px;">
+  <b>Membership</b><br/>
+  - Member, Institute of Electrical and Electronics Engineers (IEEE) (2018-present)<br/>
+  - Member, IEEE Computer Society (CS) (2023-present)<br/>
+  - Member, IEEE Communications Society (ComSoc) (2020-present)<br/>
+  - Member, IEEE Vehicular Technology Society (VTS) (2020-present)<br/>
+  - Member, Association for Computing Machinery (ACM) (2015-present)<br/>
+  - Executive Committee Member, ACM Nanjing Chapter (2014-present)<br/>
+  - Member (2011-2020), Senior Member (2020-present), China Computer Federation (CCF)<br/>
 </div>
 
 # Publications
