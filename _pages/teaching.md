@@ -8,6 +8,15 @@ redirect_from:
 ---
 
 ---
+
+<h3 style="font-size:17px; color:#2c3e50; margin-bottom:6px; margin-top:18px;">
+  计算机网络（Computer Networks）
+  <span style="font-weight:normal; color:#666; font-size:13px;">— Undergraduate Course</span>
+</h3>
+<p style="margin:0 0 10px 0; color:#555; font-size:13px;">
+  开课学期：Spring 2016–2018, 2020–2025
+</p>
+
   <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.55; font-size:15px; box-shadow:0 1px 4px rgba(0,0,0,0.08); margin-bottom:16px;">
   <p style="margin:0 0 8px 0;">
     <b>Course Work & Evaluation</b><br/>
@@ -29,6 +38,9 @@ redirect_from:
   <p style="margin:0;">
     The <b>final exam</b> is a 120-minute <b>closed-book test（闭卷考试）</b> conducted entirely in English（全英文试卷）.
   </p>
+</div>
+
+
 
   <p style="margin:10px 0 6px 0;"><b>Assignment Guidelines（作业规范）</b></p>
   <ol style="margin:0; padding-left:18px;">
