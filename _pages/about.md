@@ -78,7 +78,7 @@ redirect_from:
 
 <p>Feb. 2025: 我们 <b>多智能体渗透测试</b> 方向的论文 <i>"Collaborative Path Penetration in 5G-IoT Networks: A Multi-Agent Deep Reinforcement Learning Approach"</i> 被 CCF 推荐国际期刊 <b><i>Peer-to-Peer Networking and Applications</i></b> 录用为长文。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
- <p>Dec. 2024: 李想、王孝琦、吴华峰同学获得 <b>全球校园人工智能算法大赛（推理知识图谱赛道）全国总决赛一等奖（排名第一）</b>。 
+ <p>Dec. 2024: 李想、王孝琦、吴华峰同学获得 <b>全球校园人工智能算法大赛（推理知识图谱赛道）全国总决赛一等奖（排名第一）</b>。</p> 
 
 <p>Dec. 2024: 刘宇同学关于 <b>无人机视觉计算</b> 的论文 “Vehicle Counting in UAV Images: An Adaptive Approach with Spatial Attention and Multi-Scale Receptive Fields” 被 SCI 期刊 <b><i>ETRI Journal</i></b> 编委会评选为 <b>2025 年 1–2 月唯一亮点论文 (Featured Article)</b> 并邀请制作图形化封面。</p>
 
@@ -109,7 +109,7 @@ redirect_from:
 <p>Jan. 2024: 沈航应邀担任 SCI 期刊 <b><i>Journal of Information Processing Systems</i></b> (IF 0.8) 副编辑 (Associate Editor)。</p> 
 
 
-
+</div>
 
 <h2 align="left">Biography</h2>
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 18px; line-height:1.4; font-size:15px;">
