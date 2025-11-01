@@ -162,14 +162,14 @@ redirect_from:
 </div>
 
 
-------
+<h2 align="left">Contact Info</h2>
+<div style="background-color:#f9f9f9; border-radius:10px; padding:12px 18px; line-height:1.5; font-size:15px; margin-bottom:24px;">
+  Department of Computer Science and Technology, Nanjing Tech University<br/>
+  Addr: 30 South Puzhu Road, 79 Box, Nanjing, China, 211816<br/>
+  Email: <a href="mailto:hshen@njtech.edu.cn">hshen@njtech.edu.cn</a>, <a href="mailto:helloshenhang@gmail.com">helloshenhang@gmail.com</a>
+</div>
 
-Contact Info
-======
 
-Department of Computer Science and Technology, Nanjing Tech University<br/>
-Addr: 30 South Puzhu Road, 79 Box, Nanjing, China, 211816 <br/>
-Email: hshen@njtech.edu.cn, helloshenhang@gmail.com
 
 
 ![Visitor Count](https://profile-counter.glitch.me/shen-hang/count.svg)
