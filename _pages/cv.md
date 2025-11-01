@@ -345,6 +345,7 @@ redirect_from:
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:16px;">
   <ul style="list-style-type: none; padding-left: 0;">
+    <ol>
     <li>
       <b>Hang Shen</b>. 
       <a href="https://www.google.com/url?q=https%3A%2F%2Flink.springer.com%2Freferenceworkentry%2F10.1007%2F978-3-319-32903-1_99-1" style="color:#000; text-decoration:none;">
@@ -361,6 +362,7 @@ redirect_from:
       <b><i>Encyclopedia of Wireless Networks</i></b>, Springer, Cham, 2019. 
       DOI: 10.1007/978-3-319-32903-1_99-1.
     </li>
+    </ol>
   </ul>
 </div>
 
