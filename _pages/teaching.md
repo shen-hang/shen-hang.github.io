@@ -18,15 +18,19 @@ redirect_from:
     开课学期：Spring 2016–2018, 2020–2025
   </p>
 
-  <div style="margin:8px 0 10px 0;">
-    <span style="display:inline-block; border:1px solid #e0e0e0; border-radius:6px; padding:2px 8px; font-size:13px; margin-right:6px;">Assignments 作业：<b>10%</b></span>
-    <span style="display:inline-block; border:1px solid #e0e0e0; border-radius:6px; padding:2px 8px; font-size:13px; margin-right:6px;">Lab 实验：<b>20%</b></span>
-    <span style="display:inline-block; border:1px solid #e0e0e0; border-radius:6px; padding:2px 8px; font-size:13px;">Final Exam 期末：<b>70%</b></span>
-  </div>
-
   <p style="margin:0 0 8px 0;">
     <b>Course Work & Evaluation（课程作业与考核）</b><br/>
-    期末考试为 <b>120 分钟</b>、<b>闭卷</b>、<b>全英文试卷</b>。
+    本课程成绩由作业、实验和期末考试三部分构成：
+  </p>
+
+  <ul style="margin:6px 0 8px 18px;">
+    <li>Assignments（作业）—— 10%</li>
+    <li>Lab Experiments（实验）—— 20%</li>
+    <li>Final Examination（期末考试）—— 70%</li>
+  </ul>
+
+  <p style="margin:0 0 8px 0;">
+    期末考试为 <b>120 分钟闭卷考试（Closed-Book, 120 minutes）</b>，试卷为全英文（English only）。
   </p>
 
   <p style="margin:10px 0 6px 0;"><b>Assignment Guidelines（作业规范）</b></p>
