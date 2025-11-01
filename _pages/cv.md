@@ -334,7 +334,7 @@ redirect_from:
       <b>Hang Shen</b>, Yilong Hen, Ning Shi, Tianjing Wang, and Guangwei Bai*.
       <a href="https://ieeexplore.ieee.org/document/9912871" style="color:#000; text-decoration:none;">
       Drone-Small-Cell-Assisted Spectrum Management for 5G and Beyond Vehicular Networks</a>,
-      <i>Proc. of the IEEE Symposium on Computers and Communications (ISCC)</i>, Rhodes Island, Greece, Jun 30–Jul 3, 2022.
+      <i>Proc. of the IEEE Symposium on Computers and Communications (ISCC)</i>, Rhodes Island, Greece, Jun 30–Jul 3, Regular Paper, 2022, pp.1-8.
       <b>(CCF推荐国际会议)</b>
       <a href="http://shen-hang.github.io/files/ISCC2022.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
@@ -343,7 +343,7 @@ redirect_from:
       <b>Hang Shen</b>, Jiajia Xu, Tianjing Wang, and Guangwei Bai*.
       <a href="https://ieeexplore.ieee.org/document/8761835" style="color:#000; text-decoration:none;">
       Detecting Link Correlation Spoofing Attack: A Beacon-Trap Approach</a>,
-      <i>Proc. of the 53rd IEEE International Conference on Communications (ICC)</i>, Shanghai, China, May 20–24, 2019.
+      <i>Proc. of the 53rd IEEE International Conference on Communications (ICC)</i>, Shanghai, China, May 20–24, Regular Paper, 2019.
       <b>(CCF推荐国际会议, IEEE通信学会旗舰会议)</b>
       <a href="http://shen-hang.github.io/files/ICC2019.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
