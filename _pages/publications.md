@@ -9,7 +9,7 @@ redirect_from:
 <p><b>Articles divided by research field (<i>* indicates the correspondence author</i>)</b></p>
 
 <!-- A. Vehicular Networks -->
-<div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.45; font-size:15px; margin-bottom:18px;">
+<div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.45; font-size:15px; margin-bottom:8px;">
   <h3 style="color:#8B0000; margin-top:0; margin-bottom:6px;">A. Vehicular Networks (Space-Air-Ground Integrated Networks)</h3>
   <ol style="margin-top:4px; padding-left:20px;">
     <li>
@@ -65,7 +65,7 @@ redirect_from:
 </div>
 
 <!-- B. Drone/Car Vision Computing -->
-<div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.45; font-size:15px; margin-bottom:18px;">
+<div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.45; font-size:15px; margin-bottom:8px;">
   <h3 style="color:#8B0000; margin-top:0; margin-bottom:6px;">B. Drone/Car Vision Computing (网联无人机/汽车视觉计算)</h3>
   <ol style="margin-top:4px; padding-left:20px;">
     <li>
@@ -100,7 +100,7 @@ redirect_from:
 </div>
 
 <!-- C. Large Language Models -->
-<div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.45; font-size:15px; margin-bottom:18px;">
+<div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.45; font-size:15px; margin-bottom:8px;">
   <h3 style="color:#8B0000; margin-top:0; margin-bottom:6px;">C. Large Language Models (大模型赋能互联网技术)</h3>
   <ol style="margin-top:4px; padding-left:20px;">
     <li>
@@ -134,7 +134,7 @@ redirect_from:
 </div>
 
 <!-- D. Wireless Algorithms -->
-<div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.45; font-size:15px; margin-bottom:18px;">
+<div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.45; font-size:15px; margin-bottom:8px;">
   <h3 style="color:#8B0000; margin-top:0; margin-bottom:6px;">D. Wireless Algorithms</h3>
   <ol style="margin-top:4px; padding-left:20px;">
     <li>
@@ -184,7 +184,7 @@ redirect_from:
 
 
 <!-- E. Security & Privacy -->
-<div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.45; font-size:15px; margin-bottom:18px;">
+<div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.45; font-size:15px; margin-bottom:8px;">
   <h3 style="color:#8B0000; margin-top:0; margin-bottom:6px;">E. Security & Privacy</h3>
   <ol style="margin-top:4px; padding-left:20px;">
     <li>
@@ -234,7 +234,7 @@ redirect_from:
 </div>
 
 <!-- F. Blockchain -->
-<div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.45; font-size:15px; margin-bottom:18px;">
+<div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.45; font-size:15px; margin-bottom:8px;">
   <h3 style="color:#8B0000; margin-top:0; margin-bottom:6px;">F. Blockchain</h3>
   <ol style="margin-top:4px; padding-left:20px;">
     <li>
