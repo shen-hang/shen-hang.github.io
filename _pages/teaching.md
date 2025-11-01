@@ -211,7 +211,7 @@ redirect_from:
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:14px 18px; line-height:1.7; font-size:15px; box-shadow:0 1px 5px rgba(0,0,0,0.06);">
   <details style="margin-bottom:10px;">
-    <summary style="font-weight:bold; color:#1E90FF; cursor:pointer;">A. 报告格式要求</summary>
+    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">A. 报告格式要求</summary>
     <p style="margin:6px 0 0 4px;">
       请使用 <b>LaTeX（Overleaf）</b> 编排论文，模板下载：
       <a href="https://pan.baidu.com/s/10QYw21qaXrpT6-XOWA6gHA" style="color:#3A6EA5; text-decoration:none;">[点击下载（提取码：5m56）]</a>。
