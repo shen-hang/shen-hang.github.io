@@ -367,7 +367,7 @@ redirect_from:
 
 **C. Book Chapters**
 
-<div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:16px;">
+<div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:8px;">
   <ul style="list-style-type: none; padding-left: 0;">
   <ol style="margin-top:6px; margin-bottom:0;">
     <li>
@@ -392,7 +392,7 @@ redirect_from:
 
 # Research Projects
 
-<div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:16px;">
+<div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:8px;">
   <ul style="list-style-type: none; padding-left: 0;">
   <ol style="margin-top:6px; margin-bottom:0;">
 <li>大语言模型与知识图谱双驱动的承压特种设备检验方案生成技术及应用示范, 江苏省市场监管局重点项目, 2025/09–2027/09, <b>子课题负责人</b></li>
@@ -424,7 +424,7 @@ redirect_from:
 
 # Teaching
 
-<div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:16px;">
+<div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:8px;">
   <b>Undergraduate Course:</b><br/>
   - Computer Networks (Spring 2016-2018, 2020-2025)<br/>
   - Introduction to Internet of Things (Fall 2015-2017, Fall 2019-2025)<br/>
