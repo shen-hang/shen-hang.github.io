@@ -119,163 +119,187 @@ redirect_from:
   <ol style="margin-top:6px; margin-bottom:0;">
     <li>
       <b>Hang Shen*</b>, Yanke Yao, Tianjing Wang, and Guangwei Bai. 
-      <i>MobiFormer: Split-Federated Transfer Learning for Drone RAN Slicing with Multi-Head Attention</i>, 
-      <b><i>IEEE Transactions on Mobile Computing (TMC)</i></b>, 2025, DOI: 10.1109/TMC.2025.3627068. 
-      **[[Download](http://shen-hang.github.io/files/TMC2025.pdf)]**
+      <a href="https://ieeexplore.ieee.org/document/11222929" style="color:#000; text-decoration:none;">
+      MobiFormer: Split-Federated Transfer Learning for Drone RAN Slicing with Multi-Head Attention</a>, 
+      <b><i>IEEE Transactions on Mobile Computing (TMC)</i></b>, 2025. 
+      DOI: 10.1109/TMC.2025.3627068. 
+      <a href="http://shen-hang.github.io/files/TMC2025.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
+
     <li>
       <b>Hang Shen*</b>, Yibo Tian, Tianjing Wang, and Guangwei Bai. 
       <a href="https://ieeexplore.ieee.org/document/10145842" style="color:#000; text-decoration:none;">
       Slicing-Based Task Offloading in Space-Air-Ground Integrated Vehicular Networks</a>, 
-      <b><i>IEEE Transactions on Mobile Computing (TMC)</i></b>, 2024, 23(5), pp. 4009-4024. 
-      **[[Download](http://shen-hang.github.io/files/TMC2024.pdf)]**
+      <b><i>IEEE Transactions on Mobile Computing (TMC)</i></b>, 2024, 23(5), pp. 4009–4024. 
+      <a href="http://shen-hang.github.io/files/TMC2024.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
+
     <li>
       <b>Hang Shen*</b>, Qi Liu, Yuanyi Wang, Tianjing Wang, and Guangwei Bai. 
       <a href="https://ieeexplore.ieee.org/document/10927614" style="color:#000; text-decoration:none;">
       MT-DyNN: Multi-Teacher Distilled Dynamic Neural Network for Instance-Adaptive Detection in Autonomous Driving</a>, 
-      <b><i>IEEE Transactions on Intelligent Transportation Systems (TITS)</i></b>, 2025, 26(5), pp. 6116-6129. 
-      **[[Download](http://shen-hang.github.io/files/TITS2025.pdf)]**
+      <b><i>IEEE Transactions on Intelligent Transportation Systems (TITS)</i></b>, 2025, 26(5), pp. 6116–6129. 
+      <a href="http://shen-hang.github.io/files/TITS2025.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
+
     <li>
       <b>Hang Shen</b>, Xiang Li, Xu Wang, Yuanfei Dai*, Tianjing Wang, and Guangwei Bai. 
       <a href="https://ieeexplore.ieee.org/document/11170418" style="color:#000; text-decoration:none;">
       LACL: LLM-Augmented Contrastive Learning for Misinformation Detection in Social Networks</a>, 
       <b><i>IEEE Transactions on Computational Social Systems (TCSS)</i></b>, 2025. 
-      **[[Download](http://shen-hang.github.io/files/TCSS2025.pdf)]**
+      <a href="http://shen-hang.github.io/files/TCSS2025.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
+
     <li>
       <b>Hang Shen*</b>, Ziyuan Tong, Tianjing Wang, and Guangwei Bai. 
       <a href="https://ieeexplore.ieee.org/document/10314431" style="color:#000; text-decoration:none;">
       UAV-Relay-Assisted Live Layered Video Multicast for Cell-Edge Users in NOMA Networks</a>, 
-      <b><i>IEEE Transactions on Broadcasting (TBC)</i></b>, 2024, 70(1), pp. 135-147. 
-      **[[Download](http://shen-hang.github.io/files/TBC2024.pdf)]**
+      <b><i>IEEE Transactions on Broadcasting (TBC)</i></b>, 2024, 70(1), pp. 135–147. 
+      <a href="http://shen-hang.github.io/files/TBC2024.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
+
     <li>
       <b>Hang Shen*</b>, Qi Liu, Yu Liu, Tianjing Wang, and Guangwei Bai. 
       <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11142340" style="color:#000; text-decoration:none;">
       MA-DyNN: Modal-Adaptive Dynamic Neural Network for Crowd-Counting on Consumer Drones</a>, 
       <b><i>IEEE Transactions on Consumer Electronics (TCE)</i></b>, 2025. 
-      **[[Download](http://shen-hang.github.io/files/TCE2025.pdf)]**
+      <a href="http://shen-hang.github.io/files/TCE2025.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
+
     <li>
       <b>Hang Shen</b>, Qiang Ye, Weihua Zhuang, Weisen Shi, Guangwei Bai, and Geng Yang. 
       <a href="https://ieeexplore.ieee.org/document/9440683" style="color:#000; text-decoration:none;">
-      Drone-Small-Cell-Assisted Resource Slicing for 5G Uplink Radio Access Networks</a>,  
-      <b><i>IEEE Transactions on Vehicular Technology (TVT)</i></b>, 2021, 70(7), pp. 7071-7086. 
-      **[[Download](http://shen-hang.github.io/files/paper1.pdf)]**
+      Drone-Small-Cell-Assisted Resource Slicing for 5G Uplink Radio Access Networks</a>, 
+      <b><i>IEEE Transactions on Vehicular Technology (TVT)</i></b>, 2021, 70(7), pp. 7071–7086. 
+      <a href="http://shen-hang.github.io/files/paper1.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
+
     <li>
       <b>Hang Shen</b> and Guangwei Bai*. 
       <a href="http://ieeexplore.ieee.org/abstract/document/8291004/" style="color:#000; text-decoration:none;">
       QoS-Guaranteed Wireless Broadcast Scheduling with Network Coding and Rate Adaptation</a>, 
-      <b><i>IEEE Transactions on Vehicular Technology (TVT)</i></b>, 2018, 67(7), pp. 6492-6503.  
-      **[[Download](http://shen-hang.github.io/files/paper2.pdf)]**
+      <b><i>IEEE Transactions on Vehicular Technology (TVT)</i></b>, 2018, 67(7), pp. 6492–6503.  
+      <a href="http://shen-hang.github.io/files/paper2.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
+
     <li>
       Tianjing Wang, Yu Zhang, <b>Hang Shen*</b>, and Guangwei Bai. 
       <a href="https://ieeexplore.ieee.org/document/10550173" style="color:#000; text-decoration:none;">
       Task Partitioning and Scheduling Based on Stochastic Policy Gradient in Mobile Crowdsensing</a>, 
-      <b><i>IEEE Transactions on Computational Social Systems (TCSS)</i></b>, 2024, 11(5), pp. 6580-6591. 
-      **[[Download](http://shen-hang.github.io/files/TCSS2024.pdf)]**
+      <b><i>IEEE Transactions on Computational Social Systems (TCSS)</i></b>, 2024, 11(5), pp. 6580–6591. 
+      <a href="http://shen-hang.github.io/files/TCSS2024.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
+
     <li>
       <b>Hang Shen</b>, Xiang Li, Yan Wang, Tianjing Wang* and Guangwei Bai. 
       <a href="https://link.springer.com/article/10.1007/s12083-025-01939-4" style="color:#000; text-decoration:none;">
-      Collaborative path penetration in 5G-IoT networks: A multi-agent deep reinforcement learning approach</a>, 
-      <b><i>Peer-to-Peer Networking and Applications</i></b>, 2025, Vol. 18, article number 113, pp. 1-20.  
+      Collaborative Path Penetration in 5G-IoT Networks: A Multi-Agent Deep Reinforcement Learning Approach</a>, 
+      <b><i>Peer-to-Peer Networking and Applications</i></b>, 2025, Vol. 18, article number 113, pp. 1–20.
     </li>
-        <li>
-      Fang Li, <b>Hang Shen*</b>, Jieai Mai, Tianjing Wang, Yuanfei Dai, Xiaodong Miao. 
+ <li>
+      Fang Li, <b>Hang Shen*</b>, Jieai Mai, Tianjing Wang, Yuanfei Dai, and Xiaodong Miao. 
       <a href="https://link.springer.com/article/10.1007/s12083-023-01595-6" style="color:#000; text-decoration:none;">
       Pre-trained Language Model-Enhanced Conditional Generative Adversarial Networks for Intrusion Detection</a>, 
       <b><i>Peer-to-Peer Networking and Applications (PPNA)</i></b>, 2024, 17, pp. 227–245.
     </li>
+
     <li>
       Tianjing Wang, Qi Liu, <b>Hang Shen*</b>, Xiaokang Luo, and Guangwei Bai. 
       <a href="https://onlinelibrary.wiley.com/doi/10.4218/etrij.2025-0152" style="color:#000; text-decoration:none;">
-      Graph neural network‐enhanced auxiliary classifier generative adversarial network framework for robust intrusion detection</a>, 
+      Graph Neural Network‐Enhanced Auxiliary Classifier Generative Adversarial Network Framework for Robust Intrusion Detection</a>, 
       <b><i>ETRI Journal</i></b>, 2025, DOI: 10.4218/etrij.2025-0152. 
-      **[[Download](http://shen-hang.github.io/files/ETRI2026.pdf)]**
+      <a href="http://shen-hang.github.io/files/ETRI2026.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
+
     <li>
       Yu Liu, <b>Hang Shen*</b>, Tianjing Wang, and Guangwei Bai. 
       <a href="https://onlinelibrary.wiley.com/doi/10.4218/etrij.2023-0426" style="color:#000; text-decoration:none;">
       Vehicle Counting in UAV Images: An Adaptive Approach with Spatial Attention and Multi-Scale Receptive Fields</a>, 
-      <b><i>Wiley ETRI Journal</i></b>, 2025, 47(1), pp. 7-19. 
-      (**Featured Article**) 
-      **[[Infographic Design](http://shen-hang.github.io/files/ETRIR_48_3_infographics_January_06_2025.pdf)]** 
-      **[[Article Download](http://shen-hang.github.io/files/ETRI2025.pdf)]**
+      <b><i>Wiley ETRI Journal</i></b>, 2025, 47(1), pp. 7–19. 
+      <b>(Featured Article, selected as the only highlighted paper of Jan–Feb 2025)</b> 
+      <a href="http://shen-hang.github.io/files/ETRIR_48_3_infographics_January_06_2025.pdf" style="color:#1E90FF; text-decoration:none;">[Infographic Design]</a> 
+      <a href="http://shen-hang.github.io/files/ETRI2025.pdf" style="color:#1E90FF; text-decoration:none;">[Article Download]</a>
     </li>
+
     <li>
-      <b>Hang Shen</b>, Xin Liu, Ning Shi, Tianjing Wang* and Guangwei Bai. 
+      <b>Hang Shen</b>, Xin Liu, Ning Shi, Tianjing Wang*, and Guangwei Bai. 
       <a href="https://link.springer.com/article/10.1007/s12083-022-01432-2" style="color:#000; text-decoration:none;">
       Blockchain-Enabled Solution for Secure and Scalable V2V Video Content Dissemination</a>, 
       <b><i>Peer-to-Peer Networking and Applications (PPNA)</i></b>, 2023, 16(3), pp. 554–570. 
-      **[[Download](http://shen-hang.github.io/files/PPNA2022.pdf)]**
+      <a href="http://shen-hang.github.io/files/PPNA2022.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
+
     <li>
       <b>Hang Shen</b>, Beining Zhang, Tianjing Wang*, Xin Liu, and Guangwei Bai. 
       <a href="https://link.springer.com/article/10.1007/s12083-024-01674-2" style="color:#000; text-decoration:none;">
       Consortium Blockchain-Based Secure Cross-Operator V2V Video Content Distribution</a>, 
-      <b><i>Peer-to-Peer Networking and Applications (PPNA)</i></b>, 2024, Vol. 17, pp. 1631–1644. 
-      **[[Download](http://shen-hang.github.io/files/Consortium blockchain.pdf)]**
+      <b><i>Peer-to-Peer Networking and Applications (PPNA)</i></b>, 2024, 17, pp. 1631–1644. 
+      <a href="http://shen-hang.github.io/files/Consortium%20blockchain.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
+
     <li>
       Beining Zhang, <b>Hang Shen*</b>, Tianjing Wang, and Guangwei Bai. 
       <a href="https://link.springer.com/article/10.1007/s12083-024-01728-5" style="color:#000; text-decoration:none;">
-      Invisible Man: Blockchain-enabled peer-to-peer collaborative privacy games in LBSs</a>, 
-      <b><i>Peer-to-Peer Networking and Applications</i></b>, 2024, vol. 17, pp. 2595–2607. 
-      **[[Download](http://shen-hang.github.io/files/Invisible man.pdf)]**
+      Invisible Man: Blockchain-Enabled Peer-to-Peer Collaborative Privacy Games in LBSs</a>, 
+      <b><i>Peer-to-Peer Networking and Applications</i></b>, 2024, 17, pp. 2595–2607. 
+      <a href="http://shen-hang.github.io/files/Invisible%20man.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
+
     <li>
-      <b>Hang Shen</b>, Guangwei Bai*, Yujia Hu and Tianjing Wang. 
+      <b>Hang Shen</b>, Guangwei Bai*, Yujia Hu, and Tianjing Wang. 
       <a href="https://www.sciencedirect.com/science/article/pii/S138376211830451X" style="color:#000; text-decoration:none;">
       P2TA: Privacy-Preserving Task Allocation for Edge Computing Enhanced Mobile Crowdsensing</a>, 
-      <b><i>Elsevier Journal of Systems Architecture (JSA)</i></b>, 97(2019), pp. 130-141.
+      <b><i>Elsevier Journal of Systems Architecture (JSA)</i></b>, 2019, 97, pp. 130–141.
     </li>
+
     <li>
-      Yiren Gu, <b>Hang Shen*</b>, Guangwei Bai, Tianjing Wang et al. 
+      Yiren Gu, <b>Hang Shen*</b>, Guangwei Bai, Tianjing Wang, et al. 
       <a href="https://link.springer.com/article/10.1007/s00530-019-00616-w" style="color:#000; text-decoration:none;">
       QoI-Aware Incentive for Multimedia Crowdsensing Enabled Learning System</a>, 
-      <b><i>Multimedia Systems</i></b>, 2020, 26(1), pp. 3-16.
+      <b><i>Multimedia Systems</i></b>, 2020, 26(1), pp. 3–16.
     </li>
+
     <li>
-      <b>Hang Shen</b>, Guangwei Bai*, Junyuan Wang and Lu Zhao. 
+      <b>Hang Shen</b>, Guangwei Bai*, Junyuan Wang, and Lu Zhao. 
       <a href="https://link.springer.com/article/10.1007/s11277-019-06289-y" style="color:#000; text-decoration:none;">
       WGM: Wavelet-Based Gamma Model for Video Traffic in Wireless Multi-hop Networks</a>, 
       <b><i>Wireless Personal Communications (WPC)</i></b>, 2019, 107(1), pp. 565–587.
     </li>
+
     <li>
-      <b>Hang Shen</b>, Guangwei Bai*, Mei Yang and Zhonghui Wang. 
+      <b>Hang Shen</b>, Guangwei Bai*, Mei Yang, and Zhonghui Wang. 
       <a href="https://www.sciencedirect.com/science/article/pii/S1084804517300413" style="color:#000; text-decoration:none;">
-      Protecting trajectory privacy: A user-centric analysis</a>, 
-      <b><i>Elsevier Journal of Network and Computer Applications (JNCA)</i></b>, 82 (2017), pp. 128-139.
+      Protecting Trajectory Privacy: A User-Centric Analysis</a>, 
+      <b><i>Elsevier Journal of Network and Computer Applications (JNCA)</i></b>, 2017, 82, pp. 128–139.
     </li>
+
     <li>
       <b>Hang Shen</b>, Guangwei Bai*. 
       <a href="https://www.sciencedirect.com/science/article/pii/S1084804516301102" style="color:#000; text-decoration:none;">
-      Routing in wireless multimedia sensor networks: A survey and challenges ahead</a>, 
-      <b><i>Elsevier Journal of Network and Computer Applications (JNCA)</i></b>, 71 (2016), pp. 30-49.
+      Routing in Wireless Multimedia Sensor Networks: A Survey and Challenges Ahead</a>, 
+      <b><i>Elsevier Journal of Network and Computer Applications (JNCA)</i></b>, 2016, 71, pp. 30–49.
     </li>
+
     <li>
-      Ziyuan Tong, <b>Hang Shen*</b>, Ning Shi, Tianjing Wang, Guangwei Bai. 
+      Ziyuan Tong, <b>Hang Shen*</b>, Ning Shi, Tianjing Wang, and Guangwei Bai. 
       <a href="https://onlinelibrary.wiley.com/doi/10.4218/etrij.2022-0136" style="color:#000; text-decoration:none;">
-      Joint resource optimization for nonorthogonal multiple access-enhanced scalable video coding multicast in unmanned aerial vehicle-assisted radio-access networks</a>, 
-      <b><i>ETRI Journal</i></b>, 2023, 45(5), pp. 874-886. 
-      **[[Download](http://shen-hang.github.io/files/ETRI2023.pdf)]**
+      Joint Resource Optimization for NOMA-Enhanced Scalable Video Coding Multicast in UAV-Assisted RANs</a>, 
+      <b><i>ETRI Journal</i></b>, 2023, 45(5), pp. 874–886. 
+      <a href="http://shen-hang.github.io/files/ETRI2023.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
+
     <li>
-      <b>Hang Shen</b>, Guangwei Bai*, Lu Zhao, Jinfeng Ge and Zhenmin Tang. 
+      <b>Hang Shen</b>, Guangwei Bai*, Lu Zhao, Jinfeng Ge, and Zhenmin Tang. 
       <a href="https://link.springer.com/article/10.1007/s11277-014-2214-0" style="color:#000; text-decoration:none;">
       L2OR: Low-Cost Low-Complexity Opportunistic Routing for Wireless Sensor Networks</a>, 
-      <b><i>Wireless Personal Communications (WPC)</i></b>, 2015, 82(1), pp. 401-422.
+      <b><i>Wireless Personal Communications (WPC)</i></b>, 2015, 82(1), pp. 401–422.
     </li>
+
     <li>
-      <b>Hang Shen</b>, Guangwei Bai*, Zhenmin Tang and Lu Zhao. 
+      <b>Hang Shen</b>, Guangwei Bai*, Zhenmin Tang, and Lu Zhao. 
       <a href="https://link.springer.com/article/10.1007/s11277-014-2214-0" style="color:#000; text-decoration:none;">
       QMOR: QoS-Aware Multi-Sink Opportunistic Routing for Wireless Multimedia Sensor Networks</a>, 
-      <b><i>Wireless Personal Communications (WPC)</i></b>, 2014, 75(2), pp. 1307-1330.
+      <b><i>Wireless Personal Communications (WPC)</i></b>, 2014, 75(2), pp. 1307–1330.
     </li>
     </ol>
   </ul>
@@ -283,7 +307,7 @@ redirect_from:
 
 **B. Conference articles (\* indicates the correspondence author)**
 
-<div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:16px;">
+<div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:8px;">
   <ul style="list-style-type: none; padding-left: 0;">
   <ol style="margin-top:6px; margin-bottom:0;">
     <li>
