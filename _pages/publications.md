@@ -6,7 +6,7 @@ redirect_from:
   - /md/
   - /publications.html
 ---
-<p><b>Articles divided by research field (<i>* indicates the correspondence author</i>)</b></p>
+<p><b>Publications Classified by Research Field <i>(* indicates the corresponding author)</i></b></p>
 
 <!-- A. Vehicular Networks -->
 <div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.45; font-size:15px; margin-bottom:8px;">
