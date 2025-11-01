@@ -167,20 +167,83 @@ redirect_from:
 
 <hr style="border: 0; border-top: 2px solid #1E90FF; margin: 24px 0 16px 0; opacity: 0.6;">
 
-<h3 style="font-size:17px; color:#2c3e50; margin-bottom:6px; margin-top:18px;">
+<h3 style="font-size:17px; color:#2c3e50; margin-bottom:6px; margin-top:10px;">
   高级计算机网络（Advanced Computer Networks）
-  <span style="font-weight:normal; color:#666; font-size:13px;">— Graduate course</span>
+  <span style="font-weight:normal; color:#666; font-size:13px;">— 研究生课程（Graduate Course）</span>
 </h3>
+
 <p style="margin:0 0 10px 0; color:#555; font-size:13px;">
-  Offered Semester：Spring 2023-2025
+  开课学期：Spring 2023–2025
 </p>
 
-| Item      | Description                                                  |
-| --------- | ------------------------------------------------------------ |
-| Textbook |  None  |
-| Reference | 1. [《Computer Networks》, Andrew S. Tanenbaum, 5ed](https://www.cs.csubak.edu/~jyang/Computer-Networks---A-Tanenbaum---5th-edition.pdf)<br/>  2.《高级计算机网络(第2版)》,  徐恪 著，清华大学出版社<br/>3.《物联网导论(第4版)》，刘云浩 著，科学出版社<br/>4.《移动互联网导论(第3版)》,  王新兵 著，清华大学出版社 <br/>5.《从互联到新工业革命》, 刘云浩 著，清华大学出版社 |
-| Basic Courseware| [CH1_Architecture-I](http://shen-hang.github.io/files/CH1_Architecture-I.pdf), [CH1_Architecture-II](http://shen-hang.github.io/files/CH1_Architecture-II.pdf), [CH3_Architecture-III](http://shen-hang.github.io/files/CH1_Architecture-III.pdf)  |
-| 研究报告撰写要求 | **A. 请用Latex(overleaf)编排([模板下载(5m56)](https://pan.baidu.com/s/10QYw21qaXrpT6-XOWA6gHA))**<br/>**B. 范围包括但不限于此：**<br/>1. AI for Networks or Networks for AI<br/>2. 网络体系架构和协议<br/>3. 多媒体网络和服务质量<br/>4. 网络安全与隐私计算<br/>5. 无线网络与移动计算<br/>6. 云计算、边缘计算和分散计算<br/>7. 定位和基于位置的服务<br/>8. 数据采集和感知<br/>9. Software-Defined Networking and Network Functions Virtualization<br/>10. 未来网络和新兴网络技术<br/>**C. 内容划分可参考如下模式：**<br/>1. 研究背景和意义<br/>2. 当前研究进展<br/>3. 当前方法存在的主要问题<br/>4. 你的思考及解决方案<br/>5. 你所考虑方案的优越性 <br/>**注：研究报告要有题目、摘要和结论，内容要划分，长度不少于6页！**|
+<div style="background-color:#f9f9f9; border-radius:10px; padding:14px 18px; line-height:1.65; font-size:15px; box-shadow:0 1px 5px rgba(0,0,0,0.06);">
+
+  <table style="width:100%; border-collapse:collapse; font-size:14px;">
+    <tr>
+      <td style="width:120px; vertical-align:top; font-weight:bold; color:#2c3e50;">教材</td>
+      <td>无指定教材（None）</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:top; font-weight:bold; color:#2c3e50;">参考书目</td>
+      <td>
+        1. <a href="https://www.cs.csubak.edu/~jyang/Computer-Networks---A-Tanenbaum---5th-edition.pdf" style="color:#1E90FF; text-decoration:none;">《Computer Networks》, Andrew S. Tanenbaum, 第5版</a><br/>
+        2. 《高级计算机网络(第2版)》, 徐恪 著，清华大学出版社<br/>
+        3. 《物联网导论(第4版)》, 刘云浩 著，科学出版社<br/>
+        4. 《移动互联网导论(第3版)》, 王新兵 著，清华大学出版社<br/>
+        5. 《从互联到新工业革命》, 刘云浩 著，清华大学出版社
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align:top; font-weight:bold; color:#2c3e50;">课件资料</td>
+      <td>
+        <a href="http://shen-hang.github.io/files/CH1_Architecture-I.pdf" style="color:#1E90FF; text-decoration:none;">CH1_Architecture-I</a>, 
+        <a href="http://shen-hang.github.io/files/CH1_Architecture-II.pdf" style="color:#1E90FF; text-decoration:none;">CH1_Architecture-II</a>, 
+        <a href="http://shen-hang.github.io/files/CH1_Architecture-III.pdf" style="color:#1E90FF; text-decoration:none;">CH1_Architecture-III</a>
+      </td>
+    </tr>
+  </table>
+
+  <hr style="border: none; border-top: 1px solid #e0e0e0; margin:14px 0;"/>
+
+  <p style="margin:0 0 6px 0; font-weight:bold; color:#2c3e50;">研究报告撰写要求</p>
+
+  <p style="margin:0 0 6px 0;">
+    <b>A.</b> 请使用 <b>LaTeX（Overleaf）</b> 编排论文，模板下载： 
+    <a href="https://pan.baidu.com/s/10QYw21qaXrpT6-XOWA6gHA" style="color:#1E90FF; text-decoration:none;">[点击下载（提取码：5m56）]</a>
+  </p>
+
+  <p style="margin:0 0 6px 0;">
+    <b>B.</b> 研究范围包括但不限于以下内容：
+  </p>
+  <ul style="margin:0 0 6px 20px; padding:0;">
+    <li>AI for Networks 或 Networks for AI</li>
+    <li>网络体系架构与协议</li>
+    <li>多媒体网络与服务质量（QoS）</li>
+    <li>网络安全与隐私计算</li>
+    <li>无线网络与移动计算</li>
+    <li>云计算、边缘计算与分布式计算</li>
+    <li>定位与基于位置的服务</li>
+    <li>数据采集与感知</li>
+    <li>软件定义网络（SDN）与网络功能虚拟化（NFV）</li>
+    <li>未来网络与新兴网络技术</li>
+  </ul>
+
+  <p style="margin:0 0 6px 0;">
+    <b>C.</b> 内容划分建议如下：
+  </p>
+  <ol style="margin:0 0 6px 22px; padding:0;">
+    <li>研究背景与意义</li>
+    <li>当前研究进展</li>
+    <li>现有方法的主要问题</li>
+    <li>你的思考与解决方案</li>
+    <li>方案的优越性与创新性</li>
+  </ol>
+
+  <p style="margin:8px 0 0 0; color:#666; font-size:14px;">
+    <b>注：</b> 研究报告需包含题目、摘要与结论，内容应分段清晰，篇幅不少于 <b>6页</b>。
+  </p>
+
+</div>
 
 <hr style="border: 0; border-top: 2px solid #1E90FF; margin: 24px 0 16px 0; opacity: 0.6;">
 
