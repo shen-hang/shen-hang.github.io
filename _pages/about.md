@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-🎯 **<span style="color:#8B0000;">诚邀热爱开发的本科同学参与「领域大模型」与「AI模型串/并行推理」落地项目：</span>**  
-<div style="background-color:#f9f9f9; border-radius:10px; padding:10px 16px; line-height:1.6; margin-top:6px; margin-bottom:6px;">
+<div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6;">
 
+🎯 **<span style="color:#8B0000;">诚邀热爱开发的本科同学参与「领域大模型」与「AI模型串/并行推理」落地项目：</span>**  
 <b>内部培养体系</b> —— 培养体系与主流 IT 企业和产业实践深度对接<br/>
 <b>项目津贴支持</b> —— 根据参与度发放补贴，认可你的努力与成果<br/>
 <b>积累真实经验</b> —— 深入 AI 应用场景，深入理解框架及开发技术<br/>
@@ -18,9 +18,9 @@ redirect_from:
 
 </div>
 
-🎓 **<span style="color:#8B0000;">招收研究生与本科生，共同探索以下前沿方向，欢迎随时与我交流：</span>**  
-<div style="background-color:#f9f9f9; border-radius:10px; padding:10px 16px; line-height:1.6; margin-top:6px; margin-bottom:6px;">
+<div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; margin-top:6px;">
 
+🎓 **<span style="color:#8B0000;">招收研究生与本科生，共同探索以下前沿方向，欢迎随时与我交流：</span>**  
 🚗 <b>车联网与车计算</b> —— 面向智能驾驶与 V2X 协同推理的架构和方法<br/>
 🚁 <b>无人机视觉计算</b> —— 空地协同、跨模态感知与动态神经网络技术<br/>
 🧠 <b>垂直领域大模型</b> —— 工业、安全及智能交通领域的大模型及应用<br/>
@@ -28,16 +28,18 @@ redirect_from:
 
 </div>
 
-🌟 **<span style="color:#8B0000;">培养的研究生受聘于国内外顶尖 IT 科技企业，包括：</span>**  
-<div style="background-color:#f9f9f9; border-radius:10px; padding:10px 16px; line-height:1.6; margin-top:6px; margin-bottom:6px;">
+<div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; margin-top:6px;">
 
+培养的研究生受聘于国内外顶尖 IT 科技企业，包括：<br/>
 <b>华为（南京、上海、深圳、武汉）｜中兴｜大疆｜展锐｜字节跳动｜海康威视｜大华｜百度｜H3C｜微软中国｜德州仪器｜爱立信｜诺基亚｜三星南京研究所</b><br/>
 以及知名科技金融机构，包括：<br/>
 <b>中行软开｜微众银行｜蚂蚁集团｜南京证券</b> 等。<br/>
 
 </div>
 
-🎓 **有志于继续深造的同学**，可推荐至国内外知名高校攻硕/博士学位。 
+<div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; margin-top:6px;">
+
+🎓 **有志于继续深造的同学**，可推荐至国内外知名高校攻硕/博士学位。  
 
 
 
