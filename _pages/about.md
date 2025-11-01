@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-🎯 **<span style="color:#8B0000; font-size:22px;">诚邀热爱开发的本科同学参与「领域大模型」与「AI模型串/并行推理」落地项目：</span>**  
+🎯 **<span style="color:#8B0000;">诚邀热爱开发的本科同学参与「领域大模型」与「AI模型串/并行推理」落地项目：</span>**  
 
 ---
 
-<div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.8;">
+<div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.9;">
 
 <b>内部培养体系</b> —— 培养体系与主流 IT 企业和产业实践深度对接<br/>
 <b>项目津贴支持</b> —— 根据参与度发放补贴，认可你的努力与成果<br/>
@@ -41,9 +41,9 @@ redirect_from:
 <div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.8;">
 
 培养的研究生受聘于国内外顶尖 IT 科技企业，包括：<br/>
-**<b>华为（南京、上海、深圳、武汉）｜中兴｜大疆｜展锐｜字节跳动｜海康威视｜大华｜百度｜H3C｜微软中国｜德州仪器｜爱立信｜诺基亚｜三星南京研究所</b>**<br/><br/>
+<b>华为（南京、上海、深圳、武汉）｜中兴｜大疆｜展锐｜字节跳动｜海康威视｜大华｜百度｜H3C｜微软中国｜德州仪器｜爱立信｜诺基亚｜三星南京研究所</b><br/><br/>
 以及知名科技金融机构，包括：<br/>
-**<b>中行软开｜微众银行｜蚂蚁集团｜南京证券</b>** 等。<br/>  
+<b>中行软开｜微众银行｜蚂蚁集团｜南京证券</b> 等。<br/>
 
 </div>
 
