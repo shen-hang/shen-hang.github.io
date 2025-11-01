@@ -50,7 +50,7 @@ redirect_from:
 
 <h2 align="left">Recent Highlights</h2>
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 18px; line-height:1.4; font-size:15px; margin-bottom:24px;">
-<p>Oct. 2025: 我们 <b>智能无人机网络</b> 方向的论文 <i>"MobiFormer: Split-Federated Transfer Learning for Drone RAN Slicing with Multi-Head Attention"</i> 被计算机网络领域顶级期刊 <b><i>IEEE Transactions on Mobile Computing</i></b> (<b>CCF推荐A类国际期刊</b>) 以长文形式录用。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
+<p>Oct. 2025: 我们 <b>智能无人机网络</b> 方向的论文 <i>"MobiFormer: Split-Federated Transfer Learning for Drone RAN Slicing with Multi-Head Attention"</i> 被计算机网络领域顶级期刊 <b><i>IEEE Transactions on Mobile Computing</i></b> (<b>CCF推荐A类国际期刊</b>) 录用为长文。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
 <p>Oct. 2025: 我们 <b>大模型与社交网络</b> 方向的论文 “面向社交网络跨语言虚假信息检测的 LLM 增强自监督域自适应方法” 被 <b><i>电子学报</i></b> (<b>CCF推荐A类中文期刊</b>) 刊用。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
@@ -68,7 +68,7 @@ redirect_from:
 
 <p>Aug. 2025: 沈航应邀担任 CCF 推荐国际会议 <b><i>International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2025)</i></b> 程序委员会成员。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
-<p>Jul. 2025: 沈航应邀在 <b>第二十七届中国科协年会</b> “大模型时代的计算机网络新技术” 专题论坛做学术报告。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
+<p>Jul. 2025: 沈航应邀在 第二十七届中国科协年会 <b>“大模型时代的计算机网络新技术”</b> 专题论坛做学术报告。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
 <p>Jun. 2025: 司天铖同学的本科毕业论文 “基于 LLM 增强自监督对比学习的加密流量检测” 被评选为 <b>校优秀本科毕业论文</b>。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
@@ -110,11 +110,11 @@ redirect_from:
 
 <p>Nov. 2023: 李芳同学的论文 “Pre-trained Language Model-Enhanced Conditional Generative Adversarial Networks for Intrusion Detection” 被 CCF 推荐 SCI 期刊 <b><i>Peer-to-Peer Networking and Applications</i></b> 录用。</p>
 
-<p>Oct. 2023: 童子源同学的论文 “UAV-Relay-Assisted Live Layered Video Multicast for Cell-Edge Users in NOMA Networks” 被 <b><i>IEEE Transactions on Broadcasting</i></b> (<b>中科院计算机科学一区Top</b>) 以长文形式录用。</p>
+<p>Oct. 2023: 童子源同学的论文 “UAV-Relay-Assisted Live Layered Video Multicast for Cell-Edge Users in NOMA Networks” 被 <b><i>IEEE Transactions on Broadcasting</i></b> (<b>中科院计算机科学一区Top</b>) 录用为长文。</p>
 
 <p>May 2023: 童子源同学的硕士学位论文 “无人机辅助的 NOMA 无线网络弹性视频多播机制研究” 被答辩委员会推荐为 <b>优秀研究生论文</b>。</p>
 
-<p>May 2023: 田一博同学的论文 “Slicing-Based Task Offloading in Space-Air-Ground Integrated Vehicular Networks” 被计算机网络领域顶级期刊 <b><i>IEEE Transactions on Mobile Computing</i></b> (<b>CCF推荐A类国际期刊</b>) 以长文形式录用。</p>
+<p>May 2023: 田一博同学的论文 “Slicing-Based Task Offloading in Space-Air-Ground Integrated Vehicular Networks” 被计算机网络领域顶级期刊 <b><i>IEEE Transactions on Mobile Computing</i></b> (<b>CCF推荐A类国际期刊</b>) 录用为长文。</p>
 
 <p>Apr. 2023: 殷珉同学的论文 “基于分层联邦学习的无人机小基站 RAN 切片方法” 被 <b><i>电子学报</i></b> (<b>CCF推荐A类中文期刊</b>) 录用。</p>
 
@@ -128,7 +128,7 @@ redirect_from:
 
 <p>Jun. 2022: 童子源同学论文 “Joint Resource Optimization for NOMA Enhanced SVC Multicast in UAV-Assisted Radio Access Networks” 被 SCI 期刊 <b><i>ETRI Journal</i></b> 录用。</p>
 
-<p>Apr. 2022: 衡奕龙同学论文 “Drone-Small-Cell-Assisted Spectrum Management for 5G and Beyond Vehicular Networks” 被 CCF 推荐国际会议 <b><i>IEEE Symposium on Computers and Communications (ISCC)</i></b> 以长文形式录用。</p>
+<p>Apr. 2022: 衡奕龙同学论文 “Drone-Small-Cell-Assisted Spectrum Management for 5G and Beyond Vehicular Networks” 被 CCF 推荐国际会议 <b><i>IEEE Symposium on Computers and Communications (ISCC)</i></b> 录用为长文。</p>
 
 <p>Nov. 2021: 东方航空联运网络优化项目 —— 空铁一体化动态路由计算引擎研发启动。</p>
 
