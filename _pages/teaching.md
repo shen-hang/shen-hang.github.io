@@ -8,30 +8,28 @@ redirect_from:
 ---
 
 ---
-
-<h3 style="font-size:17px; color:#2c3e50; margin-bottom:6px; margin-top:18px;">
-  计算机网络（Computer Networks）
-  <span style="font-weight:normal; color:#666; font-size:13px;">— Undergraduate Course</span>
-</h3>
-<p style="margin:0 0 10px 0; color:#555; font-size:13px;">
-  开课学期：Spring 2016–2018, 2020–2025
-</p>
-
-<div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.55; font-size:15px; box-shadow:0 1px 4px rgba(0,0,0,0.08); margin-bottom:16px;">
+  <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.55; font-size:15px; box-shadow:0 1px 4px rgba(0,0,0,0.08); margin-bottom:16px;">
   <p style="margin:0 0 8px 0;">
-    <b>Course Work & Evaluation（课程作业与考核）</b><br/>
-    本课程成绩由作业、实验和期末考试三部分构成：
+    <b>Course Work & Evaluation</b><br/>
+    The final grade is composed of three components:
   </p>
 
   <div style="margin:8px 0 10px 0;">
-    <span style="display:inline-block; border:1px solid #e0e0e0; border-radius:6px; padding:2px 8px; font-size:13px; margin-right:6px;">Assignments 作业：<b>10%</b></span>
-    <span style="display:inline-block; border:1px solid #e0e0e0; border-radius:6px; padding:2px 8px; font-size:13px; margin-right:6px;">Lab 实验：<b>20%</b></span>
-    <span style="display:inline-block; border:1px solid #e0e0e0; border-radius:6px; padding:2px 8px; font-size:13px;">Final Exam 期末：<b>70%</b></span>
+    <span style="display:inline-block; border:1px solid #e0e0e0; border-radius:6px; padding:2px 8px; font-size:13px; margin-right:6px;">
+      Assignments（作业）: <b>10%</b>
+    </span>
+    <span style="display:inline-block; border:1px solid #e0e0e0; border-radius:6px; padding:2px 8px; font-size:13px; margin-right:6px;">
+      Lab Experiments（实验）: <b>20%</b>
+    </span>
+    <span style="display:inline-block; border:1px solid #e0e0e0; border-radius:6px; padding:2px 8px; font-size:13px;">
+      Final Examination（期末）: <b>70%</b>
+    </span>
   </div>
 
-  <p style="margin:0 0 8px 0;">
-    期末考试为 <b>120 分钟闭卷考试（Closed-Book, 120 minutes）</b>，试卷为全英文（English only）。
+  <p style="margin:0;">
+    The <b>final exam</b> is a 120-minute <b>closed-book test（闭卷考试）</b> conducted entirely in English（全英文试卷）.
   </p>
+</div>
 
   <p style="margin:10px 0 6px 0;"><b>Assignment Guidelines（作业规范）</b></p>
   <ol style="margin:0; padding-left:18px;">
