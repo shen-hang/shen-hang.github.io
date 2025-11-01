@@ -205,43 +205,51 @@ redirect_from:
 
   <hr style="border: none; border-top: 1px solid #e0e0e0; margin:14px 0;"/>
 
-  <p style="margin:0 0 6px 0; font-weight:bold; color:#2c3e50;">研究报告撰写要求</p>
+  <details style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; margin-bottom:10px; box-shadow:0 1px 4px rgba(0,0,0,0.08);">
+  <summary style="font-weight:bold; color:#2c3e50; font-size:15px; cursor:pointer;">A. 报告格式要求</summary>
+  <div style="margin-top:8px; line-height:1.65; font-size:14.5px;">
+    请使用 <b>LaTeX（Overleaf）</b> 编排论文，模板下载：  
+    <a href="https://pan.baidu.com/s/10QYw21qaXrpT6-XOWA6gHA" style="color:#1E90FF; text-decoration:none;">[点击下载（提取码：5m56）]</a>。
+  </div>
+</details>
 
-  <p style="margin:0 0 6px 0;">
-    <b>A.</b> 请使用 <b>LaTeX（Overleaf）</b> 编排论文，模板下载： 
-    <a href="https://pan.baidu.com/s/10QYw21qaXrpT6-XOWA6gHA" style="color:#1E90FF; text-decoration:none;">[点击下载（提取码：5m56）]</a>
-  </p>
+<details style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; margin-bottom:10px; box-shadow:0 1px 4px rgba(0,0,0,0.08);">
+  <summary style="font-weight:bold; color:#2c3e50; font-size:15px; cursor:pointer;">B. 研究范围（包括但不限于）</summary>
+  <div style="margin-top:8px; line-height:1.7; font-size:14.5px;">
+    <ul style="margin:0; padding-left:18px;">
+      <li>AI for Networks 或 Networks for AI</li>
+      <li>网络体系架构与协议</li>
+      <li>多媒体网络与服务质量（QoS）</li>
+      <li>网络安全与隐私计算</li>
+      <li>无线网络与移动计算</li>
+      <li>云计算、边缘计算与分布式计算</li>
+      <li>定位与基于位置的服务</li>
+      <li>数据采集与感知</li>
+      <li>软件定义网络（SDN）与网络功能虚拟化（NFV）</li>
+      <li>未来网络与新兴网络技术</li>
+    </ul>
+  </div>
+</details>
 
-  <p style="margin:0 0 6px 0;">
-    <b>B.</b> 研究范围包括但不限于以下内容：
-  </p>
-  <ul style="margin:0 0 6px 20px; padding:0;">
-    <li>AI for Networks 或 Networks for AI</li>
-    <li>网络体系架构与协议</li>
-    <li>多媒体网络与服务质量（QoS）</li>
-    <li>网络安全与隐私计算</li>
-    <li>无线网络与移动计算</li>
-    <li>云计算、边缘计算与分布式计算</li>
-    <li>定位与基于位置的服务</li>
-    <li>数据采集与感知</li>
-    <li>软件定义网络（SDN）与网络功能虚拟化（NFV）</li>
-    <li>未来网络与新兴网络技术</li>
-  </ul>
+<details style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; margin-bottom:10px; box-shadow:0 1px 4px rgba(0,0,0,0.08);">
+  <summary style="font-weight:bold; color:#2c3e50; font-size:15px; cursor:pointer;">C. 内容结构建议</summary>
+  <div style="margin-top:8px; line-height:1.7; font-size:14.5px;">
+    <ol style="margin:0; padding-left:18px;">
+      <li>研究背景与意义</li>
+      <li>当前研究进展</li>
+      <li>现有方法的主要问题</li>
+      <li>你的思考与解决方案</li>
+      <li>方案的优越性与创新性</li>
+    </ol>
+  </div>
+</details>
 
-  <p style="margin:0 0 6px 0;">
-    <b>C.</b> 内容划分建议如下：
-  </p>
-  <ol style="margin:0 0 6px 22px; padding:0;">
-    <li>研究背景与意义</li>
-    <li>当前研究进展</li>
-    <li>现有方法的主要问题</li>
-    <li>你的思考与解决方案</li>
-    <li>方案的优越性与创新性</li>
-  </ol>
-
-  <p style="margin:8px 0 0 0; color:#666; font-size:14px;">
+<details style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; margin-bottom:10px; box-shadow:0 1px 4px rgba(0,0,0,0.08);">
+  <summary style="font-weight:bold; color:#2c3e50; font-size:15px; cursor:pointer;">D. 其他说明</summary>
+  <div style="margin-top:8px; line-height:1.65; font-size:14.5px; color:#555;">
     <b>注：</b> 研究报告需包含题目、摘要与结论，内容应分段清晰，篇幅不少于 <b>6页</b>。
-  </p>
+  </div>
+</details>
 
 </div>
 
