@@ -179,7 +179,7 @@ redirect_from:
   He is currently an Associate Professor in the 
   <a href="http://cise.njtech.edu.cn/" target="_blank" style="color:#0073aa; text-decoration:none;">Department of Computer Science and Technology</a> at 
   <a href="http://www.njtech.edu.cn/" target="_blank" style="color:#0073aa; text-decoration:none;">Nanjing Tech University</a> in Nanjing, China. 
-  His research interests include vehicular networks, large language models for cybersecurity, and drone/vehicle vision-language navigation. 
+  His research interests include vehicular networks, vertical domain-specific large language models, and drone/vehicle vision computing. 
   He serves as an Associate Editor for <i>Journal of Information Processing Systems</i>, <i>Frontiers in Blockchain</i>, and <i>IEEE Access</i>, 
   and was a Guest Editor for <i>Peer-to-Peer Networking and Applications</i>. 
   He serves/served as a program committee member of the IEEE International Conference on High Performance Computing and Communications (HPCC), 
