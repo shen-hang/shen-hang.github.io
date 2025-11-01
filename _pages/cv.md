@@ -148,7 +148,7 @@ redirect_from:
       <b>Hang Shen</b>, Xiang Li, Xu Wang, Yuanfei Dai*, Tianjing Wang, and Guangwei Bai. 
       <a href="https://ieeexplore.ieee.org/document/11170418" style="color:#000; text-decoration:none;">
       LACL: LLM-Augmented Contrastive Learning for Misinformation Detection in Social Networks</a>, 
-      <i>IEEE Transactions on Computational Social Systems (TCSS)</i>, 2025. 
+      <i>IEEE Transactions on Computational Social Systems (TCSS)</i>, 2025, online available. 
       <a href="http://shen-hang.github.io/files/TCSS2025.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
 
@@ -164,7 +164,7 @@ redirect_from:
       <b>Hang Shen*</b>, Qi Liu, Yu Liu, Tianjing Wang, and Guangwei Bai. 
       <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11142340" style="color:#000; text-decoration:none;">
       MA-DyNN: Modal-Adaptive Dynamic Neural Network for Crowd-Counting on Consumer Drones</a>, 
-      <i>IEEE Transactions on Consumer Electronics (TCE)</i>, 2025. 
+      <i>IEEE Transactions on Consumer Electronics (TCE)</i>, 2025, online available. 
       <a href="http://shen-hang.github.io/files/TCE2025.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
 
