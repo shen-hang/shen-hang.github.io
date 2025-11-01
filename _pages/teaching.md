@@ -167,7 +167,7 @@ redirect_from:
 
 <hr style="border: 0; border-top: 2px solid #1E90FF; margin: 24px 0 16px 0; opacity: 0.6;">
 
-<h3 style="font-size:17px; color:#2c3e50; margin-bottom:6px; margin-top:10px;">
+<h3 style="font-size:17px; color:#2c3e50; margin-bottom:6px; margin-top:10px;"> 
   高级计算机网络（Advanced Computer Networks）
   <span style="font-weight:normal; color:#666; font-size:13px;">— 研究生课程（Graduate Course）</span>
 </h3>
@@ -176,12 +176,12 @@ redirect_from:
   开课学期：Spring 2023–2025
 </p>
 
-<div style="background-color:#f9f9f9; border-radius:10px; padding:14px 18px; line-height:1.65; font-size:15px; box-shadow:0 1px 5px rgba(0,0,0,0.06);">
-
+<!-- 阴影部分仅包含表格 -->
+<div style="background-color:#f9f9f9; border-radius:10px; padding:14px 18px; line-height:1.65; font-size:15px; box-shadow:0 1px 5px rgba(0,0,0,0.06); margin-bottom:16px;">
   <table style="width:100%; border-collapse:collapse; font-size:14px;">
     <tr>
       <td style="width:120px; vertical-align:top; font-weight:bold; color:#2c3e50;">教材</td>
-      <td> None </td>
+      <td>None</td>
     </tr>
     <tr>
       <td style="vertical-align:top; font-weight:bold; color:#2c3e50;">参考书目</td>
@@ -202,15 +202,14 @@ redirect_from:
       </td>
     </tr>
   </table>
+</div>
 
-
-
-  <h3 style="font-size:17px; color:#2c3e50; margin-bottom:8px; margin-top:20px;"> 
+<!-- 研究报告撰写要求 -->
+<h3 style="font-size:17px; color:#2c3e50; margin-bottom:8px; margin-top:20px;"> 
   研究报告撰写要求
 </h3>
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:14px 18px; line-height:1.7; font-size:15px; box-shadow:0 1px 5px rgba(0,0,0,0.06);">
-
   <details style="margin-bottom:10px;">
     <summary style="font-weight:bold; color:#1E90FF; cursor:pointer;">A. 报告格式要求</summary>
     <p style="margin:6px 0 0 4px;">
@@ -249,8 +248,8 @@ redirect_from:
       <b>提示：</b> 研究报告需包含<b>题目、摘要与结论</b>，内容应分段清晰，篇幅不少于 <b>6页</b>。
     </div>
   </details>
-
 </div>
+
 
 <hr style="border: 0; border-top: 2px solid #1E90FF; margin: 24px 0 16px 0; opacity: 0.6;">
 
