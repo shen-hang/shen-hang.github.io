@@ -28,10 +28,9 @@ redirect_from:
 
 </div>
 
-🌟 **<span style="color:#8B0000;">培养成果与去向</span>**  
+🌟 **<span style="color:#8B0000;">培养的研究生受聘于国内外顶尖 IT 科技企业，包括：</span>**  
 <div style="background-color:#f9f9f9; border-radius:10px; padding:10px 16px; line-height:1.6; margin-top:6px; margin-bottom:6px;">
 
-培养的研究生受聘于国内外顶尖 IT 科技企业，包括：<br/>
 <b>华为（南京、上海、深圳、武汉）｜中兴｜大疆｜展锐｜字节跳动｜海康威视｜大华｜百度｜H3C｜微软中国｜德州仪器｜爱立信｜诺基亚｜三星南京研究所</b><br/>
 以及知名科技金融机构，包括：<br/>
 <b>中行软开｜微众银行｜蚂蚁集团｜南京证券</b> 等。<br/>
