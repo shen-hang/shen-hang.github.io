@@ -283,46 +283,59 @@ redirect_from:
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:16px;">
   <ul style="list-style-type: none; padding-left: 0;">
+   <ol>
     <li>
-      <b>Hang Shen</b>, Yanjing Zhou, Tianjing Wang*, et al. 
+      <b>Hang Shen</b>, Yanjing Zhou, Tianjing Wang*, et al.
       <a href="https://ieeexplore.ieee.org/document/11134474" style="color:#000; text-decoration:none;">
-      Blockchain-Assisted Cross-silo Graph Federated Learning for Network Intrusion Detection</a>, 
-      <b><i>IEEE Global Blockchain Conference (GBC)</i></b>, Shanghai, China, Jun 19–21, 2025, pp. 1–8. 
-      **[[Download](http://shen-hang.github.io/files/GBC2025-Graph.pdf)]**
+      Blockchain-Assisted Cross-silo Graph Federated Learning for Network Intrusion Detection</a>,
+      <i>IEEE Global Blockchain Conference (GBC)</i>, Shanghai, China, Jun 19–21, 2025, pp. 1–8.
+      <b>(IEEE区块链旗舰会议)</b>
+      <a href="http://shen-hang.github.io/files/GBC2025-Graph.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
+
     <li>
-      Beining Zhang, <b>Hang Shen*</b>, Tianjing Wang, and Guangwei Bai. 
+      Beining Zhang, <b>Hang Shen*</b>, Tianjing Wang, and Guangwei Bai.
       <a href="https://ieeexplore.ieee.org/document/11134462" style="color:#000; text-decoration:none;">
-      Monero Covert Communication-Enhanced Collaboration for Privacy-Preserving Queries</a>, 
-      <b><i>IEEE Global Blockchain Conference (GBC)</i></b>, Shanghai, China, Jun 19–21, 2025, pp. 1–6. 
-      **[[Download](http://shen-hang.github.io/files/GBC2025-Monero.pdf)]**
+      Monero Covert Communication-Enhanced Collaboration for Privacy-Preserving Queries</a>,
+      <i>IEEE Global Blockchain Conference (GBC)</i>, Shanghai, China, Jun 19–21, 2025, pp. 1–6.
+      <b>(IEEE区块链旗舰会议)</b>
+      <a href="http://shen-hang.github.io/files/GBC2025-Monero.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
+
     <li>
-      <b>Hang Shen</b>, Yilong Hen, Ning Shi, Tianjing Wang, and Guangwei Bai*. 
-      <a href="http://shen-hang.github.io/files/ISCC2022.pdf" style="color:#000; text-decoration:none;">
-      Drone-Small-Cell-Assisted Spectrum Management for 5G and Beyond Vehicular Networks</a>, 
-      in <b><i>Proc. of the IEEE Symposium on Computers and Communications (ISCC)</i></b>, Rhodes Island, Greece, Jun 30 – Jul 3, 2022. 
-      **[[Download](http://shen-hang.github.io/files/ISCC2022.pdf)]**
+      <b>Hang Shen</b>, Yilong Hen, Ning Shi, Tianjing Wang, and Guangwei Bai*.
+      <a href="https://ieeexplore.ieee.org/document/9912871" style="color:#000; text-decoration:none;">
+      Drone-Small-Cell-Assisted Spectrum Management for 5G and Beyond Vehicular Networks</a>,
+      <i>Proc. of the IEEE Symposium on Computers and Communications (ISCC)</i>, Rhodes Island, Greece, Jun 30–Jul 3, 2022.
+      <b>(CCF推荐国际会议)</b>
+      <a href="http://shen-hang.github.io/files/ISCC2022.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
+
     <li>
-      <b>Hang Shen</b>, Jiajia Xu, Tianjing Wang, and Guangwei Bai*. 
+      <b>Hang Shen</b>, Jiajia Xu, Tianjing Wang, and Guangwei Bai*.
       <a href="https://ieeexplore.ieee.org/document/8761835" style="color:#000; text-decoration:none;">
-      Detecting Link Correlation Spoofing Attack: A Beacon-Trap Approach</a>, 
-      in <b><i>Proc. of the 53rd IEEE International Conference on Communications (ICC)</i></b>, Shanghai, China, May 20–24, 2019. 
-      **[[Download](http://shen-hang.github.io/files/ICC2019.pdf)]**
+      Detecting Link Correlation Spoofing Attack: A Beacon-Trap Approach</a>,
+      <i>Proc. of the 53rd IEEE International Conference on Communications (ICC)</i>, Shanghai, China, May 20–24, 2019.
+      <b>(CCF推荐国际会议, IEEE通信学会旗舰会议)</b>
+      <a href="http://shen-hang.github.io/files/ICC2019.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
+
     <li>
-      Yujia Hu, <b>Hang Shen*</b>, Guangwei Bai, and Tianjing Wang. 
+      Yujia Hu, <b>Hang Shen*</b>, Guangwei Bai, and Tianjing Wang.
       <a href="#" style="color:#000; text-decoration:none;">
-      Privacy-Preserving Task Allocation for Edge Computing Enhanced Mobile Crowdsensing</a>, 
-      in <b><i>Proc. of International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP)</i></b>, Full Paper, 2018, pp. 431–446.
+      Privacy-Preserving Task Allocation for Edge Computing Enhanced Mobile Crowdsensing</a>,
+      <i>Proc. of the International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP)</i>, Full Paper, 2018, pp. 431–446.
+      <b>(CCF推荐国际会议)</b>
     </li>
+
     <li>
-      Yiren Gu, <b>Hang Shen*</b>, Guangwei Bai, Tianjing Wang, et al. 
+      Yiren Gu, <b>Hang Shen*</b>, Guangwei Bai, Tianjing Wang, et al.
       <a href="#" style="color:#000; text-decoration:none;">
-      Incentivizing Multimedia Data Acquisition for Machine Learning System</a>, 
-      in <b><i>Proc. of International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP)</i></b>, Full Paper, 2018, pp. 142–158.
+      Incentivizing Multimedia Data Acquisition for Machine Learning System</a>,
+      <i>Proc. of the International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP)</i>, Full Paper, 2018, pp. 142–158.
+      <b>(CCF推荐国际会议)</b>
     </li>
+  </ol>
   </ul>
 </div>
 
