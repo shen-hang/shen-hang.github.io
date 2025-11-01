@@ -372,7 +372,7 @@ redirect_from:
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:8px;">
   <ul style="list-style-type: none; padding-left: 0;">
   <ol style="margin-top:6px; margin-bottom:0;">
-    <li style="margin-bottom:4px;">
+    <li>
       <b>Hang Shen</b>. 
       <a href="https://www.google.com/url?q=https%3A%2F%2Flink.springer.com%2Freferenceworkentry%2F10.1007%2F978-3-319-32903-1_99-1" style="color:#000; text-decoration:none;">
       Urban Big Data</a>. 
