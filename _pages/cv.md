@@ -10,28 +10,28 @@ redirect_from:
 # Experience
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6;">
-* Associate Professor, Department of Computer Science & Technology, Nanjing Tech University, Nanjing, China (Jan 2019 -- Present)
+* **Associate Professor**, Department of Computer Science & Technology, Nanjing Tech University, Nanjing, China (Jan 2019 -- Present)
 
-* Full-Time Postdoctoral Fellow, Broadband Communications Research (BBCR) Lab, Department of Electrical & Computer Engineering, University of Waterloo, Waterloo, ON, Canada, Supervisor: Prof. Weihua Zhuang (IEEE Fellow) (Aug 2018 -- Aug 2019)
+* **Full-Time Postdoctoral Fellow**, Broadband Communications Research (BBCR) Lab, Department of Electrical & Computer Engineering, University of Waterloo, Waterloo, ON, Canada, Supervisor: Prof. Weihua Zhuang (IEEE Fellow) (Aug 2018 -- Aug 2019)
 
-* Assistant Professor, Department of Computer Science & Technology, Nanjing Tech University, Nanjing, China (May 2015 -- Jan 2019)
+* **Assistant Professor**, Department of Computer Science & Technology, Nanjing Tech University, Nanjing, China (May 2015 -- Jan 2019)
 
-* PhD (with honors) in Computer Science, Nanjing University of Science & Technology, Nanjing, China, Supervisor: Prof. Guangwei Bai and Prof. Zhenmin Tang (Sep 2010 -- Jan 2015)
+* **PhD (with honors) in Computer Science**, Nanjing University of Science & Technology, Nanjing, China, Supervisor: Prof. Guangwei Bai and Prof. Zhenmin Tang (Sep 2010 -- Jan 2015)
 </div>
 
 # Research Interests
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6;">
-* Artificial Intelligence for Future Networks
-* Blockchain and Cybersecurity
+* **Artificial Intelligence for Future Networks**
+* **Blockchain and Cybersecurity**
 </div>
 
 # Professional Activities
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6;">
-- Editor for Journals:
-  - Associate Editor, Journal of Information Processing Systems (JIPS) (2024-present)
-  - Associate Editor, Frontiers in Blockchain (2024-present)
+- **Editor for Journals:**
+  - Associate Editor, *Journal of Information Processing Systems (JIPS)* (2024-present)
+  - Associate Editor, *Frontiers in Blockchain* (2024-present)
 </div>
 
 # Publications
