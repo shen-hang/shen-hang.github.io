@@ -63,16 +63,33 @@ redirect_from:
 </div>
 
 <!-- B. Drone/Car Vision Computing -->
-<div style="background-color:#f9f9f9; border-radius:10px; padding:18px 22px; line-height:1.6; font-size:15px; margin-bottom:18px;">
-  <h3 style="color:#8B0000; margin-top:0;">B. Drone/Car Vision Computing (网联无人机/汽车视觉计算)</h3>
+<div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.45; font-size:15px; margin-bottom:18px;">
+  <h3 style="color:#8B0000; margin-top:0; margin-bottom:6px;">B. Drone/Car Vision Computing (网联无人机/汽车视觉计算)</h3>
   <ol style="margin-top:4px; padding-left:20px;">
     <li>
       <b>Hang Shen*</b>, Qi Liu, Yuanyi Wang, Tianjing Wang, and Guangwei Bai. 
       <a href="https://ieeexplore.ieee.org/document/10927614" style="color:#000; text-decoration:none;">
       MT-DyNN: Multi-Teacher Distilled Dynamic Neural Network for Instance-Adaptive Detection in Autonomous Driving</a>, 
-      <i>IEEE Transactions on Intelligent Transportation Systems (TITS)</i>, 2025, 26(5): 6116–6129. 
-      <b>(CCF推荐B类国际期刊, Top期刊)</b>  
+      <i>IEEE Transactions on Intelligent Transportation Systems (TITS)</i>, 2025, 26(5), pp. 6116–6129. 
+      <b>(CCF推荐B类国际期刊, Top期刊)</b> 
       <a href="http://shen-hang.github.io/files/TITS2025.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
+    </li>
+    <li>
+      <b>Hang Shen*</b>, Qi Liu, Yu Liu, Tianjing Wang, and Guangwei Bai. 
+      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11142340" style="color:#000; text-decoration:none;">
+      MA-DyNN: Modal-Adaptive Dynamic Neural Network for Crowd-Counting on Consumer Drones</a>, 
+      <i>IEEE Transactions on Consumer Electronics (TCE)</i>, 2025, online available. 
+      <b>(中科院二区)</b> 
+      <a href="http://shen-hang.github.io/files/TCE2025.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
+    </li>
+    <li>
+      Yu Liu, <b>Hang Shen*</b>, Tianjing Wang, and Guangwei Bai. 
+      <a href="https://onlinelibrary.wiley.com/doi/10.4218/etrij.2023-0426" style="color:#000; text-decoration:none;">
+      Vehicle Counting in UAV Images: An Adaptive Approach with Spatial Attention and Multi-Scale Receptive Fields</a>, 
+      <i>ETRI Journal</i>, 2025, 47(1), pp. 7–19. 
+      <b>(SCI, 被期刊编委会评为2025年1–2月唯一亮点论文 Featured Article)</b> 
+      <a href="http://shen-hang.github.io/files/ETRIR_48_3_infographics_January_06_2025.pdf" style="color:#1E90FF; text-decoration:none;">[Infographic Design]</a> 
+      <a href="http://shen-hang.github.io/files/ETRI2025.pdf" style="color:#1E90FF; text-decoration:none;">[Article Download]</a>
     </li>
   </ol>
 </div>
