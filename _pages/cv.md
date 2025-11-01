@@ -110,6 +110,8 @@ redirect_from:
   - Member, Association for Computing Machinery (ACM) (2015-present)<br/>
   - Executive Committee Member, ACM Nanjing Chapter (2014-present)<br/>
   - Member (2011-2020), Senior Member (2020-present), China Computer Federation (CCF)<br/>
+  - CCF网络与数据通信专委会委员
+  - CCF物联网专委会委员
 </div>
 
 # Publications
