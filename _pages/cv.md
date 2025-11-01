@@ -116,7 +116,7 @@ redirect_from:
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:16px;">
   <ul style="list-style-type: none; padding-left: 0;">
-  <ol>
+  <ol style="margin-top:6px; margin-bottom:0;">
     <li>
       <b>Hang Shen*</b>, Yanke Yao, Tianjing Wang, and Guangwei Bai. 
       <i>MobiFormer: Split-Federated Transfer Learning for Drone RAN Slicing with Multi-Head Attention</i>, 
@@ -285,7 +285,7 @@ redirect_from:
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:16px;">
   <ul style="list-style-type: none; padding-left: 0;">
-   <ol>
+  <ol style="margin-top:6px; margin-bottom:0;">
     <li>
       <b>Hang Shen</b>, Yanjing Zhou, Tianjing Wang*, et al.
       <a href="https://ieeexplore.ieee.org/document/11134474" style="color:#000; text-decoration:none;">
@@ -345,7 +345,7 @@ redirect_from:
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:16px;">
   <ul style="list-style-type: none; padding-left: 0;">
-    <ol>
+  <ol style="margin-top:6px; margin-bottom:0;">
     <li>
       <b>Hang Shen</b>. 
       <a href="https://www.google.com/url?q=https%3A%2F%2Flink.springer.com%2Freferenceworkentry%2F10.1007%2F978-3-319-32903-1_99-1" style="color:#000; text-decoration:none;">
@@ -370,7 +370,7 @@ redirect_from:
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:16px;">
   <ul style="list-style-type: none; padding-left: 0;">
-  <ol>
+  <ol style="margin-top:6px; margin-bottom:0;">
 <li>大语言模型与知识图谱双驱动的承压特种设备检验方案生成技术及应用示范, 江苏省市场监管局重点项目, 2025/09–2027/09, <b>子课题负责人</b></li>
     <li>同异构分布式算力协同串行并行推理算法研究, 企业横向项目, 2025/07–2025/10, <b>负责人</b></li>
     <li>压力容器定检方案大模型, 企业横向项目, 2025/06–2025/10, <b>负责人</b></li>
