@@ -7,7 +7,9 @@ redirect_from:
   - /cv.html
 ---
 
-# Experience
+<h2 style="font-size:20px; color:#2c3e50; border-left:4px solid #1E90FF; padding-left:10px; margin-bottom:10px; margin-top:20px;">
+  Experience
+</h2>
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:8px;">
   <ul style="list-style-type: none; padding-left: 0;">
