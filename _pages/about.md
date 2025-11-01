@@ -78,7 +78,7 @@ redirect_from:
 
 <p>Feb. 2025: 我们 <b>多智能体渗透测试</b> 方向的论文 <i>"Collaborative Path Penetration in 5G-IoT Networks: A Multi-Agent Deep Reinforcement Learning Approach"</i> 被 CCF 推荐国际期刊 <b><i>Peer-to-Peer Networking and Applications</i></b> 录用为长文。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
- <p>Dec. 2024: 李想、王孝琦、吴华峰同学获得 <b>全球校园人工智能算法大赛（推理知识图谱赛道）全国总决赛一等奖（排名第一）</b>。</p> 
+ <p>Dec. 2024: 李想、王孝琦、吴华峰同学同学获得 <b>全球校园人工智能算法大赛（推理知识图谱赛道）全国总决赛一等奖（排名第一）</b>。</p> 
 
 <p>Dec. 2024: 刘宇同学关于 <b>无人机视觉计算</b> 的论文 “Vehicle Counting in UAV Images: An Adaptive Approach with Spatial Attention and Multi-Scale Receptive Fields” 被 SCI 期刊 <b><i>ETRI Journal</i></b> 编委会评选为 <b>2025 年 1–2 月唯一亮点论文 (Featured Article)</b> 并邀请制作图形化封面。</p>
 
@@ -96,27 +96,27 @@ redirect_from:
 
 <p>Jul. 2024: 沈航应邀担任 CCF 推荐国际会议 <b><i>IEEE International Conference on High Performance Computing and Communications (HPCC)</i></b> 程序委员会成员。</p>
 
-<p>May 2024: 张贝宁同学硕士论文 “基于区块链的协作查询隐私保护方法研究” 被推荐为 <b>优秀研究生论文</b>。</p> 
+<p>May 2024: 张贝宁同学的硕士论文 “基于区块链的协作查询隐私保护方法研究” 被推荐为 <b>优秀研究生论文</b>。</p> 
 
 <p>May 2024: 朱天赐同学毕设论文 “CPU-GPU 异构计算平台上稀疏矩阵乘性能优化研究” 被推荐为 <b>优秀本科毕业论文</b>。</p>
 
-<p>May 2024: 张羽同学论文 “Task Partitioning and Scheduling Based on Stochastic Policy Gradient in Mobile Crowdsensing” 被国际著名期刊 <b><i>IEEE Transactions on Computational Social Systems</i></b> 录用为长文。</p>
+<p>May 2024: 张羽同学的论文 “Task Partitioning and Scheduling Based on Stochastic Policy Gradient in Mobile Crowdsensing” 被国际著名期刊 <b><i>IEEE Transactions on Computational Social Systems</i></b> 录用为长文。</p>
 
-<p>May 2024: 张贝宁同学论文 “Invisible Man: Blockchain-enabled Peer-to-Peer Collaborative Privacy Games in LBSs” 被 CCF 推荐 SCI 期刊 <b><i>Peer-to-Peer Networking and Applications</i></b> 录用。</p>
+<p>May 2024: 张贝宁同学的论文 “Invisible Man: Blockchain-enabled Peer-to-Peer Collaborative Privacy Games in LBSs” 被 CCF 推荐 SCI 期刊 <b><i>Peer-to-Peer Networking and Applications</i></b> 录用。</p>
 
-<p>Feb. 2024: 张贝宁同学论文 “Consortium Blockchain-Based Secure Cross-Operator V2V Video Content Distribution” 被 CCF 推荐 SCI 期刊 <b><i>Peer-to-Peer Networking and Applications</i></b> 录用。</p>
+<p>Feb. 2024: 张贝宁同学的论文 “Consortium Blockchain-Based Secure Cross-Operator V2V Video Content Distribution” 被 CCF 推荐 SCI 期刊 <b><i>Peer-to-Peer Networking and Applications</i></b> 录用。</p>
 
 <p>Jan. 2024: 沈航应邀担任 SCI 期刊 <b><i>Journal of Information Processing Systems</i></b> (IF 0.8) 副编辑 (Associate Editor)。</p> 
 
-<p>Nov. 2023: 李芳同学论文 “Pre-trained Language Model-Enhanced Conditional Generative Adversarial Networks for Intrusion Detection” 被 CCF 推荐 SCI 期刊 <b><i>Peer-to-Peer Networking and Applications</i></b> 录用。</p>
+<p>Nov. 2023: 李芳同学的论文 “Pre-trained Language Model-Enhanced Conditional Generative Adversarial Networks for Intrusion Detection” 被 CCF 推荐 SCI 期刊 <b><i>Peer-to-Peer Networking and Applications</i></b> 录用。</p>
 
-<p>Oct. 2023: 童子源同学论文 “UAV-Relay-Assisted Live Layered Video Multicast for Cell-Edge Users in NOMA Networks” 被 <b><i>IEEE Transactions on Broadcasting</i></b> (<b>中科院计算机科学一区Top</b>) 以长文形式录用。</p>
+<p>Oct. 2023: 童子源同学的论文 “UAV-Relay-Assisted Live Layered Video Multicast for Cell-Edge Users in NOMA Networks” 被 <b><i>IEEE Transactions on Broadcasting</i></b> (<b>中科院计算机科学一区Top</b>) 以长文形式录用。</p>
 
-<p>May 2023: 童子源同学硕士学位论文 “无人机辅助的 NOMA 无线网络弹性视频多播机制研究” 被答辩委员会推荐为 <b>优秀研究生论文</b>。</p>
+<p>May 2023: 童子源同学的硕士学位论文 “无人机辅助的 NOMA 无线网络弹性视频多播机制研究” 被答辩委员会推荐为 <b>优秀研究生论文</b>。</p>
 
-<p>May 2023: 田一博同学论文 “Slicing-Based Task Offloading in Space-Air-Ground Integrated Vehicular Networks” 被计算机网络领域顶级期刊 <b><i>IEEE Transactions on Mobile Computing</i></b> (<b>CCF推荐A类国际期刊</b>) 以长文形式录用。</p>
+<p>May 2023: 田一博同学的论文 “Slicing-Based Task Offloading in Space-Air-Ground Integrated Vehicular Networks” 被计算机网络领域顶级期刊 <b><i>IEEE Transactions on Mobile Computing</i></b> (<b>CCF推荐A类国际期刊</b>) 以长文形式录用。</p>
 
-<p>Apr. 2023: 殷珉同学论文 “基于分层联邦学习的无人机小基站 RAN 切片方法” 被 <b><i>电子学报</i></b> (<b>CCF推荐A类中文期刊</b>) 录用。</p>
+<p>Apr. 2023: 殷珉同学的论文 “基于分层联邦学习的无人机小基站 RAN 切片方法” 被 <b><i>电子学报</i></b> (<b>CCF推荐A类中文期刊</b>) 录用。</p>
 
 <p>Jan. 2023: 企业横向项目 “哲学领域知识图谱构建和应用系统研发” 获立项。</p>
 
