@@ -37,10 +37,7 @@ redirect_from:
 
 
 
-
-
-
-<h2 align="left">Recent Highlights</h2>
+<h2 align="left" style="margin-bottom:8px; margin-top:0;">Recent Highlights</h2>
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 18px; line-height:1.4; font-size:15px; margin-bottom:24px;">
 <p>Oct. 2025: 我们 <b>智能无人机网络</b> 方向的论文 <i>"MobiFormer: Split-Federated Transfer Learning for Drone RAN Slicing with Multi-Head Attention"</i> 被计算机网络领域顶级期刊 <b><i>IEEE Transactions on Mobile Computing</i></b> (<b>CCF推荐A类国际期刊</b>) 录用为长文。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
@@ -145,7 +142,7 @@ redirect_from:
 
 </div>
 
-<h2 align="left">Biography</h2>
+<h2 align="left" style="margin-bottom:8px; margin-top:0;">Biography</h2>
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 18px; line-height:1.4; font-size:15px;">
   <b>沈航</b>，入选“江苏省六大人才高峰”高层次人才计划、“南工英才”优秀青年科技创新人才计划。毕业于
   <a href="http://www.njust.edu.cn/" target="_blank" style="color:#0073aa; text-decoration:none;">南京理工大学</a>
@@ -193,7 +190,7 @@ redirect_from:
 </div>
 
 
-<h2 align="left">Contact Info</h2>
+<h2 align="left" style="margin-bottom:8px; margin-top:0;">Contact Info</h2>
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 18px; line-height:1.5; font-size:15px; margin-bottom:24px;">
   Department of Computer Science and Technology, Nanjing Tech University<br/>
   Addr: 30 South Puzhu Road, 79 Box, Nanjing, China, 211816<br/>
