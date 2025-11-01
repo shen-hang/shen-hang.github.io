@@ -49,7 +49,7 @@ redirect_from:
 
 
 <h2 align="left">Recent Highlights</h2>
-<div style="background-color:#f9f9f9; border-radius:10px; padding:12px 18px; line-height:1.4; font-size:15px; margin-bottom:24px;">
+<div style="background-color:#f9f9f9; border-radius:10px; padding:12px 18px; line-height:1.4; font-size:15px; margin-bottom:16px;">
 <p>Oct. 2025: 我们 <b>智能无人机网络</b> 方向的论文 <i>"MobiFormer: Split-Federated Transfer Learning for Drone RAN Slicing with Multi-Head Attention"</i> 被计算机网络领域顶级期刊 <b><i>IEEE Transactions on Mobile Computing</i></b> (<b>CCF推荐A类国际期刊</b>) 录用为长文。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
 <p>Oct. 2025: 我们 <b>大模型与社交网络</b> 方向的论文 “面向社交网络跨语言虚假信息检测的 LLM 增强自监督域自适应方法” 被 <b><i>电子学报</i></b> (<b>CCF推荐A类中文期刊</b>) 刊用。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
@@ -154,7 +154,7 @@ redirect_from:
 </div>
 
 <h2 align="left">Biography</h2>
-<div style="background-color:#f9f9f9; border-radius:10px; padding:12px 18px; line-height:1.4; font-size:15px;">
+<div style="background-color:#f9f9f9; border-radius:10px; padding:12px 18px; line-height:1.4; font-size:15px; margin-bottom:16px;">
   <b>沈航</b>，入选“江苏省六大人才高峰”高层次人才计划、“南工英才”优秀青年科技创新人才计划。毕业于
   <a href="http://www.njust.edu.cn/" target="_blank" style="color:#0073aa; text-decoration:none;">南京理工大学</a>
   （优秀博士毕业生 / 优秀博士学位论文 / 博士生国家奖学金获得者），师从白光伟教授、唐振民教授。
@@ -180,7 +180,7 @@ redirect_from:
   以及中行软开、微众银行、蚂蚁集团、南京证券等知名科技金融机构，
   部分学生继续在知名高校攻读博士学位。
 </div>
-<hr style="border:none; border-top:1px solid #ddd; margin:18px 0;">
+<hr style="border:none; border-top:1px solid #ddd; margin:16px 0;">
 <div style="background-color:#f9f9f9; border-radius:10px; padding:18px 22px; line-height:1.6; font-size:15px; text-align:justify;">
 <b>Hang Shen</b> received the Ph.D. degree with honors in Computer Science from the 
   <a href="http://www.njust.edu.cn/" target="_blank" style="color:#0073aa; text-decoration:none;">Nanjing University of Science and Technology</a>. 
@@ -202,7 +202,7 @@ redirect_from:
 
 
 <h2 align="left">Contact Info</h2>
-<div style="background-color:#f9f9f9; border-radius:10px; padding:12px 18px; line-height:1.5; font-size:15px; margin-bottom:24px;">
+<div style="background-color:#f9f9f9; border-radius:10px; padding:12px 18px; line-height:1.5; font-size:15px; margin-bottom:16px;">
   Department of Computer Science and Technology, Nanjing Tech University<br/>
   Addr: 30 South Puzhu Road, 79 Box, Nanjing, China, 211816<br/>
   Email: <a href="mailto:hshen@njtech.edu.cn">hshen@njtech.edu.cn</a>, <a href="mailto:helloshenhang@gmail.com">helloshenhang@gmail.com</a>
