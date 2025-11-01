@@ -9,17 +9,34 @@ redirect_from:
 
 ---
 
-<h2 style="font-size:20px; color:#2c3e50; border-left:4px solid #1E90FF; padding-left:10px; margin-bottom:10px; margin-top:20px;">
-  计算机网络 (Computer Networks) - Undergraduate course - Spring 2016-2018, 2020-2025
-</h2>
+<div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.55; font-size:15px; box-shadow:0 1px 4px rgba(0,0,0,0.08); margin-bottom:16px;">
+  <p style="font-weight:bold; color:#2c3e50; margin:0 0 6px 0;">
+    计算机网络（Computer Networks）
+    <span style="font-weight:normal; color:#666; font-size:13px;">— Undergraduate Course</span>
+  </p>
+  <p style="margin:0 0 10px 0; color:#555; font-size:13px;">
+    开课学期：Spring 2016–2018, 2020–2025
+  </p>
 
-**Course Work and Evaluation**: Assignments (作业) (10%); Lab Experiments (实验) (20%); Final Examination (70%) will have a 120-minute closed-book final examination (闭卷) in English (全英文试卷) by the end of this semester.
+  <div style="margin:8px 0 10px 0;">
+    <span style="display:inline-block; border:1px solid #e0e0e0; border-radius:6px; padding:2px 8px; font-size:13px; margin-right:6px;">Assignments 作业：<b>10%</b></span>
+    <span style="display:inline-block; border:1px solid #e0e0e0; border-radius:6px; padding:2px 8px; font-size:13px; margin-right:6px;">Lab 实验：<b>20%</b></span>
+    <span style="display:inline-block; border:1px solid #e0e0e0; border-radius:6px; padding:2px 8px; font-size:13px;">Final Exam 期末：<b>70%</b></span>
+  </div>
 
-**Assignment Guidelines**:<br/>
-1、Use a standard assignment notebook and do not copy the questions.<br/>
-2、Show your complete problem-solving process clearly.<br/>
-3、Writing in English is encouraged, and mistakes are acceptable.<br/>
-4、Plagiarism is strictly prohibited.<br/>
+  <p style="margin:0 0 8px 0;">
+    <b>Course Work & Evaluation（课程作业与考核）</b><br/>
+    期末考试为 <b>120 分钟</b>、<b>闭卷</b>、<b>全英文试卷</b>。
+  </p>
+
+  <p style="margin:10px 0 6px 0;"><b>Assignment Guidelines（作业规范）</b></p>
+  <ol style="margin:0; padding-left:18px;">
+    <li>使用统一作业本，不必誊写题目。</li>
+    <li>清晰呈现完整的解题过程（steps & reasoning）。</li>
+    <li>鼓励英文书写，允许出现非关键性语法错误。</li>
+    <li>严禁抄袭与任何形式的不当协作。</li>
+  </ol>
+</div>
 
 
 | Item                | Links & Description                                          |
