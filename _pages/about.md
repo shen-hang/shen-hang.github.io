@@ -43,6 +43,7 @@ redirect_from:
 
 </div>
 
+---
 
 # Recent Highlights
 - Oct. 2025: Congrats!!! 我们**智能无人机网络**方向的论文“MobiFormer: Split-Federated Transfer Learning for Drone RAN Slicing with Multi-Head Attention”被计算机网络领域顶级期刊*IEEE Transactions on Mobile Computing*(**CCF推荐A类国际期刊**)以长文形式录用.![avatar](https://shen-hang.github.io//images/new.jpg)
