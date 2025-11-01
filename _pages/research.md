@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: ""
+title: "Research"
 author_profile: true
 redirect_from: 
   - /md/
@@ -9,7 +9,7 @@ redirect_from:
 
 
 <h2 style="font-size:20px; color:#2c3e50; border-left:4px solid #1E90FF; padding-left:10px; margin-bottom:10px; margin-top:20px;">
-  Research Projects
+  Projects
 </h2>
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:8px;">
