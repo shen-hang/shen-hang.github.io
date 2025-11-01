@@ -353,10 +353,29 @@ redirect_from:
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:16px;">
   <ul style="list-style-type: none; padding-left: 0;">
-    <li>
-      <b>Natural Science Foundation of Jiangsu Province</b> under Grant No. BK20201357, 2020/07–2022/06, 
-      Intelligent Slicing for Drone-Small-Cell-Assisted Radio Access Networks, **Principal Investigator**.
-    </li>
+<li>大语言模型与知识图谱双驱动的承压特种设备检验方案生成技术及应用示范, 江苏省市场监管局重点项目, 2025/09–2027/09, <b>子课题负责人</b></li>
+    <li>同异构分布式算力协同串行并行推理算法研究, 企业横向项目, 2025/07–2025/10, <b>负责人</b></li>
+    <li>压力容器定检方案大模型, 企业横向项目, 2025/06–2025/10, <b>负责人</b></li>
+    <li>基于深度强化学习的嵌入式泵组调度算法研发, 企业横向项目, 2025/06–2025/10, <b>负责人</b></li>
+    <li>工业定检大模型及知识图谱设计, 企业横向项目, 2024/10–2025/04, <b>负责人</b></li>
+    <li>农产数据知识图谱和大语言模型, 企业横向项目, 2024/08–2024/12, <b>负责人</b></li>
+    <li>哲学领域知识图谱构建和应用系统研发, 企业横向项目, 2023/01–2023/06, <b>负责人</b></li>
+    <li>东方航空联运网络优化——空铁一体化动态路由计算引擎, 企业横向项目, 2021/11–2022/05, <b>负责人</b></li>
+    <li>大规模网络攻防关键技术研究, 企业横向项目, 2021/08–2024/08, <b>负责人</b></li>
+    <li>Natural Science Foundation of Jiangsu Province, Grant No. BK20201357, 2020/07–2023/06, Intelligent Slicing for Drone-Small-Cell-Assisted Radio Access Networks, <b>Principal Investigator</b></li>
+    <li>The Six Talent Peaks Project in Jiangsu Province, Grant No. RJFW-020, 2019/07–2022/06, Privacy-Preserving Mechanism in Location-based Big Data Services, <b>Principal Investigator</b></li>
+    <li>State Key Laboratory Program for Novel Software Technology, Grant No. KFKT2017B21, Location Privacy Preservation for Road Networks, 2017/07–2019/06, <b>Principal Investigator</b></li>
+    <li>National Engineering Research Center Program of Communications and Networking, Grant No. GCZX012, Privacy-Preserving Vehicular Communications, 2017/07–2019/06, <b>Principal Investigator</b></li>
+    <li>National Natural Science Foundation of China, Grant No. 61502230, Research on Network-Coding-Based Data Distribution in Link-Correlated Wireless Networks, 2016/01–2018/12, <b>Principal Investigator</b></li>
+    <li>Natural Science Foundation of Jiangsu Province, Grant No. BK20150960, 2015/07–2018/06, Efficient Network Coding for Wireless Data Distribution Applications, <b>Principal Investigator</b></li>
+    <li>Program of Computer Science Research Center, Grant No. KJR16078, Event Awareness & Information Exchange on the Internet of Multimedia Things, 2016/04–2017/04, <b>Principal Investigator</b></li>
+    <li>Natural Science Foundation of Jiangsu Higher Education Institutions, Grant No. 15KJB520015, 2015/07–2017/06, <b>Principal Investigator</b></li>
+    <li>Research Innovation Program for College Graduates in Jiangsu Province, Grant No. CXLX11 0262, Research on Communication Protocol in Wireless Multimedia Sensor Networks, 2011/06–2013/06, <b>Principal Investigator</b></li>
+    <li>Scientific & Technological Support Project of Jiangsu Province, Grant No. BK2010548, Real-Time Media Streaming System for Wireless Mobile Internet, 2011/12–2014/12, <b>Sub-project Leader</b></li>
+    <li>Nanjing Municipal Science and Technology Plan Project, Grant No. 201608009, Medical Image Information Sharing Platform Based on Internet of Things Technology, 2017/01–2019/12, <b>Research Staff</b></li>
+    <li>Project on Future Networks of Jiangsu Future Networks Innovation Institute, Grant No. BY2013095-4-09, Key Technology Research and Verification on Mobile Media Cloud Services of Future Networks, 2013/12–2015/12, <b>Research Staff</b></li>
+    <li>National Natural Science Foundation of China, Grant No. 61073197, Cross-Layer Architecture and QoS-Aware Routing in Wireless Multimedia Sensor Networks, 2010/12–2013/12, <b>Research Staff</b></li>
+    <li>National Natural Science Foundation of China, Grant No. 60673185, Architecture and Protocol Study of Wireless Mobile Multimedia Networks, 2006/12–2009/12, <b>Research Staff</b></li>
   </ul>
 </div>
 
