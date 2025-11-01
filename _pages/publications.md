@@ -84,15 +84,18 @@ redirect_from:
       <b>(中科院二区)</b> 
       <a href="http://shen-hang.github.io/files/TCE2025.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
-    <li>
-      Yu Liu, <b>Hang Shen*</b>, Tianjing Wang, and Guangwei Bai. 
-      <a href="https://onlinelibrary.wiley.com/doi/10.4218/etrij.2023-0426" style="color:#000; text-decoration:none;">
-      Vehicle Counting in UAV Images: An Adaptive Approach with Spatial Attention and Multi-Scale Receptive Fields</a>, 
-      <i>ETRI Journal</i>, 2025, 47(1), pp. 7–19. 
-      <b>(SCI, 被期刊编委会评为2025年1–2月唯一亮点论文 Featured Article)</b> 
-      <a href="http://shen-hang.github.io/files/ETRIR_48_3_infographics_January_06_2025.pdf" style="color:#1E90FF; text-decoration:none;">[Infographic Design]</a> 
-      <a href="http://shen-hang.github.io/files/ETRI2025.pdf" style="color:#1E90FF; text-decoration:none;">[Article Download]</a>
-    </li>
+<li> 
+  Yu Liu, <b>Hang Shen*</b>, Tianjing Wang, and Guangwei Bai. 
+  <a href="https://onlinelibrary.wiley.com/doi/10.4218/etrij.2023-0426" style="color:#000; text-decoration:none;">
+  Vehicle Counting in UAV Images: An Adaptive Approach with Spatial Attention and Multi-Scale Receptive Fields</a>, 
+  <i>ETRI Journal</i>, 2025, 47(1), pp. 7–19. 
+  <b>(SCI)</b> 
+  <span style="background-color:#eef3f8; color:#2f4f4f; border-radius:4px; padding:1px 6px; font-weight:500;">
+    被期刊编委会评为 <b>2025年1–2月唯一亮点论文 (Featured Article)</b>
+  </span> 
+  <a href="http://shen-hang.github.io/files/ETRIR_48_3_infographics_January_06_2025.pdf" style="color:#1E90FF; text-decoration:none;">[Infographic Design]</a> 
+  <a href="http://shen-hang.github.io/files/ETRI2025.pdf" style="color:#1E90FF; text-decoration:none;">[Article Download]</a>
+</li>
   </ol>
 </div>
 
