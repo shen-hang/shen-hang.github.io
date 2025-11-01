@@ -116,6 +116,7 @@ redirect_from:
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:16px;">
   <ul style="list-style-type: none; padding-left: 0;">
+  <ol>
     <li>
       <b>Hang Shen*</b>, Yanke Yao, Tianjing Wang, and Guangwei Bai. 
       <i>MobiFormer: Split-Federated Transfer Learning for Drone RAN Slicing with Multi-Head Attention</i>, 
@@ -276,6 +277,7 @@ redirect_from:
       QMOR: QoS-Aware Multi-Sink Opportunistic Routing for Wireless Multimedia Sensor Networks</a>, 
       <b><i>Wireless Personal Communications (WPC)</i></b>, 2014, 75(2), pp. 1307-1330.
     </li>
+    </ol>
   </ul>
 </div>
 
