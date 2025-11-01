@@ -50,7 +50,7 @@ redirect_from:
       <b>Hang Shen</b>, Qiang Ye*, Weihua Zhuang, Weisen Shi, Guangwei Bai, and Geng Yang. 
       <a href="https://ieeexplore.ieee.org/document/9440683" style="color:#000; text-decoration:none;">
       Drone-Small-Cell-Assisted Resource Slicing for 5G Uplink Radio Access Networks</a>, 
-      <i>IEEE Transactions on Vehicular Technology (TVT)</i>, 2021, 70(7): 7071–7086. 
+      <i>IEEE Transactions on Vehicular Technology (TVT)</i>, 2021, 70(7), pp. 7071–7086. 
       <b>(中科院二区)</b> 
       <a href="http://shen-hang.github.io/files/TVT2021.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
