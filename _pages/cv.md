@@ -353,6 +353,7 @@ redirect_from:
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:16px;">
   <ul style="list-style-type: none; padding-left: 0;">
+  <ol>
 <li>大语言模型与知识图谱双驱动的承压特种设备检验方案生成技术及应用示范, 江苏省市场监管局重点项目, 2025/09–2027/09, <b>子课题负责人</b></li>
     <li>同异构分布式算力协同串行并行推理算法研究, 企业横向项目, 2025/07–2025/10, <b>负责人</b></li>
     <li>压力容器定检方案大模型, 企业横向项目, 2025/06–2025/10, <b>负责人</b></li>
@@ -376,6 +377,7 @@ redirect_from:
     <li>Project on Future Networks of Jiangsu Future Networks Innovation Institute, Grant No. BY2013095-4-09, Key Technology Research and Verification on Mobile Media Cloud Services of Future Networks, 2013/12–2015/12, <b>Research Staff</b></li>
     <li>National Natural Science Foundation of China, Grant No. 61073197, Cross-Layer Architecture and QoS-Aware Routing in Wireless Multimedia Sensor Networks, 2010/12–2013/12, <b>Research Staff</b></li>
     <li>National Natural Science Foundation of China, Grant No. 60673185, Architecture and Protocol Study of Wireless Mobile Multimedia Networks, 2006/12–2009/12, <b>Research Staff</b></li>
+   </ol>
   </ul>
 </div>
 
