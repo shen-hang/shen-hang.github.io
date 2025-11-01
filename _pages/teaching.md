@@ -181,7 +181,7 @@ redirect_from:
   <table style="width:100%; border-collapse:collapse; font-size:14px;">
     <tr>
       <td style="width:120px; vertical-align:top; font-weight:bold; color:#2c3e50;">教材</td>
-      <td> None </td>
+      <td>无指定教材（None）</td>
     </tr>
     <tr>
       <td style="vertical-align:top; font-weight:bold; color:#2c3e50;">参考书目</td>
@@ -203,20 +203,25 @@ redirect_from:
     </tr>
   </table>
 
-  <hr style="border: none; border-top: 1px solid #e0e0e0; margin:14px 0;"/>
 
-  <details style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; margin-bottom:10px; box-shadow:0 1px 4px rgba(0,0,0,0.08);">
-  <summary style="font-weight:bold; color:#2c3e50; font-size:15px; cursor:pointer;">A. 报告格式要求</summary>
-  <div style="margin-top:8px; line-height:1.65; font-size:14.5px;">
-    请使用 <b>LaTeX（Overleaf）</b> 编排论文，模板下载：  
-    <a href="https://pan.baidu.com/s/10QYw21qaXrpT6-XOWA6gHA" style="color:#1E90FF; text-decoration:none;">[点击下载（提取码：5m56）]</a>。
-  </div>
-</details>
 
-<details style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; margin-bottom:10px; box-shadow:0 1px 4px rgba(0,0,0,0.08);">
-  <summary style="font-weight:bold; color:#2c3e50; font-size:15px; cursor:pointer;">B. 研究范围（包括但不限于）</summary>
-  <div style="margin-top:8px; line-height:1.7; font-size:14.5px;">
-    <ul style="margin:0; padding-left:18px;">
+  <h3 style="font-size:17px; color:#2c3e50; margin-bottom:8px; margin-top:20px;"> 
+  研究报告撰写要求
+</h3>
+
+<div style="background-color:#f9f9f9; border-radius:10px; padding:14px 18px; line-height:1.7; font-size:15px; box-shadow:0 1px 5px rgba(0,0,0,0.06);">
+
+  <details style="margin-bottom:10px;">
+    <summary style="font-weight:bold; color:#1E90FF; cursor:pointer;">A. 报告格式要求</summary>
+    <p style="margin:6px 0 0 4px;">
+      请使用 <b>LaTeX（Overleaf）</b> 编排论文，模板下载：
+      <a href="https://pan.baidu.com/s/10QYw21qaXrpT6-XOWA6gHA" style="color:#1E90FF; text-decoration:none;">[点击下载（提取码：5m56）]</a>。
+    </p>
+  </details>
+
+  <details style="margin-bottom:10px;">
+    <summary style="font-weight:bold; color:#1E90FF; cursor:pointer;">B. 研究范围（包括但不限于）</summary>
+    <ul style="margin-top:6px; margin-left:24px;">
       <li>AI for Networks 或 Networks for AI</li>
       <li>网络体系架构与协议</li>
       <li>多媒体网络与服务质量（QoS）</li>
@@ -228,28 +233,22 @@ redirect_from:
       <li>软件定义网络（SDN）与网络功能虚拟化（NFV）</li>
       <li>未来网络与新兴网络技术</li>
     </ul>
-  </div>
-</details>
+  </details>
 
-<details style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; margin-bottom:10px; box-shadow:0 1px 4px rgba(0,0,0,0.08);">
-  <summary style="font-weight:bold; color:#2c3e50; font-size:15px; cursor:pointer;">C. 内容结构建议</summary>
-  <div style="margin-top:8px; line-height:1.7; font-size:14.5px;">
-    <ol style="margin:0; padding-left:18px;">
+  <details>
+    <summary style="font-weight:bold; color:#1E90FF; cursor:pointer;">C. 内容结构建议</summary>
+    <ol style="margin-top:6px; margin-left:24px;">
       <li>研究背景与意义</li>
       <li>当前研究进展</li>
       <li>现有方法的主要问题</li>
       <li>你的思考与解决方案</li>
       <li>方案的优越性与创新性</li>
     </ol>
-  </div>
-</details>
 
-<details style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; margin-bottom:10px; box-shadow:0 1px 4px rgba(0,0,0,0.08);">
-  <summary style="font-weight:bold; color:#2c3e50; font-size:15px; cursor:pointer;">D. 其他说明</summary>
-  <div style="margin-top:8px; line-height:1.65; font-size:14.5px; color:#555;">
-    <b>注：</b> 研究报告需包含题目、摘要与结论，内容应分段清晰，篇幅不少于 <b>6页</b>。
-  </div>
-</details>
+    <div style="margin-top:10px; background-color:#fff; border-left:4px solid #1E90FF; padding:8px 10px; border-radius:6px; font-size:14px; color:#444;">
+      <b>提示：</b> 研究报告需包含<b>题目、摘要与结论</b>，内容应分段清晰，篇幅不少于 <b>6页</b>。
+    </div>
+  </details>
 
 </div>
 
