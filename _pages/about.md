@@ -77,7 +77,7 @@ redirect_from:
 
 <p>Aug. 2024: 企业横向项目 “农产数据知识图谱和大语言模型” 获立项。</p>
 
-<p>Jul. 2024: 沈航应邀担任 SCI 期刊 <b><i>Frontiers in Blockchain</i></b> (IF 1.9) 副编辑 (Associate Editor)。</p>
+<p>Jul. 2024: 沈航应邀担任 SCI 期刊 <b><i>Frontiers in Blockchain</i></b> (IF 1.9) <b>副编辑</b> (Associate Editor)。</p>
 
 <p>Jul. 2024: 周妍婧同学的论文 “Blockchain-Assisted Cross-silo Graph Federated Learning for Network Intrusion Detection” 被 IEEE 区块链旗舰会议 <b><i>IEEE Global Blockchain Conference (GBC)</i></b> 录用为长文。</p>
 
@@ -95,7 +95,7 @@ redirect_from:
 
 <p>Feb. 2024: 张贝宁同学的论文 “Consortium Blockchain-Based Secure Cross-Operator V2V Video Content Distribution” 被 CCF 推荐 SCI 期刊 <b><i>Peer-to-Peer Networking and Applications</i></b> 录用。</p>
 
-<p>Jan. 2024: 沈航应邀担任 SCI 期刊 <b><i>Journal of Information Processing Systems</i></b> (IF 0.8) 副编辑 (Associate Editor)。</p> 
+<p>Jan. 2024: 沈航应邀担任 SCI 期刊 <b><i>Journal of Information Processing Systems</i></b> (IF 0.8) <b>副编辑</b> (Associate Editor)。</p> 
 
 <p>Nov. 2023: 李芳同学的论文 “Pre-trained Language Model-Enhanced Conditional Generative Adversarial Networks for Intrusion Detection” 被 CCF 推荐 SCI 期刊 <b><i>Peer-to-Peer Networking and Applications</i></b> 录用。</p>
 
