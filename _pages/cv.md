@@ -124,15 +124,16 @@ redirect_from:
 
 
 
-<h2 style="font-size:20px; color:#2c3e50; border-left:4px solid #1E90FF; padding-left:10px; margin-bottom:10px; margin-top:20px;">
+<h2 style="font-size:20px; color:#2c3e50; border-left:4px solid #1E90FF; padding-left:10px; margin-bottom:10px; margin-top:20px;"> 
   Publications
 </h2>
 
-**A. Journal articles (\* indicates the correspondence author)**
+<div style="background-color:#f9f9f9; border-radius:10px; padding:10px 16px; line-height:1.6; font-size:15px; box-shadow:0 1px 4px rgba(0,0,0,0.08); margin-bottom:16px;">
+  <p style="font-weight:bold; color:#2c3e50; margin-top:0; margin-bottom:8px;">
+    A. Journal Articles <span style="font-weight:normal; color:#555;">(* indicates the correspondence author)</span>
+  </p>
 
-<div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:16px;">
-  <ul style="list-style-type: none; padding-left: 0;">
-  <ol style="margin-top:6px; margin-bottom:0;">
+  <ul style="list-style-type:none; padding-left:8px; margin:0;">
     <li>
       <b>Hang Shen*</b>, Yanke Yao, Tianjing Wang, and Guangwei Bai. 
       <a href="https://ieeexplore.ieee.org/document/11222929" style="color:#000; text-decoration:none;">
