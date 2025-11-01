@@ -43,7 +43,6 @@ redirect_from:
 
 </div>
 
-<div style="background-color:#f9f9f9; border-radius:10px; padding:12px 18px; line-height:1.4; font-size:15px;">
 
 <h2 align="left">Recent Highlights</h2>
 
