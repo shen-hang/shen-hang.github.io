@@ -108,6 +108,48 @@ redirect_from:
 
 <p>Jan. 2024: 沈航应邀担任 SCI 期刊 <b><i>Journal of Information Processing Systems</i></b> (IF 0.8) 副编辑 (Associate Editor)。</p> 
 
+<p>Nov. 2023: 李芳同学论文 “Pre-trained Language Model-Enhanced Conditional Generative Adversarial Networks for Intrusion Detection” 被 CCF 推荐 SCI 期刊 <b><i>Peer-to-Peer Networking and Applications</i></b> 录用。</p>
+
+<p>Oct. 2023: 童子源同学论文 “UAV-Relay-Assisted Live Layered Video Multicast for Cell-Edge Users in NOMA Networks” 被 <b><i>IEEE Transactions on Broadcasting</i></b> (<b>中科院计算机科学一区Top</b>) 以长文形式录用。</p>
+
+<p>May 2023: 童子源同学硕士学位论文 “无人机辅助的 NOMA 无线网络弹性视频多播机制研究” 被答辩委员会推荐为 <b>优秀研究生论文</b>。</p>
+
+<p>May 2023: 田一博同学论文 “Slicing-Based Task Offloading in Space-Air-Ground Integrated Vehicular Networks” 被计算机网络领域顶级期刊 <b><i>IEEE Transactions on Mobile Computing</i></b> (<b>CCF推荐A类国际期刊</b>) 以长文形式录用。</p>
+
+<p>Apr. 2023: 殷珉同学论文 “基于分层联邦学习的无人机小基站 RAN 切片方法” 被 <b><i>电子学报</i></b> (<b>CCF推荐A类中文期刊</b>) 录用。</p>
+
+<p>Jan. 2023: 企业横向项目 “哲学领域知识图谱构建和应用系统研发” 获立项。</p>
+
+<p>Nov. 2022: 刘鑫同学论文 “Blockchain-Enabled Solution for Secure and Scalable V2V Video Content Dissemination” 被 CCF 推荐 SCI 期刊 <b><i>Peer-to-Peer Networking and Applications</i></b> 录用。</p>
+
+<p>Nov. 2022: 沈航获得 <b>中国特种设备检测协会科学技术二等奖</b> (排名第三)。</p>
+
+<p>Jun. 2022: 朱唯周同学本科毕业论文 “面向入侵检测的生成式对抗网络构建方法” 被推荐为 <b>优秀本科毕业论文</b>。</p>
+
+<p>Jun. 2022: 童子源同学论文 “Joint Resource Optimization for NOMA Enhanced SVC Multicast in UAV-Assisted Radio Access Networks” 被 SCI 期刊 <b><i>ETRI Journal</i></b> 录用。</p>
+
+<p>Apr. 2022: 衡奕龙同学论文 “Drone-Small-Cell-Assisted Spectrum Management for 5G and Beyond Vehicular Networks” 被 CCF 推荐国际会议 <b><i>IEEE Symposium on Computers and Communications (ISCC)</i></b> 以长文形式录用。</p>
+
+<p>Nov. 2021: 东方航空联运网络优化项目 —— 空铁一体化动态路由计算引擎研发启动。</p>
+
+<p>Nov. 2021: 沈航成果 “基于网络切片的 5G 电力物联网关键技术研究及应用” 获 <b>中国电力联合会科技创新二等奖</b> (排名第三)。</p>
+
+<p>Aug. 2021: 企业横向项目 “大规模网络攻防关键技术研究” 启动。</p>
+
+<p>Aug. 2021: “网络安全态势感知与智能分析技术研究” 项目获得资助并启动。</p>
+
+<p>Jul. 2021: 课题组同学获得中国高校网络技术挑战赛华东区二等奖和三等奖各 1 项。</p>
+
+<p>Jun. 2021: 沈航被江苏省计算机学会评为 <b>2020 年度先进个人会员</b>。</p>
+
+<p>May 2021: 企业横向项目 “秀川智慧云协同控制系统研发” 启动。</p>
+
+<p>May 2021: 沈航应邀担任 <b><i>Annual International Conference on Privacy, Security and Trust (PST2021)</i></b> 程序委员会成员。</p>
+
+<p>May 2021: 我们论文 “Drone-Small-Cell-Assisted Resource Slicing for 5G Uplink Radio Access Networks” 被国际期刊 <b><i>IEEE Transactions on Vehicular Technology</i></b> 录用。</p>
+
+<p>Dec. 2020: 沈航获得 <b>中国仪器仪表学会科技进步二等奖</b> (排名第五)。</p>
+
 
 </div>
 
@@ -117,7 +159,22 @@ redirect_from:
 </div>
 <hr style="border:none; border-top:1px solid #ddd; margin:18px 0;">
 <div style="background-color:#f9f9f9; border-radius:10px; padding:18px 22px; line-height:1.6; font-size:15px; text-align:justify;">
-  <b>Hang Shen</b> received the Ph.D. degree with honors in Computer Science from the [Nanjing University of Science and Technology](http://www.njust.edu.cn/). He worked as a Full-Time Postdoctoral Fellow under the supervision of Prof. Weihua Zhuang (IEEE Fellow) in the [Broadband Communications Research (BBCR) Lab](https://uwaterloo.ca/broadband-communications-research-lab/), Department of Electrical and Computer Engineering at the University of Waterloo in Waterloo, Canada from 2018 to 2019. He is currently an Associate Professor in the [Department of Computer Science and Technology](http://cise.njtech.edu.cn/) at [Nanjing Tech University](http://www.njtech.edu.cn/) in Nanjing, China. His research interests include vehicular networks, large language models for cybersecurity, and drone/vehicle vision-language navigation. He serves as an Associate Editor for *Journal of Information Processing Systems*, *Frontiers in Blockchain*, and *IEEE Access* and was a Guest Editor for *Peer-to-Peer Networking and Applications*. He serves/served as a program committee member of the IEEE International Conference on High Performance Computing and Communications (HPCC), the International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP), and the Annual International Conference on Privacy, Security and Trust (PST). He is a member of the IEEE Computer Society, Communication Society, and Vehicular Technology Society, a CCF Senior Member, and an Executive Committee Member of the ACM Nanjing Chapter.
+<b>Hang Shen</b> received the Ph.D. degree with honors in Computer Science from the 
+  <a href="http://www.njust.edu.cn/" target="_blank" style="color:#0073aa; text-decoration:none;">Nanjing University of Science and Technology</a>. 
+  He worked as a Full-Time Postdoctoral Fellow under the supervision of Prof. Weihua Zhuang (IEEE Fellow) in the 
+  <a href="https://uwaterloo.ca/broadband-communications-research-lab/" target="_blank" style="color:#0073aa; text-decoration:none;">Broadband Communications Research (BBCR) Lab</a>, 
+  Department of Electrical and Computer Engineering at the University of Waterloo in Waterloo, Canada from 2018 to 2019. 
+  He is currently an Associate Professor in the 
+  <a href="http://cise.njtech.edu.cn/" target="_blank" style="color:#0073aa; text-decoration:none;">Department of Computer Science and Technology</a> at 
+  <a href="http://www.njtech.edu.cn/" target="_blank" style="color:#0073aa; text-decoration:none;">Nanjing Tech University</a> in Nanjing, China. 
+  His research interests include vehicular networks, large language models for cybersecurity, and drone/vehicle vision-language navigation. 
+  He serves as an Associate Editor for <i>Journal of Information Processing Systems</i>, <i>Frontiers in Blockchain</i>, and <i>IEEE Access</i>, 
+  and was a Guest Editor for <i>Peer-to-Peer Networking and Applications</i>. 
+  He serves/served as a program committee member of the IEEE International Conference on High Performance Computing and Communications (HPCC), 
+  the International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP), 
+  and the Annual International Conference on Privacy, Security and Trust (PST). 
+  He is a member of the IEEE Computer Society, Communication Society, and Vehicular Technology Society, 
+  a CCF Senior Member, and an Executive Committee Member of the ACM Nanjing Chapter.
 </div>
 
 
