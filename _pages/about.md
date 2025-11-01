@@ -150,6 +150,8 @@ redirect_from:
 
 </div>
 
+<div style="height:16px;"></div>
+<hr style="border:none; border-top:1px solid #e0e0e0; margin:0 0 16px 0;">
 
 <h2 align="left">Biography</h2>
 
