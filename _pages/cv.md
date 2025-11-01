@@ -24,7 +24,7 @@ redirect_from:
   <ul style="margin:0; padding-left:20px;">
     <li>Vehicular Networks (Vehicle Computing) and Space–Air–Ground Integrated Networks</li>
     <li>Vertical Domain-Specific Large Language Models</li>
-    <li>Drone/Vehicle Vision–Language Navigation</li>
+    <li>Drone/Vehicle Vision Computing</li>
     <li>Blockchain and Cybersecurity</li>
   </ul>
 </div>
