@@ -94,8 +94,14 @@ redirect_from:
 2、如果编辑框内输入GET命令，并且能正确收到服务器返回的页面，请从“Network Message Browser”窗口中，分析与GET命令和收到的页面相对应数据的链路层、网络层和运输层封装情况。<br/>
 </details>
 
----
-**物联网概论(Introduction to Internet of Things)** - Undergraduate course - Fall 2015-2017, Fall 2019-2024
+
+<h3 style="font-size:17px; color:#2c3e50; margin-bottom:6px; margin-top:18px;">
+  物联网概论（Introduction to Internet of Things）
+  <span style="font-weight:normal; color:#666; font-size:13px;">— Undergraduate Course</span>
+</h3>
+<p style="margin:0 0 10px 0; color:#555; font-size:13px;">
+  Offered Semester：Fall 2015-2017, Fall 2019-2024
+</p>
 
 | Item          | Links & Description                                          |
 | ------------- | ------------------------------------------------------------ |
