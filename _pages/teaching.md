@@ -7,7 +7,7 @@ redirect_from:
   - /teaching.html
 ---
 
----
+<hr style="border: 0; border-top: 2px solid #1E90FF; margin: 24px 0 16px 0; opacity: 0.6;">
 
 <h3 style="font-size:17px; color:#2c3e50; margin-bottom:6px; margin-top:18px;">
   计算机网络（Computer Networks）
