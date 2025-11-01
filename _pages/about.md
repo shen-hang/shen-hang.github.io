@@ -135,7 +135,7 @@ redirect_from:
 
 <p>May 2021: 沈航应邀担任 <b><i>Annual International Conference on Privacy, Security and Trust (PST2021)</i></b> 程序委员会成员。</p>
 
-<p>May 2021: 我们论文 “Drone-Small-Cell-Assisted Resource Slicing for 5G Uplink Radio Access Networks” 被国际期刊 <b><i>IEEE Transactions on Vehicular Technology</i></b> 录用。</p>
+<p>May 2021: 我们论文 “Drone-Small-Cell-Assisted Resource Slicing for 5G Uplink Radio Access Networks” 被国际著名期刊 <b><i>IEEE Transactions on Vehicular Technology</i></b> 录用。</p>
 
 <p>Dec. 2020: 沈航获得 <b>中国仪器仪表学会科技进步二等奖</b> (排名第五)。</p>
 
