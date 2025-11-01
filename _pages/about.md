@@ -44,40 +44,40 @@ redirect_from:
 </div>
 
 ---
-
 <h2 align="left">Recent Highlights</h2>
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 18px; line-height:1.4; font-size:15px;">
 
-<p>Oct. 2025: 我们 <b>智能无人机网络</b> 方向的论文 <i>"MobiFormer: Split-Federated Transfer Learning for Drone RAN Slicing with Multi-Head Attention"</i> 被计算机网络领域顶级期刊 <b><i>IEEE Transactions on Mobile Computing</i></b> (<b>CCF推荐A类国际期刊</b>) 以长文形式录用。 <span style="border:1px solid #bbb; color:#555; font-weight:500; border-radius:4px; padding:1px 6px; font-size:12px; background-color:#f3f3f3;">NEW</span>
+<p>Oct. 2025: 我们 <b>智能无人机网络</b> 方向的论文 <i>"MobiFormer: Split-Federated Transfer Learning for Drone RAN Slicing with Multi-Head Attention"</i> 被计算机网络领域顶级期刊 <b><i>IEEE Transactions on Mobile Computing</i></b> (<b>CCF推荐A类国际期刊</b>) 以长文形式录用。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
-<p>Oct. 2025: 我们 <b>大模型与社交网络</b> 方向的论文 “面向社交网络跨语言虚假信息检测的 LLM 增强自监督域自适应方法” 被 <b><i>电子学报</i></b> (<b>CCF推荐A类中文期刊</b>) 刊用。 <span style="border:1px solid #bbb; color:#555; font-weight:500; border-radius:4px; padding:1px 6px; font-size:12px; background-color:#f3f3f3;">NEW</span>
+<p>Oct. 2025: 我们 <b>大模型与社交网络</b> 方向的论文 “面向社交网络跨语言虚假信息检测的 LLM 增强自监督域自适应方法” 被 <b><i>电子学报</i></b> (<b>CCF推荐A类中文期刊</b>) 刊用。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
-<p>Oct. 2025: 李想、刘棋同学获得硕士 <b>研究生国家奖学金</b>。 <span style="background:linear-gradient(90deg,#ff4d4f,#ff7875); color:white; font-weight:bold; border-radius:4px; padding:1px 6px; font-size:12px;">NEW</span></p>
+<p>Oct. 2025: 李想、刘棋同学获得硕士 <b>研究生国家奖学金</b>。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
-<p>Oct. 2025: 企业横向项目 “同异构分布式算力协同 <b>串行并行推理</b> 算法研究” 启动。 <span style="background:linear-gradient(90deg,#ff4d4f,#ff7875); color:white; font-weight:bold; border-radius:4px; padding:1px 6px; font-size:12px;">NEW</span></p>
+<p>Oct. 2025: 企业横向项目 “同异构分布式算力协同 <b>串行并行推理</b> 算法研究” 启动。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
-<p>Sep. 2025: 企业横向项目 “压力容器 <b>定检方案大模型</b>” 启动。 <span style="background:linear-gradient(90deg,#ff4d4f,#ff7875); color:white; font-weight:bold; border-radius:4px; padding:1px 6px; font-size:12px;">NEW</span></p>
+<p>Sep. 2025: 企业横向项目 “压力容器 <b>定检方案大模型</b>” 启动。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
-<p>Sep. 2025: 作为合作单位承担的 “<b>大语言模型与知识图谱</b> 双驱动的承压特种设备检验方案生成技术及应用示范” 被江苏省市场监管局立项为重点项目。 <span style="background:linear-gradient(90deg,#ff4d4f,#ff7875); color:white; font-weight:bold; border-radius:4px; padding:1px 6px; font-size:12px;">NEW</span></p>
+<p>Sep. 2025: 作为合作单位承担的 “<b>大语言模型与知识图谱</b> 双驱动的承压特种设备检验方案生成技术及应用示范” 被江苏省市场监管局立项为重点项目。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
-<p>Aug. 2025: 我们 <b>无人机视觉计算</b> 方向的论文 <i>"MA-DyNN: Modal-Adaptive Dynamic Neural Network for Crowd-Counting on Consumer Drones"</i> 被国际著名期刊 <b><i>IEEE Transactions on Consumer Electronics</i></b> 录用为长文。 <span style="background:linear-gradient(90deg,#ff4d4f,#ff7875); color:white; font-weight:bold; border-radius:4px; padding:1px 6px; font-size:12px;">NEW</span></p>
+<p>Aug. 2025: 我们 <b>无人机视觉计算</b> 方向的论文 <i>"MA-DyNN: Modal-Adaptive Dynamic Neural Network for Crowd-Counting on Consumer Drones"</i> 被国际著名期刊 <b><i>IEEE Transactions on Consumer Electronics</i></b> 录用为长文。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
-<p>Aug. 2025: 我们 <b>大模型与社交网络</b> 方向的论文 <i>"LACL: LLM-Augmented Contrastive Learning for Misinformation Detection in Social Networks"</i> 被国际著名期刊 <b><i>IEEE Transactions on Computational Social Systems</i></b> 录用为长文。 <span style="background:linear-gradient(90deg,#ff4d4f,#ff7875); color:white; font-weight:bold; border-radius:4px; padding:1px 6px; font-size:12px;">NEW</span></p>
+<p>Aug. 2025: 我们 <b>大模型与社交网络</b> 方向的论文 <i>"LACL: LLM-Augmented Contrastive Learning for Misinformation Detection in Social Networks"</i> 被国际著名期刊 <b><i>IEEE Transactions on Computational Social Systems</i></b> 录用为长文。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
-<p>Aug. 2025: 沈航应邀担任 CCF 推荐国际会议 <b><i>International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2025)</i></b> 程序委员会成员。 <span style="background:linear-gradient(90deg,#ff4d4f,#ff7875); color:white; font-weight:bold; border-radius:4px; padding:1px 6px; font-size:12px;">NEW</span></p>
+<p>Aug. 2025: 沈航应邀担任 CCF 推荐国际会议 <b><i>International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2025)</i></b> 程序委员会成员。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
-<p>Jul. 2025: 沈航应邀在 <b>第二十七届中国科协年会</b> “大模型时代的计算机网络新技术” 专题论坛做学术报告。 <span style="background:linear-gradient(90deg,#ff4d4f,#ff7875); color:white; font-weight:bold; border-radius:4px; padding:1px 6px; font-size:12px;">NEW</span></p>
+<p>Jul. 2025: 沈航应邀在 <b>第二十七届中国科协年会</b> “大模型时代的计算机网络新技术” 专题论坛做学术报告。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
-<p>Jun. 2025: 司天铖同学的本科毕业论文 “基于 LLM 增强自监督对比学习的加密流量检测” 被评选为 <b>校优秀本科毕业论文</b>。 <span style="background:linear-gradient(90deg,#ff4d4f,#ff7875); color:white; font-weight:bold; border-radius:4px; padding:1px 6px; font-size:12px;">NEW</span></p>
+<p>Jun. 2025: 司天铖同学的本科毕业论文 “基于 LLM 增强自监督对比学习的加密流量检测” 被评选为 <b>校优秀本科毕业论文</b>。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
-<p>Apr. 2025: 沈航应邀担任 CCF 推荐国际会议 <b><i>IEEE International Conference on High Performance Computing and Communications (HPCC)</i></b> 程序委员会成员。 <span style="background:linear-gradient(90deg,#ff4d4f,#ff7875); color:white; font-weight:bold; border-radius:4px; padding:1px 6px; font-size:12px;">NEW</span></p>
+<p>Apr. 2025: 沈航应邀担任 CCF 推荐国际会议 <b><i>IEEE International Conference on High Performance Computing and Communications (HPCC)</i></b> 程序委员会成员。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
-<p>Mar. 2025: 我们 <b>网联汽车视觉计算</b> 方向的论文 <i>"MT-DyNN: Multi-Teacher Distilled Dynamic Neural Network for Instance-Adaptive Detection in Autonomous Driving"</i> 被国际著名期刊 <b><i>IEEE Transactions on Intelligent Transportation Systems</i></b> 录用为长文。 <span style="background:linear-gradient(90deg,#ff4d4f,#ff7875); color:white; font-weight:bold; border-radius:4px; padding:1px 6px; font-size:12px;">NEW</span></p>
+<p>Mar. 2025: 我们 <b>网联汽车视觉计算</b> 方向的论文 <i>"MT-DyNN: Multi-Teacher Distilled Dynamic Neural Network for Instance-Adaptive Detection in Autonomous Driving"</i> 被国际著名期刊 <b><i>IEEE Transactions on Intelligent Transportation Systems</i></b> 录用为长文。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
-<p>Feb. 2025: 我们 <b>多智能体渗透测试</b> 方向的论文 <i>"Collaborative Path Penetration in 5G-IoT Networks: A Multi-Agent Deep Reinforcement Learning Approach"</i> 被 CCF 推荐国际期刊 <b><i>Peer-to-Peer Networking and Applications</i></b> 录用为长文。 <span style="background:linear-gradient(90deg,#ff4d4f,#ff7875); color:white; font-weight:bold; border-radius:4px; padding:1px 6px; font-size:12px;">NEW</span></p>
+<p>Feb. 2025: 我们 <b>多智能体渗透测试</b> 方向的论文 <i>"Collaborative Path Penetration in 5G-IoT Networks: A Multi-Agent Deep Reinforcement Learning Approach"</i> 被 CCF 推荐国际期刊 <b><i>Peer-to-Peer Networking and Applications</i></b> 录用为长文。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
 </div>
+
 
 
 ------
