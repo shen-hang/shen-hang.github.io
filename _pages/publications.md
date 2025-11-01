@@ -36,13 +36,15 @@ redirect_from:
       <b>(中科院二区)</b> 
       <a href="http://shen-hang.github.io/files/TBC2024.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
-    <li>
-      殷珉, <b>沈航*</b>, 王天荆, 白光伟. 基于分层联邦学习的无人机小基站 RAN 切片方法, 
-      <i>电子学报</i>, 2023, 51(7): 1774–1780. 
-      <b>(CCF推荐A类中文期刊)</b> 
-      <span style="color:#888;">把论文写在祖国的大地上</span> 
-      <a href="http://shen-hang.github.io/files/电子学报2023.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
-    </li>
+<li> 
+  殷珉, <b>沈航*</b>, 王天荆, 白光伟. 基于分层联邦学习的无人机小基站 RAN 切片方法, 
+  <i>电子学报</i>, 2023, 51(7): 1774–1780. 
+  <b>(CCF推荐A类中文期刊)</b> 
+  <span style="color:#B22222; font-weight:bold; background-color:#fff5f5; border-radius:4px; padding:1px 5px;">
+    把论文写在祖国的大地上
+  </span> 
+  <a href="http://shen-hang.github.io/files/电子学报2023.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
+</li>
     <li>
       <b>Hang Shen</b>, Qiang Ye*, Weihua Zhuang, Weisen Shi, Guangwei Bai, and Geng Yang. 
       <a href="https://ieeexplore.ieee.org/document/9440683" style="color:#000; text-decoration:none;">
