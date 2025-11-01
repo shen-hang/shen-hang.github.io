@@ -381,30 +381,32 @@ redirect_from:
   </ul>
 </div>
 
-**C. Book Chapters**
+<div style="background-color:#f9f9f9; border-radius:10px; padding:10px 16px; line-height:1.6; font-size:15px; box-shadow:0 1px 4px rgba(0,0,0,0.08); margin-bottom:16px;">
+  <p style="font-weight:bold; color:#2c3e50; margin-top:0; margin-bottom:8px;">
+    C. Book Chapters
+  </p>
 
-<div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:8px;">
-  <ul style="list-style-type: none; padding-left: 0;">
-  <ol style="margin-top:6px; margin-bottom:0;">
-    <li>
+  <ul style="list-style-type:none; padding-left:8px; margin:0;">
+    <li style="margin-bottom:6px;">
       <b>Hang Shen</b>. 
-      <a href="https://www.google.com/url?q=https%3A%2F%2Flink.springer.com%2Freferenceworkentry%2F10.1007%2F978-3-319-32903-1_99-1" style="color:#000; text-decoration:none;">
+      <a href="https://link.springer.com/referenceworkentry/10.1007/978-3-319-32903-1_99-1" style="color:#000; text-decoration:none;">
       Urban Big Data</a>. 
       In: Xuemin (Sherman) Shen, Xiaodong Lin, Kuan Zhang (eds), 
-      <b><i>Encyclopedia of Wireless Networks</i></b>, Springer, Cham, 2019. 
+      <i>Encyclopedia of Wireless Networks</i>, Springer, Cham, 2019. 
       DOI: 10.1007/978-3-319-32903-1_312-1.
     </li>
+
     <li>
       <b>Hang Shen</b>. 
-      <a href="https://www.google.com/url?q=https%3A%2F%2Flink.springer.com%2Freferenceworkentry%2F10.1007%2F978-3-319-32903-1_312-1" style="color:#000; text-decoration:none;">
+      <a href="https://link.springer.com/referenceworkentry/10.1007/978-3-319-32903-1_312-1" style="color:#000; text-decoration:none;">
       Privacy Game</a>. 
       In: Xuemin (Sherman) Shen, Xiaodong Lin, Kuan Zhang (eds), 
-      <b><i>Encyclopedia of Wireless Networks</i></b>, Springer, Cham, 2019. 
+      <i>Encyclopedia of Wireless Networks</i>, Springer, Cham, 2019. 
       DOI: 10.1007/978-3-319-32903-1_99-1.
     </li>
-    </ol>
   </ul>
 </div>
+
 
 
 
