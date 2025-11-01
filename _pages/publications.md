@@ -127,16 +127,50 @@ redirect_from:
 </div>
 
 <!-- D. Wireless Algorithms -->
-<div style="background-color:#f9f9f9; border-radius:10px; padding:18px 22px; line-height:1.6; font-size:15px; margin-bottom:18px;">
-  <h3 style="color:#8B0000; margin-top:0;">D. Wireless Algorithms</h3>
+<div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.45; font-size:15px; margin-bottom:18px;">
+  <h3 style="color:#8B0000; margin-top:0; margin-bottom:6px;">D. Wireless Algorithms</h3>
   <ol style="margin-top:4px; padding-left:20px;">
     <li>
       Tianjing Wang, Yu Zhang, <b>Hang Shen*</b>, and Guangwei Bai. 
       <a href="https://ieeexplore.ieee.org/document/10550173" style="color:#000; text-decoration:none;">
       Task Partitioning and Scheduling Based on Stochastic Policy Gradient in Mobile Crowdsensing</a>, 
-      <i>IEEE Transactions on Computational Social Systems (TCSS)</i>, 2024, 11(5): 6580–6591. 
-      <b>(中科院二区)</b>  
+      <i>IEEE Transactions on Computational Social Systems (TCSS)</i>, 2024, 11(5), pp. 6580–6591. 
+      <b>(中科院二区)</b> 
       <a href="http://shen-hang.github.io/files/TCSS2024.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
+    </li>
+
+    <li>
+      <b>Hang Shen</b> and Guangwei Bai*. 
+      <a href="http://ieeexplore.ieee.org/abstract/document/8291004/" style="color:#000; text-decoration:none;">
+      QoS-Guaranteed Wireless Broadcast Scheduling with Network Coding and Rate Adaptation</a>, 
+      <i>IEEE Transactions on Vehicular Technology (TVT)</i>, 2018, 67(7), pp. 6492–6503. 
+      <b>(中科院二区Top)</b> 
+      <a href="http://shen-hang.github.io/files/TVT2018.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
+    </li>
+
+    <li>
+      Yiren Gu, <b>Hang Shen*</b>, Guangwei Bai, Tianjing Wang <i>et al.</i> 
+      <a href="https://link.springer.com/article/10.1007/s00530-019-00616-w" style="color:#000; text-decoration:none;">
+      QoI-Aware Incentive for Multimedia Crowdsensing Enabled Learning System</a>, 
+      <i>Multimedia Systems</i>, 2020, 26(1), pp. 3–16. 
+      <b>(CCF推荐国际期刊)</b>
+    </li>
+
+    <li>
+      <b>Hang Shen</b>, Guangwei Bai*, Junyuan Wang, and Lu Zhao. 
+      <a href="https://link.springer.com/article/10.1007/s11277-019-06289-y" style="color:#000; text-decoration:none;">
+      WGM: Wavelet-Based Gamma Model for Video Traffic in Wireless Multi-hop Networks</a>, 
+      <i>Wireless Personal Communications (WPC)</i>, 2019, 107(1), pp. 565–587. 
+      <b>(SCI)</b>
+    </li>
+
+    <li>
+      <b>Hang Shen</b> and Guangwei Bai*. 
+      <a href="https://www.sciencedirect.com/science/article/pii/S1084804516301102" style="color:#000; text-decoration:none;">
+      Routing in Wireless Multimedia Sensor Networks: A Survey and Challenges Ahead</a>, 
+      <i>Elsevier Journal of Network and Computer Applications (JNCA)</i>, 2016, 71, pp. 30–49. 
+      <b>(研究综述, CCF推荐国际期刊)</b> 
+      <a href="http://shen-hang.github.io/files/JNCA2016.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
   </ol>
 </div>
