@@ -40,9 +40,9 @@ redirect_from:
   殷珉, <b>沈航*</b>, 王天荆, 白光伟. 基于分层联邦学习的无人机小基站 RAN 切片方法, 
   <i>电子学报</i>, 2023, 51(7): 1774–1780. 
   <b>(CCF推荐A类中文期刊)</b> 
-  <span style="color:#B22222; font-weight:bold; background-color:#fff5f5; border-radius:4px; padding:1px 5px;">
-    把论文写在祖国的大地上
-  </span> 
+<span style="color:#2f4f4f; background-color:#eef3f8; border-radius:4px; padding:1px 6px; font-weight:500;">
+  把论文写在祖国的大地上
+</span>
   <a href="http://shen-hang.github.io/files/电子学报2023.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
 </li>
     <li>
@@ -105,7 +105,9 @@ redirect_from:
       面向社交网络跨语言虚假信息检测的 <b>LLM 增强自监督域自适应方法</b>, 
       <i>电子学报</i>, 2025, 录用待刊出. 
       <b>(CCF推荐A类中文期刊)</b> 
-      <span style="color:#8B0000; font-style:italic;">把论文写在祖国的大地上</span>
+<span style="color:#2f4f4f; background-color:#eef3f8; border-radius:4px; padding:1px 6px; font-weight:500;">
+  把论文写在祖国的大地上
+</span>
     </li>
 
     <li>
