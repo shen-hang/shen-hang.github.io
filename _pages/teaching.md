@@ -14,7 +14,7 @@ redirect_from:
   <span style="font-weight:normal; color:#666; font-size:13px;">— Undergraduate Course</span>
 </h3>
 <p style="margin:0 0 10px 0; color:#555; font-size:13px;">
-  开课学期：Spring 2016–2018, 2020–2025
+  Offered Semester：Spring 2016–2018, 2020–2025
 </p>
 
   <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.55; font-size:15px; box-shadow:0 1px 4px rgba(0,0,0,0.08); margin-bottom:16px;">
