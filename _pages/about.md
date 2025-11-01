@@ -8,39 +8,31 @@ redirect_from:
   - /about.html
 ---
 
-<div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6;">
-
-🎯 <span style="color:#8B0000;">诚邀热爱开发的本科同学参与「领域大模型」与「AI模型串/并行推理」落地项目：</span><br/>
+<div style="background-color:#f9f9f9; border-radius:10px; padding:14px 18px; line-height:1.65; font-size:15px;">
+🎯 <span style="color:#8B0000; font-weight:bold;">诚邀热爱开发的本科同学参与「领域大模型」与「AI模型串/并行推理」落地项目：</span><br/>
 <b>内部培养体系</b> —— 培养体系与主流 IT 企业和产业实践深度对接<br/>
 <b>项目津贴支持</b> —— 根据参与度发放补贴，认可你的努力与成果<br/>
 <b>积累真实经验</b> —— 深入 AI 应用场景，深入理解框架及开发技术<br/>
-<b>实践能力认证</b> —— 提供项目实践和实习证明，助力升学与求职<br/>
-
+<b>实践能力认证</b> —— 提供项目实践和实习证明，助力升学与求职
 </div>
 
-<div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; margin-top:6px;">
-
-🎓 <span style="color:#8B0000;">招收研究生与本科生，共同探索以下前沿方向，欢迎随时与我交流：</span><br/>
+<div style="background-color:#f9f9f9; border-radius:10px; padding:14px 18px; line-height:1.65; font-size:15px; margin-top:8px;">
+🎓 <span style="color:#8B0000; font-weight:bold;">招收研究生与本科生，共同探索以下前沿方向，欢迎随时与我交流：</span><br/>
 🚗 <b>车联网与车计算</b> —— 面向智能驾驶与 V2X 协同推理的架构和方法<br/>
 🚁 <b>无人机视觉计算</b> —— 空地协同、跨模态感知与动态神经网络技术<br/>
 🧠 <b>垂直领域大模型</b> —— 工业、安全及智能交通领域的大模型及应用<br/>
-🔐 <b>网络与信息安全</b> —— 加密流量检测、隐私保护与安全计算新方法<br/>
-
+🔐 <b>网络与信息安全</b> —— 加密流量检测、隐私保护与安全计算新方法
 </div>
 
-<div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; margin-top:6px;">
-
+<div style="background-color:#f9f9f9; border-radius:10px; padding:14px 18px; line-height:1.65; font-size:15px; margin-top:8px;">
 培养的研究生受聘于国内外顶尖 IT 科技企业，包括：<br/>
 <b>华为（南京、上海、深圳、武汉）｜中兴｜大疆｜展锐｜字节跳动｜海康威视｜大华｜百度｜H3C｜微软中国｜德州仪器｜爱立信｜诺基亚｜三星南京研究所</b><br/>
 以及知名科技金融机构，包括：<br/>
-<b>中行软开｜微众银行｜蚂蚁集团｜南京证券</b>等。<br/>
-
+<b>中行软开｜微众银行｜蚂蚁集团｜南京证券</b>等。
 </div>
 
-<div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; margin-top:6px;">
-
-🎓 <span style="color:#8B0000;">有志于继续深造的同学</span> 可推荐至国内外知名高校攻博士学位。
-
+<div style="background-color:#f9f9f9; border-radius:10px; padding:14px 18px; line-height:1.65; font-size:15px; margin-top:8px;">
+🎓 <span style="color:#8B0000; font-weight:bold;">有志于继续深造的同学</span> 可推荐至国内外知名高校攻博士学位。
 </div>
 
 
@@ -49,7 +41,7 @@ redirect_from:
 
 
 <h2 align="left">Recent Highlights</h2>
-<div style="background-color:#f9f9f9; border-radius:10px; padding:12px 18px; line-height:1.4; font-size:15px; margin-bottom:16px;">
+<div style="background-color:#f9f9f9; border-radius:10px; padding:12px 18px; line-height:1.4; font-size:15px; margin-bottom:24px;">
 <p>Oct. 2025: 我们 <b>智能无人机网络</b> 方向的论文 <i>"MobiFormer: Split-Federated Transfer Learning for Drone RAN Slicing with Multi-Head Attention"</i> 被计算机网络领域顶级期刊 <b><i>IEEE Transactions on Mobile Computing</i></b> (<b>CCF推荐A类国际期刊</b>) 录用为长文。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
 <p>Oct. 2025: 我们 <b>大模型与社交网络</b> 方向的论文 “面向社交网络跨语言虚假信息检测的 LLM 增强自监督域自适应方法” 被 <b><i>电子学报</i></b> (<b>CCF推荐A类中文期刊</b>) 刊用。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
@@ -154,7 +146,7 @@ redirect_from:
 </div>
 
 <h2 align="left">Biography</h2>
-<div style="background-color:#f9f9f9; border-radius:10px; padding:12px 18px; line-height:1.4; font-size:15px; margin-bottom:16px;">
+<div style="background-color:#f9f9f9; border-radius:10px; padding:12px 18px; line-height:1.4; font-size:15px;">
   <b>沈航</b>，入选“江苏省六大人才高峰”高层次人才计划、“南工英才”优秀青年科技创新人才计划。毕业于
   <a href="http://www.njust.edu.cn/" target="_blank" style="color:#0073aa; text-decoration:none;">南京理工大学</a>
   （优秀博士毕业生 / 优秀博士学位论文 / 博士生国家奖学金获得者），师从白光伟教授、唐振民教授。
@@ -180,7 +172,7 @@ redirect_from:
   以及中行软开、微众银行、蚂蚁集团、南京证券等知名科技金融机构，
   部分学生继续在知名高校攻读博士学位。
 </div>
-<hr style="border:none; border-top:1px solid #ddd; margin:16px 0;">
+<hr style="border:none; border-top:1px solid #ddd; margin:18px 0;">
 <div style="background-color:#f9f9f9; border-radius:10px; padding:18px 22px; line-height:1.6; font-size:15px; text-align:justify;">
 <b>Hang Shen</b> received the Ph.D. degree with honors in Computer Science from the 
   <a href="http://www.njust.edu.cn/" target="_blank" style="color:#0073aa; text-decoration:none;">Nanjing University of Science and Technology</a>. 
@@ -202,7 +194,7 @@ redirect_from:
 
 
 <h2 align="left">Contact Info</h2>
-<div style="background-color:#f9f9f9; border-radius:10px; padding:12px 18px; line-height:1.5; font-size:15px; margin-bottom:16px;">
+<div style="background-color:#f9f9f9; border-radius:10px; padding:12px 18px; line-height:1.5; font-size:15px; margin-bottom:24px;">
   Department of Computer Science and Technology, Nanjing Tech University<br/>
   Addr: 30 South Puzhu Road, 79 Box, Nanjing, China, 211816<br/>
   Email: <a href="mailto:hshen@njtech.edu.cn">hshen@njtech.edu.cn</a>, <a href="mailto:helloshenhang@gmail.com">helloshenhang@gmail.com</a>
