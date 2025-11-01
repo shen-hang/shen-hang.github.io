@@ -10,8 +10,6 @@ redirect_from:
 
 🎯 **<span style="color:#8B0000;">诚邀热爱开发的本科同学参与「领域大模型」与「AI模型串/并行推理」落地项目：</span>**  
 
----
-
 <div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.9;">
 
 <b>内部培养体系</b> —— 培养体系与主流 IT 企业和产业实践深度对接<br/>
@@ -20,8 +18,6 @@ redirect_from:
 <b>实践能力认证</b> —— 提供项目实践和实习证明，助力升学与求职<br/>
 
 </div>
-
----
 
 🎓 **<span style="color:#8B0000;">招收研究生与本科生，共同探索以下前沿方向，欢迎随时与我交流：</span>**  
 
@@ -34,8 +30,6 @@ redirect_from:
 
 </div>
 
----
-
 🌟 **<span style="color:#8B0000;">培养成果与去向</span>**  
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.8;">
@@ -46,8 +40,6 @@ redirect_from:
 <b>中行软开｜微众银行｜蚂蚁集团｜南京证券</b> 等。<br/>
 
 </div>
-
----
 
 🎓 **有志于继续深造的同学**，可推荐至国内外知名高校攻硕/博士学位。  
 
