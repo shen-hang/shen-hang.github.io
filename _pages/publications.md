@@ -95,13 +95,33 @@ redirect_from:
 </div>
 
 <!-- C. Large Language Models -->
-<div style="background-color:#f9f9f9; border-radius:10px; padding:18px 22px; line-height:1.6; font-size:15px; margin-bottom:18px;">
-  <h3 style="color:#8B0000; margin-top:0;">C. Large Language Models (大语言模型赋能互联网技术)</h3>
+<div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.45; font-size:15px; margin-bottom:18px;">
+  <h3 style="color:#8B0000; margin-top:0; margin-bottom:6px;">C. Large Language Models (大模型赋能互联网技术)</h3>
   <ol style="margin-top:4px; padding-left:20px;">
     <li>
-      <b>沈航*</b>, 王旭, 王天荆, 戴远飞, 白光伟. 面向社交网络跨语言虚假信息检测的 LLM 增强自监督域自适应方法, 
+      <b>沈航*</b>, 王旭, 王天荆, 戴远飞, 白光伟. 
+      面向社交网络跨语言虚假信息检测的 <b>LLM 增强自监督域自适应方法</b>, 
       <i>电子学报</i>, 2025, 录用待刊出. 
-      <b>(CCF推荐A类中文期刊)</b> <span style="color:#888;">把论文写在祖国的大地上</span>
+      <b>(CCF推荐A类中文期刊)</b> 
+      <span style="color:#8B0000; font-style:italic;">把论文写在祖国的大地上</span>
+    </li>
+
+    <li>
+      <b>Hang Shen</b>, Xiang Li, Xu Wang, Yuanfei Dai*, Tianjing Wang, and Guangwei Bai. 
+      <a href="https://ieeexplore.ieee.org/document/11170418" style="color:#000; text-decoration:none;">
+      LACL: LLM-Augmented Contrastive Learning for Misinformation Detection in Social Networks</a>, 
+      <i>IEEE Transactions on Computational Social Systems (TCSS)</i>, 2025, online available. 
+      <b>(CCF推荐国际期刊)</b> 
+      <a href="http://shen-hang.github.io/files/TCSS2025.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
+    </li>
+
+    <li>
+      Fang Li, <b>Hang Shen*</b>, Jieai Mai, Tianjing Wang, Yuanfei Dai, and Xiaodong Miao. 
+      <a href="https://link.springer.com/article/10.1007/s12083-023-01595-6" style="color:#000; text-decoration:none;">
+      Pre-trained Language Model-Enhanced Conditional Generative Adversarial Networks for Intrusion Detection</a>, 
+      <i>Peer-to-Peer Networking and Applications (PPNA)</i>, 2024, vol. 17, pp. 227–245. 
+      <b>(CCF推荐国际期刊)</b> 
+      <a href="http://shen-hang.github.io/files/PPNA2024.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
   </ol>
 </div>
