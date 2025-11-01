@@ -116,15 +116,30 @@ redirect_from:
 | 前沿技术&观点 | [无源感知网络](https://dl.ccf.org.cn/article/articleDetail.html?type=xhtx_thesis&_ack=1&id=3738875752663040),  [物联网的连接引擎：无源感知网络](https://dl.ccf.org.cn/article/articleDetail.html?type=xhtx_thesis&_ack=1&id=3744263179765760), [无源物联网的求索--后向散射通信系统](https://dl.ccf.org.cn/article/articleDetail.html?type=xhtx_thesis&_ack=1&id=4494308210345984), [群智融合计算](https://dl.ccf.org.cn/article/articleDetail.html?type=xhtx_thesis&_ack=1&id=4150934277408768), [感知-协同融合计算：群智能体决策与控制](https://dl.ccf.org.cn/article/articleDetail.html?type=xhtx_thesis&_ack=1&id=5569607915030528), [C-V2X车联网](https://baijiahao.baidu.com/s?id=1687496871370500729&wfr=spider&for=pc), [智能交通系统中的安全与隐私保护](https://dl.ccf.org.cn/article/articleDetail.html?type=xhtx_thesis&_ack=1&id=3933861195778048), [工业互联网：新兴技术展望](https://dl.ccf.org.cn/article/articleDetail.html?type=xhtx_thesis&_ack=1&id=5569209647122432), [边缘计算](https://dl.ccf.org.cn/article/articleDetail.html?type=xhtx_thesis&_ack=1&id=4756247983065088), [边缘计算的可靠性](https://dl.ccf.org.cn/article/articleDetail.html?type=xhtx_thesis&_ack=1&id=5055149814499328), [物联网时代的搜索引擎演进思考](https://dl.ccf.org.cn/article/articleDetail.html?type=xhtx_thesis&_ack=1&id=5318964192446464), [万物皆变，网络安全进入大安全时代](https://dl.ccf.org.cn/article/articleDetail.html?type=xhtx_thesis&_ack=1&id=3744263253297152), [工业互联网与新工业革命](https://dl.ccf.org.cn/article/articleDetail.html?type=xhtx_thesis&_ack=1&id=5568265264236544), [工业4.0：一次新的工业革命？](https://dl.ccf.org.cn/article/articleDetail.html?type=xhtx_thesis&_ack=1&id=3744263017859072), [软件定义时代的基础软件](https://dl.ccf.org.cn/article/articleDetail.html?type=xhtx_thesis&_ack=1&id=5228453505681408), [软件定义的云际存储](https://dl.ccf.org.cn/article/articleDetail.html?type=xhtx_thesis&_ack=1&id=3744262970787840) |
 | 研究报告 | 请用指定[模板(修改自计算机学报)(r31d)](https://pan.baidu.com/s/1a9DSHIBwy324lbjiANqDRw), 长度不少于6页。<br/>[参考综述文献(7bri)](https://pan.baidu.com/s/1ey_eY8KiY0EkR1BXh8I3bg), [文献查阅](https://shen-hang.github.io//links/)。<br/>范围包括但不限于此：<br/>1. AI for Networks or Networks for AI<br/>2. 网络体系架构和协议<br/>3. 多媒体网络和服务质量<br/>4. 网络安全与隐私计算<br/>5. 无线网络与移动计算<br/>6. 云计算、边缘计算和分散计算<br/>7. 定位和基于位置的服务<br/>8. 移动群智感知、参与式感知、众包<br/>9. Software-Defined Networking and Network Functions Virtualization<br/>10. 未来网络和新兴网络技术|
 
----
-**计算机专业写作**  - 本科生课程 - Spring 2023
+
+<hr style="border: 0; border-top: 2px solid #1E90FF; margin: 24px 0 16px 0; opacity: 0.6;">
+
+<h3 style="font-size:17px; color:#2c3e50; margin-bottom:6px; margin-top:18px;">
+  计算机专业写作
+  <span style="font-weight:normal; color:#666; font-size:13px;">— Undergraduate Course</span>
+</h3>
+<p style="margin:0 0 10px 0; color:#555; font-size:13px;">
+  Offered Semester：Spring 2023
+</p>
 
 | Item      | Description                                                  |
 | --------- | ------------------------------------------------------------ |
 | 大作业要求 | 用Latex或overleaf([模板下载(zxwj)](https://pan.baidu.com/s/144VbIAGMZ3qCV-a3qxmstQ))写一篇短文(不少于2000字)，覆盖如下内容：<br/>1. 课题价值和意义<br/>2. 当前研究进展（做了什么、怎么做的）<br/>3. 当前方法存在的主要问题<br/>4. 你的问题解决方案或思路<br/>5. 所提方案的优越性 <br/>**文章要有题目、摘要和结论！**|
 
----
-**Linux编程 (Linux Programming)** - Undergraduate course - Spring 2015-2017
+<hr style="border: 0; border-top: 2px solid #1E90FF; margin: 24px 0 16px 0; opacity: 0.6;">
+
+<h3 style="font-size:17px; color:#2c3e50; margin-bottom:6px; margin-top:18px;">
+  Linux编程（Linux Programming）
+  <span style="font-weight:normal; color:#666; font-size:13px;">— Undergraduate course</span>
+</h3>
+<p style="margin:0 0 10px 0; color:#555; font-size:13px;">
+  Offered Semester：Spring 2015-2017
+</p>
 
 | Item                  | Links & Description                                          |
 | --------------------- | ------------------------------------------------------------ |
@@ -135,8 +150,15 @@ redirect_from:
 | POIX Thread           | Preliminary: [Threads Programming](https://computing.llnl.gov/tutorials/pthreads/), [Pthreads Tutorial](http://randu.org/tutorials/threads/), [GNU Portable Threads](http://www.gnu.org/software/pth/pth-manual.html)<br/>POSIX: [创建多线程](https://www.ibm.com/developerworks/cn/linux/thread/posix_thread1/), [互斥](https://www.ibm.com/developerworks/cn/linux/thread/posix_thread2/), [条件变量](https://www.ibm.com/developerworks/cn/linux/thread/posix_thread3/), [线程池](http://blog.csdn.net/hinyunsin/article/details/6650879/)<br/>Timer: [实现方式](https://www.ibm.com/developerworks/cn/linux/l-cn-timers/), [时钟管理](https://www.ibm.com/developerworks/cn/linux/l-cn-timerm/), [应用层编程](https://www.ibm.com/developerworks/cn/linux/1307_liuming_linuxtime1/), [硬件和GLibC库的细节](https://www.ibm.com/developerworks/cn/linux/1307_liuming_linuxtime2/), [内核工作1](https://www.ibm.com/developerworks/cn/linux/1308_liuming_linuxtime3/), [内核工作2](https://www.ibm.com/developerworks/cn/linux/1308_liuming_linuxtime4/) |
 | Editor                | VIM: [实用技巧](https://www.ibm.com/developerworks/cn/linux/l-tip-vim1/), [常用插件](https://www.ibm.com/developerworks/cn/linux/l-tip-vim2/), [定制VIM](https://www.ibm.com/developerworks/cn/linux/l-tip-vim3/), [Vimdiff使用](https://www.ibm.com/developerworks/cn/linux/l-vimdiff/), [SpaceVim](http://spacevim.org/)<br/>Emacs: [Emacs Chat](https://plus.google.com/communities/114815898697665598016), [Planet Emacsen](http://planet.emacsen.org/), [EmacsWiki](http://planet.emacsen.org/), [Emacs论坛](https://plus.google.com/communities/114815898697665598016)<br/>Flowchart: [Drakon](http://drakon-editor.sourceforge.net/), [FSME](https://sourceforge.net/projects/fsme/) |
 
----
-**高级计算机网络 (Advanced Computer Networks)**  - Graduate course - Spring 2023-2025
+<hr style="border: 0; border-top: 2px solid #1E90FF; margin: 24px 0 16px 0; opacity: 0.6;">
+
+<h3 style="font-size:17px; color:#2c3e50; margin-bottom:6px; margin-top:18px;">
+  高级计算机网络（Advanced Computer Networks）
+  <span style="font-weight:normal; color:#666; font-size:13px;">— Graduate course</span>
+</h3>
+<p style="margin:0 0 10px 0; color:#555; font-size:13px;">
+  Offered Semester：Spring 2023-2025
+</p>
 
 | Item      | Description                                                  |
 | --------- | ------------------------------------------------------------ |
@@ -145,8 +167,15 @@ redirect_from:
 | Basic Courseware| [CH1_Architecture-I](http://shen-hang.github.io/files/CH1_Architecture-I.pdf), [CH1_Architecture-II](http://shen-hang.github.io/files/CH1_Architecture-II.pdf), [CH3_Architecture-III](http://shen-hang.github.io/files/CH1_Architecture-III.pdf)  |
 | 研究报告撰写要求 | **A. 请用Latex(overleaf)编排([模板下载(5m56)](https://pan.baidu.com/s/10QYw21qaXrpT6-XOWA6gHA))**<br/>**B. 范围包括但不限于此：**<br/>1. AI for Networks or Networks for AI<br/>2. 网络体系架构和协议<br/>3. 多媒体网络和服务质量<br/>4. 网络安全与隐私计算<br/>5. 无线网络与移动计算<br/>6. 云计算、边缘计算和分散计算<br/>7. 定位和基于位置的服务<br/>8. 数据采集和感知<br/>9. Software-Defined Networking and Network Functions Virtualization<br/>10. 未来网络和新兴网络技术<br/>**C. 内容划分可参考如下模式：**<br/>1. 研究背景和意义<br/>2. 当前研究进展<br/>3. 当前方法存在的主要问题<br/>4. 你的思考及解决方案<br/>5. 你所考虑方案的优越性 <br/>**注：研究报告要有题目、摘要和结论，内容要划分，长度不少于6页！**|
 
----
-**移动互联网 (Mobile Internet)** - Undergraduate course - Fall 2019
+<hr style="border: 0; border-top: 2px solid #1E90FF; margin: 24px 0 16px 0; opacity: 0.6;">
+
+<h3 style="font-size:17px; color:#2c3e50; margin-bottom:6px; margin-top:18px;">
+  移动互联网（Mobile Internet）
+  <span style="font-weight:normal; color:#666; font-size:13px;">— Undergraduate course</span>
+</h3>
+<p style="margin:0 0 10px 0; color:#555; font-size:13px;">
+  Offered Semester：Fall 2019
+</p>
 
 | Item          | Links & Description                                          |
 | ------------- | ------------------------------------------------------------ |
@@ -157,8 +186,14 @@ redirect_from:
 | 作业&文献阅读 | [模板下载](http://cjc.ict.ac.cn/wltg/new/submit/CJC-Templet_Word2003.doc), [参考文献(sa7u)](https://pan.baidu.com/s/1o6WFIN45XVade5eRZkZMMQ) |
 
 
----
-**无线网络与移动计算 (Wireless Networks & Mobile Computing)**  - Graduate course - Spring 2016, Fall 2017
+<hr style="border: 0; border-top: 2px solid #1E90FF; margin: 24px 0 16px 0; opacity: 0.6;">
+<h3 style="font-size:17px; color:#2c3e50; margin-bottom:6px; margin-top:18px;">
+  无线网络与移动计算（Wireless Networks & Mobile Computing）
+  <span style="font-weight:normal; color:#666; font-size:13px;">— Graduate course</span>
+</h3>
+<p style="margin:0 0 10px 0; color:#555; font-size:13px;">
+  Offered Semester：Spring 2016, Fall 2017
+</p>
 
 | Item      | Description                                                  |
 | --------- | ------------------------------------------------------------ |
