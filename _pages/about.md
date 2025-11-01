@@ -39,7 +39,7 @@ redirect_from:
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; margin-top:6px;">
 
-🎓 <span style="color:#8B0000;">**有志于继续深造的同学**</span> 可推荐至国内外知名高校攻硕/博士学位。
+🎓 <span style="color:#8B0000;">有志于继续深造的同学</span> 可推荐至国内外知名高校攻硕/博士学位。
 
 </div>
 
