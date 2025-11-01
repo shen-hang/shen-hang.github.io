@@ -20,7 +20,10 @@ redirect_from:
   </ul>
 </div>
 
-# Research Interests
+
+<h2 style="font-size:20px; color:#2c3e50; border-left:4px solid #1E90FF; padding-left:10px; margin-bottom:10px; margin-top:20px;">
+  Research Interests
+</h2>
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 18px; line-height:1.6; font-size:15px; margin-bottom:8px;">
   <ul style="margin:0; padding-left:20px;">
@@ -31,7 +34,10 @@ redirect_from:
   </ul>
 </div>
 
-# Professional Activities
+
+<h2 style="font-size:20px; color:#2c3e50; border-left:4px solid #1E90FF; padding-left:10px; margin-bottom:10px; margin-top:20px;">
+  Professional Activities
+</h2>
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:16px;">
   <b>Editor for Journals</b><br/>
@@ -116,7 +122,11 @@ redirect_from:
   - CCF物联网专委会委员
 </div>
 
-# Publications
+
+
+<h2 style="font-size:20px; color:#2c3e50; border-left:4px solid #1E90FF; padding-left:10px; margin-bottom:10px; margin-top:20px;">
+  Publications
+</h2>
 
 **A. Journal articles (\* indicates the correspondence author)**
 
@@ -396,7 +406,11 @@ redirect_from:
   </ul>
 </div>
 
-# Research Projects
+
+
+<h2 style="font-size:20px; color:#2c3e50; border-left:4px solid #1E90FF; padding-left:10px; margin-bottom:10px; margin-top:20px;">
+  Research Projects
+</h2>
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:8px;">
   <ul style="list-style-type: none; padding-left: 0;">
@@ -428,7 +442,11 @@ redirect_from:
   </ul>
 </div>
 
-# Teaching
+
+<h2 style="font-size:20px; color:#2c3e50; border-left:4px solid #1E90FF; padding-left:10px; margin-bottom:10px; margin-top:20px;">
+  Teaching
+</h2>
+
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:8px;">
   <b>Undergraduate Course:</b><br/>
