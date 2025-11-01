@@ -8,11 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div align="center">
-
-🎯 **<span style="color:#8B0000; font-size:22px;">诚邀热爱开发的本科同学参与「领域大模型」与「AI模型串/并行推理」落地项目：</span>**
-
-</div>
+🎯 **<span style="color:#8B0000; font-size:22px;">诚邀热爱开发的本科同学参与「领域大模型」与「AI模型串/并行推理」落地项目：</span>**  
 
 ---
 
