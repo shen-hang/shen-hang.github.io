@@ -7,7 +7,10 @@ redirect_from:
   - /research.html
 ---
 
-# Research Projects
+
+<h2 style="font-size:20px; color:#2c3e50; border-left:4px solid #1E90FF; padding-left:10px; margin-bottom:10px; margin-top:20px;">
+  Research Projects
+</h2>
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:8px;">
   <ul style="list-style-type: none; padding-left: 0;">
@@ -39,7 +42,11 @@ redirect_from:
   </ul>
 </div>
 
-# Professional Activities
+
+
+<h2 style="font-size:20px; color:#2c3e50; border-left:4px solid #1E90FF; padding-left:10px; margin-bottom:10px; margin-top:20px;">
+  Professional Activities
+</h2>
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:16px;">
   <b>Editor for Journals</b><br/>
@@ -125,84 +132,6 @@ redirect_from:
 - CCF物联网专委会委员
 </div>
 
-
-
-
-# Academic Activities
-
-- Associate Editor, Frontiers in Blockchain (2024-present)
-- Associate Editor, Journal of Information Processing Systems (JIPS) (2024-present)
-- Associate Editor, IEEE Access (2020-present)
-- Academic Editor, Mathematical Problems in Engineering (MPE) (2020-2024)
-- Guest Editor, Special Issue “Fog/Edge Networking for Multimedia Applications” in Peer-to-Peer Networking and Applications (2018-2019)
-- Technical Committee Member
-
-  - IEEE International Conference on High Performance Computing and Communications (HPCC) (2024, 2025)
-  - International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP) (2025)
-  - Annual International Conference on Privacy, Security and Trust (PST) (2021)
-  - International Conference on Artificial Intelligence Computing and Systems (AICompS) (2024, 2025)
-  - CCF Network and Data Communications (TCCOMM) (2015-present)
-  - International Conference on Advanced Cloud and Big Data (CBD) (2015-2021)
-  - 2021 International Conference on Pattern Recognition and Artificial Intelligence
-  - Conference on Network and Data Communications in China (NDCC) (2016, 2018)
-- Reviewer for Journals
-  - IEEE/ACM Transactions on Networking (TON)
-  - IEEE Transactions on Mobile Computing (TMC)
-  - IEEE Transactions on Dependable and Secure Computing (TDSC)
-  - IEEE Transactions on Services Computing (TSC)
-  - IEEE Transactions on Information Forensics and Security (TIFS)
-  - IEEE Transactions on Wireless Communications (TWC)
-  - IEEE Transactions on Communications (TCOM)
-  - IEEE Transactions on Intelligent Transportation Systems (TITS)
-  - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
-  - IEEE Transactions on Vehicular Technology (TVT)
-  - IEEE Transactions on Network and Service Management (TNSM)
-  - IEEE Transactions on Neural Networks and Learning Systems (TNNLS) 
-  - IEEE Transactions on Computational Social Systems (TCSS)
-  - IEEE Transactions on Cognitive Communications and Networking (TCCN) 
-  - IEEE Transactions on Consumer Electronics (TCE) 
-  - IEEE Transactions on Aerospace and Electronic Systems (TAES)
-  - IEEE Transactions on Sustainable Computing (TSUSC)
-  - IEEE Internet of Things Journal
-  - IEEE Network Magazine
-  - IEEE Systems Journal
-  - IEEE Sensors Journal
-  - IEEE Communications Letters
-  - Wireless Networks (WINE)
-  - Concurrency and Computation: Practice and Experience (CCPE)
-  - Peer-to-Peer Networking and Applications (PPNA)
-  - Cluster Computing
-  - Knowledge-Based Systems (KBS)
-  - Telecommunication Systems
-  - Big Data Mining and Analytics (BDMA)
-  - Robotics and Autonomous Systems (RAS)
-  - Elsevier Measurement
-  - Multimedia Tools and Applications (MTAP)
-  - Journal of Communications and Information Networks (JCIN)
-  - International Journal of Data Science and Analytics
-  - ETRI Journal
-  - Applied Computational Intelligence and Soft Computing
-  - Acta Electronica Sinica (电子学报)
-  - Journal on Communications (通信学报)
-  - Chinese Journal on Internet of Things (物联网学报)
-  - Chinese Jouurnal of Network and Information Security (网络与信息安全学报)
-- Reviewer for International Conferences
-  - IEEE International Conference on Parallel and Distributed Systems (ICPADS)
-  - IEEE International Conference on Communications (ICC)
-  - IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA)
-  - IEEE Conference on Vehicular Technology (VTC)
-  - IEEE INFOCOM WKSHPS
-- Member, Institute of Electrical and Electronics Engineers (IEEE) (2018-present)
-- Member, IEEE Computer Society (2023-present)
-- Member, IEEE Communications Society (ComSoc) (2020-present)
-- Member, IEEE Vehicular Technology Society (VTS) (2020-present)
-- Member, Association for Computing Machinery (ACM) (2015-present)
-- Executive Committee Member, ACM Nanjing Chapter (2014-present)
-- Member, China Computer Federation (CCF) (2011-2020)
-- Senior Member, CCF (2020-2022)
-- Member, Chinese Association for Artificial Intelligence (CAAI) (2022-present)
-- CCF网络与数据通信专委会委员
-- CCF物联网专委会委员
 
 
 ![Visitor Count](https://profile-counter.glitch.me/shen-hang/count.svg)
