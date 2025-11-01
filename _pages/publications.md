@@ -11,7 +11,7 @@ redirect_from:
 <!-- A. Vehicular Networks -->
 <div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.45; font-size:15px; margin-bottom:8px;">
   <h3 style="color:#8B0000; margin-top:0; margin-bottom:6px;">A. Vehicular Networks (Space-Air-Ground Integrated Networks)</h3>
-  <ol style="margin-top:4px; padding-left:20px;">
+  <ol style="margin-top:6px; margin-bottom:0;">
     <li>
       <b>Hang Shen*</b>, Yanke Yao, Tianjing Wang, and Guangwei Bai. 
       <i>MobiFormer: Split-Federated Transfer Learning for Drone RAN Slicing with Multi-Head Attention</i>, 
@@ -67,7 +67,7 @@ redirect_from:
 <!-- B. Drone/Car Vision Computing -->
 <div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.45; font-size:15px; margin-bottom:8px;">
   <h3 style="color:#8B0000; margin-top:0; margin-bottom:6px;">B. Drone/Car Vision Computing (网联无人机/汽车视觉计算)</h3>
-  <ol style="margin-top:4px; padding-left:20px;">
+  <ol style="margin-top:6px; margin-bottom:0;">
     <li>
       <b>Hang Shen*</b>, Qi Liu, Yuanyi Wang, Tianjing Wang, and Guangwei Bai. 
       <a href="https://ieeexplore.ieee.org/document/10927614" style="color:#000; text-decoration:none;">
@@ -102,7 +102,7 @@ redirect_from:
 <!-- C. Large Language Models -->
 <div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.45; font-size:15px; margin-bottom:8px;">
   <h3 style="color:#8B0000; margin-top:0; margin-bottom:6px;">C. Large Language Models (大模型赋能互联网技术)</h3>
-  <ol style="margin-top:4px; padding-left:20px;">
+  <ol style="margin-top:6px; margin-bottom:0;">
     <li>
       <b>沈航*</b>, 王旭, 王天荆, 戴远飞, 白光伟. 
       面向社交网络跨语言虚假信息检测的 <b>LLM 增强自监督域自适应方法</b>, 
@@ -136,7 +136,7 @@ redirect_from:
 <!-- D. Wireless Algorithms -->
 <div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.45; font-size:15px; margin-bottom:8px;">
   <h3 style="color:#8B0000; margin-top:0; margin-bottom:6px;">D. Wireless Algorithms</h3>
-  <ol style="margin-top:4px; padding-left:20px;">
+  <ol style="margin-top:6px; margin-bottom:0;">
     <li>
       Tianjing Wang, Yu Zhang, <b>Hang Shen*</b>, and Guangwei Bai. 
       <a href="https://ieeexplore.ieee.org/document/10550173" style="color:#000; text-decoration:none;">
@@ -186,7 +186,7 @@ redirect_from:
 <!-- E. Security & Privacy -->
 <div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.45; font-size:15px; margin-bottom:8px;">
   <h3 style="color:#8B0000; margin-top:0; margin-bottom:6px;">E. Security & Privacy</h3>
-  <ol style="margin-top:4px; padding-left:20px;">
+  <ol style="margin-top:6px; margin-bottom:0;">
     <li>
       <b>Hang Shen</b>, Xiang Li, Yan Wang, Tianjing Wang* and Guangwei Bai. 
       <a href="https://link.springer.com/article/10.1007/s12083-025-01939-4" style="color:#000; text-decoration:none;">
@@ -236,7 +236,7 @@ redirect_from:
 <!-- F. Blockchain -->
 <div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.45; font-size:15px; margin-bottom:8px;">
   <h3 style="color:#8B0000; margin-top:0; margin-bottom:6px;">F. Blockchain</h3>
-  <ol style="margin-top:4px; padding-left:20px;">
+  <ol style="margin-top:6px; margin-bottom:0;">
     <li>
       <b>Hang Shen</b>, Yanjing Zhou, Tianjing Wang* et al. 
       <a href="https://ieeexplore.ieee.org/document/11134474" style="color:#000; text-decoration:none;">
