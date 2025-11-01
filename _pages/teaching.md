@@ -60,39 +60,54 @@ redirect_from:
 | Transport Layer     | [传输层vs网络层](https://www.csdn.net/tags/MtjaAg3sMjkwMTQtYmxvZwO0O0OO0O0O.html)*,* [Socket通信原理](https://blog.csdn.net/qq_44882508/article/details/123106232)*,* [Socket Programming in C/C++](https://www.geeksforgeeks.org/socket-programming-cc/)*,*[TCP为什么要3次握手](https://blog.csdn.net/lengxiao1993/article/details/82771768)*,* [可靠的通信协议如何构建](https://juejin.cn/post/6844903681725300743)*,* [面向连接VS无连接](http://blog.csdn.net/goodboy1881/article/details/755248), [流量控制vs拥塞控制](https://www.zhihu.com/question/38749788)*,* [UDP协议](http://blog.csdn.net/goodboy1881/article/details/713856), [广播/多播/IGMP协议](http://blog.csdn.net/goodboy1881/article/details/726860), [TCP协议概述](http://blog.csdn.net/goodboy1881/article/details/741087), [TCP控制位](https://www.cnblogs.com/bonelee/p/9077266.html),  [TCP交互数据流/成块数据流](http://blog.csdn.net/goodboy1881/article/details/745606), [TCP超时与重传](http://blog.csdn.net/goodboy1881/article/details/755248), [TCP坚持/保活定时器](http://blog.csdn.net/goodboy1881/article/details/758034)*,* [TCP快速重传为什么是三次冗余ACK](https://www.zhihu.com/question/21789252), [TCP连接建立为什么是三次握手，而不是两次或四次?](https://www.zhihu.com/question/24853633), [TCP连接释放为什么是四次挥手，而不是三次？](https://www.zhihu.com/question/63264012), [Tcpdump Examples](https://linoxide.com/14-tcpdump-commands-capture-network-traffic-linux/) |
 | Appliaction Layer   | [DNS](https://blog.csdn.net/struggle_w/article/details/123493782), [邮件系统](https://zhuanlan.zhihu.com/p/584356072), [FTP和TFTP](https://zhuanlan.zhihu.com/p/106279413), [HTTP](https://www.cnblogs.com/an-wen/p/11180076.html), [持续性与非持续性HTTP](https://www.cnblogs.com/an-wen/p/11180076.html) |
 
----
-计算机网络实验中需要考虑的问题：
-<details>
-<summary>A. 链路层实验（2课时，验证型）</summary>
-1、广播帧(broadcast frame)和单播帧(unicast frame)的区别是什么？<br/>
-2、从实验中任选一个广播帧，一个单播帧，分析这两个帧帧头中每个字段的含义，并比较它们的区别。<br/>
-3、什么是以太网的帧类型(Ethernet Type)? 它的重要性是什么? 
-</details>
-<details>
-<summary>B. 网络层实验（2课时，综合型）</summary>
-1、 针对实验2.1，试着将ITS 1的interface 1的子网掩码(subnet mask)数值改为 “255.255.255.255”或“255.255.0.0”。这样一来，ITS 1是不是还可以在这个网络拓扑中传递IP数据报？<br/>
-2、针对实验2.2，在路由规则中，Destination(目的网络)字段与 Mask(掩码)字段如果都设为“0.0.0.0”的话，代表什么意义？<br/>
-3、如果一个ISP(Internet Services Provider)要给数十万的网络使用者提供服务，静态路由(static routing)的方式是否可以满足需求？是否有其它的不同类型的路由方式？<br/>
-4、在实验2.1和2.2中，两种不同的拓扑结构，路由表有什么不同？<br/>
-5、在IP数据报发送的过程中，观察并比较每台主机和路由器收到的同一个IP数据报中TTL的变化？这种变化代表了什么含义？<br/>
-6、在IP数据报发送的过程中，观察每台主机和路由器收到的同一个IP数据报的帧结构，比较每段链路上帧头的变化和区别，并解释原因。<br/>
-7、针对实验2.3，ITS的网络路由表是否有错，又或者有缺陷？ 如何解决步骤7与8中，IP数据报会陷入无穷循环的问题？<br/>
-8、针对实验2.2，重新连接网络，使得中间任意两台机器作为主机，其他四台机器作为路由器，随机分配IP地址，重新配置路由表，完成实验2.2。<br/>
-9、发送一个长度小于46字节的IP数据报，观察接收方数据链路层接收数据的情况，并解释该现象。
-</details>
-<details>
-<summary>C. 运输层实验（2课时，综合型）</summary>
-1、针对实验3.3，如果在ITS 1尚未处于监听状态的情形下，我们就从ITS 2要连接到ITS 1，会发生什么状况？<br/>
-2、找出TCP连接建立的三个报文，说明理由。<br/>
-3、观察发送窗口和接收窗口的变化。<br/>
-4、根据数据发送和接收的过程，理解TCP报文段首部序号和确认号的作用。<br/>
-5、观察TCP连接释放的过程。TCP连接半关闭状态下是否可以发送和接收数据？
-</details>
-<details>
-<summary>D. 应用层实验（2课时，验证型）</summary>
-1、针对实验4.1，当ITS与指定服务器建立TCP连接后，在编辑框输入的命令不正确时，网站将如何回复？<br/>
-2、如果编辑框内输入GET命令，并且能正确收到服务器返回的页面，请从“Network Message Browser”窗口中，分析与GET命令和收到的页面相对应数据的链路层、网络层和运输层封装情况。<br/>
-</details>
+<h3 style="font-size:17px; color:#2c3e50; margin-bottom:8px; margin-top:20px;">
+  计算机网络实验中需要考虑的问题
+</h3>
+
+<div style="background-color:#f9f9f9; border-radius:10px; padding:14px 18px; line-height:1.7; font-size:15px; box-shadow:0 1px 5px rgba(0,0,0,0.06);">
+  <details style="margin-bottom:10px;">
+    <summary style="font-weight:bold; color:#1E90FF; cursor:pointer;">A. 链路层实验（2课时，验证型）</summary>
+    <ol style="margin-top:6px; margin-left:22px;">
+      <li>广播帧（broadcast frame）和单播帧（unicast frame）的区别是什么？</li>
+      <li>从实验中任选一个广播帧、一个单播帧，分析这两个帧帧头中每个字段的含义，并比较它们的区别。</li>
+      <li>什么是以太网的帧类型（Ethernet Type）？它的重要性是什么？</li>
+    </ol>
+  </details>
+
+  <details style="margin-bottom:10px;">
+    <summary style="font-weight:bold; color:#1E90FF; cursor:pointer;">B. 网络层实验（2课时，综合型）</summary>
+    <ol style="margin-top:6px; margin-left:22px;">
+      <li>针对实验2.1，试着将ITS 1的interface 1的子网掩码（subnet mask）改为“255.255.255.255”或“255.255.0.0”。这样一来，ITS 1是否还能在该网络拓扑中传递IP数据报？</li>
+      <li>针对实验2.2，在路由规则中，如果Destination（目的网络）和Mask（掩码）字段都设为“0.0.0.0”，代表什么意思？</li>
+      <li>如果一个ISP（Internet Service Provider）要为数十万用户提供服务，静态路由（static routing）方式能否满足需求？是否存在其他类型的路由方式？</li>
+      <li>在实验2.1和2.2中，不同的拓扑结构下，路由表有何不同？</li>
+      <li>在IP数据报发送过程中，观察并比较每台主机和路由器收到的同一个IP数据报中TTL的变化。这种变化代表什么？</li>
+      <li>在IP数据报发送过程中，观察每台主机和路由器收到的同一个IP数据报的帧结构，比较每段链路上帧头的变化和区别，并解释原因。</li>
+      <li>针对实验2.3，ITS的网络路由表是否有错误或缺陷？如何解决步骤7与8中IP数据报陷入无限循环的问题？</li>
+      <li>针对实验2.2，重新连接网络，使任意两台机器作为主机，其余四台作为路由器，随机分配IP地址并重新配置路由表，完成实验。</li>
+      <li>发送一个长度小于46字节的IP数据报，观察接收方数据链路层的接收情况，并解释该现象。</li>
+    </ol>
+  </details>
+
+  <details style="margin-bottom:10px;">
+    <summary style="font-weight:bold; color:#1E90FF; cursor:pointer;">C. 运输层实验（2课时，综合型）</summary>
+    <ol style="margin-top:6px; margin-left:22px;">
+      <li>针对实验3.3，如果在ITS 1尚未处于监听状态时从ITS 2连接到ITS 1，会发生什么？</li>
+      <li>找出TCP连接建立的三个报文，并说明理由。</li>
+      <li>观察发送窗口和接收窗口的变化。</li>
+      <li>根据数据发送和接收过程，理解TCP报文段首部序号和确认号的作用。</li>
+      <li>观察TCP连接释放过程。TCP连接半关闭状态下是否可以继续发送或接收数据？</li>
+    </ol>
+  </details>
+
+  <details>
+    <summary style="font-weight:bold; color:#1E90FF; cursor:pointer;">D. 应用层实验（2课时，验证型）</summary>
+    <ol style="margin-top:6px; margin-left:22px;">
+      <li>针对实验4.1，当ITS与指定服务器建立TCP连接后，在编辑框输入的命令不正确时，网站会如何回复？</li>
+      <li>如果输入GET命令并成功收到服务器返回的页面，请在“Network Message Browser”窗口中，分析与GET命令及返回页面对应数据的链路层、网络层和运输层封装情况。</li>
+    </ol>
+  </details>
+</div>
 
 
 <hr style="border: 0; border-top: 2px solid #1E90FF; margin: 24px 0 16px 0; opacity: 0.6;">
