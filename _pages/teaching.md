@@ -29,7 +29,6 @@ redirect_from:
   <p style="margin:0;">
     The <b>final exam</b> is a 120-minute <b>closed-book test（闭卷考试）</b> conducted entirely in English（全英文试卷）.
   </p>
-</div>
 
   <p style="margin:10px 0 6px 0;"><b>Assignment Guidelines（作业规范）</b></p>
   <ol style="margin:0; padding-left:18px;">
