@@ -11,10 +11,10 @@ redirect_from:
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:16px;">
   <ul style="list-style-type: none; padding-left: 0;">
-    <li><b>Associate Professor</b>, Department of Computer Science & Technology, Nanjing Tech University, Nanjing, China (Jan 2019 -- Present)</li>
-    <li><b>Full-Time Postdoctoral Fellow</b>, Broadband Communications Research (BBCR) Lab, Department of Electrical & Computer Engineering, University of Waterloo, Waterloo, ON, Canada, Supervisor: Prof. Weihua Zhuang (IEEE Fellow) (Aug 2018 -- Aug 2019)</li>
-    <li><b>Assistant Professor</b>, Department of Computer Science & Technology, Nanjing Tech University, Nanjing, China (May 2015 -- Jan 2019)</li>
-    <li><b>PhD (with honors)</b> in Computer Science, Nanjing University of Science & Technology, Nanjing, China, Supervisor: Prof. Guangwei Bai and Prof. Zhenmin Tang (Sep 2010 -- Jan 2015)</li>
+    <li><b>Associate Professor</b>, Department of Computer Science & Technology, Nanjing Tech University, Nanjing, China (Jan 2019 - Present)</li>
+    <li><b>Full-Time Postdoctoral Fellow</b>, Broadband Communications Research (BBCR) Lab, Department of Electrical & Computer Engineering, University of Waterloo, Waterloo, ON, Canada, Supervisor: Prof. Weihua Zhuang (IEEE Fellow) (Aug 2018 - Aug 2019)</li>
+    <li><b>Assistant Professor</b>, Department of Computer Science & Technology, Nanjing Tech University, Nanjing, China (May 2015 - Jan 2019)</li>
+    <li><b>PhD (with honors)</b> in Computer Science, Nanjing University of Science & Technology, Nanjing, China, Supervisor: Prof. Guangwei Bai and Prof. Zhenmin Tang (Sep 2010 - Jan 2015)</li>
   </ul>
 </div>
 
