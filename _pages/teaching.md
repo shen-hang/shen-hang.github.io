@@ -66,7 +66,7 @@ redirect_from:
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:14px 18px; line-height:1.7; font-size:15px; box-shadow:0 1px 5px rgba(0,0,0,0.06);">
   <details style="margin-bottom:10px;">
-    <summary style="font-weight:bold; color:#1E90FF; cursor:pointer;">A. 链路层实验（2课时，验证型）</summary>
+    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">A. 链路层实验（2课时，验证型）</summary>
     <ol style="margin-top:6px; margin-left:22px;">
       <li>广播帧（broadcast frame）和单播帧（unicast frame）的区别是什么？</li>
       <li>从实验中任选一个广播帧、一个单播帧，分析这两个帧帧头中每个字段的含义，并比较它们的区别。</li>
@@ -75,7 +75,7 @@ redirect_from:
   </details>
 
   <details style="margin-bottom:10px;">
-    <summary style="font-weight:bold; color:#1E90FF; cursor:pointer;">B. 网络层实验（2课时，综合型）</summary>
+    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">B. 网络层实验（2课时，综合型）</summary>
     <ol style="margin-top:6px; margin-left:22px;">
       <li>针对实验2.1，试着将ITS 1的interface 1的子网掩码（subnet mask）改为“255.255.255.255”或“255.255.0.0”。这样一来，ITS 1是否还能在该网络拓扑中传递IP数据报？</li>
       <li>针对实验2.2，在路由规则中，如果Destination（目的网络）和Mask（掩码）字段都设为“0.0.0.0”，代表什么意思？</li>
@@ -90,7 +90,7 @@ redirect_from:
   </details>
 
   <details style="margin-bottom:10px;">
-    <summary style="font-weight:bold; color:#1E90FF; cursor:pointer;">C. 运输层实验（2课时，综合型）</summary>
+    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">C. 运输层实验（2课时，综合型）</summary>
     <ol style="margin-top:6px; margin-left:22px;">
       <li>针对实验3.3，如果在ITS 1尚未处于监听状态时从ITS 2连接到ITS 1，会发生什么？</li>
       <li>找出TCP连接建立的三个报文，并说明理由。</li>
@@ -101,7 +101,7 @@ redirect_from:
   </details>
 
   <details>
-    <summary style="font-weight:bold; color:#1E90FF; cursor:pointer;">D. 应用层实验（2课时，验证型）</summary>
+    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">D. 应用层实验（2课时，验证型）</summary>
     <ol style="margin-top:6px; margin-left:22px;">
       <li>针对实验4.1，当ITS与指定服务器建立TCP连接后，在编辑框输入的命令不正确时，网站会如何回复？</li>
       <li>如果输入GET命令并成功收到服务器返回的页面，请在“Network Message Browser”窗口中，分析与GET命令及返回页面对应数据的链路层、网络层和运输层封装情况。</li>
@@ -214,12 +214,12 @@ redirect_from:
     <summary style="font-weight:bold; color:#1E90FF; cursor:pointer;">A. 报告格式要求</summary>
     <p style="margin:6px 0 0 4px;">
       请使用 <b>LaTeX（Overleaf）</b> 编排论文，模板下载：
-      <a href="https://pan.baidu.com/s/10QYw21qaXrpT6-XOWA6gHA" style="color:#1E90FF; text-decoration:none;">[点击下载（提取码：5m56）]</a>。
+      <a href="https://pan.baidu.com/s/10QYw21qaXrpT6-XOWA6gHA" style="color:#3A6EA5; text-decoration:none;">[点击下载（提取码：5m56）]</a>。
     </p>
   </details>
 
   <details style="margin-bottom:10px;">
-    <summary style="font-weight:bold; color:#1E90FF; cursor:pointer;">B. 研究范围（包括但不限于）</summary>
+    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">B. 研究范围（包括但不限于）</summary>
     <ul style="margin-top:6px; margin-left:24px;">
       <li>AI for Networks 或 Networks for AI</li>
       <li>网络体系架构与协议</li>
@@ -235,7 +235,7 @@ redirect_from:
   </details>
 
   <details>
-    <summary style="font-weight:bold; color:#1E90FF; cursor:pointer;">C. 结构和内容要求</summary>
+    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">C. 结构和内容要求</summary>
     <ol style="margin-top:6px; margin-left:24px;">
       <li>研究背景与意义</li>
       <li>当前研究进展</li>
