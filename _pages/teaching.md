@@ -194,7 +194,7 @@ redirect_from:
       </td>
     </tr>
     <tr>
-      <td style="vertical-align:top; font-weight:bold; color:#2c3e50;">课件资料</td>
+      <td style="vertical-align:top; font-weight:bold; color:#2c3e50;">基础课件资料</td>
       <td>
         <a href="http://shen-hang.github.io/files/CH1_Architecture-I.pdf" style="color:#1E90FF; text-decoration:none;">CH1_Architecture-I</a>, 
         <a href="http://shen-hang.github.io/files/CH1_Architecture-II.pdf" style="color:#1E90FF; text-decoration:none;">CH1_Architecture-II</a>, 
