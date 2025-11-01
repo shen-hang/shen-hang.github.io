@@ -95,6 +95,8 @@ redirect_from:
 </details>
 
 
+<hr style="border: 0; border-top: 2px solid #1E90FF; margin: 24px 0 16px 0; opacity: 0.6;">
+
 <h3 style="font-size:17px; color:#2c3e50; margin-bottom:6px; margin-top:18px;">
   物联网概论（Introduction to Internet of Things）
   <span style="font-weight:normal; color:#666; font-size:13px;">— Undergraduate Course</span>
