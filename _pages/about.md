@@ -109,7 +109,7 @@ redirect_from:
 <p>Jan. 2024: 沈航应邀担任 SCI 期刊 <b><i>Journal of Information Processing Systems</i></b> (IF 0.8) 副编辑 (Associate Editor)。</p> 
 
 
-</div>
+
 
 <h2 align="left">Biography</h2>
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 18px; line-height:1.4; font-size:15px;">
