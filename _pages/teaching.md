@@ -181,7 +181,7 @@ redirect_from:
   <table style="width:100%; border-collapse:collapse; font-size:14px;">
     <tr>
       <td style="width:120px; vertical-align:top; font-weight:bold; color:#2c3e50;">教材</td>
-      <td>无指定教材（None）</td>
+      <td> None </td>
     </tr>
     <tr>
       <td style="vertical-align:top; font-weight:bold; color:#2c3e50;">参考书目</td>
