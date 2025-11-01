@@ -151,18 +151,19 @@ redirect_from:
 </div>
 
 
+<h2 align="left">Biography</h2>
 
-------
+<div style="background-color:#f9f9f9; border-radius:10px; padding:18px 22px; line-height:1.6; font-size:15px; text-align:justify;">
 
-# Biography
-
-沈航，入选“江苏省六大人才高峰”高层次人才计划、“南工英才”优秀青年科技创新人才计划。毕业于南京理工大学(优秀博士毕业生/优秀博士学位论文/博士生国奖获得者)，师从白光伟教授、唐振民教授。曾在加拿大滑铁卢大学电子与计算机工程系BBCR实验室担任全职博士后研究员，师从Weihua Zhuang教授(加拿大皇家科学院院士、加拿大工程院院士、IEEE Fellow)。
-
-主要研究车联网(车计算)、领域大模型、网络安全、无人机视觉导航等。以第一作者在IEEE TMC、IEEE TITS、IEEE TBC、IEEE TVT、IEEE TCSS、IEEE TCE、IEEE ICC、IEEE GBC等著名国际期刊和会议发表论文20余篇；指导学生发表论文110余篇。参编学术专著《Encyclopedia of Wireless Networks》；授权国家发明专利30余件。主持国家自然科学基金和省自然科学基金项目3项，厅级项目2项，国家/省重点实验室开放课题3项，横向项目5项。获得2022年中国特种设备检测协会科学技术二等奖(排名第三)，2021年中国电力联合会科技创新二等奖(排名第三)，2020年中国仪器仪表学会科技进步二等奖(排名第五)，2016年南京市自然科学优秀论文奖(排名第一)，2011年江苏省网络与云计算会议优秀论文奖(排名第一)。现任Frontiers in Blockchain(IF 1.9)、Journal of Information Processing Systems(IF 0.8)和IEEE Access(IF 3.4)等国际期刊的副编辑(Associate Editor)，曾任CCF推荐国际期刊Peer-to-Peer Networking and Applications客座编委(Guest Editor)。担任IEEE International Conference on High Performance Computing and Communications (HPCC)、Annual International Conference on Privacy, Security and Trust (PST)、International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP)等主流国际会议的程序委员会成员。沈航是CCF高级会员，CAAI会员、ACM南京分会执委，IEEE会员。曾获计算机学院青年教师授课大赛一等奖。 
-
-指导学生获得国家奖学金/优秀毕业研究生/优秀硕士学位论文/优秀本科毕业论文。所指导的研究生就职于顶级IT企业(包括：华为(南京、上海、深圳、武汉)研究所、中兴通讯、大疆、展讯、海康威视、大华、字节、百度、新华三、德州仪器、微软、爱立信、诺基亚贝尔、三星研究院等)和科技金融机构(包括：中行软件中心、微众银行、蚂蚁金融、南京证券等)或在知名高校读博。
+沈航，入选“江苏省六大人才高峰”高层次人才计划、“南工英才”优秀青年科技创新人才计划。毕业于南京理工大学(优秀博士毕业生/优秀博士学位论文/博士生国奖获得者)，师从白光伟教授、唐振民教授。曾在加拿大滑铁卢大学电子与计算机工程系BBCR实验室担任全职博士后研究员，师从加拿大皇家科学院院士、加拿大工程院院士、IEEE Fellow Weihua Zhuang教授。 主要研究车联网(车计算)、领域大模型、网络安全、无人机视觉导航等。在IEEE TMC、IEEE TITS、IEEE TBC、IEEE TVT、IEEE TCSS、IEEE TCE、电子学报、IEEE ICC、IEEE GBC、等国际主流期刊与会议发表论文二十余篇（第一作者），指导学生发表论文110余篇；参编学术专著《Encyclopedia of Wireless Networks》，授权国家发明专利四十余件。主持国家自然科学基金和省自然科学基金项目各三项，厅级项目两项，国家/省重点实验室开放课题三项，以及企业横向项目五项。曾获2022年中国特种设备检测协会科学技术二等奖（排名第三）、2021年中国电力联合会科技创新二等奖（排名第三）、2020年中国仪器仪表学会科技进步二等奖（排名第五）、2016年南京市自然科学优秀论文奖（排名第一）和2011年江苏省网络与云计算会议优秀论文奖（排名第一）。现任Frontiers in Blockchain（IF 1.9）、Journal of Information Processing Systems（IF 0.8）和IEEE Access（IF 3.4）副编辑，曾任CCF推荐国际期刊Peer-to-Peer Networking and Applications客座编委；担任IEEE HPCC、IEEE PST、ICA3PP等国际会议程序委员会成员。沈航是CCF高级会员、CCF南京分部监察委员、CAAI会员、ACM南京分会执委及IEEE会员，曾获计算机学院青年教师授课大赛一等奖。指导学生多次获得国家奖学金、优秀毕业研究生、优秀硕士学位论文与优秀本科毕业论文等奖项，其研究生就职于华为（南京、上海、深圳、武汉）、中兴、大疆、展锐、海康威视、大华、字节跳动、百度、H3C、微软中国、德州仪器、爱立信、诺基亚贝尔、三星南京研究院等国内外顶尖IT科技企业及中行软开、微众银行、蚂蚁集团、南京证券等知名科技金融机构，部分学生继续在知名高校攻读博士学位。 
 
 Hang Shen received the Ph.D. degree with honors in Computer Science from the [Nanjing University of Science and Technology](http://www.njust.edu.cn/). He worked as a Full-Time Postdoctoral Fellow under the supervision of Prof. Weihua Zhuang (IEEE Fellow) in the [Broadband Communications Research (BBCR) Lab](https://uwaterloo.ca/broadband-communications-research-lab/), Department of Electrical and Computer Engineering at the University of Waterloo in Waterloo, Canada from 2018 to 2019. He is currently an Associate Professor in the [Department of Computer Science and Technology](http://cise.njtech.edu.cn/) at [Nanjing Tech University](http://www.njtech.edu.cn/) in Nanjing, China. His research interests include vehicular networks, large language models for cybersecurity, and drone/vehicle vision-language navigation. He serves as an Associate Editor for *Journal of Information Processing Systems*, *Frontiers in Blockchain*, and *IEEE Access* and was a Guest Editor for *Peer-to-Peer Networking and Applications*. He serves/served as a program committee member of the IEEE International Conference on High Performance Computing and Communications (HPCC), the International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP), and the Annual International Conference on Privacy, Security and Trust (PST). He is a member of the IEEE Computer Society, Communication Society, and Vehicular Technology Society, a CCF Senior Member, and an Executive Committee Member of the ACM Nanjing Chapter.
+
+</div>
+
+
+
+
 
 ------
 
