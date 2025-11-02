@@ -133,7 +133,7 @@ redirect_from:
     A. Journal Articles <span style="font-weight:normal; color:#555;">(* indicates the correspondence author)</span>
   </p>
 
-  <ul style="list-style-type:none; padding-left:8px; margin:0;">
+  <ol style="list-style-type:none; padding-left:8px; margin:0;">
     <li>
       <b>Hang Shen*</b>, Yanke Yao, Tianjing Wang, and Guangwei Bai. 
       <a href="https://ieeexplore.ieee.org/document/11222929" style="color:#000; text-decoration:none;">
@@ -318,7 +318,7 @@ redirect_from:
       QMOR: QoS-Aware Multi-Sink Opportunistic Routing for Wireless Multimedia Sensor Networks</a>, 
       <i>Wireless Personal Communications (WPC)</i>, 2014, 75(2), pp. 1307–1330.
     </li>
- </ul>
+ </ol>
 </div>
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:10px 16px; line-height:1.6; font-size:15px; box-shadow:0 1px 4px rgba(0,0,0,0.08); margin-bottom:16px;">
@@ -326,7 +326,7 @@ redirect_from:
     B. Conference Articles <span style="font-weight:normal; color:#555;">(* indicates the correspondence author)</span>
   </p>
 
-  <ul style="list-style-type:none; padding-left:8px; margin:0;">
+  <ol style="list-style-type:none; padding-left:8px; margin:0;">
     <li>
       <b>Hang Shen</b>, Yanjing Zhou, Tianjing Wang*, et al.
       <a href="https://ieeexplore.ieee.org/document/11134474" style="color:#000; text-decoration:none;">
@@ -378,7 +378,7 @@ redirect_from:
       <i>Proc. of the International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP)</i>, Full Paper, 2018, pp. 142–158.
       <b>(CCF推荐国际会议)</b>
     </li>
-  </ul>
+  </ol>
 </div>
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:10px 16px; line-height:1.6; font-size:15px; box-shadow:0 1px 4px rgba(0,0,0,0.08); margin-bottom:16px;">
@@ -386,7 +386,7 @@ redirect_from:
     C. Book Chapters
   </p>
 
-  <ul style="list-style-type:none; padding-left:8px; margin:0;">
+  <ol style="list-style-type:none; padding-left:8px; margin:0;">
     <li style="margin-bottom:6px;">
       <b>Hang Shen</b>. 
       <a href="https://link.springer.com/referenceworkentry/10.1007/978-3-319-32903-1_99-1" style="color:#000; text-decoration:none;">
@@ -404,7 +404,7 @@ redirect_from:
       <i>Encyclopedia of Wireless Networks</i>, Springer, Cham, 2019. 
       DOI: 10.1007/978-3-319-32903-1_99-1.
     </li>
-  </ul>
+  </ol>
 </div>
 
 
