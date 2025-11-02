@@ -30,7 +30,7 @@ redirect_from:
    <i>有志于继续深造的同学</i> 可推荐至国内外知名高校攻读硕士或博士学位。
 </div>
 
-<hr style="border:none; border-top:1px dashed #ccc; margin:16px 0;">
+<hr style="border:none; border-top:1px dashed #ccc; margin:18px 0;">
 
 <p style="margin:0 0 10px 0;">
   培养的研究生受聘于国内外顶尖 IT 科技企业，包括：<br/>
