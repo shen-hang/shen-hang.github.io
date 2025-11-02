@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.7; font-size:15px; box-shadow:0 1px 5px rgba(0,0,0,0.06);">
+<div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.7; font-size:15px; box-shadow:0 1px 5px rgba(0,0,0,0.06); margin-top:6px;">
   🎯 <span style="color:#8B0000; font-weight:bold;">诚邀热爱开发的本科同学参与「领域大模型」与「AI模型串/并行推理」项目：</span><br/>
   
   <b>内部培养体系</b> —— 与主流 IT 企业和产业实践深度对接，获得真实项目经验与导师指导<br/>
@@ -18,7 +18,7 @@ redirect_from:
 </div>
 
 
-<div style="background-color:#f9f9f9; border-radius:10px; padding:18px 22px; line-height:1.7; font-size:15px; box-shadow:0 1px 5px rgba(0,0,0,0.06); margin-top:8px;">  
+<div style="background-color:#f9f9f9; border-radius:10px; padding:18px 22px; line-height:1.7; font-size:15px; box-shadow:0 1px 5px rgba(0,0,0,0.06); margin-top:6px;">  
 🎓 <span style="color:#8B0000; font-weight:bold;">招收研究生与本科生，共同探索以下前沿方向：</span><br/>
 
 🚗 <b>车联网与车计算</b> —— 面向智能驾驶与 V2X 协同推理的架构与方法<br/>
