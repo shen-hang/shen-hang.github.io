@@ -26,8 +26,8 @@ redirect_from:
 🧠 <b>垂直领域大模型</b> —— 工业、安全及智能交通领域的大模型及应用<br/>
 🔐 <b>网络与信息安全</b> —— 加密流量检测、隐私保护与安全计算新方法<br/>
 
-<div style="color:#555; border-left:4px solid #d4a017; border-radius:6px; padding:8px 12px; margin:8px 0;">
-  💡 <i>有志于继续深造的同学</i> 可推荐至国内外知名高校攻读硕士或博士学位。
+<div style="color:#555; border-left:4px solid #d4a017; border-radius:6px; padding:8px 8px; margin:8px 0;">
+   <i>有志于继续深造的同学</i> 可推荐至国内外知名高校攻读硕士或博士学位。
 </div>
 
 <hr style="border:none; border-top:1px dashed #ccc; margin:16px 0;">
