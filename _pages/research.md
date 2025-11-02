@@ -113,23 +113,29 @@ redirect_from:
   <b>Reviewer for International Conferences</b><br/>
   - IEEE International Conference on Parallel and Distributed Systems (ICPADS)<br/>
   - IEEE International Conference on Communications (ICC)<br/>
+  - IEEE International Conference on High Performance Computing and Communications (HPCC)<br/>
   - IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA)<br/>
   - IEEE Conference on Vehicular Technology (VTC)<br/>
+  - Annual International Conference on Privacy, Security and Trust (PST)<br/>
   - IEEE INFOCOM WKSHPS<br/>
+  - International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP)<br/>
 </div>
 
-<div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:16px;">
-  <b>Membership</b><br/>
-  - Member, Institute of Electrical and Electronics Engineers (IEEE) (2018-present)<br/>
-  - Member, IEEE Computer Society (CS) (2023-present)<br/>
-  - Member, IEEE Communications Society (ComSoc) (2020-present)<br/>
-  - Member, IEEE Vehicular Technology Society (VTS) (2020-present)<br/>
-  - Member, Association for Computing Machinery (ACM) (2015-present)<br/>
-  - Executive Committee Member, ACM Nanjing Chapter (2014-present)<br/>
-  - Member (2011-2020), Senior Member (2020-present), China Computer Federation (CCF)<br/>
-  - Member, Chinese Association for Artificial Intelligence (CAAI) (2022-present)
-  - CCF网络与数据通信专委会委员
-- CCF物联网专委会委员
+<div style="background-color:#f9f9f9; border-radius:10px; padding:14px 20px; line-height:1.65; font-size:15px; box-shadow:0 1px 5px rgba(0,0,0,0.06); margin-bottom:16px;">
+  <p style="font-weight:bold; color:#2c3e50; margin-top:0; margin-bottom:8px;">Membership & Professional Activities</p>
+
+  <div style="margin-left:4px;">
+    – Member, Institute of Electrical and Electronics Engineers (IEEE) <span style="color:#666;">(2018–present)</span><br/>
+    – Member, IEEE Computer Society (CS) <span style="color:#666;">(2023–present)</span><br/>
+    – Member, IEEE Communications Society (ComSoc) <span style="color:#666;">(2020–present)</span><br/>
+    – Member, IEEE Vehicular Technology Society (VTS) <span style="color:#666;">(2020–present)</span><br/>
+    – Member, Association for Computing Machinery (ACM) <span style="color:#666;">(2015–present)</span><br/>
+    – Executive Committee Member, ACM Nanjing Chapter <span style="color:#666;">(2014–present)</span><br/>
+    – China Computer Federation (CCF), Member <span style="color:#666;">(2011–2020)</span>, Senior Member <span style="color:#666;">(2020–present)</span><br/>
+    – Member, CCF Technical Committee on Network and Data Communications<br/>
+    – Member, CCF Technical Committee on Internet of Things<br/>
+    – Member, Chinese Association for Artificial Intelligence (CAAI) <span style="color:#666;">(2022–present)</span>
+  </div>
 </div>
 
 
