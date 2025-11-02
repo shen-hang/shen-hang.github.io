@@ -31,13 +31,6 @@ redirect_from:
 <p style="margin:0; color:#555;">
   💡 <i>有志于继续深造的同学</i> 可推荐至国内外知名高校攻读硕士或博士学位。
 </p>
-
-<p style="text-align:center; font-size:16px; margin:14px 0 0 0;">
-  ✉️ <b><span style="color:#8B0000;">欢迎与我联系：</span></b>
-  <a href="mailto:hshen@njtech.edu.cn" style="color:#2A52BE; font-weight:bold; text-decoration:none;">
-    hshen@njtech.edu.cn
-  </a>
-</p>
 </div>
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:14px 18px; line-height:1.65; font-size:15px; margin-top:8px;">
@@ -47,7 +40,12 @@ redirect_from:
 <b>中行软开｜微众银行｜蚂蚁集团｜南京证券</b>等。
 </div>
 
-
+<p style="text-align:center; font-size:16px; margin:14px 0 0 0;">
+  ✉️ <b><span style="color:#8B0000;">欢迎与我联系：</span></b>
+  <a href="mailto:hshen@njtech.edu.cn" style="color:#2A52BE; font-weight:bold; text-decoration:none;">
+    hshen@njtech.edu.cn
+  </a>
+</p>
 
 
 
