@@ -11,10 +11,11 @@ redirect_from:
 <div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.7; font-size:15px; box-shadow:0 1px 5px rgba(0,0,0,0.06); margin-top:0px;">
   🎯 <span style="color:#8B0000; font-weight:bold;">诚邀热爱开发的本科同学参与「领域大模型」与「AI模型串/并行推理」项目：</span><br/>
   
-  <b>内部培养体系</b> —— 与主流 IT 企业和产业实践深度对接，获得真实项目经验与导师指导<br/>
-  <b>项目津贴支持</b> —— 根据参与度发放补贴，认可你的努力与成果<br/>
-  <b>积累真实经验</b> —— 深入 AI 应用场景，掌握框架开发与多平台协同技术<br/>
-  <b>实践能力认证</b> —— 提供项目实践及实习证明，助力升学与求职
+<b>内部培养体系</b> —— 培养体系与主流 IT 企业和产业实践深度对接<br/> 
+<b>项目津贴支持</b> —— 根据参与度发放补贴，认可你的努力与成果<br/> 
+<b>积累真实经验</b> —— 深入 AI 应用场景，深入理解框架及开发技术<br/> 
+<b>实践能力认证</b> —— 提供项目实践和实习证明，助力升学与求职
+
 </div>
 
 
