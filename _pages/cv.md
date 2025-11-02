@@ -104,9 +104,12 @@ redirect_from:
   <b>Reviewer for International Conferences</b><br/>
   - IEEE International Conference on Parallel and Distributed Systems (ICPADS)<br/>
   - IEEE International Conference on Communications (ICC)<br/>
+  - IEEE International Conference on High Performance Computing and Communications (HPCC)<br/>
   - IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA)<br/>
   - IEEE Conference on Vehicular Technology (VTC)<br/>
+  - Annual International Conference on Privacy, Security and Trust (PST)<br/>
   - IEEE INFOCOM WKSHPS<br/>
+  - International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP)<br/>
 </div>
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:16px;">
@@ -118,8 +121,8 @@ redirect_from:
   - Member, Association for Computing Machinery (ACM) (2015-present)<br/>
   - Executive Committee Member, ACM Nanjing Chapter (2014-present)<br/>
   - Member (2011-2020), Senior Member (2020-present), China Computer Federation (CCF)<br/>
-  - CCF网络与数据通信专委会委员
-  - CCF物联网专委会委员
+  - CCF网络与数据通信专委会委员<br/>
+  - CCF物联网专委会委员<br/>
 </div>
 
 
