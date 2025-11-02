@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:14px 18px; line-height:1.65; font-size:15px;">
-🎯 <span style="color:#8B0000; font-weight:bold;">诚邀热爱开发的本科同学参与「领域大模型」与「AI模型串/并行推理」落地项目：</span><br/>
+🎯 <span style="color:#8B0000; font-weight:bold;">诚邀热爱开发的本科同学参与「领域大模型」与「AI模型串/并行推理」项目：</span><br/>
 <b>内部培养体系</b> —— 培养体系与主流 IT 企业和产业实践深度对接<br/>
 <b>项目津贴支持</b> —— 根据参与度发放补贴，认可你的努力与成果<br/>
 <b>积累真实经验</b> —— 深入 AI 应用场景，深入理解框架及开发技术<br/>
@@ -17,11 +17,12 @@ redirect_from:
 </div>
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:14px 18px; line-height:1.65; font-size:15px; margin-top:8px;">
-🎓 <span style="color:#8B0000; font-weight:bold;">招收研究生与本科生，共同探索以下前沿方向，欢迎随时与我交流：</span><br/>
-🚗 <b>车联网与车计算</b> —— 面向智能驾驶与 V2X 协同推理的架构和方法<br/>
-🚁 <b>无人机视觉计算</b> —— 空地协同、跨模态感知与动态神经网络技术<br/>
-🧠 <b>垂直领域大模型</b> —— 工业、安全及智能交通领域的大模型及应用<br/>
-🔐 <b>网络与信息安全</b> —— 加密流量检测、隐私保护与安全计算新方法
+  🎓 <span style="color:#8B0000; font-weight:bold;">招收研究生与本科生，共同探索以下前沿方向，欢迎随时与我交流：</span>
+  <a href="mailto:hshen@njtech.edu.cn" style="color:#4169E1; text-decoration:none; font-weight:bold;">hshen@njtech.edu.cn</a><br/><br/>
+  🚗 <b>车联网与车计算</b> —— 面向智能驾驶与 V2X 协同推理的架构和方法<br/>
+  🚁 <b>无人机视觉计算</b> —— 空地协同、跨模态感知与动态神经网络技术<br/>
+  🧠 <b>垂直领域大模型</b> —— 工业、安全及智能交通领域的大模型及应用<br/>
+  🔐 <b>网络与信息安全</b> —— 加密流量检测、隐私保护与安全计算新方法
 </div>
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:14px 18px; line-height:1.65; font-size:15px; margin-top:8px;">
