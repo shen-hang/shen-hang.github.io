@@ -132,8 +132,7 @@ redirect_from:
   <p style="font-weight:bold; color:#2c3e50; margin-top:0; margin-bottom:8px;">
     A. Journal Articles <span style="font-weight:normal; color:#555;">(* indicates the correspondence author)</span>
   </p>
-
-  <ol style="list-style-type:none; padding-left:8px; margin:0;">
+   <ol style="padding-left:20px; margin:0;">
     <li>
       <b>Hang Shen*</b>, Yanke Yao, Tianjing Wang, and Guangwei Bai. 
       <a href="https://ieeexplore.ieee.org/document/11222929" style="color:#000; text-decoration:none;">
@@ -326,7 +325,7 @@ redirect_from:
     B. Conference Articles <span style="font-weight:normal; color:#555;">(* indicates the correspondence author)</span>
   </p>
 
-  <ol style="list-style-type:none; padding-left:8px; margin:0;">
+   <ol style="padding-left:20px; margin:0;">
     <li>
       <b>Hang Shen</b>, Yanjing Zhou, Tianjing Wang*, et al.
       <a href="https://ieeexplore.ieee.org/document/11134474" style="color:#000; text-decoration:none;">
@@ -386,7 +385,7 @@ redirect_from:
     C. Book Chapters
   </p>
 
-  <ol style="list-style-type:none; padding-left:8px; margin:0;">
+   <ol style="padding-left:20px; margin:0;">
     <li style="margin-bottom:6px;">
       <b>Hang Shen</b>. 
       <a href="https://link.springer.com/referenceworkentry/10.1007/978-3-319-32903-1_99-1" style="color:#000; text-decoration:none;">
