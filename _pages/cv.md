@@ -125,8 +125,8 @@ redirect_from:
     – China Computer Federation (CCF), Member <span style="color:#666;">(2011–2020)</span>, Senior Member <span style="color:#666;">(2020–present)</span><br/>
     – Member, CCF Technical Committee on Network and Data Communications<br/>
     – Member, CCF Technical Committee on Internet of Things<br/>
-    – 中国计算机学会（CCF）网络与数据通信专委会委员<br/>
-    – 中国计算机学会（CCF）物联网专委会委员<br/>
+    – CCF网络与数据通信专委会委员<br/>
+    – CCF物联网专委会委员<br/>
     – Member, Chinese Association for Artificial Intelligence (CAAI) <span style="color:#666;">(2022–present)</span>
   </div>
 </div>
