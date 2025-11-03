@@ -183,14 +183,9 @@ redirect_from:
 </div>
 <hr style="border:none; border-top:1px solid #ddd; margin:18px 0;">
 <div style="background-color:#f9f9f9; border-radius:10px; padding:18px 22px; line-height:1.6; font-size:15px; text-align:justify;">
-<b>Hang Shen</b> received the Ph.D. degree with honors in Computer Science from the 
-  <a href="http://www.njust.edu.cn/" target="_blank" style="color:#0073aa; text-decoration:none;">Nanjing University of Science and Technology</a>. 
-  He worked as a Full-Time Postdoctoral Fellow under the supervision of Prof. Weihua Zhuang (IEEE Fellow) in the 
-  <a href="https://uwaterloo.ca/broadband-communications-research-lab/" target="_blank" style="color:#0073aa; text-decoration:none;">Broadband Communications Research (BBCR) Lab</a>, 
-  Department of Electrical and Computer Engineering at the University of Waterloo in Waterloo, Canada from 2018 to 2019. 
-  He is currently an Associate Professor in the 
-  <a href="http://cise.njtech.edu.cn/" target="_blank" style="color:#0073aa; text-decoration:none;">Department of Computer Science and Technology</a> at 
-  <a href="http://www.njtech.edu.cn/" target="_blank" style="color:#0073aa; text-decoration:none;">Nanjing Tech University</a> in Nanjing, China. 
+<b>Hang Shen</b> received the Ph.D. degree with honors in Computer Science from the Nanjing University of Science and Technology. 
+  He worked as a Full-Time Postdoctoral Fellow under the supervision of Prof. Weihua Zhuang (IEEE Fellow) in the Broadband Communications Research (BBCR) Lab, Department of Electrical and Computer Engineering at the University of Waterloo in Waterloo, Canada from 2018 to 2019. 
+  He is currently an Associate Professor in the Department of Computer Science and Technology at Nanjing Tech University in Nanjing, China. 
   His research interests include vehicular networks, vertical domain-specific large language models, and drone/vehicle vision computing. 
   He serves as an Associate Editor for <i>Journal of Information Processing Systems</i>, <i>Frontiers in Blockchain</i>, and <i>IEEE Access</i>, 
   and was a Guest Editor for <i>Peer-to-Peer Networking and Applications</i>. 
