@@ -69,6 +69,7 @@ redirect_from:
   - IEEE Transactions on Communications (TCOM)<br/>
   - IEEE Transactions on Intelligent Transportation Systems (TITS)<br/>
   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)<br/>
+  - ACM Transactions on Internet Technology (TOIT)<br/>
   - IEEE Transactions on Vehicular Technology (TVT)<br/>
   - IEEE Transactions on Network and Service Management (TNSM)<br/>
   - IEEE Transactions on Green Communications and Networking (TGCN)<br/>
