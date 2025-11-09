@@ -140,7 +140,3 @@ redirect_from:
     – Member, Chinese Association for Artificial Intelligence (CAAI) <span style="color:#666;">(2022–present)</span>
   </div>
 </div>
-
-
-
-![Visitor Count](https://profile-counter.glitch.me/shen-hang/count.svg)
