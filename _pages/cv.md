@@ -468,5 +468,3 @@ redirect_from:
   - Advanced Computer Networks (Spring 2023-2025)<br/>
   - Wireless Networks & Mobile Computing (Spring 2016, 2017)
 </div>
-
-![Visitor Count](https://profile-counter.glitch.me/shen-hang/count.svg)
