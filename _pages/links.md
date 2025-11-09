@@ -93,5 +93,3 @@ redirect_from:
 19. **Whatever is best for you is best for your adviser.**
 
 20. **Whatever is best for your adviser is best for you.**
-
-![Visitor Count](https://profile-counter.glitch.me/shen-hang/count.svg)
