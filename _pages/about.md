@@ -203,8 +203,3 @@ redirect_from:
   Addr: 30 South Puzhu Road, 79 Box, Nanjing, China, 211816<br/>
   Email: <a href="mailto:hshen@njtech.edu.cn">hshen@njtech.edu.cn</a>, <a href="mailto:helloshenhang@gmail.com">helloshenhang@gmail.com</a>
 </div>
-
-
-
-
-![Visitor Count](https://profile-counter.glitch.me/shen-hang/count.svg)
