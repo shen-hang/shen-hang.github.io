@@ -22,6 +22,3 @@ redirect_from:
 | 2014 | 南京理工大学优秀博士毕业生 |
 | 2012 | 博士研究生国家奖学金 |
 | 2011 | 1. 江苏省网络与分布式计算学术会议最佳论文奖(排名第一)<br/>2. 南京市第九届自然科学优秀学术论文奖(排名第三) |
-
-****
-![Visitor Count](https://profile-counter.glitch.me/shen-hang/count.svg)
