@@ -284,5 +284,3 @@ redirect_from:
 | Reference | 1. 《移动互联网导论（第3版）》,  王新兵 著，清华大学出版社 <br/>2. 《从互联到新工业革命》, 刘云浩 著，清华大学出版社 |
 
 ---
-
-![Visitor Count](https://profile-counter.glitch.me/shen-hang/count.svg)
