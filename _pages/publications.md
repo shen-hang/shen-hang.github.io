@@ -16,8 +16,7 @@ redirect_from:
   <b>Hang Shen*</b>, Yanke Yao（姚雁珂）, Tianjing Wang, and Guangwei Bai. 
   <a href="https://ieeexplore.ieee.org/document/11222929" style="color:#000; text-decoration:none;">
   MobiFormer: Split-Federated Transfer Learning for Drone RAN Slicing with Multi-Head Attention</a>, 
-  <i>IEEE Transactions on Mobile Computing (TMC)</i>, 2025. 
-  DOI: 10.1109/TMC.2025.3627068. 
+  <i>IEEE Transactions on Mobile Computing (TMC)</i>, 2025, online available. 
   <b>(CCF推荐A类国际期刊, 中科院一区Top)</b> 
   <a href="http://shen-hang.github.io/files/TMC2025.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
 </li>
@@ -284,5 +283,3 @@ redirect_from:
     </li>
   </ol>
 </div>
-
-![Visitor Count](https://profile-counter.glitch.me/shen-hang/count.svg)
