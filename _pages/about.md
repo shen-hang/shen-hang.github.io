@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.7; font-size:15px; box-shadow:0 1px 5px rgba(0,0,0,0.06); margin-top:0px;">
-  🎯 <span style="color:#8B0000; font-weight:bold;">诚邀热爱开发的本科同学参与「领域大模型」与「AI模型串/并行推理」项目：</span><br/>
+  🎯 <span style="color:#8B0000; font-weight:bold;">诚邀热爱开发的本科同学参与「领域大模型」与「AI模型串/并行推理」项目（允许以大创形式或个人独立参与）：</span><br/>
   
 <b>内部培养体系</b> —— 培养体系与主流 IT 企业和产业实践深度对接<br/> 
 <b>项目津贴支持</b> —— 根据参与度发放补贴，认可你的努力与成果<br/> 
@@ -31,7 +31,11 @@ redirect_from:
 <span style="color:#2f4f4f; background-color:#eef3f8; border-radius:4px; padding:1px 6px; font-weight:500;">
   <i>有志于继续深造的同学</i>
 </span>
-可推荐至国内外知名高校攻读硕士或博士学位。
+可推荐至国内外知名高校攻读硕士或博士学位。<br/>
+
+  <i>有动力做科研（发表论文）的本科同学</i>
+</span>
+可提供专业指导。
 
 <hr style="border:none; border-top:1px dashed #ccc; margin:18px 0;">
 
