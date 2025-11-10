@@ -33,6 +33,7 @@ redirect_from:
 </span>
 可推荐至国内外知名高校攻读硕士或博士学位。<br/>
 
+<span style="color:#2f4f4f; background-color:#eef3f8; border-radius:4px; padding:1px 6px; font-weight:500;">
   <i>有动力做科研（发表论文）的本科同学</i>
 </span>
 可提供专业指导。
