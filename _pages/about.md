@@ -36,7 +36,7 @@ redirect_from:
 <span style="color:#2f4f4f; background-color:#eef3f8; border-radius:4px; padding:1px 6px; font-weight:500;">
   <i>有动力做科研（发表论文）的本科同学</i>
 </span>
-可提供专业指导。
+可提供科研环境和专业指导。
 
 <hr style="border:none; border-top:1px dashed #ccc; margin:18px 0;">
 
