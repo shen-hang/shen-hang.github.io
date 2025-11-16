@@ -157,7 +157,7 @@ redirect_from:
     </li>
 
     <li>
-      Yiren Gu, <b>Hang Shen*</b>, Guangwei Bai, Tianjing Wang <i>et al.</i> 
+      Yiren Gu（顾伊人）, <b>Hang Shen*</b>, Guangwei Bai, Tianjing Wang <i>et al.</i> 
       <a href="https://link.springer.com/article/10.1007/s00530-019-00616-w" style="color:#000; text-decoration:none;">
       QoI-Aware Incentive for Multimedia Crowdsensing Enabled Learning System</a>, 
       <i>Multimedia Systems</i>, 2020, 26(1), pp. 3–16. 
@@ -198,7 +198,7 @@ redirect_from:
     </li>
 
     <li>
-      Tianjing Wang, Qi Liu（刘祺）, <b>Hang Shen*</b>, Xiaokang Luo, and Guangwei Bai. 
+      Tianjing Wang, Qi Liu（刘祺）, <b>Hang Shen*</b>, Xiaokang Luo（罗小康）, and Guangwei Bai. 
       <a href="https://onlinelibrary.wiley.com/doi/10.4218/etrij.2025-0152" style="color:#000; text-decoration:none;">
       Graph Neural Network‐Enhanced Auxiliary Classifier Generative Adversarial Network Framework for Robust Intrusion Detection</a>, 
       <i>ETRI Journal</i>, 2025, DOI: 10.4218/etrij.2025-0152. 
@@ -215,7 +215,7 @@ redirect_from:
     </li>
 
     <li>
-      <b>Hang Shen</b>, Guangwei Bai*, Mei Yang, and Zhonghui Wang. 
+      <b>Hang Shen</b>, Guangwei Bai*, Mei Yang（杨梅）, and Zhonghui Wang. 
       <a href="https://www.sciencedirect.com/science/article/pii/S1084804517300413" style="color:#000; text-decoration:none;">
       Protecting Trajectory Privacy: A User-Centric Analysis</a>, 
       <i>Elsevier Journal of Network and Computer Applications (JNCA)</i>, 2017, 82, pp. 128–139. 
@@ -257,7 +257,7 @@ redirect_from:
     </li>
 
     <li>
-      <b>Hang Shen</b>, Beining Zhang（张贝宁）, Tianjing Wang*, Xin Liu, and Guangwei Bai. 
+      <b>Hang Shen</b>, Beining Zhang（张贝宁）, Tianjing Wang*, Xin Liu（刘鑫）, and Guangwei Bai. 
       <a href="https://link.springer.com/article/10.1007/s12083-024-01674-2" style="color:#000; text-decoration:none;">
       Consortium Blockchain-Based Secure Cross-Operator V2V Video Content Distribution</a>, 
       <i>Peer-to-Peer Networking and Applications (PPNA)</i>, 2024, Vol. 17, pp. 1631–1644. 
