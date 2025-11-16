@@ -37,7 +37,8 @@ redirect_from:
       <a href="http://shen-hang.github.io/files/TBC2024.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
 <li> 
-  殷珉, <b>沈航*</b>, 王天荆, 白光伟. 基于分层联邦学习的无人机小基站 RAN 切片方法, 
+  殷珉, <b>沈航*</b>, 王天荆, 白光伟. <a href="https://www.ejournal.org.cn/thesisDetails#10.12263/DZXB.20221083&lang=zh" style="color:#000; text-decoration:none;">
+      基于分层联邦学习的无人机小基站 RAN 切片方法</a>, 
   <i>电子学报</i>, 2023, 51(7): 1774–1780. 
   <b>(CCF推荐A类中文期刊)</b> 
 <span style="color:#2f4f4f; background-color:#eef3f8; border-radius:4px; padding:1px 6px; font-weight:500;">
@@ -105,7 +106,7 @@ redirect_from:
   <ol style="margin-top:6px; margin-bottom:0;">
     <li>
       <b>沈航*</b>, 王旭, 王天荆, 戴远飞, 白光伟. 
-      面向社交网络跨语言虚假信息检测的 <b>LLM 增强自监督域自适应方法</b>, 
+      面向社交网络跨语言虚假信息检测的 LLM 增强自监督域自适应方法, 
       <i>电子学报</i>, 2025, 录用待刊出. 
       <b>(CCF推荐A类中文期刊)</b> 
 <span style="color:#2f4f4f; background-color:#eef3f8; border-radius:4px; padding:1px 6px; font-weight:500;">
