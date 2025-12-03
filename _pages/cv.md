@@ -75,6 +75,7 @@ redirect_from:
   - IEEE Transactions on Green Communications and Networking (TGCN)<br/>
   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)<br/>
   - IEEE Transactions on Computational Social Systems (TCSS)<br/>
+  - IEEE Transactions on Industrial Informatics (TII)<br/>
   - IEEE Transactions on Consumer Electronics (TCE)<br/>
   - IEEE Transactions on Cognitive Communications and Networking (TCCN)<br/>
   - IEEE Transactions on Sustainable Computing (TSUSC)<br/>
