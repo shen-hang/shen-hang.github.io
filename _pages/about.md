@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
 <div style="background-color:#f9f9f9; border-radius:10px; padding:18px 22px; line-height:1.7; font-size:15px; box-shadow:0 1px 5px rgba(0,0,0,0.06); margin-top:0px;">  
 🎓 <span style="color:#8B0000; font-weight:bold;">招收研究生和（有动力做科研、发表论文）的本科同学，共同探索以下前沿方向：</span><br/>
 
@@ -24,6 +23,8 @@ redirect_from:
 可推荐至国内外知名高校攻读硕士或博士学位。
 
 
+</div>
+
 <div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.7; font-size:15px; box-shadow:0 1px 5px rgba(0,0,0,0.06); margin-top:0px;">
   🎯 <span style="color:#8B0000; font-weight:bold;">诚邀热爱开发的本科同学（以个人或大创形式）参与「领域大模型」与「串/并行推理」企业横向项目：</span><br/>
   
@@ -32,7 +33,6 @@ redirect_from:
 <b>积累真实经验</b> —— 深入 AI 应用场景，深入理解框架及开发技术<br/> 
 <b>实践能力认证</b> —— 提供项目实践和实习证明，助力升学与求职
 
-</div>
 
 
 <hr style="border:none; border-top:1px dashed #ccc; margin:18px 0;">
