@@ -20,7 +20,7 @@ redirect_from:
 
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:18px 22px; line-height:1.7; font-size:15px; box-shadow:0 1px 5px rgba(0,0,0,0.06); margin-top:0px;">  
-🎓 <span style="color:#8B0000; font-weight:bold;">招收研究生与本科生，共同探索以下前沿方向：</span><br/>
+🎓 <span style="color:#8B0000; font-weight:bold;">招收研究生与（有动力做科研、发表论文）的本科同学，共同探索以下前沿方向：</span><br/>
 
 🚗 <b>车联网与车计算</b> —— 面向智能驾驶与 V2X 协同推理的架构与方法<br/>
 🚁 <b>无人机视觉计算</b> —— 空地协同、跨模态感知与动态神经网络技术<br/>
@@ -32,11 +32,6 @@ redirect_from:
   <i>有志于继续深造的同学</i>
 </span>
 可推荐至国内外知名高校攻读硕士或博士学位。<br/>
--
-<span style="color:#2f4f4f; background-color:#eef3f8; border-radius:4px; padding:1px 6px; font-weight:500;">
-  <i>有动力做科研（发表论文）的本科同学</i>
-</span>
-可提供资源和指导。
 
 <hr style="border:none; border-top:1px dashed #ccc; margin:18px 0;">
 
