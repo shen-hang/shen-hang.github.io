@@ -31,7 +31,7 @@ redirect_from:
 <span style="color:#2f4f4f; background-color:#eef3f8; border-radius:4px; padding:1px 6px; font-weight:500;">
   <i>有志于继续深造的同学</i>
 </span>
-可推荐至国内外知名高校攻读硕士或博士学位。<br/>
+可推荐至国内外知名高校攻读硕士或博士学位。
 
 <hr style="border:none; border-top:1px dashed #ccc; margin:18px 0;">
 
