@@ -217,7 +217,7 @@ redirect_from:
     <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">A. 引言</summary>
 
     <p style="margin:6px 0 0 4px;">
-      引言部分用于介绍本次分析对象 <code>http_espn.pcapng</code> 的来源与网络场景（例如网页浏览、多资源加载等），说明研究的目标与意义，并描述本报告采用的主要工具与方法。
+      引言部分用于介绍本次分析对象 <code>web.pcapng</code> 的来源与网络场景（例如网页浏览、多资源加载等），说明研究的目标与意义，并描述本报告采用的主要工具与方法。
     </p>
 
     <ul style="margin-top:6px; margin-left:24px;">
