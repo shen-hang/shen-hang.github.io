@@ -205,13 +205,13 @@ redirect_from:
 </div>
 
 
-<!-- TCP Trace Analysis 研究报告结构（参考） -->
+<!-- Packet Trace Analysis（参考） -->
 <h3 style="font-size:17px; color:#2c3e50; margin-bottom:8px; margin-top:20px;">
-  TCP Trace Analysis 研究报告结构（参考）
+  Packet Trace Analysis（参考）
 </h3>
 
 <p style="margin:0 0 14px 2px; font-size:14px; color:#555;">
-  本研究报告围绕 <code>xxx.pcapng</code> 进行深入分析，该 trace 来源于Web浏览场景，包含 TCP、DNS 与 HTTP 多层交互。报告目标是从 trace 中挖掘网络链路质量、资源加载模式与用户体验相关的性能特征。
+  本研究报告深入分析采集自Web浏览场景的trace <code>xxx</code>，其中包含 TCP、DNS 与 HTTP 多层交互。目的是从 trace 中挖掘网络链路质量、资源加载模式与用户体验相关的性能特征。
 </p>
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:14px 18px; line-height:1.7; font-size:15px; box-shadow:0 1px 5px rgba(0,0,0,0.06);">
