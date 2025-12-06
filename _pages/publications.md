@@ -28,15 +28,14 @@ redirect_from:
       <b>(CCF推荐A类国际期刊, 中科院一区Top)</b> 
       <a href="http://shen-hang.github.io/files/TMC2024.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
-<li> 
-  殷珉, <b>沈航*</b>, 王天荆, 白光伟. <a href="https://www.ejournal.org.cn/thesisDetails#10.12263/DZXB.20221083&lang=zh" style="color:#000; text-decoration:none;">
-      基于分层联邦学习的无人机小基站 RAN 切片方法</a>, 
+<li>
+  殷珉, <b>沈航*</b>, 王天荆, 白光伟. <a href="https://www.ejournal.org.cn/thesisDetails#10.12263/DZXB.20221083&lang=zh" style="color:#000; text-decoration:none;">基于分层联邦学习的无人机小基站 RAN 切片方法</a>, 
   <i>电子学报</i>, 2023, 51(7): 1774–1780. 
   <b>(CCF推荐A类中文期刊)</b> 
-<span style="color:#2f4f4f; background-color:#eef3f8; border-radius:4px; padding:1px 6px; font-weight:500;">
-  把论文写在祖国的大地上
-</span>
-  <a href="http://shen-hang.github.io/files/电子学报2023.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
+  <span style="color:#87CEEB; font-weight:500;">
+    把论文写在祖国的大地上
+  </span>
+  <a href="http://shen-hang.github.io/files/ 电子学报2023.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
 </li>
     <li>
       <b>Hang Shen*</b>, Ziyuan Tong（童子源）, Tianjing Wang, and Guangwei Bai. 
