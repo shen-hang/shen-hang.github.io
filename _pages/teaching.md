@@ -283,7 +283,7 @@ redirect_from:
 
   <!-- E. 综合性能分析 -->
   <details style="margin-bottom:10px;">
-    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">E. 综合性能诊断与体验分析</summary>
+    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">E. 综合性能分析</summary>
 
     <p style="margin:6px 0 0 4px;">
       整合 TCP、DNS 与 HTTP 分析结果，通过延迟、异常、对象依赖等表现诊断网页加载瓶颈，并讨论用户体验表现、白屏等待与优化方向。
