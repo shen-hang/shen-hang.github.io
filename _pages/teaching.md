@@ -204,51 +204,103 @@ redirect_from:
   </table>
 </div>
 
-<!-- 研究报告撰写要求 -->
-<h3 style="font-size:17px; color:#2c3e50; margin-bottom:8px; margin-top:20px;"> 
-  研究报告撰写要求
+
+<!-- TCP Trace Analysis 研究报告结构 -->
+<h3 style="font-size:17px; color:#2c3e50; margin-bottom:8px; margin-top:20px;">
+  TCP Trace Analysis 研究报告结构（参考）
 </h3>
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:14px 18px; line-height:1.7; font-size:15px; box-shadow:0 1px 5px rgba(0,0,0,0.06);">
-  <details style="margin-bottom:10px;">
-    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">A. 报告格式要求</summary>
-    <p style="margin:6px 0 0 4px;">
-      请使用 <b>LaTeX（Overleaf）</b> 编排论文，模板下载：
-      <a href="https://pan.baidu.com/s/10QYw21qaXrpT6-XOWA6gHA" style="color:#3A6EA5; text-decoration:none;">[点击下载（提取码：5m56）]</a>。
-    </p>
-  </details>
 
+  <!-- A. 引言 -->
   <details style="margin-bottom:10px;">
-    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">B. 研究范围（包括但不限于）</summary>
+    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">A. 引言</summary>
+
+    <p style="margin:6px 0 0 4px;">
+      引言部分用于介绍本次分析对象 <code>http_espn.pcapng</code> 的来源与网络场景（例如网页浏览、多资源加载等），说明研究的目标与意义，并描述本报告采用的主要工具与方法。
+    </p>
+
     <ul style="margin-top:6px; margin-left:24px;">
-      <li>AI for Networks 或 Networks for AI</li>
-      <li>网络体系架构与协议</li>
-      <li>多媒体网络与服务质量（QoS）</li>
-      <li>网络安全与隐私计算</li>
-      <li>无线网络与移动计算</li>
-      <li>云计算、边缘计算与分布式计算</li>
-      <li>定位与基于位置的服务</li>
-      <li>数据采集与感知</li>
-      <li>软件定义网络（SDN）与网络功能虚拟化（NFV）</li>
-      <li>未来网络与新兴网络技术</li>
+      <li>Trace 文件场景背景与数据来源</li>
+      <li>研究目的与关键问题（TCP、DNS、HTTP 行为与性能分析）</li>
+      <li>分析方法说明（Wireshark + 程序化提取 + 可视化）</li>
+      <li>报告结果可能用于诊断网页加载体验与瓶颈</li>
     </ul>
   </details>
 
+  <!-- B. TCP 行为分析 -->
+  <details style="margin-bottom:10px;">
+    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">B. TCP 行为分析</summary>
+    
+    <p style="margin:6px 0 0 4px;">
+      从 TCP 层入手，可以通过工具（如Wireshark）观察连接建立、传输与关闭，再通过编程提取 RTT、吞吐率等定量指标，并以图表展示性能变化，从而诊断链路稳定性、拥塞或重传等问题。
+    </p>
+
+    <ul style="margin-top:6px; margin-left:24px;">
+      <li>连接建立与关闭过程（SYN、ACK、FIN、RST）</li>
+      <li>数据传输中的异常（重传、重复 ACK、乱序）</li>
+      <li>时间序列 RTT 提取与可视化（RTT vs Time）</li>
+      <li>固定时间窗口的吞吐率统计与可视化（Throughput vs Time）</li>
+      <li>链路稳定性与拥塞迹象分析（波动、峰值、下降段）</li>
+    </ul>
+  </details>
+
+  <!-- C. DNS 行为分析 -->
+  <details style="margin-bottom:10px;">
+    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">C. DNS 行为分析</summary>
+
+    <p style="margin:6px 0 0 4px;">
+      分析 DNS 查询与响应过程，观察解析数量、缓存复用与响应时延，并结合统计与可视化判断 DNS 是否影响网页启动阶段的性能。
+    </p>
+
+    <ul style="margin-top:6px; margin-left:24px;">
+      <li>DNS 请求与响应数量、解析的域名与 IP 映射</li>
+      <li>DNS 是否单次解析后长期缓存复用</li>
+      <li>DNS 响应时延统计与可视化（直方图或时间序列）</li>
+      <li>DNS 在整体加载流程中的性能影响（是否成为启动瓶颈）</li>
+    </ul>
+  </details>
+
+  <!-- D. HTTP 对象加载分析 -->
+  <details style="margin-bottom:10px;">
+    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">D. HTTP 对象加载分析</summary>
+
+    <p style="margin:6px 0 0 4px;">
+      梳理 HTML、CSS、JS、图片等对象的加载结构与时间关系，并通过编程提取关键时间信息，构建瀑布图用于展示关键路径、阻塞情况与首屏加载体验。
+    </p>
+
+    <ul style="margin-top:6px; margin-left:24px;">
+      <li>主要 HTTP 对象的数量、类别、大小与加载顺序</li>
+      <li>并行请求与串行依赖关系分析</li>
+      <li>请求起始时间、首字节时间、完成时间提取（自动统计）</li>
+      <li>对象加载瀑布图或时间线可视化（Waterfall / Timeline）</li>
+      <li>关键路径识别、渲染阻塞与首屏体验影响</li>
+    </ul>
+  </details>
+
+  <!-- E. 综合性能诊断 -->
   <details>
-    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">C. 结构和内容要求</summary>
-    <ol style="margin-top:6px; margin-left:24px;">
-      <li>研究背景与意义</li>
-      <li>当前研究进展</li>
-      <li>现有方法的主要问题</li>
-      <li>你的思考与解决方案</li>
-      <li>方案的优越性与创新性</li>
-    </ol>
+    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">E. 综合性能诊断与体验分析</summary>
+
+    <p style="margin:6px 0 0 4px;">
+      整合 TCP、DNS 与 HTTP 分析结果，通过延迟、异常、对象依赖等表现诊断网页加载瓶颈，并讨论用户体验表现、白屏等待与优化方向。
+    </p>
+
+    <ul style="margin-top:6px; margin-left:24px;">
+      <li>链路质量诊断（RTT 稳定性、抖动、重传）</li>
+      <li>加载瓶颈定位（DNS、慢启动、大对象、串行依赖）</li>
+      <li>跨层性能影响讨论（TCP ↔ DNS ↔ HTTP）</li>
+      <li>优化建议或未来改进方向（可选）</li>
+    </ul>
 
     <div style="margin-top:10px; background-color:#fff; border-left:4px solid #1E90FF; padding:8px 10px; border-radius:6px; font-size:14px; color:#444;">
-      <b>注：</b> 研究报告需包含<b>题目、摘要与结论</b>，内容应分段清晰，篇幅不少于 <b>6页</b>。
+      <b>注：</b>
+      鼓励大家从 trace 中尽可能多地挖掘各类性能细节，包括时间序列指标、可视化图表、异常行为与协议交互特征等；只要图表清晰、指标准确、解释合理，均会作为分析成果予以认可。。
     </div>
   </details>
+
 </div>
+
 
 
 <hr style="border: 0; border-top: 2px solid #1E90FF; margin: 24px 0 16px 0; opacity: 0.6;">
