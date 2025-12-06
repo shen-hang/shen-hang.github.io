@@ -194,9 +194,34 @@ redirect_from:
 </div>
 
 
-<h2 align="left" style="margin-bottom:8px; margin-top:0;">Contact Info</h2>
-<div style="background-color:#f9f9f9; border-radius:10px; padding:12px 18px; line-height:1.5; font-size:15px; margin-bottom:24px;">
-  Department of Computer Science and Technology, Nanjing Tech University<br/>
-  Addr: 30 South Puzhu Road, 79 Box, Nanjing, China, 211816<br/>
-  Email: <a href="mailto:hshen@njtech.edu.cn">hshen@njtech.edu.cn</a>, <a href="mailto:helloshenhang@gmail.com">helloshenhang@gmail.com</a>
+
+<h2 align="left" style="margin-bottom:8px; margin-top:0;">📮 Contact Info</h2>
+
+<div style="
+  background-color:#f9f9f9;
+  border-radius:10px;
+  padding:14px 20px;
+  line-height:1.6;
+  font-size:15px;
+  border:1px solid #e8e8e8;
+  margin-bottom:26px;
+">
+  <p style="margin:0;">
+    🏫 <b>Department:</b> Computer Science and Technology, Nanjing Tech University
+  </p>
+  <p style="margin:2px 0 12px 0;">
+    📍 <b>Address:</b> 30 South Puzhu Road, 79 Box, Nanjing, China, 211816
+  </p>
+
+  <!-- 只保留下方醒目的 Email 区块 -->
+  <p style="text-align:center; font-size:16px; margin:10px 0 0 0;">
+    ✉️ <b><span style="color:#8B0000;">欢迎随时与我联系：</span></b><br/>
+    <a href="mailto:hshen@njtech.edu.cn"
+       style="color:#2A52BE; font-weight:bold; text-decoration:none; font-size:16px;"
+       onmouseover="this.style.color='#c21807'"
+       onmouseout="this.style.color='#2A52BE'">
+      hshen@njtech.edu.cn
+    </a>
+  </p>
 </div>
+
