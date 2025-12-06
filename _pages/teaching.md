@@ -61,7 +61,7 @@ redirect_from:
 | Appliaction Layer   | [DNS](https://blog.csdn.net/struggle_w/article/details/123493782), [邮件系统](https://zhuanlan.zhihu.com/p/584356072), [FTP和TFTP](https://zhuanlan.zhihu.com/p/106279413), [HTTP](https://www.cnblogs.com/an-wen/p/11180076.html), [持续性与非持续性HTTP](https://www.cnblogs.com/an-wen/p/11180076.html) |
 
 <h3 style="font-size:17px; color:#2c3e50; margin-bottom:8px; margin-top:20px;">
-  计算机网络实验中需要考虑的问题
+  计算机网络实验
 </h3>
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:14px 18px; line-height:1.7; font-size:15px; box-shadow:0 1px 5px rgba(0,0,0,0.06);">
