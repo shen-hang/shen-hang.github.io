@@ -134,39 +134,6 @@ redirect_from:
 
 <hr style="border: 0; border-top: 2px solid #1E90FF; margin: 24px 0 16px 0; opacity: 0.6;">
 
-<h3 style="font-size:17px; color:#2c3e50; margin-bottom:6px; margin-top:18px;">
-  计算机专业写作
-  <span style="font-weight:normal; color:#666; font-size:13px;">— Undergraduate Course</span>
-</h3>
-<p style="margin:0 0 10px 0; color:#555; font-size:13px;">
-  Offered Semester：Spring 2023
-</p>
-
-| Item      | Description                                                  |
-| --------- | ------------------------------------------------------------ |
-| 大作业要求 | 用Latex或overleaf([模板下载(zxwj)](https://pan.baidu.com/s/144VbIAGMZ3qCV-a3qxmstQ))写一篇短文(不少于2000字)，覆盖如下内容：<br/>1. 课题价值和意义<br/>2. 当前研究进展（做了什么、怎么做的）<br/>3. 当前方法存在的主要问题<br/>4. 你的问题解决方案或思路<br/>5. 所提方案的优越性 <br/>**文章要有题目、摘要和结论！**|
-
-<hr style="border: 0; border-top: 2px solid #1E90FF; margin: 24px 0 16px 0; opacity: 0.6;">
-
-<h3 style="font-size:17px; color:#2c3e50; margin-bottom:6px; margin-top:18px;">
-  Linux编程（Linux Programming）
-  <span style="font-weight:normal; color:#666; font-size:13px;">— Undergraduate course</span>
-</h3>
-<p style="margin:0 0 10px 0; color:#555; font-size:13px;">
-  Offered Semester：Spring 2015-2017
-</p>
-
-| Item                  | Links & Description                                          |
-| --------------------- | ------------------------------------------------------------ |
-| Textbook              | 《Linux教程》，第4版，孟庆昌等 著，电子工业出版社          |
-| Reference             | 《UNIX编程艺术》，作者：Eric S·Raymond，出版社：电子工业出版社，译者：姜宏等<br/>《TCP/IP详解》（共三卷），作者：W Richard Stevens等，出版社：机械工业出版社<br/>[《鸟哥的Linux私房菜》](http://linux.vbird.org/linux_basic/), [C Library](https://www-s.acm.illinois.edu/webmonkeys/book/c_guide/), [C++ library](http://www.cplusplus.com/reference/clibrary/), [STL](http://www.cplusplus.com/reference/stl/) |
-| Kernel data structure | [Kernel Archives](https://www.kernel.org/), [Cross Reference](http://lxr.free-electrons.com/), [Interactive map](http://www.makelinux.net/kernel_map/), [内核中文手册](http://net.pku.edu.cn/~yhf/lyceum/linuxK/tlk.html), [链表数据结构](https://www.ibm.com/developerworks/cn/linux/kernel/l-chain/), [Linked List](https://isis.poly.edu/kulesh/stuff/src/klist/), [循环双向链表(上)](http://blog.csdn.net/npy_lp/article/details/7294494/), [循环双向链表(下)](http://blog.csdn.net/npy_lp/article/details/7299375), [红黑树](http://blog.csdn.net/npy_lp/article/details/7420689), [ring buffer](http://blog.csdn.net/yusiguyuan/article/details/41985907), [内存池](https://www.ibm.com/developerworks/cn/linux/l-cn-ppp/index6.html), [编码风格](http://iyu.is-programmer.com/posts/30315.html), [设备驱动Hello World程序](http://coolshell.cn/articles/566.html) |
-| Process               | Preliminary: [fork函数详解](http://blog.csdn.net/jason314/article/details/5640969), [使用GDB调试多进程程序](https://www.ibm.com/developerworks/cn/linux/l-cn-gdbmp/)<br/>IPC: [管道](https://www.ibm.com/developerworks/cn/linux/l-ipc/part1/), [信号(上)](http://www.ibm.com/developerworks/cn/linux/l-ipc/part2/index1.html), [信号(下)](http://www.ibm.com/developerworks/cn/linux/l-ipc/part2/index2.html), [消息队列](https://www.ibm.com/developerworks/cn/linux/l-ipc/part3/), [信号灯](https://www.ibm.com/developerworks/cn/linux/l-ipc/part4/), [共享内存(上)](http://www.ibm.com/developerworks/cn/linux/l-ipc/part5/index1.html), [共享内存(下)](http://www.ibm.com/developerworks/cn/linux/l-ipc/part5/index2.html), [套接口](https://www.ibm.com/developerworks/cn/linux/l-ipc/part6/) |
-| POIX Thread           | Preliminary: [Threads Programming](https://computing.llnl.gov/tutorials/pthreads/), [Pthreads Tutorial](http://randu.org/tutorials/threads/), [GNU Portable Threads](http://www.gnu.org/software/pth/pth-manual.html)<br/>POSIX: [创建多线程](https://www.ibm.com/developerworks/cn/linux/thread/posix_thread1/), [互斥](https://www.ibm.com/developerworks/cn/linux/thread/posix_thread2/), [条件变量](https://www.ibm.com/developerworks/cn/linux/thread/posix_thread3/), [线程池](http://blog.csdn.net/hinyunsin/article/details/6650879/)<br/>Timer: [实现方式](https://www.ibm.com/developerworks/cn/linux/l-cn-timers/), [时钟管理](https://www.ibm.com/developerworks/cn/linux/l-cn-timerm/), [应用层编程](https://www.ibm.com/developerworks/cn/linux/1307_liuming_linuxtime1/), [硬件和GLibC库的细节](https://www.ibm.com/developerworks/cn/linux/1307_liuming_linuxtime2/), [内核工作1](https://www.ibm.com/developerworks/cn/linux/1308_liuming_linuxtime3/), [内核工作2](https://www.ibm.com/developerworks/cn/linux/1308_liuming_linuxtime4/) |
-| Editor                | VIM: [实用技巧](https://www.ibm.com/developerworks/cn/linux/l-tip-vim1/), [常用插件](https://www.ibm.com/developerworks/cn/linux/l-tip-vim2/), [定制VIM](https://www.ibm.com/developerworks/cn/linux/l-tip-vim3/), [Vimdiff使用](https://www.ibm.com/developerworks/cn/linux/l-vimdiff/), [SpaceVim](http://spacevim.org/)<br/>Emacs: [Emacs Chat](https://plus.google.com/communities/114815898697665598016), [Planet Emacsen](http://planet.emacsen.org/), [EmacsWiki](http://planet.emacsen.org/), [Emacs论坛](https://plus.google.com/communities/114815898697665598016)<br/>Flowchart: [Drakon](http://drakon-editor.sourceforge.net/), [FSME](https://sourceforge.net/projects/fsme/) |
-
-<hr style="border: 0; border-top: 2px solid #1E90FF; margin: 24px 0 16px 0; opacity: 0.6;">
-
 <h3 style="font-size:17px; color:#2c3e50; margin-bottom:6px; margin-top:10px;"> 
   高级计算机网络（Advanced Computer Networks）
   <span style="font-weight:normal; color:#666; font-size:13px;">— 研究生课程（Graduate Course）</span>
@@ -305,6 +272,41 @@ redirect_from:
   </div>
 
 </div>
+
+
+<hr style="border: 0; border-top: 2px solid #1E90FF; margin: 24px 0 16px 0; opacity: 0.6;">
+
+<h3 style="font-size:17px; color:#2c3e50; margin-bottom:6px; margin-top:18px;">
+  计算机专业写作
+  <span style="font-weight:normal; color:#666; font-size:13px;">— Undergraduate Course</span>
+</h3>
+<p style="margin:0 0 10px 0; color:#555; font-size:13px;">
+  Offered Semester：Spring 2023
+</p>
+
+| Item      | Description                                                  |
+| --------- | ------------------------------------------------------------ |
+| 大作业要求 | 用Latex或overleaf([模板下载(zxwj)](https://pan.baidu.com/s/144VbIAGMZ3qCV-a3qxmstQ))写一篇短文(不少于2000字)，覆盖如下内容：<br/>1. 课题价值和意义<br/>2. 当前研究进展（做了什么、怎么做的）<br/>3. 当前方法存在的主要问题<br/>4. 你的问题解决方案或思路<br/>5. 所提方案的优越性 <br/>**文章要有题目、摘要和结论！**|
+
+<hr style="border: 0; border-top: 2px solid #1E90FF; margin: 24px 0 16px 0; opacity: 0.6;">
+
+<h3 style="font-size:17px; color:#2c3e50; margin-bottom:6px; margin-top:18px;">
+  Linux编程（Linux Programming）
+  <span style="font-weight:normal; color:#666; font-size:13px;">— Undergraduate course</span>
+</h3>
+<p style="margin:0 0 10px 0; color:#555; font-size:13px;">
+  Offered Semester：Spring 2015-2017
+</p>
+
+| Item                  | Links & Description                                          |
+| --------------------- | ------------------------------------------------------------ |
+| Textbook              | 《Linux教程》，第4版，孟庆昌等 著，电子工业出版社          |
+| Reference             | 《UNIX编程艺术》，作者：Eric S·Raymond，出版社：电子工业出版社，译者：姜宏等<br/>《TCP/IP详解》（共三卷），作者：W Richard Stevens等，出版社：机械工业出版社<br/>[《鸟哥的Linux私房菜》](http://linux.vbird.org/linux_basic/), [C Library](https://www-s.acm.illinois.edu/webmonkeys/book/c_guide/), [C++ library](http://www.cplusplus.com/reference/clibrary/), [STL](http://www.cplusplus.com/reference/stl/) |
+| Kernel data structure | [Kernel Archives](https://www.kernel.org/), [Cross Reference](http://lxr.free-electrons.com/), [Interactive map](http://www.makelinux.net/kernel_map/), [内核中文手册](http://net.pku.edu.cn/~yhf/lyceum/linuxK/tlk.html), [链表数据结构](https://www.ibm.com/developerworks/cn/linux/kernel/l-chain/), [Linked List](https://isis.poly.edu/kulesh/stuff/src/klist/), [循环双向链表(上)](http://blog.csdn.net/npy_lp/article/details/7294494/), [循环双向链表(下)](http://blog.csdn.net/npy_lp/article/details/7299375), [红黑树](http://blog.csdn.net/npy_lp/article/details/7420689), [ring buffer](http://blog.csdn.net/yusiguyuan/article/details/41985907), [内存池](https://www.ibm.com/developerworks/cn/linux/l-cn-ppp/index6.html), [编码风格](http://iyu.is-programmer.com/posts/30315.html), [设备驱动Hello World程序](http://coolshell.cn/articles/566.html) |
+| Process               | Preliminary: [fork函数详解](http://blog.csdn.net/jason314/article/details/5640969), [使用GDB调试多进程程序](https://www.ibm.com/developerworks/cn/linux/l-cn-gdbmp/)<br/>IPC: [管道](https://www.ibm.com/developerworks/cn/linux/l-ipc/part1/), [信号(上)](http://www.ibm.com/developerworks/cn/linux/l-ipc/part2/index1.html), [信号(下)](http://www.ibm.com/developerworks/cn/linux/l-ipc/part2/index2.html), [消息队列](https://www.ibm.com/developerworks/cn/linux/l-ipc/part3/), [信号灯](https://www.ibm.com/developerworks/cn/linux/l-ipc/part4/), [共享内存(上)](http://www.ibm.com/developerworks/cn/linux/l-ipc/part5/index1.html), [共享内存(下)](http://www.ibm.com/developerworks/cn/linux/l-ipc/part5/index2.html), [套接口](https://www.ibm.com/developerworks/cn/linux/l-ipc/part6/) |
+| POIX Thread           | Preliminary: [Threads Programming](https://computing.llnl.gov/tutorials/pthreads/), [Pthreads Tutorial](http://randu.org/tutorials/threads/), [GNU Portable Threads](http://www.gnu.org/software/pth/pth-manual.html)<br/>POSIX: [创建多线程](https://www.ibm.com/developerworks/cn/linux/thread/posix_thread1/), [互斥](https://www.ibm.com/developerworks/cn/linux/thread/posix_thread2/), [条件变量](https://www.ibm.com/developerworks/cn/linux/thread/posix_thread3/), [线程池](http://blog.csdn.net/hinyunsin/article/details/6650879/)<br/>Timer: [实现方式](https://www.ibm.com/developerworks/cn/linux/l-cn-timers/), [时钟管理](https://www.ibm.com/developerworks/cn/linux/l-cn-timerm/), [应用层编程](https://www.ibm.com/developerworks/cn/linux/1307_liuming_linuxtime1/), [硬件和GLibC库的细节](https://www.ibm.com/developerworks/cn/linux/1307_liuming_linuxtime2/), [内核工作1](https://www.ibm.com/developerworks/cn/linux/1308_liuming_linuxtime3/), [内核工作2](https://www.ibm.com/developerworks/cn/linux/1308_liuming_linuxtime4/) |
+| Editor                | VIM: [实用技巧](https://www.ibm.com/developerworks/cn/linux/l-tip-vim1/), [常用插件](https://www.ibm.com/developerworks/cn/linux/l-tip-vim2/), [定制VIM](https://www.ibm.com/developerworks/cn/linux/l-tip-vim3/), [Vimdiff使用](https://www.ibm.com/developerworks/cn/linux/l-vimdiff/), [SpaceVim](http://spacevim.org/)<br/>Emacs: [Emacs Chat](https://plus.google.com/communities/114815898697665598016), [Planet Emacsen](http://planet.emacsen.org/), [EmacsWiki](http://planet.emacsen.org/), [Emacs论坛](https://plus.google.com/communities/114815898697665598016)<br/>Flowchart: [Drakon](http://drakon-editor.sourceforge.net/), [FSME](https://sourceforge.net/projects/fsme/) |
+
 
 
 
