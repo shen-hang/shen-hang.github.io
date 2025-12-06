@@ -189,7 +189,7 @@ redirect_from:
 
 
 
-<h2 align="left" style="margin-bottom:8px; margin-top:0;">📮 Contact Info</h2>
+<h2 align="left" style="margin-bottom:8px; margin-top:0;">Contact Info</h2>
 
 <div style="
   background-color:#f9f9f9;
