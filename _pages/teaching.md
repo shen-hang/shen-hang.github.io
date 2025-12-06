@@ -210,6 +210,10 @@ redirect_from:
   TCP Trace Analysis 研究报告结构（参考）
 </h3>
 
+<p style="margin:0 0 14px 2px; font-size:14px; color:#555;">
+  本研究报告围绕 <code>http_espn.pcapng</code> 进行深入分析，该 trace 来源于网页浏览场景，包含 TCP、DNS 与 HTTP 多层交互。报告目标是从 trace 中挖掘网络链路质量、资源加载模式与用户体验相关的性能特征。
+</p>
+
 <div style="background-color:#f9f9f9; border-radius:10px; padding:14px 18px; line-height:1.7; font-size:15px; box-shadow:0 1px 5px rgba(0,0,0,0.06);">
 
   <!-- A. 引言 -->
@@ -217,13 +221,13 @@ redirect_from:
     <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">A. 引言</summary>
 
     <p style="margin:6px 0 0 4px;">
-      引言部分用于介绍本次分析对象 <code>web.pcapng</code> 的来源与网络场景（例如网页浏览、多资源加载等），说明研究的目标与意义，并描述本报告采用的主要分析手段。
+      引言部分用于描述研究的目的与意义，并说明用于分析 trace 的主要工具与方法（如 Wireshark、程序化提取与可视化）。可在引言中简要概括网页加载场景、跨层交互问题与性能诊断思路。
     </p>
 
     <ul style="margin-top:6px; margin-left:24px;">
-      <li>Trace 文件场景背景与数据来源</li>
-      <li>研究目的与关键问题（TCP、DNS、HTTP 行为与性能分析）</li>
-      <li>分析方法说明（Wireshark、程序化提取、可视化）</li>
+      <li>研究目标与问题背景（链路质量、加载性能、协议交互）</li>
+      <li>分析工具与方法说明（Wireshark + Python 可视化）</li>
+      <li>面向 trace 的性能洞察目标与意义</li>
     </ul>
   </details>
 
