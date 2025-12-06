@@ -40,12 +40,6 @@ redirect_from:
   <b>中行软开｜微众银行｜蚂蚁集团｜南京证券</b>等。
 </p>
 
-<p style="text-align:center; font-size:16px; margin:14px 0 0 0;">
-  ✉️ <b><span style="color:#8B0000;">欢迎随时与我联系：</span></b>
-  <a href="mailto:hshen@njtech.edu.cn" style="color:#2A52BE; font-weight:bold; text-decoration:none;">
-    hshen@njtech.edu.cn
-  </a>
-</p>
 </div>
 
 
