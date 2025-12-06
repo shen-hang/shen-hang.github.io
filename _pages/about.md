@@ -22,7 +22,6 @@ redirect_from:
 </span>
 可推荐至国内外知名高校攻读硕士或博士学位。
 
-
 </div>
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.7; font-size:15px; box-shadow:0 1px 5px rgba(0,0,0,0.06); margin-top:0px;">
@@ -30,15 +29,13 @@ redirect_from:
   
 <b>内部培养体系</b> —— 培养体系与主流 IT 企业和产业实践深度对接<br/> 
 <b>项目津贴支持</b> —— 根据参与度发放补贴，认可你的努力与成果<br/> 
-<b>积累真实经验</b> —— 深入 AI 应用场景，深入理解框架及开发技术<br/> 
 <b>实践能力认证</b> —— 提供项目实践和实习证明，助力升学与求职
-
 
 
 <hr style="border:none; border-top:1px dashed #ccc; margin:18px 0;">
 
 <p style="margin:0 0 10px 0;">
-  培养的研究生许多受聘于国内外顶尖 IT 科技企业，包括：<br/>
+  培养的研究生许多受聘于国内外顶尖 IT 科技企业，包括：
   <b>华为（南京、上海、深圳、武汉）｜中兴｜大疆｜展锐｜字节跳动｜海康威视｜大华｜百度｜H3C｜微软中国｜德州仪器｜爱立信｜诺基亚｜三星南京研究所</b><br/>
   以及知名科技金融机构，包括：<br/>
   <b>中行软开｜微众银行｜蚂蚁集团｜南京证券</b>等。
