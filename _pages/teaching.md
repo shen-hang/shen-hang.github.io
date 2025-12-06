@@ -211,7 +211,7 @@ redirect_from:
 </h3>
 
 <p style="margin:0 0 14px 2px; font-size:14px; color:#555;">
-本研究报告围绕一个采集自网页浏览场景的 trace 文件（<code>待发布</code>）展开（包含 TCP、DNS 与 HTTP 多层交互），其中包含 TCP、DNS 与 HTTP 多层交互。目标是从 trace 中挖掘网络链路质量、资源加载模式与用户体验相关的性能特征。。
+本研究报告分析一个采集自Web浏览场景的 trace <code>待发布</code>（包含 TCP、DNS 与 HTTP 多层交互）。目标是从 trace 中挖掘网络链路质量、资源加载模式与用户体验相关的性能特征。。
 </p>
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:14px 18px; line-height:1.7; font-size:15px; box-shadow:0 1px 5px rgba(0,0,0,0.06);">
