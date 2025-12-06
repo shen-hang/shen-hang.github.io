@@ -209,7 +209,7 @@ redirect_from:
 
   <!-- 只保留下方醒目的 Email 区块 -->
   <p style="text-align:center; font-size:16px; margin:10px 0 0 0;">
-    ✉️ <b><span style="color:#8B0000;">欢迎随时与我联系：</span></b><br/>
+    ✉️ <b><span style="color:#8B0000;">欢迎随时与我联系：</span></b>
     <a href="mailto:hshen@njtech.edu.cn"
        style="color:#2A52BE; font-weight:bold; text-decoration:none; font-size:16px;"
        onmouseover="this.style.color='#c21807'"
