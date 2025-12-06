@@ -279,7 +279,7 @@ redirect_from:
   </details>
 
   <!-- E. 综合性能诊断 -->
-  <details>
+  <details style="margin-bottom:10px;">
     <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">E. 综合性能诊断与体验分析</summary>
 
     <p style="margin:6px 0 0 4px;">
@@ -289,15 +289,17 @@ redirect_from:
     <ul style="margin-top:6px; margin-left:24px;">
       <li>链路质量诊断（RTT 稳定性、抖动、重传）</li>
       <li>加载瓶颈定位（DNS、慢启动、大对象、串行依赖）</li>
+      <li>页面渲染体验推断（是否出现等待、白屏、首屏延迟）</li>
       <li>跨层性能影响讨论（TCP ↔ DNS ↔ HTTP）</li>
       <li>优化建议或未来改进方向（可选）</li>
     </ul>
-
-    <div style="margin-top:10px; background-color:#fff; border-left:4px solid #1E90FF; padding:8px 10px; border-radius:6px; font-size:14px; color:#444;">
-      <b>注：</b>
-      鼓励大家从 trace 中尽可能多地挖掘各类性能细节，包括时间序列指标、可视化图表、异常行为与协议交互特征等；只要图表清晰、指标准确、解释合理，均会作为分析成果予以认可。。
-    </div>
   </details>
+
+  <!-- ⭐ 单列提示 -->
+  <div style="margin-top:12px; background-color:#fff; border-left:4px solid #32CD32; padding:10px 12px; border-radius:6px; font-size:14px; color:#444;">
+    <b>提示：</b>
+    鼓励大家从 trace 中尽可能多地挖掘各类性能特征，包括时间序列指标、异常行为、对象依赖关系、跨层交互以及可视化图表等；只要图表清晰、指标准确、解释合理，均认定为高质量分析成果。
+  </div>
 
 </div>
 
