@@ -109,9 +109,9 @@ redirect_from:
       面向社交网络跨语言虚假信息检测的 LLM 增强自监督域自适应方法</a>, 
       <i>电子学报</i>, 2025, 在线发表.
       <b>(CCF推荐A类中文期刊)</b> 
-<span style="color:#2f4f4f; background-color:#eef3f8; border-radius:4px; padding:1px 6px; font-weight:500;">
-  把论文写在祖国的大地上
-</span>
+  <span style="color:#1E90FF; font-weight:500;">
+    把论文写在祖国的大地上
+  </span>
  <a href="http://shen-hang.github.io/files/电子学报2025.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
 
