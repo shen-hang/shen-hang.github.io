@@ -185,7 +185,6 @@ redirect_from:
   and the Annual International Conference on Privacy, Security and Trust (PST). 
   He is a member of the IEEE Computer Society, Communication Society, and Vehicular Technology Society, 
   a CCF Senior Member, and an Executive Committee Member of the ACM Nanjing Chapter.
-  
 </div>
 
 
@@ -219,4 +218,3 @@ redirect_from:
     </a>
   </p>
 </div>
-
