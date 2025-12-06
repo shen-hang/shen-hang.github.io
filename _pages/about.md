@@ -201,15 +201,15 @@ redirect_from:
   margin-bottom:26px;
 ">
   <p style="margin:0;">
-    🏫 <b>Department:</b> Computer Science and Technology, Nanjing Tech University
+    <b>Department:</b> Computer Science and Technology, Nanjing Tech University
   </p>
   <p style="margin:2px 0 12px 0;">
-    📍 <b>Address:</b> 30 South Puzhu Road, 79 Box, Nanjing, China, 211816
+    <b>Address:</b> 30 South Puzhu Road, 79 Box, Nanjing, China, 211816
   </p>
 
   <!-- 只保留下方醒目的 Email 区块 -->
   <p style="text-align:center; font-size:16px; margin:10px 0 0 0;">
-    ✉️ <b><span style="color:#8B0000;">欢迎随时与我联系：</span></b>
+    ✉️ <b><span style="color:#8B0000;">欢迎与我联系：</span></b>
     <a href="mailto:hshen@njtech.edu.cn"
        style="color:#2A52BE; font-weight:bold; text-decoration:none; font-size:16px;"
        onmouseover="this.style.color='#c21807'"
