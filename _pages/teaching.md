@@ -217,14 +217,13 @@ redirect_from:
     <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">A. 引言</summary>
 
     <p style="margin:6px 0 0 4px;">
-      引言部分用于介绍本次分析对象 <code>web.pcapng</code> 的来源与网络场景（例如网页浏览、多资源加载等），说明研究的目标与意义，并描述本报告采用的主要工具与方法。
+      引言部分用于介绍本次分析对象 <code>web.pcapng</code> 的来源与网络场景（例如网页浏览、多资源加载等），说明研究的目标与意义，并描述本报告采用的主要分析手段。
     </p>
 
     <ul style="margin-top:6px; margin-left:24px;">
       <li>Trace 文件场景背景与数据来源</li>
       <li>研究目的与关键问题（TCP、DNS、HTTP 行为与性能分析）</li>
-      <li>分析方法说明（Wireshark + 程序化提取 + 可视化）</li>
-      <li>报告结果可能用于诊断网页加载体验与瓶颈</li>
+      <li>分析方法说明（Wireshark、程序化提取、可视化）</li>
     </ul>
   </details>
 
@@ -237,11 +236,11 @@ redirect_from:
     </p>
 
     <ul style="margin-top:6px; margin-left:24px;">
-      <li>连接建立与关闭过程（SYN、ACK、FIN、RST）</li>
+      <li>连接建立与关闭（SYN、ACK、FIN、RST）</li>
       <li>数据传输中的异常（重传、重复 ACK、乱序）</li>
       <li>时间序列 RTT 提取与可视化（RTT vs Time）</li>
       <li>固定时间窗口的吞吐率统计与可视化（Throughput vs Time）</li>
-      <li>链路稳定性与拥塞迹象分析（波动、峰值、下降段）</li>
+      <li>链路稳定性与拥塞迹象（波动、峰值、下降段）</li>
     </ul>
   </details>
 
