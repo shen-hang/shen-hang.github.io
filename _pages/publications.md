@@ -28,14 +28,6 @@ redirect_from:
       <b>(CCF推荐A类国际期刊, 中科院一区Top)</b> 
       <a href="http://shen-hang.github.io/files/TMC2024.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
-    <li>
-      <b>Hang Shen*</b>, Ziyuan Tong（童子源）, Tianjing Wang, and Guangwei Bai. 
-      <a href="https://ieeexplore.ieee.org/document/10314431" style="color:#000; text-decoration:none;">
-      UAV-Relay-Assisted Live Layered Video Multicast for Cell-Edge Users in NOMA Networks</a>, 
-      <i>IEEE Transactions on Broadcasting (TBC)</i>, 2024, 70(1): 135–147. 
-      <b>(中科院二区)</b> 
-      <a href="http://shen-hang.github.io/files/TBC2024.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
-    </li>
 <li> 
   殷珉, <b>沈航*</b>, 王天荆, 白光伟. <a href="https://www.ejournal.org.cn/thesisDetails#10.12263/DZXB.20221083&lang=zh" style="color:#000; text-decoration:none;">
       基于分层联邦学习的无人机小基站 RAN 切片方法</a>, 
@@ -46,6 +38,14 @@ redirect_from:
 </span>
   <a href="http://shen-hang.github.io/files/电子学报2023.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
 </li>
+    <li>
+      <b>Hang Shen*</b>, Ziyuan Tong（童子源）, Tianjing Wang, and Guangwei Bai. 
+      <a href="https://ieeexplore.ieee.org/document/10314431" style="color:#000; text-decoration:none;">
+      UAV-Relay-Assisted Live Layered Video Multicast for Cell-Edge Users in NOMA Networks</a>, 
+      <i>IEEE Transactions on Broadcasting (TBC)</i>, 2024, 70(1): 135–147. 
+      <b>(中科院二区)</b> 
+      <a href="http://shen-hang.github.io/files/TBC2024.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
+    </li>
     <li>
       <b>Hang Shen</b>, Qiang Ye*, Weihua Zhuang, Weisen Shi, Guangwei Bai, and Geng Yang. 
       <a href="https://ieeexplore.ieee.org/document/9440683" style="color:#000; text-decoration:none;">
