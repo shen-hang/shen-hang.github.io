@@ -23,10 +23,11 @@ redirect_from:
     <li>工业定检大模型及知识图谱设计, 企业横向项目, 2024/10–2025/04, <b>负责人</b></li>
     <li>农产数据知识图谱和大语言模型, 企业横向项目, 2024/08–2024/12, <b>负责人</b></li>
     <li>哲学领域知识图谱构建和应用系统研发, 企业横向项目, 2023/01–2023/06, <b>负责人</b></li>
-    <li>东方航空联运网络优化——空铁一体化动态路由计算引擎, 企业横向项目, 2021/11–2022/05, <b>负责人</b></li>
+    <li>东方航空空铁联运动态路由算法设计与开发, 企业横向项目, 2022/08–2022/12, <b>负责人</b></li>
     <li>大规模网络攻防关键技术研究, 企业横向项目, 2021/08–2024/08, <b>负责人</b></li>
-    <li>Natural Science Foundation of Jiangsu Province, Grant No. BK20201357, 2020/07–2023/06, Intelligent Slicing for Drone-Small-Cell-Assisted Radio Access Networks, <b>Principal Investigator</b></li>
-    <li>The Six Talent Peaks Project in Jiangsu Province, Grant No. RJFW-020, 2019/07–2022/06, Privacy-Preserving Mechanism in Location-based Big Data Services, <b>Principal Investigator</b></li>
+    <li>秀川智慧云协同控制软件研发, 企业横向项目, 2021/05-2021/12, <b>负责人</b></li>
+    <li>江苏省自然科学基金项目, BK20201357, 2020/07–2023/06, 无人机小基站辅助的无线网络智能切片机制研究, <b>负责人</b></li>
+    <li>江苏省六大人才高峰项目, RJFW-020, 2019/07–2022/06, 位置大数据隐私保护机制研究, <b>负责人</b></li>
     <li>State Key Laboratory Program for Novel Software Technology, Grant No. KFKT2017B21, Location Privacy Preservation for Road Networks, 2017/07–2019/06, <b>Principal Investigator</b></li>
     <li>National Engineering Research Center Program of Communications and Networking, Grant No. GCZX012, Privacy-Preserving Vehicular Communications, 2017/07–2019/06, <b>Principal Investigator</b></li>
     <li>National Natural Science Foundation of China, Grant No. 61502230, Research on Network-Coding-Based Data Distribution in Link-Correlated Wireless Networks, 2016/01–2018/12, <b>Principal Investigator</b></li>
