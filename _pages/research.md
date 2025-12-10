@@ -95,6 +95,7 @@ redirect_from:
   - IEEE Systems Journal<br/>
   - IEEE Sensors Journal<br/>
   - IEEE Communications Letters<br/>
+  - Frontiers of Computer Science<br/>
   - Wireless Networks (WINE)<br/>
   - Concurrency and Computation: Practice and Experience (CCPE)<br/>
   - Cluster Computing<br/>
