@@ -203,7 +203,7 @@ redirect_from:
     <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">B. TCP 行为分析</summary>
     
     <p style="margin:6px 0 0 4px;">
-      从 TCP 层入手，可以通过工具（如Wireshark）观察连接建立、传输与关闭，再通过编程提取 RTT、吞吐率等定量指标，并以图表展示性能变化，从而诊断链路稳定性、拥塞或重传等问题。
+      从 TCP 层入手，可以通过工具或编程观察连接建立、传输与关闭，再通过编程提取 RTT、吞吐率等定量指标，并以图表展示性能变化，从而诊断链路稳定性、拥塞或重传等问题。
     </p>
 
     <ul style="margin-top:6px; margin-left:24px;">
