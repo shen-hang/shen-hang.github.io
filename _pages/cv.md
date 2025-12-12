@@ -445,7 +445,6 @@ redirect_from:
     <li>Natural Science Foundation of Jiangsu Province, Grant No. BK20150960, 2015/07–2018/06, Efficient Network Coding for Wireless Data Distribution Applications, <b>Principal Investigator</b></li>
     <li>Program of Computer Science Research Center, Grant No. KJR16078, Event Awareness & Information Exchange on the Internet of Multimedia Things, 2016/04–2017/04, <b>Principal Investigator</b></li>
     <li>Natural Science Foundation of Jiangsu Higher Education Institutions, Grant No. 15KJB520015, 2015/07–2017/06, <b>Principal Investigator</b></li>
-    <li>Research Innovation Program for College Graduates in Jiangsu Province, Grant No. CXLX11 0262, Research on Communication Protocol in Wireless Multimedia Sensor Networks, 2011/06–2013/06, <b>Principal Investigator</b></li>
     <li>Scientific & Technological Support Project of Jiangsu Province, Grant No. BK2010548, Real-Time Media Streaming System for Wireless Mobile Internet, 2011/12–2014/12, <b>Sub-project Leader</b></li>
     <li>Nanjing Municipal Science and Technology Plan Project, Grant No. 201608009, Medical Image Information Sharing Platform Based on Internet of Things Technology, 2017/01–2019/12, <b>Research Staff</b></li>
     <li>Project on Future Networks of Jiangsu Future Networks Innovation Institute, Grant No. BY2013095-4-09, Key Technology Research and Verification on Mobile Media Cloud Services of Future Networks, 2013/12–2015/12, <b>Research Staff</b></li>
