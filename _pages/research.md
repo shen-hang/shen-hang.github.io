@@ -28,13 +28,11 @@ redirect_from:
     <li>秀川智慧云协同控制软件研发, 企业横向项目, 2021/05-2021/12, <b>负责人</b></li>
     <li>江苏省自然科学基金项目, BK20201357, 2020/07–2023/06, 无人机小基站辅助的无线网络智能切片机制研究, <b>负责人</b></li>
     <li>江苏省六大人才高峰项目, RJFW-020, 2019/07–2022/06, 位置大数据隐私保护机制研究, <b>负责人</b></li>
-    <li>State Key Laboratory Program for Novel Software Technology, Grant No. KFKT2017B21, Location Privacy Preservation for Road Networks, 2017/07–2019/06, <b>Principal Investigator</b></li>
-    <li>National Engineering Research Center Program of Communications and Networking, Grant No. GCZX012, Privacy-Preserving Vehicular Communications, 2017/07–2019/06, <b>Principal Investigator</b></li>
-    <li>National Natural Science Foundation of China, Grant No. 61502230, Research on Network-Coding-Based Data Distribution in Link-Correlated Wireless Networks, 2016/01–2018/12, <b>Principal Investigator</b></li>
-    <li>Natural Science Foundation of Jiangsu Province, Grant No. BK20150960, 2015/07–2018/06, Efficient Network Coding for Wireless Data Distribution Applications, <b>Principal Investigator</b></li>
-    <li>Program of Computer Science Research Center, Grant No. KJR16078, Event Awareness & Information Exchange on the Internet of Multimedia Things, 2016/04–2017/04, <b>Principal Investigator</b></li>
-    <li>Natural Science Foundation of Jiangsu Higher Education Institutions, Grant No. 15KJB520015, 2015/07–2017/06, <b>Principal Investigator</b></li>
-    <li>Research Innovation Program for College Graduates in Jiangsu Province, Grant No. CXLX11 0262, Research on Communication Protocol in Wireless Multimedia Sensor Networks, 2011/06–2013/06, <b>Principal Investigator</b></li>
+    <li>计算机软件新技术国家重点实验室资助项目, KFKT2017B21, 路网环境下的新型位置隐私保护机制研究, 2017/07–2019/06, <b>负责人</b></li>
+    <li>通信与网络技术国家工程研究中心资助项目, GCZX012, 车联网环境下位置隐私保护机制研究, 2017/07–2019/06, <b>负责人</b></li>
+    <li>国家自然科学基金-青年项目, 61502230, 链路相关无线网络中基于网络编码的数据分发机制研究,, 2016/01–2018/12, <b>负责人</b></li>
+    <li>江苏省自然科学基金-青年项目, BK20150960, 2015/07–2018/06, 面向无线数据分发应用的新型网络编码机制研究, <b>负责人</b></li>
+    <li>江苏省高校自然科学研究-面上项目, 15KJB520015, 无线数据分发中链路相关性感知的网络编码机制研究, 2015/07–2017/06, <b>负责人</b></li>
     <li>Scientific & Technological Support Project of Jiangsu Province, Grant No. BK2010548, Real-Time Media Streaming System for Wireless Mobile Internet, 2011/12–2014/12, <b>Sub-project Leader</b></li>
     <li>Nanjing Municipal Science and Technology Plan Project, Grant No. 201608009, Medical Image Information Sharing Platform Based on Internet of Things Technology, 2017/01–2019/12, <b>Research Staff</b></li>
     <li>Project on Future Networks of Jiangsu Future Networks Innovation Institute, Grant No. BY2013095-4-09, Key Technology Research and Verification on Mobile Media Cloud Services of Future Networks, 2013/12–2015/12, <b>Research Staff</b></li>
