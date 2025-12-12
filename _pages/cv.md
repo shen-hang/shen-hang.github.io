@@ -343,7 +343,6 @@ redirect_from:
       <a href="https://ieeexplore.ieee.org/document/11134474" style="color:#000; text-decoration:none;">
       Blockchain-Assisted Cross-silo Graph Federated Learning for Network Intrusion Detection</a>,
       <i>IEEE Global Blockchain Conference (GBC)</i>, Shanghai, China, Jun 19–21, 2025, pp. 1–8.
-      <b>(IEEE区块链旗舰会议)</b>
       <a href="http://shen-hang.github.io/files/GBC2025-Graph.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
 
@@ -352,7 +351,6 @@ redirect_from:
       <a href="https://ieeexplore.ieee.org/document/11134462" style="color:#000; text-decoration:none;">
       Monero Covert Communication-Enhanced Collaboration for Privacy-Preserving Queries</a>,
       <i>IEEE Global Blockchain Conference (GBC)</i>, Shanghai, China, Jun 19–21, 2025, pp. 1–6.
-      <b>(IEEE区块链旗舰会议)</b>
       <a href="http://shen-hang.github.io/files/GBC2025-Monero.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
 
@@ -361,7 +359,6 @@ redirect_from:
       <a href="https://ieeexplore.ieee.org/document/9912871" style="color:#000; text-decoration:none;">
       Drone-Small-Cell-Assisted Spectrum Management for 5G and Beyond Vehicular Networks</a>,
       <i>Proc. of the IEEE Symposium on Computers and Communications (ISCC)</i>, Rhodes Island, Greece, Jun 30–Jul 3, Regular Paper, 2022, pp.1-8.
-      <b>(CCF推荐国际会议)</b>
       <a href="http://shen-hang.github.io/files/ISCC2022.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
 
@@ -370,7 +367,6 @@ redirect_from:
       <a href="https://ieeexplore.ieee.org/document/8761835" style="color:#000; text-decoration:none;">
       Detecting Link Correlation Spoofing Attack: A Beacon-Trap Approach</a>,
       <i>Proc. of the 53rd IEEE International Conference on Communications (ICC)</i>, Shanghai, China, May 20–24, Regular Paper, 2019.
-      <b>(CCF推荐国际会议, IEEE通信学会旗舰会议)</b>
       <a href="http://shen-hang.github.io/files/ICC2019.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
 
@@ -379,7 +375,6 @@ redirect_from:
       <a href="#" style="color:#000; text-decoration:none;">
       Privacy-Preserving Task Allocation for Edge Computing Enhanced Mobile Crowdsensing</a>,
       <i>Proc. of the International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP)</i>, Full Paper, 2018, pp. 431–446.
-      <b>(CCF推荐国际会议)</b>
     </li>
 
     <li>
@@ -387,7 +382,6 @@ redirect_from:
       <a href="#" style="color:#000; text-decoration:none;">
       Incentivizing Multimedia Data Acquisition for Machine Learning System</a>,
       <i>Proc. of the International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP)</i>, Full Paper, 2018, pp. 142–158.
-      <b>(CCF推荐国际会议)</b>
     </li>
   </ol>
 </div>
