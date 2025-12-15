@@ -161,7 +161,7 @@ redirect_from:
   2020 年中国仪器仪表学会科技进步二等奖（排名第五）、2016 年南京市自然科学优秀论文奖（排名第一）和
   2011 年江苏省网络与云计算会议优秀论文奖（排名第一）。
   担任<i>Journal of Information Processing Systems</i>（IF 0.8）、<i>Frontiers in Blockchain</i>（IF 1.9）和
-  <i>IEEE Access</i>（IF 3.4）副编辑， <i>Peer-to-Peer Networking and Applications</i>（IF 2.6）客座编委，以及 IEEE HPCC、PST、ICA3PP 等国际会议程序委员会成员。
+  <i>IEEE Access</i>（IF 3.4）副编辑，<i>Peer-to-Peer Networking and Applications</i>（IF 2.6）客座编委，以及 IEEE HPCC、PST、ICA3PP 等国际会议程序委员会成员。
   沈航是 CCF 高级会员、CCF 南京分部监察委员、CAAI 会员、ACM 南京分会执委及 IEEE 会员。
   为学生讲授“计算机网络”、“物联网概论”、“高级计算机网络”等课程，曾获计算机学院青年教师授课大赛一等奖。
   指导学生多次获得国家奖学金、优秀毕业研究生、优秀硕士学位论文与优秀本科毕业论文等奖项，
