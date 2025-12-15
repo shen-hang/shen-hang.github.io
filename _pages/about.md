@@ -46,6 +46,8 @@ redirect_from:
 <h2 align="left" style="margin-bottom:8px; margin-top:16px;">Recent Highlights</h2>
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 18px; line-height:1.4; font-size:15px; margin-bottom:24px;">
 
+<p>Dec. 2025: 我们的成果“面向大型特种设备安全的无人机智能巡检技术与应用”获得<b><i>中国商业联合会技术发明三等奖</i></b>。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
+
 <p>Dec. 2025: 作为合作单位承担的 “基于人工智能的承压特种设备检验流程再造及技术研发” 项目获得国家市场监督管理总局立项。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
 <p>Oct. 2025: 我们 <b>智能无人机网络</b> 方向的论文 <i>"MobiFormer: Split-Federated Transfer Learning for Drone RAN Slicing with Multi-Head Attention"</i> 被计算机网络领域顶级期刊 <b><i>IEEE Transactions on Mobile Computing</i></b> (<b>CCF推荐A类国际期刊</b>) 录用为长文。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
@@ -120,7 +122,7 @@ redirect_from:
 
 <p>Nov. 2022: 刘鑫同学论文 “Blockchain-Enabled Solution for Secure and Scalable V2V Video Content Dissemination” 被 CCF 推荐 SCI 期刊 <b><i>Peer-to-Peer Networking and Applications</i></b> 录用。</p>
 
-<p>Nov. 2022: 沈航获得 <b>中国特种设备检测协会科学技术二等奖</b> (排名第三)。</p>
+<p>Nov. 2022: 我们的成果“端边云协同的涉危化品承压特种设备智慧监测与应急关键技术”获得 <b>中国特种设备检测协会科学技术二等奖</b> (排名第三)。</p>
 
 <p>Jun. 2022: 朱唯周同学本科毕业论文 “面向入侵检测的生成式对抗网络构建方法” 被推荐为 <b>优秀本科毕业论文</b>。</p>
 
@@ -157,7 +159,7 @@ redirect_from:
   <i>电子学报</i>、<i>IEEE ICC</i> 等国际著名期刊与会议发表论文三十余篇，指导学生发表论文 110 余篇；
   参编学术专著《Encyclopedia of Wireless Networks》，授权国家发明专利四十余件。
   主持国家自然科学基金和省自然科学基金项目三项，厅级项目两项，国家 / 省重点实验室开放课题三项，企业横向项目十项。
-  曾获 2022 年中国特种设备检测协会科学技术二等奖（排名第三）、2021 年中国电力联合会科技创新二等奖（排名第三）、
+  曾获 2025 年中国商业联合会技术发明三等奖（排名第五）、2022 年中国特种设备检测协会科学技术二等奖（排名第三）、2021 年中国电力联合会科技创新二等奖（排名第三）、
   2020 年中国仪器仪表学会科技进步二等奖（排名第五）、2016 年南京市自然科学优秀论文奖（排名第一）和
   2011 年江苏省网络与云计算会议优秀论文奖（排名第一）。
   担任<i>Journal of Information Processing Systems</i>（IF 0.8）、<i>Frontiers in Blockchain</i>（IF 1.9）和
