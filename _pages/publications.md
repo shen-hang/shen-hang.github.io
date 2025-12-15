@@ -171,6 +171,7 @@ redirect_from:
       WGM: Wavelet-Based Gamma Model for Video Traffic in Wireless Multi-hop Networks</a>, 
       <i>Wireless Personal Communications (WPC)</i>, 2019, 107(1), pp. 565–587. 
       <b>(SCI)</b>
+      <a href="http://shen-hang.github.io/files/WPC2019.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
 
     <li>
