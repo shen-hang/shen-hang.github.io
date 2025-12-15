@@ -247,7 +247,7 @@ redirect_from:
       <i>Wiley ETRI Journal</i>, 2025, 47(1), pp. 7–19. 
       <b>(Featured Article, selected as the only highlighted paper of Jan–Feb 2025)</b> 
       <a href="http://shen-hang.github.io/files/ETRIR_48_3_infographics_January_06_2025.pdf" style="color:#1E90FF; text-decoration:none;">[Infographic Design]</a> 
-      <a href="http://shen-hang.github.io/files/ETRI2025.pdf" style="color:#1E90FF; text-decoration:none;">[Article Download]</a>
+      <a href="http://shen-hang.github.io/files/ETRI2025.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
 
     <li>
@@ -293,6 +293,7 @@ redirect_from:
       <a href="https://link.springer.com/article/10.1007/s11277-019-06289-y" style="color:#000; text-decoration:none;">
       WGM: Wavelet-Based Gamma Model for Video Traffic in Wireless Multi-hop Networks</a>, 
       <i>Wireless Personal Communications (WPC)</i>, 2019, 107(1), pp. 565–587.
+      <a href="http://shen-hang.github.io/files/WPC2019.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
 
     <li>
