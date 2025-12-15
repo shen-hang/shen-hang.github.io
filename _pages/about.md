@@ -163,7 +163,7 @@ redirect_from:
   2011 年江苏省网络与云计算会议优秀论文奖（排名第一）。
   现任 <i>Frontiers in Blockchain</i>（IF 1.9）、<i>Journal of Information Processing Systems</i>（IF 0.8）和
   <i>IEEE Access</i>（IF 3.4）副编辑，曾任 CCF 推荐国际期刊 <i>Peer-to-Peer Networking and Applications</i> 客座编委；
-  担任 IEEE HPCC、IEEE PST、ICA3PP 等国际会议程序委员会成员。
+  担任 IEEE HPCC、PST、ICA3PP 等国际会议程序委员会成员。
   沈航是 CCF 高级会员、CCF 南京分部监察委员、CAAI 会员、ACM 南京分会执委及 IEEE 会员。
   为本科生、研究生讲授“计算机网络”、“物联网概论”、“高级计算机网络”等课程，曾获计算机学院青年教师授课大赛一等奖。
   指导学生多次获得国家奖学金、优秀毕业研究生、优秀硕士学位论文与优秀本科毕业论文等奖项，
