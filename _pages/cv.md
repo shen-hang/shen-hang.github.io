@@ -191,7 +191,7 @@ redirect_from:
       <b>Hang Shen*</b>, Qi Liu, Yu Liu, Tianjing Wang, and Guangwei Bai. 
       <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11142340" style="color:#000; text-decoration:none;">
       MA-DyNN: Modal-Adaptive Dynamic Neural Network for Crowd-Counting on Consumer Drones</a>, 
-      <i>IEEE Transactions on Consumer Electronics (TCE)</i>, 2025, online available. 
+      <i>IEEE Transactions on Consumer Electronics (TCE)</i>, 2025, 71(4), pp. 9594-9605.  
       <a href="http://shen-hang.github.io/files/TCE2025.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
 
