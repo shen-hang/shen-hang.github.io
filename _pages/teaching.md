@@ -181,9 +181,9 @@ redirect_from:
 <div style="background-color:#ffffff; border-radius:10px; padding:12px 14px; line-height:1.75; font-size:14px; color:#555; box-shadow:0 1px 5px rgba(0,0,0,0.05); margin-bottom:12px;">
   本研究报告分析一个采集自 Web 浏览场景的
   <a href="http://shen-hang.github.io/files/trace.txt" style="color:#3A6EA5; text-decoration:none;">
-    <code>trace</code>
+    <code>trace文件</code>
   </a>
-  （包含 TCP、DNS 与 HTTP 多层交互）。同学们需要从 trace 中挖掘网络链路质量、资源加载模式与用户体验相关的性能特征。
+  （包含 TCP、DNS 与 HTTP 多层交互）。同学们需要从中挖掘网络链路质量、资源加载模式与用户体验相关的性能特征。
 </div>
 
 <div style="margin:0 0 14px 2px; font-size:13.5px; color:#666;">
