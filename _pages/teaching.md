@@ -186,24 +186,31 @@ redirect_from:
   （包含 TCP、DNS 与 HTTP 多层交互）。目标是从 trace 中挖掘网络链路质量、资源加载模式与用户体验相关的性能特征。
 </div>
 
-<!-- ✅ 下载区：改成按钮式链接，扩大点击热区，并强制新标签打开 -->
 <div style="margin:0 0 14px 2px; font-size:13.5px; color:#666;">
   📄 <b>数据与说明文件下载：</b>
-  <a href="http://shen-hang.github.io/files/trace.txt"
-     target="_blank" rel="noopener noreferrer" download
+
+  <a href="http://shen-hang.github.io/files/trace.pcapng"
+     target="_blank" rel="noopener noreferrer"
      style="display:inline-block; margin:6px 6px 0 0; padding:6px 10px; border-radius:8px; background:#ffffff; border:1px solid rgba(58,110,165,0.35); color:#3A6EA5; text-decoration:none;">
     trace 文件（.pcapng）
   </a>
+
   <a href="http://shen-hang.github.io/files/报告格式要求.doc"
-     target="_blank" rel="noopener noreferrer" download
+     target="_blank" rel="noopener noreferrer"
      style="display:inline-block; margin:6px 6px 0 6px; padding:6px 10px; border-radius:8px; background:#ffffff; border:1px solid rgba(58,110,165,0.35); color:#3A6EA5; text-decoration:none;">
     报告格式要求（.doc）
   </a>
+
   <a href="http://shen-hang.github.io/files/图片格式要求.doc"
-     target="_blank" rel="noopener noreferrer" download
+     target="_blank" rel="noopener noreferrer"
      style="display:inline-block; margin:6px 6px 0 0; padding:6px 10px; border-radius:8px; background:#ffffff; border:1px solid rgba(58,110,165,0.35); color:#3A6EA5; text-decoration:none;">
     图片格式要求（.doc）
   </a>
+
+  <p style="margin:6px 0 0 2px; font-size:12.5px; color:#888;">
+    注：由于浏览器与 GitHub Pages 的限制，<b>.doc 文件点击后可能不会自动下载</b>。
+    如遇此情况，请 <b>右键链接 → 在新标签页打开</b> 或 <b>右键另存为</b> 下载文件。
+  </p>
 </div>
 
 <!-- 结构提示 -->
