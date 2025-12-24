@@ -180,7 +180,7 @@ redirect_from:
 <!-- 简介 + Trace 链接（合并强调重点） -->
 <div style="background-color:#ffffff; border-radius:10px; padding:12px 14px; line-height:1.75; font-size:14px; color:#555; box-shadow:0 1px 5px rgba(0,0,0,0.05); margin-bottom:12px;">
   本研究报告分析一个采集自 Web 浏览场景的
-  <a href="http://shen-hang.github.io/files/trace.txt" style="color:#3A6EA5; text-decoration:none;">
+  <a href="http://shen-hang.github.io/files/trace.pcapng" style="color:#3A6EA5; text-decoration:none;">
     <code>trace文件</code>
   </a>
   （包含 TCP、DNS 与 HTTP 多层交互）。同学们需要从中挖掘网络链路质量、资源加载模式与用户体验相关的性能特征。
@@ -189,7 +189,7 @@ redirect_from:
 <div style="margin:0 0 14px 2px; font-size:13.5px; color:#666;">
   📄 <b>数据与说明文件下载：</b>
 
-  <a href="http://shen-hang.github.io/files/trace.txt"
+  <a href="http://shen-hang.github.io/files/trace.pcapng"
      target="_blank" rel="noopener noreferrer"
      style="display:inline-block; margin:6px 6px 0 0; padding:6px 10px; border-radius:8px; background:#ffffff; border:1px solid rgba(58,110,165,0.35); color:#3A6EA5; text-decoration:none;">
     trace 文件（.pcapng）
