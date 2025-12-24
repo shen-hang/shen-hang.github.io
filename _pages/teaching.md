@@ -204,7 +204,7 @@ redirect_from:
 
   <!-- A. 引言 -->
   <details style="margin-bottom:10px;">
-    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">A. 引言</summary>
+    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">1. 引言</summary>
 
     <p style="margin:6px 0 0 4px;">
       引言部分用于描述研究的目的与意义，并说明你分析 trace 的手段（如 Wireshark、程序化提取与可视化）。可在引言中简要概括网页加载场景、跨层交互问题与性能分析思路。
@@ -217,9 +217,9 @@ redirect_from:
     </ul>
   </details>
 
-  <!-- B. TCP 行为分析 -->
+  <!-- 2. TCP 行为分析 -->
   <details style="margin-bottom:10px;">
-    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">B. TCP 行为分析</summary>
+    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">2. TCP 行为分析</summary>
     
     <p style="margin:6px 0 0 4px;">
       从 TCP 层入手，可以通过工具或编程观察连接建立、传输与关闭，再通过编程提取 RTT、吞吐率等定量指标，并以图表展示性能变化，从而诊断链路稳定性、拥塞或重传等问题。
@@ -234,9 +234,9 @@ redirect_from:
     </ul>
   </details>
 
-  <!-- C. DNS 行为分析 -->
+  <!-- 3. DNS 行为分析 -->
   <details style="margin-bottom:10px;">
-    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">C. DNS 行为分析</summary>
+    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">3. DNS 行为分析</summary>
 
     <p style="margin:6px 0 0 4px;">
       分析 DNS 查询与响应过程，观察解析数量、缓存复用与响应时延，并结合统计与可视化判断 DNS 是否影响网页启动阶段的性能。
@@ -250,9 +250,9 @@ redirect_from:
     </ul>
   </details>
 
-  <!-- D. HTTP 对象加载分析 -->
+  <!-- 4. HTTP 对象加载分析 -->
   <details style="margin-bottom:10px;">
-    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">D. HTTP 对象加载分析</summary>
+    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">4. HTTP 对象加载分析</summary>
 
     <p style="margin:6px 0 0 4px;">
       梳理 HTML、CSS、JS、图片等对象的加载结构与时间关系，并通过编程提取关键时间信息，构建瀑布图用于展示关键路径、阻塞情况与首屏加载体验。
@@ -267,9 +267,9 @@ redirect_from:
     </ul>
   </details>
 
-  <!-- E. 综合性能分析 -->
+  <!-- 5. 综合性能分析 -->
   <details style="margin-bottom:10px;">
-    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">E. 综合性能分析（总结）</summary>
+    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">5. 综合性能分析（总结）</summary>
 
     <p style="margin:6px 0 0 4px;">
       整合 TCP、DNS 与 HTTP 分析结果，通过延迟、异常、对象依赖等表现诊断网页加载瓶颈，并讨论用户体验表现、白屏等待与优化方向。
@@ -281,6 +281,22 @@ redirect_from:
       <li>页面渲染体验推断（是否出现等待、白屏、首屏延迟）</li>
       <li>跨层性能影响讨论（TCP ↔ DNS ↔ HTTP）</li>
       <li>优化建议或未来改进方向（可选）</li>
+    </ul>
+  </details>
+
+  <!-- 6. 参考文献 -->
+  <details style="margin-bottom:10px;">
+    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">6. 参考文献</summary>
+
+    <p style="margin:6px 0 0 4px;">
+      本部分用于列出在分析与撰写报告过程中参考的教材、论文、技术文档或工具说明等资料。参考文献应与正文内容相关，并采用统一、规范的引用格式。
+    </p>
+
+    <ul style="margin-top:6px; margin-left:24px;">
+      <li> TCP/IP、HTTP 协议相关资料</li>
+      <li>RFC 文档（如 TCP、DNS、HTTP 等协议规范）</li>
+      <li>Wireshark 官方文档或使用指南</li>
+      <li>与网络测量、性能分析相关的学术论文</li>
     </ul>
   </details>
 
