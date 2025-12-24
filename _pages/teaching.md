@@ -208,8 +208,8 @@ redirect_from:
   </a>
 
   <p style="margin:6px 0 0 2px; font-size:12.5px; color:#888;">
-    注：由于浏览器与 GitHub Pages 的限制，<b>.doc 文件点击后可能不会自动下载</b>。
-    如遇此情况，请 <b>右键链接 → 在新标签页打开</b> 或 <b>右键另存为</b> 下载文件。
+    注：由于浏览器与 GitHub Pages 的限制，<b>文件点击后可能不会自动下载</b>。
+    如遇此情况，请 <b>右键另存为</b> 下载文件。
   </p>
 </div>
 
