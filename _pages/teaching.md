@@ -178,9 +178,9 @@ redirect_from:
 </h3>
 
 <p style="margin:0 0 10px 2px; font-size:14px; color:#555;">
-本研究报告分析一个采集自 Web 浏览场景的 trace 
+本研究报告分析一个采集自 Web 浏览场景的 
 <a href="http://shen-hang.github.io/files/trace.txt" style="color:#3A6EA5; text-decoration:none;">
-<code>trace.pcapng</code>
+<code>trace</code>
 </a>
 （包含 TCP、DNS 与 HTTP 多层交互）。目标是从 trace 中挖掘网络链路质量、资源加载模式与用户体验相关的性能特征。
 </p>
