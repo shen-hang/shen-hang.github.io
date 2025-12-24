@@ -46,7 +46,7 @@ redirect_from:
 <h2 align="left" style="margin-bottom:8px; margin-top:16px;">Recent Highlights</h2>
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 18px; line-height:1.4; font-size:15px; margin-bottom:24px;">
 
-<p>Dec. 2025: 我们的成果“面向大型特种设备安全的无人机智能巡检技术与应用”获得 <b>中国商业联合会技术发明三等奖</b>（排名第五）。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
+<p>Dec. 2025: 我们的成果“面向大型特种设备安全的无人机智能巡检技术与应用”获得 <b>中国商业联合会科技进步三等奖</b>（排名第五）。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
 <p>Dec. 2025: 作为合作单位承担的 “基于人工智能的承压特种设备检验流程再造及技术研发” 项目获得国家市场监督管理总局立项。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
