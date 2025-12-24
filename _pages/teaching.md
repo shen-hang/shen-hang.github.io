@@ -200,7 +200,7 @@ redirect_from:
        style="background-color:#ffffff; border:1px solid rgba(58,110,165,0.25); color:#3A6EA5; text-decoration:none; padding:6px 10px; border-radius:8px;">
       图片格式要求（.doc）
     </a>
-    <a href="http://shen-hang.github.io/files/trace.pcapng"
+    <a href="http://shen-hang.github.io/files/trace.txt"
        style="background-color:#ffffff; border:1px solid rgba(58,110,165,0.25); color:#3A6EA5; text-decoration:none; padding:6px 10px; border-radius:8px;">
       Trace 文件（.pcapng）
     </a>
