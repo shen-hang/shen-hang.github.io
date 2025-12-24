@@ -315,7 +315,7 @@ redirect_from:
   <!-- ⭐ 单列提示 -->
   <div style="margin-top:12px; background-color:#fff; border-left:4px solid #32CD32; padding:10px 12px; border-radius:6px; font-size:14px; color:#444;">
     <b>提示：</b>
-    鼓励大家从 trace 中尽可能多地挖掘各类性能特征，包括时间序列指标、异常行为、对象依赖关系以及可视化图表等；只要图表清晰、指标准确、解释合理，均认定为高质量分析成果。
+    篇幅不少于5页。鼓励大家从 trace 中尽可能多地挖掘各类性能特征，包括时间序列指标、异常行为、对象依赖关系以及可视化图表等；只要图表清晰、指标准确、解释合理，均认定为高质量分析成果。
   </div>
 
 </div>
