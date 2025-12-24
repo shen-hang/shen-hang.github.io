@@ -174,11 +174,30 @@ redirect_from:
 
 <!-- Packet Trace Analysis报告结构（参考） -->
 <h3 style="font-size:17px; color:#2c3e50; margin-bottom:8px; margin-top:20px;">
-  Packet Trace Analysis
+  网络流量分析与评价研究报告
 </h3>
 
+<p style="margin:0 0 10px 2px; font-size:14px; color:#555;">
+本研究报告分析一个采集自 Web 浏览场景的 trace 
+<a href="http://shen-hang.github.io/files/trace.txt" style="color:#3A6EA5; text-decoration:none;">
+<code>trace.pcapng</code>
+</a>
+（包含 TCP、DNS 与 HTTP 多层交互）。目标是从 trace 中挖掘网络链路质量、资源加载模式与用户体验相关的性能特征。
+</p>
+
+<p style="margin:0 0 12px 2px; font-size:13.5px; color:#666;">
+📄 <b>说明文件下载：</b>
+<a href="http://shen-hang.github.io/files/报告格式要求.doc" style="color:#3A6EA5; text-decoration:none; margin-left:6px;">
+报告格式要求
+</a>
+&nbsp;|&nbsp;
+<a href="http://shen-hang.github.io/files/图片格式要求.doc" style="color:#3A6EA5; text-decoration:none;">
+图片格式要求
+</a>
+</p>
+
 <p style="margin:0 0 14px 2px; font-size:14px; color:#555;">
-本研究报告分析一个采集自Web浏览场景的 trace <code>待发布</code>（包含 TCP、DNS 与 HTTP 多层交互）。目标是从 trace 中挖掘网络链路质量、资源加载模式与用户体验相关的性能特征。
+报告的参考结构划分如下：
 </p>
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:14px 18px; line-height:1.7; font-size:15px; box-shadow:0 1px 5px rgba(0,0,0,0.06);">
@@ -248,7 +267,7 @@ redirect_from:
     </ul>
   </details>
 
-  <!-- E. 综合性能分析 -->
+  <!-- E. 综合性能分析（总结） -->
   <details style="margin-bottom:10px;">
     <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">E. 综合性能分析</summary>
 
