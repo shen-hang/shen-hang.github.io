@@ -172,32 +172,44 @@ redirect_from:
 </div>
 
 
-<!-- Packet Trace Analysis报告结构（参考） -->
-<h3 style="font-size:17px; color:#2c3e50; margin-bottom:8px; margin-top:20px;">
+
+<h3 style="font-size:17px; color:#2c3e50; margin-bottom:6px; margin-top:20px;">
   网络流量分析与评价研究报告
 </h3>
 
+<!-- 简介 + Trace 链接（合并强调重点） -->
+<div style="background-color:#ffffff; border-radius:10px; padding:12px 14px; line-height:1.75; font-size:14px; color:#555; box-shadow:0 1px 5px rgba(0,0,0,0.05); margin-bottom:12px;">
+  本研究报告分析一个采集自 Web 浏览场景的
+  <a href="http://shen-hang.github.io/files/trace.pcapng" style="color:#3A6EA5; text-decoration:none;">
+    <code>trace</code>
+  </a>
+  （包含 TCP、DNS 与 HTTP 多层交互）。目标是从 trace 中挖掘网络链路质量、资源加载模式与用户体验相关的性能特征。
+</div>
+
+<!-- 下载区（卡片化 + 更明显的入口） -->
+<div style="background-color:#f9fbff; border-radius:10px; padding:12px 14px; line-height:1.7; font-size:14px; color:#444; box-shadow:0 1px 5px rgba(0,0,0,0.05); margin-bottom:12px;">
+  <div style="font-weight:bold; color:#2c3e50; margin-bottom:6px;">
+    📄 说明文件与数据下载
+  </div>
+  <div style="display:flex; flex-wrap:wrap; gap:10px;">
+    <a href="http://shen-hang.github.io/files/报告格式要求.doc"
+       style="background-color:#ffffff; border:1px solid rgba(58,110,165,0.25); color:#3A6EA5; text-decoration:none; padding:6px 10px; border-radius:8px;">
+      报告格式要求（.doc）
+    </a>
+    <a href="http://shen-hang.github.io/files/图片格式要求.doc"
+       style="background-color:#ffffff; border:1px solid rgba(58,110,165,0.25); color:#3A6EA5; text-decoration:none; padding:6px 10px; border-radius:8px;">
+      图片格式要求（.doc）
+    </a>
+    <a href="http://shen-hang.github.io/files/trace.pcapng"
+       style="background-color:#ffffff; border:1px solid rgba(58,110,165,0.25); color:#3A6EA5; text-decoration:none; padding:6px 10px; border-radius:8px;">
+      Trace 文件（.pcapng）
+    </a>
+  </div>
+</div>
+
+<!-- 结构提示 -->
 <p style="margin:0 0 10px 2px; font-size:14px; color:#555;">
-本研究报告分析一个采集自 Web 浏览场景的 
-<a href="http://shen-hang.github.io/files/trace.txt" style="color:#3A6EA5; text-decoration:none;">
-<code>trace</code>
-</a>
-（包含 TCP、DNS 与 HTTP 多层交互）。目标是从 trace 中挖掘网络链路质量、资源加载模式与用户体验相关的性能特征。
-</p>
-
-<p style="margin:0 0 12px 2px; font-size:13.5px; color:#666;">
-📄 <b>说明文件下载：</b>
-<a href="http://shen-hang.github.io/files/报告格式要求.doc" style="color:#3A6EA5; text-decoration:none; margin-left:6px;">
-报告格式要求
-</a>
-&nbsp;|&nbsp;
-<a href="http://shen-hang.github.io/files/图片格式要求.doc" style="color:#3A6EA5; text-decoration:none;">
-图片格式要求
-</a>
-</p>
-
-<p style="margin:0 0 14px 2px; font-size:14px; color:#555;">
-报告的参考结构如下：
+  报告的参考结构如下：
 </p>
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:14px 18px; line-height:1.7; font-size:15px; box-shadow:0 1px 5px rgba(0,0,0,0.06);">
