@@ -230,7 +230,7 @@ redirect_from:
 
     <ul style="margin-top:6px; margin-left:24px;">
       <li>研究目标与问题背景（链路质量、加载性能、协议交互）</li>
-      <li>分析工具与方法说明（Wireshark + Python 可视化）</li>
+      <li>分析工具与方法说明（Wireshark、可视化）</li>
       <li>面向 trace 的性能洞察目标与意义</li>
     </ul>
   </details>
