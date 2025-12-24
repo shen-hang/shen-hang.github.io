@@ -197,7 +197,7 @@ redirect_from:
 </p>
 
 <p style="margin:0 0 14px 2px; font-size:14px; color:#555;">
-报告的参考结构划分如下：
+报告的参考结构如下：
 </p>
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:14px 18px; line-height:1.7; font-size:15px; box-shadow:0 1px 5px rgba(0,0,0,0.06);">
