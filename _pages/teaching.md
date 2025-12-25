@@ -198,7 +198,7 @@ redirect_from:
   <a href="http://shen-hang.github.io/files/报告格式要求.doc"
      target="_blank" rel="noopener noreferrer"
      style="display:inline-block; margin:6px 6px 0 6px; padding:6px 10px; border-radius:8px; background:#ffffff; border:1px solid rgba(58,110,165,0.35); color:#3A6EA5; text-decoration:none;">
-    报告格式要求（.doc）
+    报告格式模板（.doc）
   </a>
 
   <a href="http://shen-hang.github.io/files/图片格式要求.doc"
