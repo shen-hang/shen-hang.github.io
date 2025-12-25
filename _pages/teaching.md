@@ -215,7 +215,7 @@ redirect_from:
 
 <!-- 结构提示 -->
 <p style="margin:0 0 10px 2px; font-size:14px; color:#555;">
-  报告的参考结构如下：
+  报告的结构和各部分内容参考如下：
 </p>
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:14px 18px; line-height:1.7; font-size:15px; box-shadow:0 1px 5px rgba(0,0,0,0.06);">
@@ -231,7 +231,7 @@ redirect_from:
     <ul style="margin-top:6px; margin-left:24px;">
       <li>研究目标与问题背景（链路质量、加载性能、协议交互）</li>
       <li>分析工具与方法说明（Wireshark、可视化）</li>
-      <li>面向 trace 的性能洞察目标与意义</li>
+      <li>面向 trace 的性能分析目标与意义</li>
     </ul>
   </details>
 
@@ -297,7 +297,7 @@ redirect_from:
       <li>链路质量诊断（RTT 稳定性、抖动、重传）</li>
       <li>加载瓶颈定位（DNS、慢启动、大对象、串行依赖）</li>
       <li>页面渲染体验推断（是否出现等待、白屏、首屏延迟）</li>
-      <li>跨层性能影响讨论（TCP ↔ DNS ↔ HTTP）</li>
+      <li>跨层性能影响讨论（TCP-DNS-HTTP）</li>
       <li>优化建议或未来改进方向（可选）</li>
     </ul>
   </details>
@@ -307,7 +307,7 @@ redirect_from:
     <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">6. 参考文献</summary>
 
     <p style="margin:6px 0 0 4px;">
-      本部分用于列出在分析与撰写报告过程中参考的教材、论文、技术文档或工具说明等资料。参考文献应与正文内容相关，并采用统一、规范的引用格式。
+      列出在分析与撰写报告过程中参考的论文、技术文档或工具说明等资料。参考文献应与正文内容相关，并采用统一、规范的引用格式。
     </p>
 
     <ul style="margin-top:6px; margin-left:24px;">
