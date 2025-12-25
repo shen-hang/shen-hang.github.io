@@ -318,11 +318,29 @@ redirect_from:
     </ul>
   </details>
 
-  <!-- ⭐ 单列提示 -->
-  <div style="margin-top:12px; background-color:#fff; border-left:4px solid #32CD32; padding:10px 12px; border-radius:6px; font-size:14px; color:#444;">
-    <b>注：</b>
-    篇幅不少于5页。鼓励大家从 trace 中尽可能多地挖掘各类性能特征，包括时间序列指标、异常行为、对象依赖关系以及可视化图表等；只要图表清晰、指标准确、解释合理，均认定为高质量分析成果。
-  </div>
+<!-- 📌 报告撰写注意事项 -->
+<div style="margin-top:12px; background-color:#f6fffa; border-left:4px solid #32CD32; padding:12px 14px; border-radius:6px; font-size:14.5px; color:#444;">
+  <b>【报告撰写注意事项】</b><br/>
+  篇幅不少于 <b>5 页</b>。鼓励大家从 trace 中尽可能多地挖掘各类性能特征，包括时间序列指标、异常行为、对象依赖关系以及可视化图表等；只要图表清晰、指标准确、解释合理，均认定为高质量分析成果。
+</div>
+
+<!-- 🔔 作业提交方式（重要） -->
+<div style="margin-top:10px; background-color:#fff7e6; border-left:4px solid #ff9800; padding:12px 14px; border-radius:6px; font-size:14.5px; color:#444;">
+  <b>【报告提交方式与时间（重要）】</b><br/>
+  <ul style="margin:6px 0 0 18px; padding:0;">
+    <li>
+      <b>计算机学院同学：</b>
+      请于 <b>1 月 8 日上午</b> 将<b>电子版研究报告</b>统一提交给<b>班长</b>，
+      文件命名为 <b>“姓名-学号”</b>。
+      <br/>
+      辛苦班长将所有电子版报告<b>打包后发我</b>。
+    </li>
+    <li style="margin-top:6px;">
+      <b>非计算机学院同学：</b>
+      请于 <b>1 月 8 日</b> 前将<b>电子版研究报告</b>直接发送至<b>我邮箱</b>。
+    </li>
+  </ul>
+</div>
 
 </div>
 
