@@ -215,7 +215,7 @@ redirect_from:
 
 <!-- 结构提示 -->
 <p style="margin:0 0 10px 2px; font-size:14px; color:#555;">
-  报告的结构和各部分内容参考如下：
+  报告的结构和内容覆盖参考如下：
 </p>
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:14px 18px; line-height:1.7; font-size:15px; box-shadow:0 1px 5px rgba(0,0,0,0.06);">
