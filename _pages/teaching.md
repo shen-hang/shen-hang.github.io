@@ -325,7 +325,7 @@ redirect_from:
 </div>
 
 <div style="margin-top:10px; background-color:#fff7e6; border-left:4px solid #ff9800; padding:12px 14px; border-radius:6px; font-size:14.5px; color:#444;">
-  <b>【报告提交方式与时间（重要）】</b><br/>
+  <b>【报告提交方式与时间】</b><br/>
   <ul style="margin:6px 0 0 18px; padding:0;">
     <li>
       <b>计算机学院同学：</b>
