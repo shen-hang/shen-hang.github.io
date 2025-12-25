@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:18px 22px; line-height:1.7; font-size:15px; box-shadow:0 1px 5px rgba(0,0,0,0.06); margin-top:0px;">  
-🎓 <span style="color:#8B0000; font-weight:bold;">招收研究生和（有动力发表论文）的本科同学，共同探索以下前沿方向：</span><br/>
+🎓 <span style="color:#8B0000; font-weight:bold;">招收研究生和（有动力发表论文的）本科同学，共同探索以下前沿方向：</span><br/>
 
 🚗 <b>车联网与车计算</b> —— 面向智能驾驶与 V2X 协同推理的架构与方法<br/>
 🚁 <b>无人机视觉计算</b> —— 空地协同、跨模态感知与动态神经网络技术<br/>
