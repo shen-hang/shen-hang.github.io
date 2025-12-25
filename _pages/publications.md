@@ -91,7 +91,7 @@ redirect_from:
   <i>ETRI Journal</i>, 2025, 47(1), pp. 7–19. 
   <b>(SCI)</b> 
   <span style="background-color:#eef3f8; color:#2f4f4f; border-radius:4px; padding:1px 6px; font-weight:500;">
-    被期刊编委会评为 <b>2025年1–2月唯一亮点论文 (Featured Article)</b>
+    被编委会评为 <b>2025年1–2月亮点论文 (Featured Article)并被邀请制作封面</b>
   </span> 
   <a href="http://shen-hang.github.io/files/ETRIR_48_3_infographics_January_06_2025.pdf" style="color:#1E90FF; text-decoration:none;">[Infographic Design]</a> 
   <a href="http://shen-hang.github.io/files/ETRI2025.pdf" style="color:#1E90FF; text-decoration:none;">[Article Download]</a>
