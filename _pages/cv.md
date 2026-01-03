@@ -65,6 +65,7 @@ redirect_from:
   - IEEE Transactions on Mobile Computing (TMC)<br/>
   - IEEE Transactions on Dependable and Secure Computing (TDSC)<br/>
   - IEEE Transactions on Services Computing (TSC)<br/>
+  - IEEE Transactions on Dependable and Secure Computing (TDSC)<br/>
   - IEEE Transactions on Wireless Communications (TWC)<br/>
   - IEEE Transactions on Communications (TCOM)<br/>
   - IEEE Transactions on Intelligent Transportation Systems (TITS)<br/>
