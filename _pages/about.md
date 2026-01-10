@@ -25,7 +25,7 @@ redirect_from:
 </div>
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.7; font-size:15px; box-shadow:0 1px 5px rgba(0,0,0,0.06); margin-top:0px;">
-  🎯 <span style="color:#8B0000; font-weight:bold;">诚邀热爱开发的本科同学（以个人或大创形式）参与「领域大模型」与「串/并行推理」企业横向项目：</span><br/>
+  🎯 <span style="color:#8B0000; font-weight:bold;">诚邀热爱开发的本科同学（以个人或大创形式）参与「领域大模型与知识图谱」企业横向项目：</span><br/>
 
 <b>项目津贴支持</b> —— 根据参与度发放补贴，认可你的努力与成果<br/> 
 <b>实践能力认证</b> —— 提供项目实践和实习证明，助力升学与求职
