@@ -12,7 +12,7 @@ redirect_from:
 <div style="background-color:#f9f9f9; border-radius:10px; padding:18px 22px; line-height:1.7; font-size:15px; box-shadow:0 1px 5px rgba(0,0,0,0.06); margin-top:0px;">  
   <div style="border-left:4px solid #8B0000; padding-left:12px; margin-bottom:8px;">
     <span style="font-weight:600; font-size:16px; color:#333;">
-      这里既开展具有理论深度的研究，也推进真实可落地的AI工程开发！
+      这里既开展有理论深度的研究，也推进可落地的AI工程开发！
     </span>
   </div>
 🎓 <span style="color:#8B0000; font-weight:bold;">
