@@ -8,23 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-<div style="background-color:#f9f9f9; border-radius:10px; padding:18px 22px; line-height:1.7; font-size:15px; box-shadow:0 1px 5px rgba(0,0,0,0.06); margin-top:0px;">   
-
-🌟 <b>这里既开展具有理论深度的研究，也推进真实可落地的AI工程开发。</b><br/>
+<div style="background-color:#f9f9f9; border-radius:10px; padding:18px 22px; line-height:1.7; font-size:15px; box-shadow:0 1px 5px rgba(0,0,0,0.06); margin-top:0px;">  
+  <span style="font-weight:600; font-size:16px;">
+    这里既开展具有理论深度的研究，也推进真实可落地的AI工程开发。
+  </span><br/>
 🎓 <span style="color:#8B0000; font-weight:bold;">
-<b>欢迎感兴趣的研究生和优秀本科生加入课题组</b>，共同探索如下方向：
+招收研究生和优秀本科生，共同探索以下前沿方向：
 </span><br/>
-
 🚗 <b>车联网与车计算</b> —— 面向智能驾驶与 V2X 协同推理的架构与方法<br/>
 🚁 <b>无人机视觉计算</b> —— 空地协同、跨模态感知与动态神经网络技术<br/>
 🧠 <b>垂直领域大模型</b> —— 工业、安全及智能交通领域的大模型及应用<br/>
 🔐 <b>网络与信息安全</b> —— 加密流量检测、隐私保护与安全计算新方法<br/>
 
-<br/>
+-
 <span style="color:#2f4f4f; background-color:#eef3f8; border-radius:4px; padding:1px 6px; font-weight:500;">
   <i>有志于继续深造的同学</i>
 </span>
-可推荐至国内外知名高校继续深造，<b>2026年已有一位同学被成功推荐至东南大学网络空间安全学院读博</b>。
+可推荐至国内外知名高校攻读硕士或博士学位，<b>2026年已有同学被成功推荐至东南大学网安学院读博</b>。
+
 </div>
 
 
