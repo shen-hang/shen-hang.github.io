@@ -74,6 +74,7 @@ redirect_from:
   - ACM Transactions on Internet Technology (TOIT)<br/>
   - IEEE Transactions on Vehicular Technology (TVT)<br/>
   - IEEE Transactions on Network and Service Management (TNSM)<br/>
+  - IEEE Transactions on Automation Science and Engineering (TASE)<br/>
   - IEEE Transactions on Green Communications and Networking (TGCN)<br/>
   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)<br/>
   - IEEE Transactions on Computational Social Systems (TCSS)<br/>
