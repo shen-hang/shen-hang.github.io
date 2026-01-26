@@ -55,7 +55,7 @@ redirect_from:
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 18px; line-height:1.4; font-size:15px; margin-bottom:24px;">
 
 
-<p>Dec. 2025: 我们的成果“无人机多源感知驱动的特种设备高危部位缺陷巡检与安全预警技术”获得 <b>中国安全生产协会科技进步二等奖</b>（排名第八）。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
+<p>Jan. 2026: 我们的成果“无人机多源感知驱动的特种设备高危部位缺陷巡检与安全预警技术”获得 <b>中国安全生产协会科技进步二等奖</b>（排名第八）。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
 <p>Dec. 2025: 我们的成果“面向大型特种设备安全的无人机智能巡检技术与应用”获得 <b>中国商业联合会科技进步三等奖</b>（排名第五）。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
