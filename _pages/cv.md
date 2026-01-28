@@ -73,6 +73,7 @@ redirect_from:
   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)<br/>
   - ACM Transactions on Internet Technology (TOIT)<br/>
   - IEEE Transactions on Systems, Man and Cybernetics: Systems (SMCA) <br/>
+  - ACM Transactions on Design Automation of Electronic Systems (TODAES) <br/>
   - IEEE Transactions on Vehicular Technology (TVT)<br/>
   - IEEE Transactions on Network and Service Management (TNSM)<br/>
   - IEEE Transactions on Automation Science and Engineering (TASE)<br/>
