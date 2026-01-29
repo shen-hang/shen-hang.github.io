@@ -21,7 +21,7 @@ redirect_from:
 🚗 <b>车联网与车计算</b> —— 面向智能驾驶与V2X协同推理的架构与方法<br/>
 🚁 <b>无人机视觉计算</b> —— 空地协同、跨模态感知与动态神经网络技术<br/>
 🧠 <b>垂直领域大模型</b> —— 质检、安全及智能交通领域的大模型及应用<br/>
-🔐 <b>网络与信息安全</b> —— 加密流量检测、隐私保护与安全计算新方法<br/>
+🔐 <b>网络与信息安全</b> —— 加密流量检测、网络防御与渗透测试新方法<br/>
 
 -
 <span style="color:#2f4f4f; background-color:#eef3f8; border-radius:4px; padding:1px 6px; font-weight:500;">
