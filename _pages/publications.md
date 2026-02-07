@@ -107,7 +107,7 @@ redirect_from:
       <b>沈航*</b>, 王旭, 王天荆, 戴远飞, 白光伟. 
     <a href="https://www.ejournal.org.cn/thesisDetails#10.12263/DZXB.20250470&lang=zh" style="color:#000; text-decoration:none;">
       面向社交网络跨语言虚假信息检测的 LLM 增强自监督域自适应方法</a>, 
-      <i>电子学报</i>, 2025, 53(11): 1-15.
+      <i>电子学报</i>, 2025, 53(11): 3865-3879.
       <b>(CCF推荐A类中文期刊)</b> 
   <span style="color:#1E90FF; font-weight:500;">
     把论文写在祖国的大地上
