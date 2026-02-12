@@ -35,7 +35,7 @@ redirect_from:
   <span style="color:#1E90FF; font-weight:500;">
     把论文写在祖国的大地上
   </span>
-  <a href="http://shen-hang.github.io/files/ 电子学报2023.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
+  <a href="http://shen-hang.github.io/files/电子学报2023.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
 </li>
     <li>
       <b>Hang Shen*</b>, Ziyuan Tong, Tianjing Wang, and Guangwei Bai. 
