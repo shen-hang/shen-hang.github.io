@@ -181,8 +181,8 @@ redirect_from:
       <b>Hang Shen</b>, Xiang Li, Xu Wang, Yuanfei Dai*, Tianjing Wang, and Guangwei Bai. 
       <a href="https://ieeexplore.ieee.org/document/11170418" style="color:#000; text-decoration:none;">
       LACL: LLM-Augmented Contrastive Learning for Misinformation Detection in Social Networks</a>, 
-      <i>IEEE Transactions on Computational Social Systems (TCSS)</i>, 2025, online available. 
-      <a href="http://shen-hang.github.io/files/TCSS2025.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
+      <i>IEEE Transactions on Computational Social Systems (TCSS)</i>, 2026, 13(1): 999-1014.. 
+      <a href="http://shen-hang.github.io/files/TCSS2026.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
 
     <li>
