@@ -59,10 +59,10 @@ redirect_from:
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:16px;">
   <b>Technical Committee Member</b><br/>
+  - The 39th Annual Canadian Conference on Electrical and Computer Engineering (CCECE 2026)<br/>
   - IEEE International Conference on High Performance Computing and Communications (HPCC) (2024, 2025)<br/>
   - International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP) (2025)<br/>
   - Annual International Conference on Privacy, Security and Trust (PST) (2021)<br/>
-  - CCF Network and Data Communications (TCCOMM) (2015-present)<br/>
   - International Conference on Advanced Cloud and Big Data (CBD) (2015-2021)<br/>
   - International Conference on Pattern Recognition and Artificial Intelligence (2021)<br/>
   - Conference on Network and Data Communications in China (NDCC) (2016, 2018)<br/>
