@@ -55,6 +55,9 @@ redirect_from:
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 18px; line-height:1.4; font-size:15px; margin-bottom:24px;">
 
 
+
+<p>Feb. 2026: 沈航应邀担任<b><i>The 39th Annual Canadian Conference on Electrical and Computer Engineering (CCECE 2026)</i></b> 程序委员会（TPC）成员。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
+
 <p>Jan. 2026: 我们的成果“无人机多源感知驱动的特种设备高危部位缺陷巡检与安全预警技术”获得 <b>中国安全生产协会科技进步二等奖</b>（排名第八）。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
 <p>Dec. 2025: 我们的成果“面向大型特种设备安全的无人机智能巡检技术与应用”获得 <b>中国商业联合会科技进步三等奖</b>（排名第五）。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
@@ -77,13 +80,13 @@ redirect_from:
 
 <p>Aug. 2025: 我们 <b>大模型与社交网络</b> 方向的论文 <i>"LACL: LLM-Augmented Contrastive Learning for Misinformation Detection in Social Networks"</i> 被国际著名期刊 <b><i>IEEE Transactions on Computational Social Systems</i></b> 录用为长文。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
-<p>Aug. 2025: 沈航应邀担任 CCF 推荐国际会议 <b><i>International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2025)</i></b> 程序委员会成员。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
+<p>Aug. 2025: 沈航应邀担任 CCF 推荐国际会议 <b><i>International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2025)</i></b> 程序委员会（TPC）成员。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
 <p>Jul. 2025: 沈航应邀在 第二十七届中国科协年会 <b>“大模型时代的计算机网络新技术”</b> 专题论坛做学术报告。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
 <p>Jun. 2025: 司天铖同学的本科毕业论文 “基于 LLM 增强自监督对比学习的加密流量检测” 被评选为 <b>校优秀本科毕业论文</b>。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
-<p>Apr. 2025: 沈航应邀担任 CCF 推荐国际会议 <b><i>IEEE International Conference on High Performance Computing and Communications (HPCC)</i></b> 程序委员会成员。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
+<p>Apr. 2025: 沈航应邀担任 CCF 推荐国际会议 <b><i>IEEE International Conference on High Performance Computing and Communications (HPCC)</i></b> 程序委员会（TPC）成员。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
 <p>Mar. 2025: 我们 <b>网联汽车视觉计算</b> 方向的论文 <i>"MT-DyNN: Multi-Teacher Distilled Dynamic Neural Network for Instance-Adaptive Detection in Autonomous Driving"</i> 被国际著名期刊 <b><i>IEEE Transactions on Intelligent Transportation Systems</i></b> 录用为长文。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
@@ -105,7 +108,7 @@ redirect_from:
 
 <p>Jul. 2024: 张贝宁同学的论文 “Monero Covert Communication-Enhanced Collaboration for Privacy-Preserving Queries” 被 IEEE 区块链旗舰会议 <b><i>IEEE Global Blockchain Conference (GBC)</i></b> 录用为长文。</p>
 
-<p>Jul. 2024: 沈航应邀担任 CCF 推荐国际会议 <b><i>IEEE International Conference on High Performance Computing and Communications (HPCC)</i></b> 程序委员会成员。</p>
+<p>Jul. 2024: 沈航应邀担任 CCF 推荐国际会议 <b><i>IEEE International Conference on High Performance Computing and Communications (HPCC)</i></b> 程序委员会（TPC）成员。</p>
 
 <p>May 2024: 张贝宁同学的硕士论文 “基于区块链的协作查询隐私保护方法研究” 被推荐为 <b>优秀研究生论文</b>。</p> 
 
