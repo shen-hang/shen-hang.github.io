@@ -61,6 +61,7 @@ redirect_from:
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:16px;">
   <b>Reviewer for Journals</b><br/>
+  - ACM Computing Surveys (CSUR)<br/>
   - IEEE/ACM Transactions on Networking (TON)<br/>
   - IEEE Transactions on Mobile Computing (TMC)<br/>
   - IEEE Transactions on Dependable and Secure Computing (TDSC)<br/>
@@ -91,6 +92,7 @@ redirect_from:
   - IEEE Sensors Journal<br/>
   - IEEE Communications Letters<br/>
   - IEEE Signal Processing Letters<br/>
+  - Electronics Letters<br/>
   - Frontiers of Computer Science<br/>
   - Wireless Networks (WINE)<br/>
   - Concurrency and Computation: Practice and Experience (CCPE)<br/>
