@@ -50,7 +50,7 @@ redirect_from:
 <h2 align="left" style="margin-bottom:8px; margin-top:16px;">Recent Highlights</h2>
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 18px; line-height:1.4; font-size:15px; margin-bottom:24px;">
 
-<p>Mar. 2026: 沈航应邀担任<b><i>IEEE Global Communications Conference (Globecom 2026)</i></b> 程序委员会（TPC）成员。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
+<p>Mar. 2026: 沈航应邀担任<b><i>IEEE Global Communications Conference (Globecom)</i></b> 程序委员会（TPC）成员。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
 <p>Feb. 2026: 沈航应邀担任<b><i>The 39th Annual Canadian Conference on Electrical and Computer Engineering (CCECE 2026)</i></b> 程序委员会（TPC）成员。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
@@ -173,7 +173,7 @@ redirect_from:
   2020 年中国仪器仪表学会科技进步二等奖（排名第五）、2016 年南京市自然科学优秀论文奖（排名第一）和
   2011 年江苏省网络与云计算会议优秀论文奖（排名第一）。
   担任<i>JIPS</i>（IF 0.8）、<i>Front. Blockchain </i>（IF 1.9）和
-  <i>IEEE Access</i>（IF 3.4）副编辑，<i>PPNA</i>（IF 2.6）客座编委，以及 IEEE HPCC、PST、ICA3PP 等国际会议程序委员会成员。
+  <i>IEEE Access</i>（IF 3.4）副编辑，<i>PPNA</i>（IF 2.6）客座编委，以及 IEEE Globecom、IEEE HPCC、PST、ICA3PP 等国际会议程序委员会成员。
   沈航是 CCF 高级会员、CCF 南京分部监察委员、CAAI 会员、ACM 南京分会执委及 IEEE 会员。
   讲授“计算机网络”、“物联网概论”、“高级计算机网络”等课程，曾获计算机学院青年教师授课大赛一等奖。
   指导学生多次获得国家奖学金、优秀毕业研究生、优秀硕士学位论文与优秀本科毕业论文，
