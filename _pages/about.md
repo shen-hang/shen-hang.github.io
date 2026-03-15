@@ -23,7 +23,7 @@ redirect_from:
 <span style="color:#2f4f4f; background-color:#eef3f8; border-radius:4px; padding:1px 6px; font-weight:500;">
   <i>有志于继续深造的同学</i>
 </span>
-可推荐至国内外知名高校攻读硕士或博士学位（<b>2026年01月，一位同学被成功推荐至东南大学读博</b>）。
+可推荐至国内外知名高校攻读硕士或博士学位（<b>2026年一位同学被推荐至东南大学读博</b>）。
 
 </div>
 
@@ -140,7 +140,7 @@ redirect_from:
 
 <p>Apr. 2022: 衡奕龙同学论文 “Drone-Small-Cell-Assisted Spectrum Management for 5G and Beyond Vehicular Networks” 被 CCF 推荐国际会议 <b><i>IEEE Symposium on Computers and Communications (ISCC)</i></b> 录用为长文。</p>
 
-<p>Nov. 2021: 东方航空联运网络优化项目 —— 空铁一体化动态路由计算引擎研发启动。</p>
+<p>Nov. 2021: 东方航空联运网络优化项目-空铁一体化动态路由计算引擎研发启动。</p>
 
 <p>Nov. 2021: 沈航成果 “基于网络切片的 5G 电力物联网关键技术研究及应用” 获 <b>中国电力联合会科技创新二等奖</b> (排名第三)。</p>
 
@@ -173,7 +173,7 @@ redirect_from:
   2020 年中国仪器仪表学会科技进步二等奖（排名第五）、2016 年南京市自然科学优秀论文奖（排名第一）和
   2011 年江苏省网络与云计算会议优秀论文奖（排名第一）。
   担任<i>JIPS</i>（IF 0.8）、<i>Front. Blockchain </i>（IF 1.9）和
-  <i>IEEE Access</i>（IF 3.4）副编辑，<i>PPNA</i>（IF 2.6）客座编委，以及 IEEE Globecom、IEEE HPCC、PST、ICA3PP 等国际会议程序委员会成员。
+  <i>IEEE Access</i>（IF 3.4）副编辑，<i>PPNA</i>（IF 2.6）客座编委，以及 IEEE GLOBECOM、IEEE HPCC、PST、ICA3PP 等国际会议程序委员会成员。
   沈航是 CCF 高级会员、CCF 南京分部监察委员、CAAI 会员、ACM 南京分会执委及 IEEE 会员。
   讲授“计算机网络”、“物联网概论”、“高级计算机网络”等课程，曾获计算机学院青年教师授课大赛一等奖。
   指导学生多次获得国家奖学金、优秀毕业研究生、优秀硕士学位论文与优秀本科毕业论文，
@@ -185,16 +185,7 @@ redirect_from:
 <hr style="border:none; border-top:1px solid #ddd; margin:18px 0;">
 <div style="background-color:#f9f9f9; border-radius:10px; padding:18px 22px; line-height:1.6; font-size:15px; text-align:justify;">
 <b>Hang Shen</b> received the Ph.D. degree with honors in Computer Science from the Nanjing University of Science and Technology. 
-  He worked as a Full-Time Postdoctoral Fellow under the supervision of Prof. Weihua Zhuang (IEEE Fellow) in the Broadband Communications Research (BBCR) Lab, Department of Electrical and Computer Engineering at the University of Waterloo in Waterloo, Canada from 2018 to 2019. 
-  He is currently an Associate Professor in the Department of Computer Science and Technology at Nanjing Tech University in Nanjing, China. 
-  His research interests include vehicular networks, vertical domain-specific large language models, and drone/vehicle vision computing. 
-  He serves as an Associate Editor for <i>Journal of Information Processing Systems</i>, <i>Frontiers in Blockchain</i>, and <i>IEEE Access</i>, 
-  and was a Guest Editor for <i>Peer-to-Peer Networking and Applications</i>. 
-  He serves/served as a program committee member of the IEEE International Conference on High Performance Computing and Communications (HPCC), 
-  the International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP), 
-  and the Annual International Conference on Privacy, Security and Trust (PST). 
-  He is a member of the IEEE Computer Society, Communication Society, and Vehicular Technology Society, 
-  a CCF Senior Member, and an Executive Committee Member of the ACM Nanjing Chapter.
+  He worked as a Full-Time Postdoctoral Fellow under the supervision of Prof. Weihua Zhuang (IEEE Fellow) in the Broadband Communications Research (BBCR) Lab, Department of Electrical and Computer Engineering at the University of Waterloo in Waterloo, Canada from 2018 to 2019. He is currently an Associate Professor in the Department of Computer Science and Technology at Nanjing Tech University in Nanjing, China. His research interests include vehicular networks, vertical domain-specific large language models, and drone/vehicle vision computing. He serves as an Associate Editor for <i>Journal of Information Processing Systems</i>, <i>Frontiers in Blockchain</i>, and <i>IEEE Access</i>, and was a Guest Editor for <i>Peer-to-Peer Networking and Applications</i>. He serves/served as a program committee member of the IEEE Global Communications Conference (GLOBECOM), the IEEE International Conference on High Performance Computing and Communications (HPCC), the International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP), and the Annual International Conference on Privacy, Security and Trust (PST). He is a member of the IEEE Computer Society, Communication Society, and Vehicular Technology Society, a CCF Senior Member, and an Executive Committee Member of the ACM Nanjing Chapter.
   
 </div>
 
