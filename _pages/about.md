@@ -38,7 +38,6 @@ redirect_from:
   以及知名科技金融机构，包括：
   <b>中行软开｜微众银行｜蚂蚁集团｜南京证券</b>。
 </p>
--
 <span style="color:#2f4f4f; background-color:#eef3f8; border-radius:4px; padding:1px 6px; font-weight:500;">
   <i>有志于继续深造的同学</i>
 </span>
