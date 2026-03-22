@@ -32,6 +32,8 @@ redirect_from:
 <b>项目津贴支持</b> —— 根据参与度发放补贴，认可你的努力与成果<br/> 
 <b>实践能力认证</b> —— 提供项目实践和实习证明，助力升学与求职
 
+</div>
+
 
 <hr style="border:none; border-top:1px dashed #ccc; margin:18px 0;">
 
@@ -43,7 +45,7 @@ redirect_from:
 </p>
 
 
-</div>
+
 
 </div>
 
