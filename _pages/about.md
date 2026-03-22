@@ -19,11 +19,7 @@ redirect_from:
 🧠 <b>垂直领域大模型</b> —— 质检、安全及智能交通领域的大模型及应用<br/>
 🔐 <b>网络与信息安全</b> —— 加密流量检测、网络防御与渗透测试新方法<br/>
 
--
-<span style="color:#2f4f4f; background-color:#eef3f8; border-radius:4px; padding:1px 6px; font-weight:500;">
-  <i>有志于继续深造的同学</i>
-</span>
-可推荐至国内外知名高校攻读硕士或博士学位（<b>2026年一位同学被推荐至东南大学读博</b>）。
+
 
 
 <hr style="border:none; border-top:1px dashed #ccc; margin:18px 0;">
@@ -42,7 +38,11 @@ redirect_from:
   以及知名科技金融机构，包括：
   <b>中行软开｜微众银行｜蚂蚁集团｜南京证券</b>。
 </p>
-
+-
+<span style="color:#2f4f4f; background-color:#eef3f8; border-radius:4px; padding:1px 6px; font-weight:500;">
+  <i>有志于继续深造的同学</i>
+</span>
+可推荐至国内外知名高校攻读硕士或博士学位（<b>2026年一位同学被推荐至东南大学读博</b>）。
 
 
 
