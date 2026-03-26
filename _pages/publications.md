@@ -17,7 +17,7 @@ redirect_from:
   <a href="https://ieeexplore.ieee.org/document/11222929" style="color:#000; text-decoration:none;">
   MobiFormer: Split-Federated Transfer Learning for Drone RAN Slicing with Multi-Head Attention</a>, 
   <i>IEEE Transactions on Mobile Computing (TMC)</i>, 2025, DOI: 10.1109/TMC.2025.3627068. 
-  <b>(CCF推荐A类国际期刊, 中科院一区Top)</b> 
+  <b>(CCF推荐A类国际期刊)</b> 
   <a href="http://shen-hang.github.io/files/TMC2025.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
 </li>
     <li>
@@ -25,7 +25,7 @@ redirect_from:
       <a href="https://ieeexplore.ieee.org/document/10145842" style="color:#000; text-decoration:none;">
       Slicing-Based Task Offloading in Space-Air-Ground Integrated Vehicular Networks</a>, 
       <i>IEEE Transactions on Mobile Computing (TMC)</i>, 2024, 23(5): 4009–4024. 
-      <b>(CCF推荐A类国际期刊, 中科院一区Top)</b> 
+      <b>(CCF推荐A类国际期刊)</b> 
       <a href="http://shen-hang.github.io/files/TMC2024.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
 <li>
@@ -50,7 +50,7 @@ redirect_from:
       <a href="https://ieeexplore.ieee.org/document/9440683" style="color:#000; text-decoration:none;">
       Drone-Small-Cell-Assisted Resource Slicing for 5G Uplink Radio Access Networks</a>, 
       <i>IEEE Transactions on Vehicular Technology (TVT)</i>, 2021, 70(7), pp. 7071–7086. 
-      <b>(中科院二区)</b> 
+      <b>(中科院二区Top)</b> 
       <a href="http://shen-hang.github.io/files/TVT2021.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
     <li>
@@ -73,7 +73,7 @@ redirect_from:
       <a href="https://ieeexplore.ieee.org/document/10927614" style="color:#000; text-decoration:none;">
       MT-DyNN: Multi-Teacher Distilled Dynamic Neural Network for Instance-Adaptive Detection in Autonomous Driving</a>, 
       <i>IEEE Transactions on Intelligent Transportation Systems (TITS)</i>, 2025, 26(5), pp. 6116–6129. 
-      <b>(CCF推荐B类国际期刊)</b> 
+      <b>(CCF推荐B类国际期刊, 中科院一区)</b> 
       <a href="http://shen-hang.github.io/files/TITS2025.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
     <li>
@@ -81,7 +81,7 @@ redirect_from:
       <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11142340" style="color:#000; text-decoration:none;">
       MA-DyNN: Modal-Adaptive Dynamic Neural Network for Crowd-Counting on Consumer Drones</a>, 
       <i>IEEE Transactions on Consumer Electronics (TCE)</i>, 2025, 71(4), pp. 9594-9605. 
-      <b>(中科院二区)</b> 
+      <b>(中科院一区)</b> 
       <a href="http://shen-hang.github.io/files/TCE2025.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
 <li> 
