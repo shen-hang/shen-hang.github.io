@@ -160,7 +160,7 @@ redirect_from:
     <b>Hang Shen*</b>, Yanke Yao, Tianjing Wang, and Guangwei Bai. 
     <a href="https://ieeexplore.ieee.org/document/11222929" style="color:#000; text-decoration:none;">
     MobiFormer: Split-Federated Transfer Learning for Drone RAN Slicing with Multi-Head Attention</a>, 
-    <i>IEEE Transactions on Mobile Computing (TMC)</i>, 2026, 25(4): 4920-4935. 
+    <i>IEEE Transactions on Mobile Computing (TMC)</i>, 2026, 25(4), pp. 4920-4935. 
     <a href="http://shen-hang.github.io/files/TMC2026.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
   </li>
 
@@ -184,7 +184,7 @@ redirect_from:
       <b>Hang Shen</b>, Xiang Li, Xu Wang, Yuanfei Dai*, Tianjing Wang, and Guangwei Bai. 
       <a href="https://ieeexplore.ieee.org/document/11170418" style="color:#000; text-decoration:none;">
       LACL: LLM-Augmented Contrastive Learning for Misinformation Detection in Social Networks</a>, 
-      <i>IEEE Transactions on Computational Social Systems (TCSS)</i>, 2026, 13(1): 999-1014.
+      <i>IEEE Transactions on Computational Social Systems (TCSS)</i>, 2026, 13(1), pp. 999-1014.
       <a href="http://shen-hang.github.io/files/TCSS2026.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
 
