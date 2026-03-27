@@ -116,7 +116,7 @@ redirect_from:
     </li>
 
     <li>
-      <b>Hang Shen</b>, Qi Liu, Fang Li, Tianjing Wang, Yuanfei Dai, and Guangwei Bai. 
+      <b>Hang Shen*</b>, Qi Liu, Fang Li, Tianjing Wang, Yuanfei Dai, and Guangwei Bai. 
       Split-Federated BERT with Adversarial Training for Edge Intrusion Detection, 
       <i>IEEE Internet of Things Journal (IoT-J)</i>, 2026, Accepted for Publication. 
       <b>(中科院一区)</b> 
