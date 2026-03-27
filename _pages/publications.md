@@ -16,7 +16,7 @@ redirect_from:
   <b>Hang Shen*</b>, Yanke Yao, Tianjing Wang, and Guangwei Bai. 
   <a href="https://ieeexplore.ieee.org/document/11222929" style="color:#000; text-decoration:none;">
   MobiFormer: Split-Federated Transfer Learning for Drone RAN Slicing with Multi-Head Attention</a>, 
-  <i>IEEE Transactions on Mobile Computing (TMC)</i>, 2026, 25(4): 4920-4935. 
+  <i>IEEE Transactions on Mobile Computing (TMC)</i>, 2026, 25(4), pp. 4920-4935. 
   <b>(CCF推荐A类国际期刊)</b> 
   <a href="http://shen-hang.github.io/files/TMC2026.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
 </li>
@@ -24,7 +24,7 @@ redirect_from:
       <b>Hang Shen*</b>, Yibo Tian, Tianjing Wang, and Guangwei Bai. 
       <a href="https://ieeexplore.ieee.org/document/10145842" style="color:#000; text-decoration:none;">
       Slicing-Based Task Offloading in Space-Air-Ground Integrated Vehicular Networks</a>, 
-      <i>IEEE Transactions on Mobile Computing (TMC)</i>, 2024, 23(5): 4009–4024. 
+      <i>IEEE Transactions on Mobile Computing (TMC)</i>, 2024, 23(5), pp. 4009–4024. 
       <b>(CCF推荐A类国际期刊)</b> 
       <a href="http://shen-hang.github.io/files/TMC2024.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
@@ -41,7 +41,7 @@ redirect_from:
       <b>Hang Shen*</b>, Ziyuan Tong, Tianjing Wang, and Guangwei Bai. 
       <a href="https://ieeexplore.ieee.org/document/10314431" style="color:#000; text-decoration:none;">
       UAV-Relay-Assisted Live Layered Video Multicast for Cell-Edge Users in NOMA Networks</a>, 
-      <i>IEEE Transactions on Broadcasting (TBC)</i>, 2024, 70(1): 135–147. 
+      <i>IEEE Transactions on Broadcasting (TBC)</i>, 2024, 70(1), pp 135–147. 
       <b>(中科院二区)</b> 
       <a href="http://shen-hang.github.io/files/TBC2024.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
