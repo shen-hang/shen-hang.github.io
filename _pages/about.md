@@ -20,15 +20,15 @@ redirect_from:
 🔐 <b>网络与信息安全</b> —— 加密流量检测、网络防御与渗透测试新方法<br/>
 
 
-
-
 <hr style="border:none; border-top:1px dashed #ccc; margin:18px 0;">
 
-🎯 <span style="color:#8B0000; font-weight:bold;">诚邀热爱开发的本科同学（以个人或大创形式）参与「领域大模型与知识图谱」企业横向项目：</span><br/>
+🎯 <span style="color:#8B0000; font-weight:bold;">诚邀热爱开发的本科同学参与「特种设备定检大模型」、「道路养护智能体」、「农业机器人视觉计算」、「振动除尘智能体」落地项目：</span><br/>
 
-<b>项目津贴支持</b> —— 根据参与度发放补贴，认可你的努力与成果<br/> 
-<b>实践能力认证</b> —— 提供项目实践和实习证明，助力升学与求职
+<b>团队指导</b> —— 在团队联合指导下，参与产业级AI项目开发<br/> 
+<b>津贴支持</b> —— 根据参与度发放补贴，认可你的努力与成果<br/> 
+<b>能力认证</b> —— 提供项目实践和实习证明，助力升学与求职<br/> 
 
+<b>📌 招募要求</b> —— 具备编程思维，对AI大模型/智能体/视觉计算方向有浓厚兴趣，并能稳定参与项目开发<br/> 
 
 <hr style="border:none; border-top:1px dashed #ccc; margin:18px 0;">
 
