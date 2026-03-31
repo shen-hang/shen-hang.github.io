@@ -117,10 +117,15 @@ redirect_from:
 
     <li>
       <b>Hang Shen*</b>, Qi Liu, Fang Li, Tianjing Wang, Yuanfei Dai, and Guangwei Bai. 
+          <a href="https://ieeexplore.ieee.org/document/11457945" style="color:#000; text-decoration:none;">
       Split-Federated BERT with Adversarial Training for Edge Intrusion Detection, 
       <i>IEEE Internet of Things Journal (IoT-J)</i>, 2026, DOI: 10.1109/JIOT.2026.3679000. 
       <b>(中科院一区)</b> 
+       <a href="http://shen-hang.github.io/files/IoT2026.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
+
+
+
 
     <li>
       <b>Hang Shen</b>, Xiang Li, Xu Wang, Yuanfei Dai*, Tianjing Wang, and Guangwei Bai. 
