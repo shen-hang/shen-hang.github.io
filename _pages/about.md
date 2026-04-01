@@ -22,7 +22,7 @@ redirect_from:
 
 <hr style="border:none; border-top:1px dashed #ccc; margin:18px 0;">
 
-🎯 <span style="color:#8B0000; font-weight:bold;">诚邀本科同学参与「特种设备定检大模型」、「工业节能智能体」、「农业机器人视觉计算」、「道路养护智能体」落地项目：</span><br/>
+🎯 <span style="color:#8B0000; font-weight:bold;">诚邀各位同学参与「特种设备定检大模型」、「工业节能智能体」、「农业机器人视觉计算」、「道路养护智能体」落地项目：</span><br/>
 
 <b>团队指导</b> —— 团队协同推进，让你在真实项目中快速成长<br/> 
 <b>津贴支持</b> —— 根据参与度发放补贴，认可你的努力与成果<br/> 
