@@ -82,6 +82,7 @@ redirect_from:
   - IEEE Transactions on Automation Science and Engineering (TASE)<br/>
   - IEEE Transactions on Green Communications and Networking (TGCN)<br/>
   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)<br/>
+  - IEEE Transactions on Affective Computing (TAFF)<br/>
   - IEEE Transactions on Computational Social Systems (TCSS)<br/>
   - IEEE Transactions on Industrial Informatics (TII)<br/>
   - IEEE Transactions on Aerospace and Electronic Systems (TAES)<br/>
