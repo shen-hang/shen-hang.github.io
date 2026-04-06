@@ -68,6 +68,7 @@ redirect_from:
   - IEEE Transactions on Dependable and Secure Computing (TDSC)<br/>
   - IEEE Transactions on Services Computing (TSC)<br/>
   - IEEE Transactions on Dependable and Secure Computing (TDSC)<br/>
+  - IEEE Transactions on Information Forensics and Security (TIFS)<br/>
   - IEEE Transactions on Knowledge and Data Engineering (TKDE)<br/>
   - SCIENCE CHINA Information Sciences<br/>
   - IEEE Transactions on Wireless Communications (TWC)<br/>
