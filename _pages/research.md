@@ -105,22 +105,9 @@ redirect_from:
   - IEEE Signal Processing Letters<br/>
   - Electronics Letters<br/>
   - Frontiers of Computer Science<br/>
-  - Wireless Networks (WINE)<br/>
-  - Concurrency and Computation: Practice and Experience (CCPE)<br/>
-  - Cluster Computing<br/>
-  - Big Data Mining and Analytics (BDMA)<br/>
-  - Peer-to-Peer Networking and Applications (PPNA)<br/>
-  - Elsevier Robotics and Autonomous Systems (RAS)<br/>
-  - Elsevier Measurement<br/>
-  - Multimedia Tools and Applications (MTAP)<br/>
-  - Journal of Communications and Information Networks (JCIN)<br/>
-  - Knowledge-Based Systems (KBS)<br/>
-  - Telecommunication Systems<br/>
-  - ETRI Journal<br/>
   - Acta Electronica Sinica (电子学报)<br/>
   - Journal on Communications (通信学报)<br/>
   - Chinese Journal on Internet of Things (物联网学报)<br/>
-  - Chinese Journal of Network and Information Security (网络与信息安全学报)<br/>
 </div>
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:16px;">
