@@ -75,6 +75,7 @@ redirect_from:
   - IEEE/ACM Transactions on Networking (TON)<br/>
   - IEEE Transactions on Mobile Computing (TMC)<br/>
   - IEEE Transactions on Dependable and Secure Computing (TDSC)<br/>
+  - IEEE Transactions on Information Forensics and Security (TIFS)<br/>
   - IEEE Transactions on Services Computing (TSC)<br/>
   - IEEE Transactions on Knowledge and Data Engineering (TKDE)<br/>
   - SCIENCE CHINA Information Sciences<br/>
@@ -97,11 +98,13 @@ redirect_from:
   - IEEE Transactions on Consumer Electronics (TCE)<br/>
   - IEEE Transactions on Cognitive Communications and Networking (TCCN)<br/>
   - IEEE Transactions on Sustainable Computing (TSUSC)<br/>
+  - IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)<br/>
   - IEEE Internet of Things Journal<br/>
   - IEEE Network Magazine<br/>
   - IEEE Systems Journal<br/>
   - IEEE Sensors Journal<br/>
   - IEEE Communications Letters<br/>
+  - IEEE Wireless Communications Letters<br/>
   - IEEE Signal Processing Letters<br/>
   - Electronics Letters<br/>
   - Frontiers of Computer Science<br/>
