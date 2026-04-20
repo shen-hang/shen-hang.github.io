@@ -52,8 +52,10 @@ redirect_from:
 <h2 align="left" style="margin-bottom:8px; margin-top:16px;">Recent Highlights</h2>
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 18px; line-height:1.4; font-size:15px; margin-bottom:24px;">
 
+<p>Apr. 2026: 我们<b>网络安全</b>方向的论文<i>"IDNet: Instance-adaptive Dynamic Network with Adversarial Training for Intrusion Detection"</i> 被 <b><i>Computer Networks</i></b> (<b>CCF推荐B类国际期刊</b>) 录用为长文。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
 <p>Mar. 2026: 我们<b>网络安全</b>方向的论文<i>"Split-Federated BERT with Adversarial Training for Edge Intrusion Detection"</i> 被 <b><i>IEEE Internet of Things Journal</i></b> (<b>一区</b>) 录用为长文。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
+
 
 <p>Mar. 2026: 沈航应邀担任<b><i>IEEE Global Communications Conference (GLOBECOM 2026)</i></b> 程序委员会（TPC）成员。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
@@ -89,7 +91,7 @@ redirect_from:
 
 <p>Apr. 2025: 沈航应邀担任 CCF 推荐国际会议 <b><i>IEEE International Conference on High Performance Computing and Communications (HPCC)</i></b> 程序委员会（TPC）成员。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
-<p>Mar. 2025: 我们 <b>网联汽车视觉计算</b> 方向的论文 <i>"MT-DyNN: Multi-Teacher Distilled Dynamic Neural Network for Instance-Adaptive Detection in Autonomous Driving"</i> 被国际著名期刊 <b><i>IEEE Transactions on Intelligent Transportation Systems</i></b> 录用为长文。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
+<p>Mar. 2025: 我们 <b>网联汽车视觉计算</b> 方向的论文 <i>"MT-DyNN: Multi-Teacher Distilled Dynamic Neural Network for Instance-Adaptive Detection in Autonomous Driving"</i> 被 <b><i>IEEE Transactions on Intelligent Transportation Systems</i></b> (<b>CCF推荐B类国际期刊</b>) 录用为长文。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
 <p>Feb. 2025: 我们 <b>多智能体渗透测试</b> 方向的论文 <i>"Collaborative Path Penetration in 5G-IoT Networks: A Multi-Agent Deep Reinforcement Learning Approach"</i> 被 CCF 推荐国际期刊 <b><i>Peer-to-Peer Networking and Applications</i></b> 录用为长文。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
@@ -170,8 +172,7 @@ redirect_from:
 
 <h2 align="left" style="margin-bottom:8px; margin-top:0;">Biography</h2>
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 18px; line-height:1.4; font-size:15px;">
-  <b>沈航</b>，入选“江苏省六大人才高峰”高层次人才计划、“南工英才”优秀青年科技创新人才计划。毕业于南京理工大学（优秀博士毕业生 / 优秀博士学位论文 / 博士生国奖获得者），师从白光伟教授、唐振民教授。曾在加拿大滑铁卢大学电子与计算机工程系 BBCR 实验室担任全职博士后研究员，师从加拿大皇家科学院院士、加拿大工程院院士、IEEE Fellow Weihua Zhuang 教授。2015年加入南京工业大学。主要研究车联网（车计算）、领域大模型、网络安全、无人机视觉计算等。以第一作者在 <i>IEEE TMC</i>、<i>IEEE TITS</i>、<i>IEEE TVT</i>、<i>IEEE IoT-J</i>、<i>IEEE TBC</i>、<i>IEEE TCSS</i>、<i>IEEE TCE</i>、
-  <i>电子学报</i>、<i>IEEE ICC</i> 等国际著名期刊与会议发表论文三十余篇，指导学生发表论文 110 余篇；
+  <b>沈航</b>，入选“江苏省六大人才高峰”高层次人才计划、“南工英才”优秀青年科技创新人才计划。毕业于南京理工大学（优秀博士毕业生 / 优秀博士学位论文 / 博士生国奖获得者），师从白光伟教授、唐振民教授。曾在加拿大滑铁卢大学电子与计算机工程系 BBCR 实验室担任全职博士后研究员，师从加拿大皇家科学院院士、加拿大工程院院士、IEEE Fellow Weihua Zhuang 教授。2015年加入南京工业大学。主要研究车联网（车计算）、领域大模型、网络安全、无人机视觉计算等。以第一作者在 <i>IEEE TMC</i>、<i>IEEE TITS</i>、<i>IEEE TVT</i>、<i>IEEE IoT-J</i>、<i>IEEE TBC</i>、<i>IEEE TCSS</i>、<i>IEEE TCE</i>、<i>电子学报</i>、<i>IEEE ICC</i> 等国际著名期刊与会议发表论文三十余篇，指导学生发表论文 110 余篇；
   参编学术专著《Encyclopedia of Wireless Networks》，授权国家发明专利四十余件。
   主持国家自然科学基金和省自然科学基金项目三项，厅级项目两项，国家 / 省重点实验室开放课题三项，企业横向项目十项。
   曾获 2025年 中国安全生产协会科技进步二等奖（排名第八）、2025 年中国商业联合会技术发明三等奖（排名第五）、2022 年中国特种设备检测协会科学技术二等奖（排名第三）、2021 年中国电力联合会科技创新二等奖（排名第三）、
