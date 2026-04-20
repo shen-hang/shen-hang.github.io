@@ -176,7 +176,6 @@ redirect_from:
       Tianjing Wang, Qi Liu, <b>Hang Shen*</b>, and Guangwei Bai. 
       IDNet: Instance-adaptive Dynamic Network with Adversarial Training for Intrusion Detection, 
       <i>Computer Networks (ComNet)</i>, 2026, Accepted for publication. 
-      <b>(CCF推荐B类国际期刊)</b>
     </li>
 
     <li>
