@@ -173,6 +173,13 @@ redirect_from:
     </li>
 
     <li>
+      <b>Tianjing Wang</b>, Qi Liu, Hang Shen*, and Guangwei Bai. 
+      IDNet: Instance-adaptive Dynamic Network with Adversarial Training for Intrusion Detection, 
+      <i>Computer Networks (ComNet)</i>, 2026, Accepted for publication. 
+      <b>(CCF推荐B类国际期刊)</b>
+    </li>
+
+    <li>
       <b>Hang Shen</b>, Xiang Li, Xu Wang, Yuanfei Dai*, Tianjing Wang, and Guangwei Bai. 
       <a href="https://ieeexplore.ieee.org/document/11170418" style="color:#000; text-decoration:none;">
       LACL: LLM-Augmented Contrastive Learning for Misinformation Detection in Social Networks</a>, 
