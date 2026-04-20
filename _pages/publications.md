@@ -200,6 +200,22 @@ redirect_from:
 <div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.45; font-size:15px; margin-bottom:14px;">
   <h3 style="color:#8B0000; margin-top:0; margin-bottom:6px;">E. Security & Privacy</h3>
   <ol style="margin-top:6px; margin-bottom:0;">
+
+    <li>
+      <b>Tianjing Wang</b>, Qi Liu, Hang Shen*, and Guangwei Bai. 
+      IDNet: Instance-adaptive Dynamic Network with Adversarial Training for Intrusion Detection, 
+      <i>Computer Networks (ComNet)</i>, 2026, Accepted for publication. 
+      <b>(CCF推荐B类国际期刊)</b>
+    </li>
+
+    <li>
+      <b>Hang Shen</b>, Guangwei Bai*, Yujia Hu, and Tianjing Wang. 
+      <a href="https://www.sciencedirect.com/science/article/pii/S138376211830451X" style="color:#000; text-decoration:none;">
+      P2TA: Privacy-Preserving Task Allocation for Edge Computing Enhanced Mobile Crowdsensing</a>, 
+      <i>Elsevier Journal of Systems Architecture (JSA)</i>, 2019, 97, pp. 130–141. 
+      <b>(CCF推荐B类国际期刊)</b>
+    </li>
+
     <li>
       <b>Hang Shen</b>, Xiang Li, Yan Wang, Tianjing Wang* and Guangwei Bai. 
       <a href="https://link.springer.com/article/10.1007/s12083-025-01939-4" style="color:#000; text-decoration:none;">
@@ -216,14 +232,6 @@ redirect_from:
       <i>ETRI Journal</i>, 2025, DOI: 10.4218/etrij.2025-0152. 
       <b>(SCI)</b> 
       <a href="http://shen-hang.github.io/files/ETRI2026.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
-    </li>
-
-    <li>
-      <b>Hang Shen</b>, Guangwei Bai*, Yujia Hu, and Tianjing Wang. 
-      <a href="https://www.sciencedirect.com/science/article/pii/S138376211830451X" style="color:#000; text-decoration:none;">
-      P2TA: Privacy-Preserving Task Allocation for Edge Computing Enhanced Mobile Crowdsensing</a>, 
-      <i>Elsevier Journal of Systems Architecture (JSA)</i>, 2019, 97, pp. 130–141. 
-      <b>(CCF推荐B类国际期刊)</b>
     </li>
 
     <li>
