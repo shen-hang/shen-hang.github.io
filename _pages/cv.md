@@ -172,17 +172,18 @@ redirect_from:
       <a href="http://shen-hang.github.io/files/TITS2025.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
 
-    <li>
-      <b>Hang Shen</b>, Guangwei Bai*, Yujia Hu, and Tianjing Wang. 
-      <a href="https://www.sciencedirect.com/science/article/pii/S138376211830451X" style="color:#000; text-decoration:none;">
-      P2TA: Privacy-Preserving Task Allocation for Edge Computing Enhanced Mobile Crowdsensing</a>, 
-      <i>Elsevier Journal of Systems Architecture (JSA)</i>, 2019, 97, pp. 130–141.
-    </li>
 
     <li>
       Tianjing Wang, Qi Liu, <b>Hang Shen*</b>, and Guangwei Bai. 
       IDNet: Instance-adaptive Dynamic Network with Adversarial Training for Intrusion Detection, 
       <i>Computer Networks (ComNet)</i>, 2026, Accepted for publication. 
+    </li>
+
+    <li>
+      <b>Hang Shen</b>, Guangwei Bai*, Yujia Hu, and Tianjing Wang. 
+      <a href="https://www.sciencedirect.com/science/article/pii/S138376211830451X" style="color:#000; text-decoration:none;">
+      P2TA: Privacy-Preserving Task Allocation for Edge Computing Enhanced Mobile Crowdsensing</a>, 
+      <i>Elsevier Journal of Systems Architecture (JSA)</i>, 2019, 97, pp. 130–141.
     </li>
 
     <li>
