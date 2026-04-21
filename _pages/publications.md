@@ -148,7 +148,7 @@ redirect_from:
 
 <!-- D. Security & Privacy --> 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.45; font-size:15px; margin-bottom:14px;">
-  <h3 style="color:#8B0000; margin-top:0; margin-bottom:6px;">E. Security & Privacy</h3>
+  <h3 style="color:#8B0000; margin-top:0; margin-bottom:6px;">D. Security & Privacy</h3>
   <ol style="margin-top:6px; margin-bottom:0;">
 
     <li>
@@ -207,7 +207,7 @@ redirect_from:
 
 <!-- E. Wireless Algorithms -->
 <div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.45; font-size:15px; margin-bottom:14px;">
-  <h3 style="color:#8B0000; margin-top:0; margin-bottom:6px;">D. Wireless Algorithms</h3>
+  <h3 style="color:#8B0000; margin-top:0; margin-bottom:6px;">E. Wireless Algorithms</h3>
   <ol style="margin-top:6px; margin-bottom:0;">
     <li>
       Tianjing Wang, Yu Zhang, <b>Hang Shen*</b>, and Guangwei Bai. 
