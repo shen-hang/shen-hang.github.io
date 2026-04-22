@@ -156,6 +156,7 @@ redirect_from:
       IDNet: Instance-adaptive Dynamic Network with Adversarial Training for Intrusion Detection, 
       <i>Computer Networks (ComNet)</i>, 2026, Accepted for publication. 
       <b>(CCF推荐B类国际期刊)</b>
+        <a href="http://shen-hang.github.io/files/IDNet.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
 
     <li>
