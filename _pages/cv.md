@@ -248,6 +248,7 @@ redirect_from:
       <a href="https://link.springer.com/article/10.1007/s12083-025-01939-4" style="color:#000; text-decoration:none;">
       Collaborative Path Penetration in 5G-IoT Networks: A Multi-Agent Deep Reinforcement Learning Approach</a>, 
       <i>Peer-to-Peer Networking and Applications</i>, 2025, Vol. 18, article number 113, pp. 1–20.
+      <a href="http://shen-hang.github.io/files/PPNA2025.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
 
     <li>
