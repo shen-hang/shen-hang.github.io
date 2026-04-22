@@ -172,11 +172,11 @@ redirect_from:
       <a href="http://shen-hang.github.io/files/TITS2025.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
 
-
     <li>
       Tianjing Wang, Qi Liu, <b>Hang Shen*</b>, and Guangwei Bai. 
       IDNet: Instance-adaptive Dynamic Network with Adversarial Training for Intrusion Detection, 
       <i>Computer Networks (ComNet)</i>, 2026, Accepted for publication. 
+    <a href="http://shen-hang.github.io/files/IDNet.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
 
     <li>
@@ -249,11 +249,13 @@ redirect_from:
       Collaborative Path Penetration in 5G-IoT Networks: A Multi-Agent Deep Reinforcement Learning Approach</a>, 
       <i>Peer-to-Peer Networking and Applications</i>, 2025, Vol. 18, article number 113, pp. 1–20.
     </li>
- <li>
+
+    <li>
       Fang Li, <b>Hang Shen*</b>, Jieai Mai, Tianjing Wang, Yuanfei Dai, and Xiaodong Miao. 
       <a href="https://link.springer.com/article/10.1007/s12083-023-01595-6" style="color:#000; text-decoration:none;">
       Pre-trained Language Model-Enhanced Conditional Generative Adversarial Networks for Intrusion Detection</a>, 
       <i>Peer-to-Peer Networking and Applications (PPNA)</i>, 2024, 17, pp. 227–245.
+      <a href="http://shen-hang.github.io/files/PPNA2024.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
 
     <li>
