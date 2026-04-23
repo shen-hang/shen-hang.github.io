@@ -173,10 +173,12 @@ redirect_from:
     </li>
 
     <li>
-      Tianjing Wang, Qi Liu, <b>Hang Shen*</b>, and Guangwei Bai. 
-      IDNet: Instance-adaptive Dynamic Network with Adversarial Training for Intrusion Detection, 
+      <b>Tianjing Wang</b>, Qi Liu, Hang Shen*, and Guangwei Bai. 
+      <a href="https://www.sciencedirect.com/science/article/pii/S1389128626003488" style="color:#000; text-decoration:none;">
+        IDNet: Instance-adaptive Dynamic Network with Adversarial Training for Intrusion Detection</a>,  
       <i>Computer Networks (ComNet)</i>, 2026, Accepted for publication. 
-    <a href="http://shen-hang.github.io/files/IDNet.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
+      <b>(CCF推荐B类国际期刊)</b>
+        <a href="http://shen-hang.github.io/files/IDNet.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
 
     <li>
