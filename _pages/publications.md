@@ -42,7 +42,7 @@ redirect_from:
       <a href="https://ieeexplore.ieee.org/document/10314431" style="color:#000; text-decoration:none;">
       UAV-Relay-Assisted Live Layered Video Multicast for Cell-Edge Users in NOMA Networks</a>, 
       <i>IEEE Transactions on Broadcasting (TBC)</i>, 2024, 70(1), pp 135–147. 
-      <b>(二区)</b> 
+      <b>(新锐二区)</b> 
       <a href="http://shen-hang.github.io/files/TBC2024.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
     <li>
@@ -50,7 +50,7 @@ redirect_from:
       <a href="https://ieeexplore.ieee.org/document/9440683" style="color:#000; text-decoration:none;">
       Drone-Small-Cell-Assisted Resource Slicing for 5G Uplink Radio Access Networks</a>, 
       <i>IEEE Transactions on Vehicular Technology (TVT)</i>, 2021, 70(7), pp. 7071–7086. 
-      <b>(二区Top)</b> 
+      <b>(新锐二区Top)</b> 
       <a href="http://shen-hang.github.io/files/TVT2021.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
     <li>
@@ -73,7 +73,7 @@ redirect_from:
       <a href="https://ieeexplore.ieee.org/document/10927614" style="color:#000; text-decoration:none;">
       MT-DyNN: Multi-Teacher Distilled Dynamic Neural Network for Instance-Adaptive Detection in Autonomous Driving</a>, 
       <i>IEEE Transactions on Intelligent Transportation Systems (TITS)</i>, 2025, 26(5), pp. 6116–6129. 
-      <b>(CCF推荐B类国际期刊, 一区)</b> 
+      <b>(CCF推荐B类国际期刊, 新锐一区)</b> 
       <a href="http://shen-hang.github.io/files/TITS2025.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
     <li>
@@ -81,7 +81,7 @@ redirect_from:
       <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11142340" style="color:#000; text-decoration:none;">
       MA-DyNN: Modal-Adaptive Dynamic Neural Network for Crowd-Counting on Consumer Drones</a>, 
       <i>IEEE Transactions on Consumer Electronics (TCE)</i>, 2025, 71(4), pp. 9594-9605. 
-      <b>(一区)</b> 
+      <b>(新锐一区)</b> 
       <a href="http://shen-hang.github.io/files/TCE2025.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
 <li> 
@@ -121,7 +121,7 @@ redirect_from:
     Split-Federated BERT with Adversarial Training for Edge Intrusion Detection
   </a>, 
   <i>IEEE Internet of Things Journal (IoT-J)</i>, 2026, DOI: 10.1109/JIOT.2026.3679000. 
-  <b>(一区)</b> 
+  <b>(新锐一区)</b> 
   <a href="http://shen-hang.github.io/files/IoT2026.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
 </li>
     <li>
@@ -216,7 +216,7 @@ redirect_from:
       <a href="https://ieeexplore.ieee.org/document/10550173" style="color:#000; text-decoration:none;">
       Task Partitioning and Scheduling Based on Stochastic Policy Gradient in Mobile Crowdsensing</a>, 
       <i>IEEE Transactions on Computational Social Systems (TCSS)</i>, 2024, 11(5), pp. 6580–6591. 
-      <b>(中科院二区)</b> 
+      <b>(CCF推荐国际期刊)</b> 
       <a href="http://shen-hang.github.io/files/TCSS2024.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
 
@@ -225,7 +225,7 @@ redirect_from:
       <a href="http://ieeexplore.ieee.org/abstract/document/8291004/" style="color:#000; text-decoration:none;">
       QoS-Guaranteed Wireless Broadcast Scheduling with Network Coding and Rate Adaptation</a>, 
       <i>IEEE Transactions on Vehicular Technology (TVT)</i>, 2018, 67(7), pp. 6492–6503. 
-      <b>(中科院二区Top)</b> 
+      <b>(新锐二区Top)</b> 
       <a href="http://shen-hang.github.io/files/TVT2018.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
 
