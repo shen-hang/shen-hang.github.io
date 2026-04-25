@@ -54,7 +54,7 @@ redirect_from:
 
 <p>Apr. 2026: 我们<b>网络安全</b>方向的论文<i>"IDNet: Instance-adaptive Dynamic Network with Adversarial Training for Intrusion Detection"</i> 被 <b><i>Computer Networks</i></b> (<b>CCF推荐B类国际期刊</b>) 录用为长文。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
-<p>Mar. 2026: 我们<b>网络安全</b>方向的论文<i>"Split-Federated BERT with Adversarial Training for Edge Intrusion Detection"</i> 被 <b><i>IEEE Internet of Things Journal</i></b> (<b>一区</b>) 录用为长文。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
+<p>Mar. 2026: 我们<b>网络安全</b>方向的论文<i>"Split-Federated BERT with Adversarial Training for Edge Intrusion Detection"</i> 被 <b><i>IEEE Internet of Things Journal</i></b> (<b>新锐一区</b>) 录用为长文。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
 
 <p>Mar. 2026: 沈航应邀担任<b><i>IEEE Global Communications Conference (GLOBECOM 2026)</i></b> 程序委员会（TPC）成员。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
