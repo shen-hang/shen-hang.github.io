@@ -101,6 +101,7 @@ redirect_from:
   - IEEE Transactions on Cognitive Communications and Networking (TCCN)<br/>
   - IEEE Transactions on Sustainable Computing (TSUSC)<br/>
   - IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)<br/>
+  - IEEE Transactions on Machine Learning in Communications and Networking (TMLCN)<br/>
   - IEEE Internet of Things Journal<br/>
   - IEEE Network Magazine<br/>
   - IEEE Systems Journal<br/>
