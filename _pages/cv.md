@@ -154,6 +154,7 @@ redirect_from:
     <a href="https://ieeexplore.ieee.org/document/11222929" style="color:#000; text-decoration:none;">
     MobiFormer: Split-Federated Transfer Learning for Drone RAN Slicing with Multi-Head Attention</a>, 
     <i>IEEE Transactions on Mobile Computing (TMC)</i>, 2026, 25(4), pp. 4920-4935. 
+    <b>(CCF Rank-A)</b> 
     <a href="http://shen-hang.github.io/files/TMC2026.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
   </li>
 
@@ -162,14 +163,34 @@ redirect_from:
       <a href="https://ieeexplore.ieee.org/document/10145842" style="color:#000; text-decoration:none;">
       Slicing-Based Task Offloading in Space-Air-Ground Integrated Vehicular Networks</a>, 
       <i>IEEE Transactions on Mobile Computing (TMC)</i>, 2024, 23(5), pp. 4009–4024. 
+      <b>(CCF Rank-A)</b> 
       <a href="http://shen-hang.github.io/files/TMC2024.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
+    </li>
+
+    <li>
+      YIN Min, <b>SHEN Hang</b>, WANG Tian-jing, and BAI Guang-wei. 
+      <a href="https://www.ejournal.org.cn/thesisDetails#10.12263/DZXB.20221083&lang=zh" style="color:#000; text-decoration:none;">
+      Hierarchical Federated Learning-Based RAN Slicing for Drone-Small-Cells</a>, 
+      <i>ACTA ELECTRONICA SINICA</i>, 2023, 51(07), pp. 1774-1780. 
+      <b>(CCF Rank-A)</b> 
+      <a href="http://shen-hang.github.io/files/电子学报2023.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
+    </li>
+
+    <li>
+      <b>SHEN Hang*</b>, WANG Xu, WANG Tian-jing, DAI Yuan-fei, and BAI Guang-wei.  
+      <a href="https://www.ejournal.org.cn/thesisDetails#10.12263/DZXB.20250470&lang=zh" style="color:#000; text-decoration:none;">
+      LLM-Enhanced Self-Supervised Domain Adaptation for Cross-Lingual Misinformation Detection in Social Networks</a>, 
+      <i>Acta Electronica Sinica</i>, 2025, 53(11), pp. 3865-3879.
+      <b>(CCF Rank-A)</b> 
+      <a href="http://shen-hang.github.io/files/电子学报2025.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
 
     <li>
       <b>Hang Shen*</b>, Qi Liu, Yuanyi Wang, Tianjing Wang, and Guangwei Bai. 
       <a href="https://ieeexplore.ieee.org/document/10927614" style="color:#000; text-decoration:none;">
       MT-DyNN: Multi-Teacher Distilled Dynamic Neural Network for Instance-Adaptive Detection in Autonomous Driving</a>, 
-      <i>IEEE Transactions on Intelligent Transportation Systems (TITS)</i>, 2025, 26(5), pp. 6116–6129. 
+      <i>IEEE Transactions on Intelligent Transportation Systems (TITS)</i>, 2025, 26(5), pp. 6116–6129.
+      <b>(CCF Rank-B)</b> 
       <a href="http://shen-hang.github.io/files/TITS2025.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
 
@@ -178,6 +199,7 @@ redirect_from:
       <a href="https://www.sciencedirect.com/science/article/pii/S1389128626003488" style="color:#000; text-decoration:none;">
         IDNet: Instance-adaptive Dynamic Network with Adversarial Training for Intrusion Detection</a>,  
       <i>Computer Networks (ComNet)</i>, 2026, Volume 283, no. 112336. 
+      <b>(CCF Rank-B)</b> 
         <a href="http://shen-hang.github.io/files/IDNet.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
 
@@ -185,6 +207,7 @@ redirect_from:
       <b>Hang Shen</b>, Guangwei Bai*, Yujia Hu, and Tianjing Wang. 
       <a href="https://www.sciencedirect.com/science/article/pii/S138376211830451X" style="color:#000; text-decoration:none;">
       P2TA: Privacy-Preserving Task Allocation for Edge Computing Enhanced Mobile Crowdsensing</a>, 
+      <b>(CCF Rank-B)</b> 
       <i>Elsevier Journal of Systems Architecture (JSA)</i>, 2019, 97, pp. 130–141.
     </li>
 
