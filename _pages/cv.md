@@ -180,7 +180,7 @@ redirect_from:
       YIN Min, <b>SHEN Hang*</b>, WANG Tian-jing, and BAI Guang-wei. 
       <a href="https://www.ejournal.org.cn/thesisDetails#10.12263/DZXB.20221083&lang=zh" style="color:#000; text-decoration:none;">
       Hierarchical Federated Learning-Based RAN Slicing for Drone-Small-Cells</a>, 
-      <i>ACTA ELECTRONICA SINICA</i>, 2023, 51(07), pp. 1774-1780. 
+      <i>Acta Electronica Sinica</i>, 2023, 51(07), pp. 1774-1780. 
       <b>(CCF Rank-A)</b> 
       <a href="http://shen-hang.github.io/files/电子学报2023.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
