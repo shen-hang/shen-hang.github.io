@@ -207,8 +207,8 @@ redirect_from:
       <b>Hang Shen</b>, Guangwei Bai*, Yujia Hu, and Tianjing Wang. 
       <a href="https://www.sciencedirect.com/science/article/pii/S138376211830451X" style="color:#000; text-decoration:none;">
       P2TA: Privacy-Preserving Task Allocation for Edge Computing Enhanced Mobile Crowdsensing</a>, 
-      <b>(CCF Rank-B)</b> 
       <i>Elsevier Journal of Systems Architecture (JSA)</i>, 2019, 97, pp. 130–141.
+         <b>(CCF Rank-B)</b> 
     </li>
 
     <li>
@@ -297,7 +297,7 @@ redirect_from:
       <a href="https://onlinelibrary.wiley.com/doi/10.4218/etrij.2023-0426" style="color:#000; text-decoration:none;">
       Vehicle Counting in UAV Images: An Adaptive Approach with Spatial Attention and Multi-Scale Receptive Fields</a>, 
       <i>Wiley ETRI Journal</i>, 2025, 47(1), pp. 7–19. 
-      <b>(Featured Article, selected as the only highlighted paper of Jan–Feb 2025)</b> 
+      <b>(Featured Article in the first quarter of 2025)</b> 
       <a href="http://shen-hang.github.io/files/ETRIR_48_3_infographics_January_06_2025.pdf" style="color:#1E90FF; text-decoration:none;">[Infographic Design]</a> 
       <a href="http://shen-hang.github.io/files/ETRI2025.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
