@@ -85,6 +85,7 @@ redirect_from:
   - IEEE Transactions on Intelligent Transportation Systems (TITS)<br/>
   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)<br/>
   - ACM Transactions on Internet Technology (TOIT)<br/>
+  - IEEE IEEE Transactions on Evolutionary Computation (TEVC)<br/>
   - IEEE Transactions on Systems, Man and Cybernetics: Systems (SMCA) <br/>
   - IEEE Transactions on Cloud Computing (TCC) <br/>
   - ACM Transactions on Design Automation of Electronic Systems (TODAES) <br/>
