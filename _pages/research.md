@@ -90,6 +90,7 @@ redirect_from:
   - IEEE Transactions on Cloud Computing (TCC) <br/>
   - ACM Transactions on Design Automation of Electronic Systems (TODAES) <br/>
   - IEEE Transactions on Vehicular Technology (TVT)<br/>
+  - IEEE Transactions on Computational Biology and Bioinformatics (TCBB)<br/>
   - IEEE Transactions on Automation Science and Engineering (TASE)<br/>
   - IEEE Transactions on Network and Service Management (TNSM)<br/>
   - IEEE Transactions on Green Communications and Networking (TGCN)<br/>
