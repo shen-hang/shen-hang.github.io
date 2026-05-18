@@ -108,6 +108,7 @@ redirect_from:
   - Acta Electronica Sinica (电子学报)<br/>
   - Journal on Communications (通信学报)<br/>
   - Chinese Journal on Internet of Things (物联网学报)<br/>
+  - Chinese Journal of Intelligent Science and Technology (智能科学与技术学报)<br/>
 </div>
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:16px;">
