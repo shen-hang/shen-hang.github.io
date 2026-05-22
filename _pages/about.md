@@ -52,6 +52,7 @@ redirect_from:
 <h2 align="left" style="margin-bottom:8px; margin-top:16px;">Recent Highlights</h2>
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 18px; line-height:1.4; font-size:15px; margin-bottom:24px;">
 
+<p>Apr. 2026: 校企合作项目“面向机器人平台的农作物生长监测AI模型研发”启动。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 <p>Apr. 2026: 我们<b>网络安全</b>方向的论文<i>"IDNet: Instance-adaptive Dynamic Network with Adversarial Training for Intrusion Detection"</i> 被 <b><i>Computer Networks</i></b> (<b>CCF推荐B类国际期刊</b>) 录用为长文。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
 <p>Mar. 2026: 我们<b>网络安全</b>方向的论文<i>"Split-Federated BERT with Adversarial Training for Edge Intrusion Detection"</i> 被 <b><i>IEEE Internet of Things Journal</i></b> (<b>新锐一区</b>) 录用为长文。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
@@ -73,7 +74,7 @@ redirect_from:
 
 <p>Oct. 2025: 李想、刘棋同学获得硕士 <b>研究生国家奖学金</b>。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
-<p>Oct. 2025: 企业横向项目 “同异构分布式算力协同 <b>串行并行推理</b> 算法研究” 启动。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
+<p>Oct. 2025: 校企合作项目 “同异构分布式算力协同 <b>串行并行推理</b> 算法研究” 启动。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
 <p>Sep. 2025: 企业横向项目 “压力容器 <b>定检方案大模型</b>” 启动。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
