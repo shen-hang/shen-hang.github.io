@@ -45,18 +45,18 @@ redirect_from:
 </span>
 可推荐至国内外知名高校（<b>2026年一位同学被推荐至东南大学读博</b>）。
 
-
 </div>
-
 
 <h2 align="left" style="margin-bottom:8px; margin-top:16px;">Recent Highlights</h2>
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 18px; line-height:1.4; font-size:15px; margin-bottom:24px;">
 
+<p>May 2026: 刘祺同学的硕士论文“基于无源域适应与域增量学习的加密流量跨域检测方法研究”被答辩委员会推荐为 <b>优秀研究生论文</b>。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
+
 <p>May 2026: 校企合作项目“面向机器人平台的农作物生长监测AI模型研发”启动。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
+
 <p>Apr. 2026: 我们<b>网络安全</b>方向的论文<i>"IDNet: Instance-adaptive Dynamic Network with Adversarial Training for Intrusion Detection"</i> 被 <b><i>Computer Networks</i></b> (<b>CCF推荐B类国际期刊</b>) 录用为长文。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
 <p>Mar. 2026: 我们<b>网络安全</b>方向的论文<i>"Split-Federated BERT with Adversarial Training for Edge Intrusion Detection"</i> 被 <b><i>IEEE Internet of Things Journal</i></b> (<b>新锐一区</b>) 录用为长文。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
-
 
 <p>Mar. 2026: 沈航应邀担任<b><i>IEEE Global Communications Conference (GLOBECOM 2026)</i></b> 程序委员会（TPC）成员。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
