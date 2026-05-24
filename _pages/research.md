@@ -102,6 +102,7 @@ redirect_from:
   - IEEE Transactions on Aerospace and Electronic Systems (TAES)<br/>
   - IEEE Transactions on Consumer Electronics (TCE)<br/>
   - IEEE Transactions on Cognitive Communications and Networking (TCCN)<br/>
+  - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)<br/>
   - IEEE Transactions on Sustainable Computing (TSUSC)<br/>
   - IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)<br/>
   - IEEE Transactions on Machine Learning in Communications and Networking (TMLCN)<br/>
