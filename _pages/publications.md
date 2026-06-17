@@ -181,7 +181,7 @@ redirect_from:
       Tianjing Wang, Qi Liu, <b>Hang Shen*</b>, Xiaokang Luo, and Guangwei Bai. 
       <a href="https://onlinelibrary.wiley.com/doi/10.4218/etrij.2025-0152" style="color:#000; text-decoration:none;">
       Graph Neural Network‐Enhanced Auxiliary Classifier Generative Adversarial Network Framework for Robust Intrusion Detection</a>, 
-      <i>ETRI Journal</i>, 2025, DOI: 10.4218/etrij.2025-0152. 
+      <i>ETRI Journal</i>, 2026, 48(3), pp. 554-569. 
       <b>(SCI)</b> 
       <a href="http://shen-hang.github.io/files/ETRI2026.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
