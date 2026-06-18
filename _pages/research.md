@@ -64,7 +64,7 @@ redirect_from:
   - IEEE Global Communications Conference (GLOBECOM 2026) <br/>
   - The 39th Annual Canadian Conference on Electrical and Computer Engineering (CCECE 2026)<br/>
   - IEEE International Conference on High Performance Computing and Communications (HPCC) (2024, 2025)<br/>
-  - International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP) (2025)<br/>
+  - International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP) (2025, 2026)<br/>
   - Annual International Conference on Privacy, Security and Trust (PST) (2021)<br/>
   - International Conference on Advanced Cloud and Big Data (CBD) (2015-2021)<br/>
   - International Conference on Pattern Recognition and Artificial Intelligence (2021)<br/>
