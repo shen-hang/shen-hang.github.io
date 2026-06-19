@@ -62,7 +62,7 @@ redirect_from:
 
 <p>Mar. 2026: 沈航应邀担任<b><i>IEEE Global Communications Conference (GLOBECOM 2026)</i></b> 程序委员会（TPC）成员。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
-<p>Feb. 2026: 沈航应邀担任<b><i>The 39th Annual Canadian Conference on Electrical and Computer Engineering (CCECE 2026)</i></b> 程序委员会（TPC）成员。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
+<p>Feb. 2026: 沈航应邀担任<b><i>IEEE Canadian Conference on Electrical and Computer Engineering (CCECE 2026)</i></b> 程序委员会（TPC）成员。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
 <p>Jan. 2026: 我们的成果“无人机多源感知驱动的特种设备高危部位缺陷巡检与安全预警技术”获得 <b>中国安全生产协会科技进步二等奖</b>（排名第八）。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
