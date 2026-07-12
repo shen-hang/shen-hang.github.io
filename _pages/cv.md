@@ -78,12 +78,14 @@ redirect_from:
   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)<br/>
   - ACM Transactions on Internet Technology (TOIT)<br/>
   - ACM Transactions on Knowledge Discovery from Data (TKDD)<br/>
+  - ACM Transactions on Privacy and Security (TOPS)<br/>
   - IEEE Transactions on Evolutionary Computation (TEVC)<br/>
   - IEEE Transactions on Systems, Man and Cybernetics: Systems (SMCA) <br/>
   - IEEE Transactions on Cloud Computing (TCC) <br/>
   - ACM Transactions on Design Automation of Electronic Systems (TODAES) <br/>
   - IEEE Transactions on Vehicular Technology (TVT)<br/>
   - IEEE Transactions on Computational Biology and Bioinformatics (TCBB)<br/>
+  - IEEE Transactions on Network Science and Engineering (TNSE)<br/>
   - IEEE Transactions on Network and Service Management (TNSM)<br/>
   - IEEE Transactions on Automation Science and Engineering (TASE)<br/>
   - IEEE Transactions on Green Communications and Networking (TGCN)<br/>
