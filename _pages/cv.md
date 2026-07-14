@@ -80,6 +80,7 @@ redirect_from:
   - ACM Transactions on Knowledge Discovery from Data (TKDD)<br/>
   - ACM Transactions on Privacy and Security (TOPS)<br/>
   - IEEE Transactions on Evolutionary Computation (TEVC)<br/>
+  - IEEE Transactions on Fuzzy Systems (TFS)<br/> 
   - IEEE Transactions on Systems, Man and Cybernetics: Systems (SMCA) <br/>
   - IEEE Transactions on Cloud Computing (TCC) <br/>
   - ACM Transactions on Design Automation of Electronic Systems (TODAES) <br/>
