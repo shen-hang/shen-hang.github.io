@@ -25,13 +25,13 @@ redirect_from:
 
   <div style="margin:8px 0 10px 0;">
     <span style="display:inline-block; border:1px solid #e0e0e0; border-radius:6px; padding:2px 8px; font-size:13px; margin-right:6px;">
-      Assignments（作业）: <b>10%</b>
+      Assignments（作业等）: <b>10%</b>
     </span>
     <span style="display:inline-block; border:1px solid #e0e0e0; border-radius:6px; padding:2px 8px; font-size:13px; margin-right:6px;">
       Lab Experiments（实验）: <b>20%</b>
     </span>
     <span style="display:inline-block; border:1px solid #e0e0e0; border-radius:6px; padding:2px 8px; font-size:13px;">
-      Final Examination（期末）: <b>70%</b>
+      Final Examination（期末考试）: <b>70%</b>
     </span>
   </div>
 
