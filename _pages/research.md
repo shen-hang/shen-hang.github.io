@@ -113,6 +113,7 @@ redirect_from:
   - IEEE Transactions on Machine Learning in Communications and Networking (TMLCN)<br/>
   - IEEE Internet of Things Journal<br/>
   - IEEE Network Magazine<br/>
+  - IEEE Communications Magazine<br/>
   - IEEE Systems Journal<br/>
   - IEEE Sensors Journal<br/>
   - IEEE Communications Letters<br/>
