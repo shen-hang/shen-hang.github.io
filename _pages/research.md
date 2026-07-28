@@ -80,6 +80,7 @@ redirect_from:
   - IEEE Transactions on Information Forensics and Security (TIFS)<br/>
   - IEEE Transactions on Services Computing (TSC)<br/>
   - IEEE Transactions on Knowledge and Data Engineering (TKDE)<br/>
+  - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)<br/>
   - SCIENCE CHINA Information Sciences<br/>
   - IEEE Transactions on Wireless Communications (TWC)<br/>
   - IEEE Transactions on Communications (TCOM)<br/>
