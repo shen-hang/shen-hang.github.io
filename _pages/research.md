@@ -76,6 +76,7 @@ redirect_from:
   - ACM Computing Surveys (CSUR)<br/>
   - IEEE/ACM Transactions on Networking (TON)<br/>
   - IEEE Transactions on Mobile Computing (TMC)<br/>
+  - ACM Transactions on Information Systems (TOIS)<br/>
   - IEEE Transactions on Dependable and Secure Computing (TDSC)<br/>
   - IEEE Transactions on Information Forensics and Security (TIFS)<br/>
   - IEEE Transactions on Services Computing (TSC)<br/>
