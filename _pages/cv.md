@@ -84,6 +84,8 @@ redirect_from:
   - IEEE Transactions on Evolutionary Computation (TEVC)<br/>
   - IEEE Transactions on Fuzzy Systems (TFS)<br/> 
   - IEEE Transactions on Systems, Man and Cybernetics: Systems (SMCA) <br/>
+  - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)<br/>
+  - IEEE Transactions on Affective Computing (TAFF)<br/>
   - IEEE Transactions on Cloud Computing (TCC) <br/>
   - ACM Transactions on Design Automation of Electronic Systems (TODAES) <br/>
   - IEEE Transactions on Vehicular Technology (TVT)<br/>
@@ -92,13 +94,12 @@ redirect_from:
   - IEEE Transactions on Network and Service Management (TNSM)<br/>
   - IEEE Transactions on Automation Science and Engineering (TASE)<br/>
   - IEEE Transactions on Green Communications and Networking (TGCN)<br/>
-  - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)<br/>
-  - IEEE Transactions on Affective Computing (TAFF)<br/>
   - IEEE Transactions on Computational Social Systems (TCSS)<br/>
   - IEEE Transactions on Industrial Informatics (TII)<br/>
   - IEEE Transactions on Aerospace and Electronic Systems (TAES)<br/>
   - IEEE Transactions on Consumer Electronics (TCE)<br/>
   - IEEE Transactions on Cognitive Communications and Networking (TCCN)<br/>
+  - ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)<br/>
   - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)<br/>
   - IEEE Transactions on Sustainable Computing (TSUSC)<br/>
   - IEEE Transactions on Cognitive and Developmental Systems (TCDS)<br/>
