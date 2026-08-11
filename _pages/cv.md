@@ -97,6 +97,7 @@ redirect_from:
   - IEEE Transactions on Computational Social Systems (TCSS)<br/>
   - IEEE Transactions on Industrial Informatics (TII)<br/>
   - IEEE Transactions on Aerospace and Electronic Systems (TAES)<br/>
+  - IEEE Transactions on Broadcasting (TBC)<br/>
   - IEEE Transactions on Consumer Electronics (TCE)<br/>
   - IEEE Transactions on Cognitive Communications and Networking (TCCN)<br/>
   - ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)<br/>
