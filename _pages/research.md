@@ -90,6 +90,7 @@ redirect_from:
   - ACM Transactions on Internet Technology (TOIT)<br/>
   - ACM Transactions on Knowledge Discovery from Data (TKDD)<br/>
   - ACM Transactions on Privacy and Security (TOPS)<br/>
+  - ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)<br/>
   - IEEE Transactions on Evolutionary Computation (TEVC)<br/>
   - IEEE Transactions on Fuzzy Systems (TFS)<br/> 
   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)<br/>
@@ -107,7 +108,7 @@ redirect_from:
   - IEEE Transactions on Computational Social Systems (TCSS)<br/>
   - IEEE Transactions on Industrial Informatics (TII)<br/>
   - IEEE Transactions on Aerospace and Electronic Systems (TAES)<br/>
-  - IEEE Transactions on Broadcasting (TBS)<br/>
+  - IEEE Transactions on Broadcasting (TBC)<br/>
   - IEEE Transactions on Consumer Electronics (TCE)<br/>
   - IEEE Transactions on Cognitive Communications and Networking (TCCN)<br/>
   - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)<br/>
