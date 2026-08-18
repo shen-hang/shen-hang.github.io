@@ -90,6 +90,7 @@ redirect_from:
   - ACM Transactions on Internet Technology (TOIT)<br/>
   - ACM Transactions on Knowledge Discovery from Data (TKDD)<br/>
   - ACM Transactions on Privacy and Security (TOPS)<br/>
+  - ACM Transactions on Autonomous and Adaptive Systems (TAAS)<br/>
   - ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)<br/>
   - IEEE Transactions on Evolutionary Computation (TEVC)<br/>
   - IEEE Transactions on Fuzzy Systems (TFS)<br/> 
