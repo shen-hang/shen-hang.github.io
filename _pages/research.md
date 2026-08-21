@@ -74,38 +74,37 @@ redirect_from:
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:16px;">
   <b>Reviewer for Journals</b><br/>
   - ACM Computing Surveys (CSUR)<br/>
-  - IEEE/ACM Transactions on Networking (TON)<br/>
-  - IEEE Transactions on Mobile Computing (TMC)<br/>
   - ACM Transactions on Information Systems (TOIS)<br/>
-  - IEEE Transactions on Dependable and Secure Computing (TDSC)<br/>
-  - IEEE Transactions on Information Forensics and Security (TIFS)<br/>
-  - IEEE Transactions on Services Computing (TSC)<br/>
-  - IEEE Transactions on Knowledge and Data Engineering (TKDE)<br/>
-  - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)<br/>
-  - SCIENCE CHINA Information Sciences<br/>
-  - IEEE Transactions on Wireless Communications (TWC)<br/>
-  - IEEE Transactions on Communications (TCOM)<br/>
-  - IEEE Transactions on Intelligent Transportation Systems (TITS)<br/>
-  - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)<br/>
   - ACM Transactions on Internet Technology (TOIT)<br/>
   - ACM Transactions on Knowledge Discovery from Data (TKDD)<br/>
   - ACM Transactions on Privacy and Security (TOPS)<br/>
   - ACM Transactions on Autonomous and Adaptive Systems (TAAS)<br/>
   - ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)<br/>
+  - ACM Transactions on Design Automation of Electronic Systems (TODAES) <br/>
+  - ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)<br/>
+  - IEEE/ACM Transactions on Networking (TON)<br/>
+  - IEEE Transactions on Mobile Computing (TMC)<br/>
+  - IEEE Transactions on Dependable and Secure Computing (TDSC)<br/>
+  - IEEE Transactions on Information Forensics and Security (TIFS)<br/>
+  - IEEE Transactions on Services Computing (TSC)<br/>
+  - IEEE Transactions on Knowledge and Data Engineering (TKDE)<br/>
+  - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)<br/>
+  - IEEE Transactions on Wireless Communications (TWC)<br/>
+  - IEEE Transactions on Communications (TCOM)<br/>
+  - IEEE Transactions on Intelligent Transportation Systems (TITS)<br/>
+  - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)<br/>
   - IEEE Transactions on Evolutionary Computation (TEVC)<br/>
   - IEEE Transactions on Fuzzy Systems (TFS)<br/> 
   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)<br/>
   - IEEE Transactions on Affective Computing (TAFF)<br/>
   - IEEE Transactions on Systems, Man and Cybernetics: Systems (SMCA) <br/>
   - IEEE Transactions on Cloud Computing (TCC) <br/>
-  - ACM Transactions on Design Automation of Electronic Systems (TODAES) <br/>
   - IEEE Transactions on Vehicular Technology (TVT)<br/>
   - IEEE Transactions on Computational Biology and Bioinformatics (TCBB)<br/>
   - IEEE Transactions on Network Science and Engineering (TNSE)<br/>
   - IEEE Transactions on Automation Science and Engineering (TASE)<br/>
   - IEEE Transactions on Network and Service Management (TNSM)<br/>
   - IEEE Transactions on Green Communications and Networking (TGCN)<br/>
-  - ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)<br/>
   - IEEE Transactions on Computational Social Systems (TCSS)<br/>
   - IEEE Transactions on Industrial Informatics (TII)<br/>
   - IEEE Transactions on Aerospace and Electronic Systems (TAES)<br/>
@@ -125,8 +124,10 @@ redirect_from:
   - IEEE Communications Letters<br/>
   - IEEE Wireless Communications Letters<br/>
   - IEEE Signal Processing Letters<br/>
-  - Electronics Letters<br/>
+  - SCIENCE CHINA Information Sciences<br/>
+  - Journal of Computer Security
   - Frontiers of Computer Science<br/>
+  - Electronics Letters<br/>
   - Acta Electronica Sinica (电子学报)<br/>
   - Journal on Communications (通信学报)<br/>
   - Chinese Journal on Internet of Things (物联网学报)<br/>
