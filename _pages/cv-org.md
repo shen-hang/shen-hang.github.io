@@ -96,6 +96,7 @@ redirect_from:
   - IEEE Communications Letters<br/>
   - IEEE Signal Processing Letters<br/>
   - Electronics Letters<br/>
+  - Journal of Computer Security<br/>
   - Frontiers of Computer Science<br/>
   - Wireless Networks (WINE)<br/>
   - Concurrency and Computation: Practice and Experience (CCPE)<br/>
