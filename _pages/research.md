@@ -125,7 +125,7 @@ redirect_from:
   - IEEE Wireless Communications Letters<br/>
   - IEEE Signal Processing Letters<br/>
   - SCIENCE CHINA Information Sciences<br/>
-  - Journal of Computer Security
+  - Journal of Computer Security<br/>
   - Frontiers of Computer Science<br/>
   - Electronics Letters<br/>
   - Acta Electronica Sinica (电子学报)<br/>
