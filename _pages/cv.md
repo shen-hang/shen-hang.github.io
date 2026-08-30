@@ -86,6 +86,7 @@ redirect_from:
   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)<br/>
   - IEEE Transactions on Evolutionary Computation (TEVC)<br/>
   - IEEE Transactions on Fuzzy Systems (TFS)<br/> 
+  - IEEE Transactions on Human-Machine Systems (THMS)<br/>
   - IEEE Transactions on Systems, Man and Cybernetics: Systems (SMCA) <br/>
   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)<br/>
   - IEEE Transactions on Affective Computing (TAFF)<br/>
