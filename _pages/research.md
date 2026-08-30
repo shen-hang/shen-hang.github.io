@@ -97,6 +97,7 @@ redirect_from:
   - IEEE Transactions on Fuzzy Systems (TFS)<br/> 
   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)<br/>
   - IEEE Transactions on Affective Computing (TAFF)<br/>
+  - IEEE Transactions on Human-Machine Systems (THMS)<br/>
   - IEEE Transactions on Systems, Man and Cybernetics: Systems (SMCA) <br/>
   - IEEE Transactions on Cloud Computing (TCC) <br/>
   - IEEE Transactions on Vehicular Technology (TVT)<br/>
