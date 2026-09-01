@@ -111,6 +111,7 @@ redirect_from:
   - IEEE Internet of Things Journal<br/>
   - IEEE Network Magazine<br/>
   - IEEE Communications Magazine<br/>
+  - IEEE Consumer Electronics Magazine<br/>
   - IEEE Systems Journal<br/>
   - IEEE Sensors Journal<br/>
   - IEEE Communications Letters<br/>
