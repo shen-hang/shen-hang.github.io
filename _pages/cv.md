@@ -72,6 +72,7 @@ redirect_from:
   - ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)<br/>
   - ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)<br/>
   - ACM Transactions on Design Automation of Electronic Systems (TODAES) <br/>
+  - Bioinformatics<br/>
   - IEEE/ACM Transactions on Networking (TON)<br/>
   - IEEE Transactions on Mobile Computing (TMC)<br/>
   - IEEE Transactions on Dependable and Secure Computing (TDSC)<br/>
