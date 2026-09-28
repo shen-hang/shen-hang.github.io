@@ -78,6 +78,7 @@ redirect_from:
   - ACM Transactions on Internet Technology (TOIT)<br/>
   - ACM Transactions on Knowledge Discovery from Data (TKDD)<br/>
   - ACM Transactions on Privacy and Security (TOPS)<br/>
+  - ACM Transactions on Embedded Computing Systems (TECS)<br/>
   - ACM Transactions on Autonomous and Adaptive Systems (TAAS)<br/>
   - ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)<br/>
   - ACM Transactions on Design Automation of Electronic Systems (TODAES) <br/>
