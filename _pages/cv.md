@@ -101,6 +101,7 @@ redirect_from:
   - IEEE Transactions on Green Communications and Networking (TGCN)<br/>
   - IEEE Transactions on Computational Social Systems (TCSS)<br/>
   - IEEE Transactions on Industrial Informatics (TII)<br/>
+  - IEEE Transactions on Industrial Cyber-Physical Systems (TICPS)<br/>
   - IEEE Transactions on Aerospace and Electronic Systems (TAES)<br/>
   - IEEE Transactions on Broadcasting (TBC)<br/>
   - IEEE Transactions on Consumer Electronics (TCE)<br/>
