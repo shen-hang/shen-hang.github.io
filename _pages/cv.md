@@ -50,6 +50,7 @@ redirect_from:
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:16px;">
   <b>Technical Committee Member</b><br/>
+  - IEEE Silicon Valley Cybersecurity Conference (SVCC 2027) <br/>
   - IEEE Global Communications Conference (GLOBECOM 2026) <br/>
   - Annual Canadian Conference on Electrical and Computer Engineering (CCECE 2026) <br/>
   - IEEE International Conference on High Performance Computing and Communications (HPCC) (2024, 2025)<br/>
