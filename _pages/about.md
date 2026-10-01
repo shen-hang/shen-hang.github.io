@@ -50,7 +50,10 @@ redirect_from:
 <h2 align="left" style="margin-bottom:8px; margin-top:16px;">Recent Highlights</h2>
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 18px; line-height:1.4; font-size:15px; margin-bottom:24px;">
 
-<p>Jun. 2026: 沈航应邀担任 CCF 推荐国际会议 <b><i>International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2026)</i></b> 程序委员会（TPC）成员。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
+
+<p>Oct. 2026: 沈航应邀担任 <b><i>IEEE Silicon Valley Cybersecurity Conference (SVCC 2027)</i></b> Program Committee (PC) member. <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
+
+<p>Jun. 2026: 沈航应邀担任 CCF 推荐国际会议 <b><i>International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2026)</i></b> Program Committee (PC) member. <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
 <p>May 2026: 刘祺同学的硕士论文“基于无源域适应与域增量学习的加密流量跨域检测方法研究”被答辩委员会推荐为 <b>优秀研究生论文</b>。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
@@ -60,9 +63,9 @@ redirect_from:
 
 <p>Mar. 2026: 我们<b>网络安全</b>方向的论文<i>"Split-Federated BERT with Adversarial Training for Edge Intrusion Detection"</i> 被 <b><i>IEEE Internet of Things Journal</i></b> (<b>新锐一区</b>) 录用为长文。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
-<p>Mar. 2026: 沈航应邀担任<b><i>IEEE Global Communications Conference (GLOBECOM 2026)</i></b> 程序委员会（TPC）成员。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
+<p>Mar. 2026: 沈航应邀担任<b><i>IEEE Global Communications Conference (GLOBECOM 2026)</i></b> Program Committee (PC) member. <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
-<p>Feb. 2026: 沈航应邀担任<b><i>IEEE Canadian Conference on Electrical and Computer Engineering (CCECE 2026)</i></b> 程序委员会（TPC）成员。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
+<p>Feb. 2026: 沈航应邀担任<b><i>IEEE Canadian Conference on Electrical and Computer Engineering (CCECE 2026)</i></b> Program Committee (PC) member. <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
 <p>Jan. 2026: 我们的成果“无人机多源感知驱动的特种设备高危部位缺陷巡检与安全预警技术”获得 <b>中国安全生产协会科技进步二等奖</b>（排名第八）。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
@@ -86,13 +89,13 @@ redirect_from:
 
 <p>Aug. 2025: 我们 <b>大模型与社交网络</b> 方向的论文 <i>"LACL: LLM-Augmented Contrastive Learning for Misinformation Detection in Social Networks"</i> 被国际著名期刊 <b><i>IEEE Transactions on Computational Social Systems</i></b> 录用为长文。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
-<p>Aug. 2025: 沈航应邀担任 CCF 推荐国际会议 <b><i>International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2025)</i></b> 程序委员会（TPC）成员。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
+<p>Aug. 2025: 沈航应邀担任 CCF 推荐国际会议 <b><i>International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2025)</i></b> Program Committee (PC) member. <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
 <p>Jul. 2025: 沈航应邀在 第二十七届中国科协年会 <b>“大模型时代的计算机网络新技术”</b> 专题论坛做学术报告。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
 <p>Jun. 2025: 司天铖同学的本科毕业论文 “基于 LLM 增强自监督对比学习的加密流量检测” 被评选为 <b>校优秀本科毕业论文</b>。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
-<p>Apr. 2025: 沈航应邀担任 CCF 推荐国际会议 <b><i>IEEE International Conference on High Performance Computing and Communications (HPCC)</i></b> 程序委员会（TPC）成员。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
+<p>Apr. 2025: 沈航应邀担任 CCF 推荐国际会议 <b><i>IEEE International Conference on High Performance Computing and Communications (HPCC)</i></b> Program Committee (PC) member. <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
 <p>Mar. 2025: 我们 <b>网联汽车视觉计算</b> 方向的论文 <i>"MT-DyNN: Multi-Teacher Distilled Dynamic Neural Network for Instance-Adaptive Detection in Autonomous Driving"</i> 被 <b><i>IEEE Transactions on Intelligent Transportation Systems</i></b> (<b>CCF推荐B类国际期刊</b>) 录用为长文。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
@@ -114,7 +117,7 @@ redirect_from:
 
 <p>Jul. 2024: 张贝宁同学的论文 “Monero Covert Communication-Enhanced Collaboration for Privacy-Preserving Queries” 被 IEEE 区块链旗舰会议 <b><i>IEEE Global Blockchain Conference (GBC)</i></b> 录用为长文。</p>
 
-<p>Jul. 2024: 沈航应邀担任 CCF 推荐国际会议 <b><i>IEEE International Conference on High Performance Computing and Communications (HPCC)</i></b> 程序委员会（TPC）成员。</p>
+<p>Jul. 2024: 沈航应邀担任 CCF 推荐国际会议 <b><i>IEEE International Conference on High Performance Computing and Communications (HPCC)</i></b> Program Committee (PC) member. </p>
 
 <p>May 2024: 张贝宁同学的硕士论文 “基于区块链的协作查询隐私保护方法研究” 被推荐为 <b>优秀研究生论文</b>。</p> 
 
@@ -164,7 +167,7 @@ redirect_from:
 
 <p>May 2021: 企业横向项目 “秀川智慧云协同控制系统研发” 启动。</p>
 
-<p>May 2021: 沈航应邀担任 <b><i>Annual International Conference on Privacy, Security and Trust (PST2021)</i></b> 程序委员会成员。</p>
+<p>May 2021: 沈航应邀担任 <b><i>Annual International Conference on Privacy, Security and Trust (PST2021)</i></b> Program Committee (PC) member.</p>
 
 <p>May 2021: 我们论文 “Drone-Small-Cell-Assisted Resource Slicing for 5G Uplink Radio Access Networks” 被国际著名期刊 <b><i>IEEE Transactions on Vehicular Technology</i></b> 录用。</p>
 
@@ -175,14 +178,14 @@ redirect_from:
 
 <h2 align="left" style="margin-bottom:8px; margin-top:0;">Biography</h2>
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 18px; line-height:1.4; font-size:15px;">
-  <b>沈航</b>，入选“江苏省六大人才高峰”高层次人才计划、“南工英才”优秀青年科技创新人才计划。毕业于南京理工大学（优秀博士毕业生 / 优秀博士学位论文 / 博士生国奖获得者），师从白光伟教授、唐振民教授。曾在加拿大滑铁卢大学电子与计算机工程系BBCR实验室担任全职博士后研究员，师从IEEE Fellow 、加拿大皇家科学院院士、加拿大工程院院士Weihua Zhuang教授。2015年加入南京工业大学。主要研究车联网（车计算）、领域大模型、网络安全、无人机视觉计算等。以第一作者在<i>IEEE TMC</i>、<i>IEEE TITS</i>、<i>IEEE TVT</i>、<i>IEEE IoT-J</i>、<i>IEEE TBC</i>、<i>IEEE TCSS</i>、<i>IEEE TCE</i>、<i>电子学报</i>、<i>IEEE ICC</i>等著名期刊与会议发表论文三十余篇，指导学生发表论文110余篇；
+  <b>沈航</b>，入选“江苏省六大人才高峰”高层次人才计划、“南工英才”优秀青年科技创新人才计划。毕业于南京理工大学（优秀博士毕业生 / 优秀博士学位论文 / 博士生国奖获得者），师从白光伟教授、唐振民教授。曾在加拿大滑铁卢大学电子与计算机工程系BBCR实验室担任全职博士后研究员，师从IEEE Fellow 、加拿大皇家科学院院士、加拿大工程院院士Weihua Zhuang教授。2015年加入南京工业大学。主要研究车联网（车计算）、领域大模型、网络安全、无人机视觉计算等。2025年以来，以第一作者在<i>IEEE TMC</i>、<i>IEEE TITS</i>、<i>IEEE TVT</i>、<i>IEEE IoT-J</i>、<i>IEEE TBC</i>、<i>IEEE TCSS</i>、<i>IEEE TCE</i>、<i>电子学报</i>、<i>IEEE ICC</i>等著名期刊与会议发表论文三十余篇，指导学生发表论文110余篇；
   参编学术专著《Encyclopedia of Wireless Networks》，授权国家发明专利四十余件。
   主持国家自然科学基金和省自然科学基金项目三项，厅级项目两项，企业横向项目十项。
   曾获2025年中国安全生产协会科技进步二等奖（排名第八）、2025年中国商业联合会技术发明三等奖（排名第五）、2022年中国特种设备检测协会科学技术二等奖（排名第三）、2021年中国电力联合会科技创新二等奖（排名第三）、
   2020年中国仪器仪表学会科技进步二等奖（排名第五）、2016年南京市自然科学优秀论文奖（排名第一）和
   2011年江苏省网络与云计算会议优秀论文奖（排名第一）。
-  担任<i>JIPS</i>（IF 0.8）、<i>Front. Blockchain </i>（IF 1.9）和
-  <i>IEEE Access</i>（IF 3.4）副编辑，<i>PPNA</i>（IF 2.6）客座编委，以及IEEE GLOBECOM、IEEE HPCC、PST、ICA3PP等国际会议程序委员会成员。
+  担任<i>J. Inf. Process.</i>（IF 0.8）、<i>Front. Blockchain </i>（IF 1.9）和
+  <i>IEEE Access</i>（IF 3.4）副编辑，<i>Peer-to-Peer Netw. Appl.</i>（IF 2.6）客座编委，以及国际会议IEEE GLOBECOM、IEEE SVCC、IEEE HPCC、IEEE CCECE、PST、ICA3PP的程序委员会成员。
   沈航是CCF高级会员、CCF南京分部监察委员、CAAI会员、ACM南京分会执委及IEEE会员。
   讲授“计算机网络”、“物联网概论”、“高级计算机网络”等课程，曾获计算机学院青年教师授课大赛一等奖。
   指导学生多次获得国家奖学金、优秀毕业研究生、优秀硕士学位论文与优秀本科毕业论文，
@@ -194,7 +197,7 @@ redirect_from:
 <hr style="border:none; border-top:1px solid #ddd; margin:18px 0;">
 <div style="background-color:#f9f9f9; border-radius:10px; padding:18px 22px; line-height:1.6; font-size:15px; text-align:justify;">
 <b>Hang Shen</b> received the Ph.D. degree with honors in Computer Science from the Nanjing University of Science and Technology. 
-  He worked as a Full-Time Postdoctoral Fellow under the supervision of Prof. Weihua Zhuang (IEEE Fellow) in the Broadband Communications Research (BBCR) Lab, Department of Electrical and Computer Engineering at the University of Waterloo in Waterloo, Canada from 2018 to 2019. He is currently an Associate Professor in the Department of Computer Science and Technology at Nanjing Tech University in Nanjing, China. His research interests include vehicular networks, vertical domain-specific large language models, and drone/vehicle vision computing. He serves as an Associate Editor for <i>Journal of Information Processing Systems</i>, <i>Frontiers in Blockchain</i>, and <i>IEEE Access</i>, and was a Guest Editor for <i>Peer-to-Peer Networking and Applications</i>. He serves/served as a program committee member of the IEEE Global Communications Conference (GLOBECOM), the IEEE International Conference on High Performance Computing and Communications (HPCC), the International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP), and the Annual International Conference on Privacy, Security and Trust (PST). He is a member of the IEEE Computer Society, Communication Society, and Vehicular Technology Society, a CCF Senior Member, and an Executive Committee Member of the ACM Nanjing Chapter.
+  He worked as a Full-Time Postdoctoral Fellow under the supervision of Prof. Weihua Zhuang (IEEE Fellow) in the Broadband Communications Research (BBCR) Lab, Department of Electrical and Computer Engineering at the University of Waterloo in Waterloo, Canada from 2018 to 2019. He is currently an Associate Professor in the Department of Computer Science and Technology at Nanjing Tech University in Nanjing, China. His research interests include vehicular networks, vertical domain-specific large language models, and drone/vehicle vision computing. He serves as an Associate Editor for <i>Journal of Information Processing Systems</i>, <i>Frontiers in Blockchain</i>, and <i>IEEE Access</i>, and was a Guest Editor for <i>Peer-to-Peer Networking and Applications</i>. He serves/served as a program committee member of the IEEE Global Communications Conference (GLOBECOM), the IEEE International Conference on High Performance Computing and Communications (HPCC), the IEEE Silicon Valley Cybersecurity Conference (SVCC), the International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP), and the Annual International Conference on Privacy, Security and Trust (PST). He is a member of the IEEE Computer Society, Communication Society, and Vehicular Technology Society, a CCF Senior Member, and an Executive Committee Member of the ACM Nanjing Chapter.
   
 </div>
 
