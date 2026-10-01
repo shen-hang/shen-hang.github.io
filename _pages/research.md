@@ -63,6 +63,7 @@ redirect_from:
   <b>Technical Committee Member</b><br/>
   - IEEE Silicon Valley Cybersecurity Conference (SVCC 2027) <br/>
   - IEEE Global Communications Conference (GLOBECOM 2026) <br/>
+  - IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA 2026)<br/>
   - IEEE Canadian Conference on Electrical and Computer Engineering (CCECE 2026)<br/>
   - IEEE International Conference on High Performance Computing and Communications (HPCC) (2024, 2025)<br/>
   - International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP) (2025, 2026)<br/>
