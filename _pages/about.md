@@ -52,7 +52,7 @@ redirect_from:
 
 <p>Oct. 2026: 沈航应邀担任 <b><i>IEEE Silicon Valley Cybersecurity Conference (SVCC 2027)</i></b> Program Committee (PC) member. <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
-<p>Oct. 2026: 沈航应邀担任 <b><i>IEEE International Symposium on Parallel and Distributed Processing with Applications (IEEE ISPA 2026)</i></b> Program Committee (PC) member. <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
+<p>Oct. 2026: 沈航应邀担任 CCF 推荐国际会议 <b><i>IEEE International Symposium on Parallel and Distributed Processing with Applications (IEEE ISPA 2026)</i></b> Program Committee (PC) member. <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
 <p>Jun. 2026: 沈航应邀担任 CCF 推荐国际会议 <b><i>International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2026)</i></b> Program Committee (PC) member. <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
@@ -191,9 +191,9 @@ redirect_from:
   讲授“计算机网络”、“物联网概论”、“高级计算机网络”等课程，曾获计算机学院青年教师授课大赛一等奖。
   指导学生多次获得国家奖学金、优秀毕业研究生、优秀硕士学位论文与优秀本科毕业论文，
   课题组研究生就职于华为（南京、上海、深圳、武汉）、中兴、大疆、展锐、海康威视、大华、字节跳动、百度、腾讯、H3C、微软中国、
-  德州仪器、爱立信、诺基亚贝尔、三星研究院等国内外顶尖IT企业，
+  德州仪器、爱立信、诺基亚贝尔、三星研究院等顶尖IT企业，
   以及中行软开、微众银行、蚂蚁集团、南京证券等知名科技金融机构，
-  部分学生继续在知名高校攻读博士学位。
+  有意愿继续深造的学生被推荐至知名高校读博。
 </div>
 <hr style="border:none; border-top:1px solid #ddd; margin:18px 0;">
 <div style="background-color:#f9f9f9; border-radius:10px; padding:18px 22px; line-height:1.6; font-size:15px; text-align:justify;">
