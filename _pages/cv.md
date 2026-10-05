@@ -94,6 +94,7 @@ redirect_from:
   - IEEE Transactions on Systems, Man and Cybernetics: Systems (SMCA) <br/>
   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)<br/>
   - IEEE Transactions on Affective Computing (TAFF)<br/>
+  - IEEE Transactions on Audio, Speech and Language Processing (TASL)<br/>
   - IEEE Transactions on Cloud Computing (TCC) <br/>
   - IEEE Transactions on Vehicular Technology (TVT)<br/>
   - IEEE Transactions on Computational Biology and Bioinformatics (TCBB)<br/>
@@ -122,6 +123,7 @@ redirect_from:
   - IEEE Sensors Journal<br/>
   - IEEE Communications Letters<br/>
   - IEEE Wireless Communications Letters<br/>
+  - IEEE Networking Letters<br/>
   - IEEE Signal Processing Letters<br/>
   - SCIENCE CHINA Information Sciences<br/>
   - Journal of Computer Security<br/>
