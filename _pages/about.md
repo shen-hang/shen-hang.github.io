@@ -51,7 +51,7 @@ redirect_from:
 
 <p>Oct. 2026: 作为合作单位承担的江苏省市场监督管理局科技计划项目“基于大模型智能体的老旧高温承压特种设备健康诊断关键技术研究”获得立项。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
-<p>Apr. 2026: 我们<b>大模型与网络安全</b>方向的论文<i>"LLM-guided RL for Cybersecurity Orchestration"</i> 被 <b><i>IEEE Transactions on Network and Service Management (TNSM)</i></b> 录用为长文。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
+<p>Oct. 2026: 我们<b>大模型与网络安全</b>方向的论文<i>"LLM-guided RL for Cybersecurity Orchestration"</i> 被 <b><i>IEEE Transactions on Network and Service Management (TNSM)</i></b> 录用为长文。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
 <p>Oct. 2026: 沈航应邀担任 <b><i>IEEE Silicon Valley Cybersecurity Conference (SVCC 2027)</i></b> Program Committee (PC) member. <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
