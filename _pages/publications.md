@@ -103,6 +103,14 @@ redirect_from:
 <div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.45; font-size:15px; margin-bottom:14px;">
   <h3 style="color:#8B0000; margin-top:0; margin-bottom:6px;">C. Large Language Models (大模型赋能网络技术)</h3>
   <ol style="margin-top:6px; margin-bottom:0;">
+      <li>
+      <b>Hang Shen*</b>, Kerui Li, Xin Liang, Tianjing Wang, and Guangwei Bai. 
+    <a" style="color:#000; text-decoration:none;">
+      LLM-guided RL for Cybersecurity Orchestration</a>, 
+      <i>IEEE Transactions on Network and Service Management (TNSM)</i>, 2026, Accepted for publication.
+       <b>(CCF推荐国际期刊)</b> 
+ <a href="http://shen-hang.github.io/files/TNSM2026.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
+    </li>
     <li>
       <b>沈航*</b>, 王旭, 王天荆, 戴远飞, 白光伟. 
     <a href="https://www.ejournal.org.cn/thesisDetails#10.12263/DZXB.20250470&lang=zh" style="color:#000; text-decoration:none;">
@@ -132,8 +140,6 @@ redirect_from:
       <b>(CCF推荐国际期刊)</b> 
       <a href="http://shen-hang.github.io/files/TCSS2026.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
-
-
     <li>
       Fang Li, <b>Hang Shen*</b>, Jieai Mai, Tianjing Wang, Yuanfei Dai, and Xiaodong Miao. 
       <a href="https://link.springer.com/article/10.1007/s12083-023-01595-6" style="color:#000; text-decoration:none;">
