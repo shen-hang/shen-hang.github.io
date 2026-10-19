@@ -238,7 +238,13 @@ redirect_from:
       <i>Elsevier Journal of Systems Architecture (JSA)</i>, 2019, 97, pp. 130–141.
          <b>(CCF Rank-B)</b> 
     </li>
-
+      <li>
+      <b>Hang Shen*</b>, Kerui Li, Xin Liang, Tianjing Wang, and Guangwei Bai. 
+    <a" style="color:#000; text-decoration:none;">
+      LLM-guided RL for Cybersecurity Orchestration</a>, 
+      <i>IEEE Transactions on Network and Service Management (TNSM)</i>, 2026, Accepted for publication.
+ <a href="http://shen-hang.github.io/files/TNSM2026.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
+    </li>
     <li>
       <b>Hang Shen</b>, Xiang Li, Xu Wang, Yuanfei Dai*, Tianjing Wang, and Guangwei Bai. 
       <a href="https://ieeexplore.ieee.org/document/11170418" style="color:#000; text-decoration:none;">
