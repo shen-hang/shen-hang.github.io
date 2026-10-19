@@ -126,6 +126,7 @@ redirect_from:
   - IEEE Networking Letters<br/>
   - IEEE Signal Processing Letters<br/>
   - SCIENCE CHINA Information Sciences<br/>
+  - China Communications (CNCOMM)<br/>
   - Journal of Computer Security<br/>
   - Frontiers of Computer Science<br/>
   - Electronics Letters<br/>
