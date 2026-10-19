@@ -105,8 +105,7 @@ redirect_from:
   <ol style="margin-top:6px; margin-bottom:0;">
       <li>
       <b>Hang Shen*</b>, Kerui Li, Xin Liang, Tianjing Wang, and Guangwei Bai. 
-    <a" style="color:#000; text-decoration:none;">
-      LLM-guided RL for Cybersecurity Orchestration</a>, 
+      LLM-guided RL for Cybersecurity Orchestration, 
       <i>IEEE Transactions on Network and Service Management (TNSM)</i>, 2026, Accepted for publication.
        <b>(CCF推荐国际期刊)</b> 
  <a href="http://shen-hang.github.io/files/TNSM2026.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
