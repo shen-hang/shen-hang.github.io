@@ -12,7 +12,7 @@ redirect_from:
 <div style="background-color:#f9f9f9; border-radius:10px; padding:18px 22px; line-height:1.7; font-size:15px; box-shadow:0 1px 5px rgba(0,0,0,0.06); margin-top:0px;">  
 
 🎓 <span style="color:#8B0000; font-weight:bold;">
-招收研究生和（有科研动力的）本科生，共同探索以下前沿方向：
+招收研究生和（有科研动力的）本科生，共同探索以下前沿科研方向：
 </span><br/>
 🚗 <b>车联网与车计算</b> —— 面向智能驾驶与V2X协同推理的架构与方法<br/>
 🧠 <b>垂直领域大模型</b> —— 质检、安全及智能交通领域的大模型及应用<br/>
