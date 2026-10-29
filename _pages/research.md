@@ -91,6 +91,7 @@ redirect_from:
   - IEEE Transactions on Mobile Computing (TMC)<br/>
   - IEEE Transactions on Dependable and Secure Computing (TDSC)<br/>
   - IEEE Transactions on Information Forensics and Security (TIFS)<br/>
+  - IEEE Transactions on Image Processing (TIP)<br/>
   - IEEE Transactions on Services Computing (TSC)<br/>
   - IEEE Transactions on Knowledge and Data Engineering (TKDE)<br/>
   - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)<br/>
