@@ -50,6 +50,7 @@ redirect_from:
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:16px;">
   <b>Technical Committee Member</b><br/>
+  - IEEE Canadian Conference on Electrical and Computer Engineering (CCECE 2027) <br/>
   - IEEE Silicon Valley Cybersecurity Conference (SVCC 2027) <br/>
   - IEEE Global Communications Conference (GLOBECOM 2026) <br/>
   - IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA 2026)<br/>
@@ -139,6 +140,7 @@ redirect_from:
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:16px;">
   <b>Reviewer for International Conferences</b><br/>
+  - IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)<br/>
   - IEEE International Conference on Parallel and Distributed Systems (ICPADS)<br/>
   - IEEE International Conference on Communications (ICC)<br/>
   - IEEE International Conference on High Performance Computing and Communications (HPCC)<br/>
