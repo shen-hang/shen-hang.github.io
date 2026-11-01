@@ -108,7 +108,7 @@ redirect_from:
       <a href="https://ieeexplore.ieee.org/document/11745569" style="color:#000; text-decoration:none;">
     LLM-guided RL for Cybersecurity Orchestration
   </a>, 
-      <i>IEEE Transactions on Network and Service Management (TNSM)</i>, 2026, DOI: 10.1109/TNSM.2026.3745670.
+      <i>IEEE Transactions on Network and Service Management (TNSM)</i>, 2026, Vol 23: 8531-8547.
        <b>(CCF推荐国际期刊)</b> 
  <a href="http://shen-hang.github.io/files/TNSM2026.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
