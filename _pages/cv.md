@@ -231,7 +231,7 @@ redirect_from:
       <li>
       <b>Hang Shen*</b>, Qi Liu, Tianjing Wang, and Guangwei Bai. 
         Self-Training Mamba for Source-Free Offline and Online Adaptation in Encrypted Traffic Detection,  
-      <i>Elsevier Computer Networks (ComNet)</i>, 2026, to appear. 
+      <i>Elsevier Computer Networks (ComNet)</i>, 2026, to appear. <b>(CCF Rank-B)</b> 
     </li>
 
     <li>
