@@ -15,6 +15,7 @@ redirect_from:
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:8px;">
   <ul style="list-style-type: none; padding-left: 0;">
   <ol style="margin-top:6px; margin-bottom:0;">
+    <li>基于Agentic AI的承压类特种设备检验方案生成模型, 企业横向项目, 2026/11–2027/11, <b>负责人</b></li>
     <li>基于大模型智能体的老旧高温承压特种设备健康诊断关键技术研究, KJK2027027, 江苏省市场监督管理局科技计划项目, 2027/01–2029/12, <b>子课题负责人</b></li>
     <li>面向机器人平台的农作物生长监测AI模型研发, 2026/05–2026/09, <b>负责人</b></li>
     <li>基于人工智能的承压特种设备检验流程再造及技术研发, 2025MK183, 国家市场监督管理总局科技计划项目, 2025/12–2027/11, <b>子课题负责人</b></li>
@@ -105,7 +106,9 @@ redirect_from:
   - IEEE Transactions on Affective Computing (TAFF)<br/>
   - IEEE Transactions on Audio, Speech and Language Processing (TASL)<br/>
   - IEEE Transactions on Human-Machine Systems (THMS)<br/>
-  - IEEE Transactions on Systems, Man and Cybernetics: Systems (SMCA) <br/>
+  - IEEE Transactions on Systems, Man and Cybernetics: Systems (SMCA)<br/>
+  - IEEE Transactions on Big Data (TBD)<br/>
+  - IEEE Transactions on Artificial Intelligence <br/>
   - IEEE Transactions on Cloud Computing (TCC) <br/>
   - IEEE Transactions on Vehicular Technology (TVT)<br/>
   - IEEE Transactions on Computational Biology and Bioinformatics (TCBB)<br/>
