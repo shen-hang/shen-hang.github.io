@@ -158,6 +158,13 @@ redirect_from:
   <h3 style="color:#8B0000; margin-top:0; margin-bottom:6px;">D. Security & Privacy</h3>
   <ol style="margin-top:6px; margin-bottom:0;">
 
+      <li>
+      <b>Hang Shen*</b>, Qi Liu, Tianjing Wang, and Guangwei Bai. 
+        Self-Training Mamba for Source-Free Offline and Online Adaptation in Encrypted Traffic Detection,  
+      <i>Elsevier Computer Networks (ComNet)</i>, 2026, to appear. 
+      <b>(CCF推荐B类国际期刊)</b>
+    </li>
+
     <li>
       Tianjing Wang, Qi Liu, <b>Hang Shen*</b>, and Guangwei Bai. 
       <a href="https://www.sciencedirect.com/science/article/pii/S1389128626003488" style="color:#000; text-decoration:none;">
