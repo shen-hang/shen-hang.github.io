@@ -96,6 +96,8 @@ redirect_from:
   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)<br/>
   - IEEE Transactions on Affective Computing (TAFF)<br/>
   - IEEE Transactions on Audio, Speech and Language Processing (TASL)<br/>
+  - IEEE Transactions on Big Data (TBD)<br/>
+  - IEEE Transactions on Artificial Intelligence <br/>
   - IEEE Transactions on Cloud Computing (TCC) <br/>
   - IEEE Transactions on Vehicular Technology (TVT)<br/>
   - IEEE Transactions on Computational Biology and Bioinformatics (TCBB)<br/>
@@ -224,6 +226,12 @@ redirect_from:
       <i>IEEE Transactions on Intelligent Transportation Systems (TITS)</i>, 2025, 26(5), pp. 6116–6129.
       <b>(CCF Rank-B)</b> 
       <a href="http://shen-hang.github.io/files/TITS2025.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
+    </li>
+
+      <li>
+      <b>Hang Shen*</b>, Qi Liu, Tianjing Wang, and Guangwei Bai. 
+        Self-Training Mamba for Source-Free Offline and Online Adaptation in Encrypted Traffic Detection,  
+      <i>Elsevier Computer Networks (ComNet)</i>, 2026, to appear. 
     </li>
 
     <li>
