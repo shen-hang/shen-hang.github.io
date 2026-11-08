@@ -123,6 +123,7 @@ redirect_from:
   - IEEE Communications Magazine<br/>
   - IEEE Intelligent Systems<br/>
   - IEEE Consumer Electronics Magazine<br/>
+  - IEEE Communications Standards Magazine<br/>
   - IEEE Systems Journal<br/>
   - IEEE Sensors Journal<br/>
   - IEEE Communications Letters<br/>
