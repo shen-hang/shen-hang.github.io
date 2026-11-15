@@ -561,8 +561,8 @@ redirect_from:
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.6; font-size:15px; margin-bottom:8px;">
   <b>Undergraduate Course:</b><br/>
-  - Computer Networks (Spring 2016-2018, 2020-2025)<br/>
-  - Introduction to Internet of Things (Fall 2015-2017, Fall 2019-2025)<br/>
+  - Computer Networks (Spring 2016-2018, 2020-2026)<br/>
+  - Introduction to Internet of Things (Fall 2015-2017, Fall 2019-2026)<br/>
   - Linux Programming (Spring 2015, Spring 2016, Spring 2017)<br/>
   <b>Graduate Course:</b><br/>
   - Advanced Computer Networks (Spring 2023-2025)<br/>
