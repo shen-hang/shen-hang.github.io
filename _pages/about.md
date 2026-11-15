@@ -17,10 +17,10 @@ redirect_from:
 
     <div style="flex:1 1 295px; min-width:0;">
       <div style="color:#8B0000; font-weight:bold; margin-bottom:5px;">🎓 招收研究生和有科研动力的本科生</div>
-      <div style="margin-bottom:3px;">🚗 <b>车联网与车计算</b> —— 面向智能驾驶与V2X协同推理的架构与方法</div>
-      <div style="margin-bottom:3px;">🧠 <b>垂直领域大模型</b> —— 质检、安全及智能交通领域的大模型及应用</div>
-      <div style="margin-bottom:3px;">🔐 <b>网络与信息安全</b> —— 加密流量检测、网络防御与渗透测试新方法</div>
-      <div>🚁 <b>无人机视觉计算</b> —— 空地协同、跨模态感知与动态神经网络技术</div>
+      <div style="margin-bottom:3px;">🚗 <b>车联网与车计算</b>：智能驾驶与V2X协同推理</div>
+      <div style="margin-bottom:3px;">🧠 <b>垂直领域大模型</b>：安全及智驶领域大模型</div>
+      <div style="margin-bottom:3px;">🔐 <b>网络与信息安全</b>：加密流量检测、网络防御与渗透</div>
+      <div style="margin-bottom:3px;">🚁 <b>无人机视觉计算</b>：跨模态感知与动态神经网络</div>
     </div>
 
     <div style="flex:1 1 295px; min-width:0;">
