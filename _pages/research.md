@@ -124,7 +124,7 @@ redirect_from:
 </ol>
 </div>
 
-<h2 style="font-size:20px; color:#2c3e50; border-left:4px solid #1E90FF; padding-left:10px; margin:26px 0 12px;">Science and Technology Awards（科技奖励）</h2>
+<h2 style="font-size:20px; color:#2c3e50; border-left:4px solid #1E90FF; padding-left:10px; margin:26px 0 12px;">Science and Technology Awards（科技奖）</h2>
 <div style="background-color:#f9f9f9; border-radius:10px; padding:14px 18px; line-height:1.6; font-size:15px; margin-bottom:14px;">
 <ol style="margin:0; padding-left:22px;">
   <li style="padding-left:2px; margin-bottom:12px;">
