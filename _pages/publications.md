@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- A. Vehicular and Space-Air-Ground Integrated Networks -->
 <div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.45; font-size:15px; margin-bottom:14px;">
-  <h3 style="color:#8B0000; margin-top:0; margin-bottom:6px;">A. Vehicular and Space-Air-Ground Integrated Networks</h3>
+  <h3 style="color:#8B0000; margin-top:0; margin-bottom:6px;">A. Vehicular and Space-Air-Ground Integrated Networks (车联网与空天地网络)</h3>
   <ol style="margin-top:6px; margin-bottom:0;">
 <li> 
   <b>Hang Shen</b>, Juan Huang, Tianyuan Hu*, Tianjing Wang, and Guangwei Bai. 
@@ -74,7 +74,7 @@ redirect_from:
 
 <!-- B. AI and LLMs for Cybersecurity -->
 <div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.45; font-size:15px; margin-bottom:14px;">
-  <h3 style="color:#8B0000; margin-top:0; margin-bottom:6px;">B. AI and LLMs for Cybersecurity</h3>
+  <h3 style="color:#8B0000; margin-top:0; margin-bottom:6px;">B. AI and LLMs for Cybersecurity (AI增强的网络安全)</h3>
   <ol style="margin-top:6px; margin-bottom:0;">
 <li>
       Qi Liu, <b>Hang Shen*</b>, Tianjing Wang, and Guangwei Bai. 
@@ -167,7 +167,7 @@ redirect_from:
   </ol>
 </div>
 
-<!-- C. Car/Drone Vision Computing -->
+<!-- C. Car/Drone Vision Computing (无人车/机视觉计算) -->
 <div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.45; font-size:15px; margin-bottom:14px;">
   <h3 style="color:#8B0000; margin-top:0; margin-bottom:6px;">C. Car/Drone Vision Computing</h3>
   <ol style="margin-top:6px; margin-bottom:0;">
