@@ -6,36 +6,42 @@ redirect_from:
   - /md/
   - /publications.html
 ---
-<p><b>Publications Classified by Research Field <i>(* indicates the corresponding author)</i></b></p>
+<p><b>Selected Publications by Research Area <i>(* indicates the corresponding author)</i></b></p>
 
-<!-- A. Vehicular Networks -->
+<!-- A. Vehicular and Space-Air-Ground Integrated Networks -->
 <div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.45; font-size:15px; margin-bottom:14px;">
-  <h3 style="color:#8B0000; margin-top:0; margin-bottom:6px;">A. Vehicular Networks (Space-Air-Ground Integrated Networks)</h3>
+  <h3 style="color:#8B0000; margin-top:0; margin-bottom:6px;">A. Vehicular and Space-Air-Ground Integrated Networks</h3>
   <ol style="margin-top:6px; margin-bottom:0;">
-
-  <li> 
+<li> 
   <b>Hang Shen</b>, Juan Huang, Tianyuan Hu*, Tianjing Wang, and Guangwei Bai. 
     Large-Small Model Cooperative Threat Deception in Space-Air-Ground Integrated Vehicular Networks, 
   <i>IEEE Transactions on Mobile Computing (TMC)</i>, 2026, doi: 10.1109/TMC.2026.375501. 
   <b>(CCF推荐A类国际期刊)</b> 
-  <a href="https://shen-hang.github.io/files/TMC2026-2.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
+  <a href="http://shen-hang.github.io/files/TMC2026-2.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
 </li>
-
 <li> 
   <b>Hang Shen*</b>, Yanke Yao, Tianjing Wang, and Guangwei Bai. 
   <a href="https://ieeexplore.ieee.org/document/11222929" style="color:#000; text-decoration:none;">
   MobiFormer: Split-Federated Transfer Learning for Drone RAN Slicing with Multi-Head Attention</a>, 
   <i>IEEE Transactions on Mobile Computing (TMC)</i>, 2026, 25(4), pp. 4920-4935. 
   <b>(CCF推荐A类国际期刊)</b> 
-  <a href="https://shen-hang.github.io/files/TMC2026.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
+  <a href="http://shen-hang.github.io/files/TMC2026.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
 </li>
-    <li>
+<li>
       <b>Hang Shen*</b>, Yibo Tian, Tianjing Wang, and Guangwei Bai. 
       <a href="https://ieeexplore.ieee.org/document/10145842" style="color:#000; text-decoration:none;">
       Slicing-Based Task Offloading in Space-Air-Ground Integrated Vehicular Networks</a>, 
       <i>IEEE Transactions on Mobile Computing (TMC)</i>, 2024, 23(5), pp. 4009–4024. 
       <b>(CCF推荐A类国际期刊)</b> 
-      <a href="https://shen-hang.github.io/files/TMC2024.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
+      <a href="http://shen-hang.github.io/files/TMC2024.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
+    </li>
+<li>
+      <b>Hang Shen*</b>, Ziyuan Tong, Tianjing Wang, and Guangwei Bai. 
+      <a href="https://ieeexplore.ieee.org/document/10314431" style="color:#000; text-decoration:none;">
+      UAV-Relay-Assisted Live Layered Video Multicast for Cell-Edge Users in NOMA Networks</a>, 
+      <i>IEEE Transactions on Broadcasting (TBC)</i>, 2024, 70(1), pp 135–147. 
+      <b>(二区)</b> 
+      <a href="http://shen-hang.github.io/files/TBC2024.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
 <li>
   殷珉, <b>沈航*</b>, 王天荆, 白光伟. <a href="https://www.ejournal.org.cn/thesisDetails#10.12263/DZXB.20221083&lang=zh" style="color:#000; text-decoration:none;">基于分层联邦学习的无人机小基站 RAN 切片方法</a>, 
@@ -44,54 +50,141 @@ redirect_from:
   <span style="color:#1E90FF; font-weight:500;">
     把论文写在祖国的大地上
   </span>
-  <a href="https://shen-hang.github.io/files/电子学报2023.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
+  <a href="http://shen-hang.github.io/files/电子学报2023.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
 </li>
-    <li>
-      <b>Hang Shen*</b>, Ziyuan Tong, Tianjing Wang, and Guangwei Bai. 
-      <a href="https://ieeexplore.ieee.org/document/10314431" style="color:#000; text-decoration:none;">
-      UAV-Relay-Assisted Live Layered Video Multicast for Cell-Edge Users in NOMA Networks</a>, 
-      <i>IEEE Transactions on Broadcasting (TBC)</i>, 2024, 70(1), pp 135–147. 
-      <b>(新锐二区)</b> 
-      <a href="https://shen-hang.github.io/files/TBC2024.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
-    </li>
-    <li>
-      <b>Hang Shen</b>, Qiang Ye*, Weihua Zhuang, Weisen Shi, Guangwei Bai, and Geng Yang. 
-      <a href="https://ieeexplore.ieee.org/document/9440683" style="color:#000; text-decoration:none;">
-      Drone-Small-Cell-Assisted Resource Slicing for 5G Uplink Radio Access Networks</a>, 
-      <i>IEEE Transactions on Vehicular Technology (TVT)</i>, 2021, 70(7), pp. 7071–7086. 
-      <b>(新锐二区Top)</b> 
-      <a href="https://shen-hang.github.io/files/TVT2021.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
-    </li>
-    <li>
+<li>
       <b>Hang Shen</b>, Yilong Heng, Ning Shi, Tianjing Wang*, and Guangwei Bai. 
       <a href="https://ieeexplore.ieee.org/abstract/document/9912871" style="color:#000; text-decoration:none;">
       Drone-Small-Cell-Assisted Spectrum Management for 5G and Beyond Vehicular Networks</a>, 
       in <i>Proc. of the 27th IEEE Symposium on Computers and Communications (ISCC)</i>, Rhodes Island, Greece, 2022, pp. 1–8. 
       <b>(CCF推荐国际会议)</b> 
-      <a href="https://shen-hang.github.io/files/ISCC2022.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
+      <a href="http://shen-hang.github.io/files/ISCC2022.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
+    </li>
+<li>
+      <b>Hang Shen</b>, Qiang Ye*, Weihua Zhuang, Weisen Shi, Guangwei Bai, and Geng Yang. 
+      <a href="https://ieeexplore.ieee.org/document/9440683" style="color:#000; text-decoration:none;">
+      Drone-Small-Cell-Assisted Resource Slicing for 5G Uplink Radio Access Networks</a>, 
+      <i>IEEE Transactions on Vehicular Technology (TVT)</i>, 2021, 70(7), pp. 7071–7086. 
+      <b>(二区Top)</b> 
+      <a href="http://shen-hang.github.io/files/TVT2021.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
   </ol>
 </div>
 
-<!-- B. Drone/Car Vision Computing -->
+<!-- B. AI and LLMs for Cybersecurity -->
 <div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.45; font-size:15px; margin-bottom:14px;">
-  <h3 style="color:#8B0000; margin-top:0; margin-bottom:6px;">B. Drone/Car Vision Computing (网联无人机/汽车视觉计算)</h3>
+  <h3 style="color:#8B0000; margin-top:0; margin-bottom:6px;">B. AI and LLMs for Cybersecurity</h3>
   <ol style="margin-top:6px; margin-bottom:0;">
-    <li>
+<li>
+      Qi Liu, <b>Hang Shen*</b>, Tianjing Wang, and Guangwei Bai. 
+      <a href="https://www.sciencedirect.com/science/article/pii/S1389128626009497" style="color:#000; text-decoration:none;">
+        Self-Training Mamba for Source-Free Offline and Online Adaptation in Encrypted Traffic Detection</a>,  
+      <i>Elsevier Computer Networks (ComNet)</i>, 2026, to appear. 
+      <b>(CCF推荐B类国际期刊)</b>
+    </li>
+<li>
+      Tianjing Wang, Qi Liu, <b>Hang Shen*</b>, and Guangwei Bai. 
+      <a href="https://www.sciencedirect.com/science/article/pii/S1389128626003488" style="color:#000; text-decoration:none;">
+        IDNet: Instance-adaptive Dynamic Network with Adversarial Training for Intrusion Detection</a>,  
+      <i>Elsevier Computer Networks (ComNet)</i>, 2026, Volume 283, no. 112336. 
+      <b>(CCF推荐B类国际期刊)</b>
+        <a href="http://shen-hang.github.io/files/IDNet.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
+    </li>
+<li>
+      <b>沈航*</b>, 王旭, 王天荆, 戴远飞, 白光伟. 
+    <a href="https://www.ejournal.org.cn/thesisDetails#10.12263/DZXB.20250470&lang=zh" style="color:#000; text-decoration:none;">
+      面向社交网络跨语言虚假信息检测的 LLM 增强自监督域自适应方法</a>, 
+      <i>电子学报</i>, 2025, 53(11): 3865-3879.
+      <b>(CCF推荐A类中文期刊)</b> 
+  <span style="color:#1E90FF; font-weight:500;">
+    把论文写在祖国的大地上
+  </span>
+ <a href="http://shen-hang.github.io/files/电子学报2025.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
+    </li>
+<li>
+      <b>Hang Shen*</b>, Kerui Li, Xin Liang, Tianjing Wang, and Guangwei Bai. 
+      <a href="https://ieeexplore.ieee.org/document/11745569" style="color:#000; text-decoration:none;">
+    LLM-guided RL for Cybersecurity Orchestration
+  </a>, 
+      <i>IEEE Transactions on Network and Service Management (TNSM)</i>, 2026, Vol 23: 8531-8547.
+       <b>(CCF推荐国际期刊)</b> 
+ <a href="http://shen-hang.github.io/files/TNSM2026.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
+    </li>
+<li>
+  <b>Hang Shen*</b>, Qi Liu, Fang Li, Tianjing Wang, Yuanfei Dai, and Guangwei Bai. 
+  <a href="https://ieeexplore.ieee.org/document/11457945" style="color:#000; text-decoration:none;">
+    Split-Federated BERT with Adversarial Training for Edge Intrusion Detection
+  </a>, 
+  <i>IEEE Internet of Things Journal (IoT-J)</i>, 2026, 12(13), pp. 27382-27394. 
+  <b>(一区)</b> 
+  <a href="http://shen-hang.github.io/files/IoT2026.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
+</li>
+
+<li>
+      <b>Hang Shen</b>, Xiang Li, Xu Wang, Yuanfei Dai*, Tianjing Wang, and Guangwei Bai. 
+      <a href="https://ieeexplore.ieee.org/document/11170418" style="color:#000; text-decoration:none;">
+      LACL: LLM-Augmented Contrastive Learning for Misinformation Detection in Social Networks</a>, 
+      <i>IEEE Transactions on Computational Social Systems (TCSS)</i>, 2026, 13(1), pp. 999-1014. 
+      <b>(CCF推荐国际期刊)</b> 
+      <a href="http://shen-hang.github.io/files/TCSS2026.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
+    </li>
+<li>
+      <b>Hang Shen</b>, Xiang Li, Yan Wang, Tianjing Wang* and Guangwei Bai. 
+      <a href="https://link.springer.com/article/10.1007/s12083-025-01939-4" style="color:#000; text-decoration:none;">
+      Collaborative Path Penetration in 5G-IoT Networks: A Multi-Agent Deep Reinforcement Learning Approach</a>, 
+      <i>Peer-to-Peer Networking and Applications</i>, 2025, Vol. 18, Article 113, pp. 1–20. 
+      <b>(CCF推荐国际期刊)</b> 
+      <a href="http://shen-hang.github.io/files/PPNA2025.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
+    </li>
+
+<li>
+      Fang Li, <b>Hang Shen*</b>, Jieai Mai, Tianjing Wang, Yuanfei Dai, and Xiaodong Miao. 
+      <a href="https://link.springer.com/article/10.1007/s12083-023-01595-6" style="color:#000; text-decoration:none;">
+      Pre-trained Language Model-Enhanced Conditional Generative Adversarial Networks for Intrusion Detection</a>, 
+      <i>Peer-to-Peer Networking and Applications (PPNA)</i>, 2024, vol. 17, pp. 227–245. 
+      <b>(CCF推荐国际期刊)</b> 
+      <a href="http://shen-hang.github.io/files/PPNA2024.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
+    </li>
+<li>
+      <b>Hang Shen</b>, Jiajia Xu, Tianjing Wang, and Guangwei Bai*. 
+      <a href="https://ieeexplore.ieee.org/document/8761835" style="color:#000; text-decoration:none;">
+      Detecting Link Correlation Spoofing Attack: A Beacon-Trap Approach</a>, 
+      in <i>Proc. of the 53rd IEEE International Conference on Communications (ICC)</i>, 
+      Shanghai, China, May 20–24, 2019, pp. 1–6. 
+      <b>(CCF推荐国际会议, IEEE通信学会旗舰会议)</b> 
+      <a href="http://shen-hang.github.io/files/ICC2019.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
+    </li>
+
+<li>
+      Tianjing Wang, Qi Liu, <b>Hang Shen*</b>, Xiaokang Luo, and Guangwei Bai. 
+      <a href="https://onlinelibrary.wiley.com/doi/10.4218/etrij.2025-0152" style="color:#000; text-decoration:none;">
+      Graph Neural Network‐Enhanced Auxiliary Classifier Generative Adversarial Network Framework for Robust Intrusion Detection</a>, 
+      <i>ETRI Journal</i>, 2026, 48(3), pp. 554-569. 
+      <b>(SCI)</b> 
+      <a href="http://shen-hang.github.io/files/ETRI2026.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
+    </li>
+  </ol>
+</div>
+
+<!-- C. Car/Drone Vision Computing -->
+<div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.45; font-size:15px; margin-bottom:14px;">
+  <h3 style="color:#8B0000; margin-top:0; margin-bottom:6px;">C. Car/Drone Vision Computing</h3>
+  <ol style="margin-top:6px; margin-bottom:0;">
+<li>
       <b>Hang Shen*</b>, Qi Liu, Yuanyi Wang, Tianjing Wang, and Guangwei Bai. 
       <a href="https://ieeexplore.ieee.org/document/10927614" style="color:#000; text-decoration:none;">
       MT-DyNN: Multi-Teacher Distilled Dynamic Neural Network for Instance-Adaptive Detection in Autonomous Driving</a>, 
       <i>IEEE Transactions on Intelligent Transportation Systems (TITS)</i>, 2025, 26(5), pp. 6116–6129. 
-      <b>(CCF推荐B类国际期刊, 新锐一区)</b> 
-      <a href="https://shen-hang.github.io/files/TITS2025.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
+      <b>(CCF推荐B类国际期刊, 一区)</b> 
+      <a href="http://shen-hang.github.io/files/TITS2025.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
-    <li>
+<li>
       <b>Hang Shen*</b>, Qi Liu, Yu Liu, Tianjing Wang, and Guangwei Bai. 
-      <a href="https://ieeexplore.ieee.org/document/11142340" style="color:#000; text-decoration:none;">
+      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11142340" style="color:#000; text-decoration:none;">
       MA-DyNN: Modal-Adaptive Dynamic Neural Network for Crowd-Counting on Consumer Drones</a>, 
       <i>IEEE Transactions on Consumer Electronics (TCE)</i>, 2025, 71(4), pp. 9594-9605. 
-      <b>(新锐一区)</b> 
-      <a href="https://shen-hang.github.io/files/TCE2025.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
+      <b>(一区)</b> 
+      <a href="http://shen-hang.github.io/files/TCE2025.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
 <li> 
   Yu Liu, <b>Hang Shen*</b>, Tianjing Wang, and Guangwei Bai. 
@@ -103,88 +196,16 @@ redirect_from:
     被编委会评为 <b>2025年一季度亮点论文 (Featured Article)并被邀请制作封面</b>
   </span> 
   <a href="http://shen-hang.github.io/files/ETRIR_48_3_infographics_January_06_2025.pdf" style="color:#1E90FF; text-decoration:none;">[Infographic Design]</a> 
-  <a href="https://shen-hang.github.io/files/ETRI2025.pdf" style="color:#1E90FF; text-decoration:none;">[Article Download]</a>
+  <a href="http://shen-hang.github.io/files/ETRI2025.pdf" style="color:#1E90FF; text-decoration:none;">[Article Download]</a>
 </li>
   </ol>
 </div>
 
-<!-- C. Large Language Models -->
+<!-- D. Blockchain, Privacy and Trust -->
 <div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.45; font-size:15px; margin-bottom:14px;">
-  <h3 style="color:#8B0000; margin-top:0; margin-bottom:6px;">C. Large Language Models (大模型赋能网络技术)</h3>
+  <h3 style="color:#8B0000; margin-top:0; margin-bottom:6px;">D. Blockchain, Privacy and Trust</h3>
   <ol style="margin-top:6px; margin-bottom:0;">
-      <li>
-      <b>Hang Shen*</b>, Kerui Li, Xin Liang, Tianjing Wang, and Guangwei Bai. 
-      <a href="https://ieeexplore.ieee.org/document/11745569" style="color:#000; text-decoration:none;">
-    LLM-guided RL for Cybersecurity Orchestration
-  </a>, 
-      <i>IEEE Transactions on Network and Service Management (TNSM)</i>, 2026, Vol 23: 8531-8547.
-       <b>(CCF推荐国际期刊)</b> 
- <a href="https://shen-hang.github.io/files/TNSM2026.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
-    </li>
-    <li>
-      <b>沈航*</b>, 王旭, 王天荆, 戴远飞, 白光伟. 
-    <a href="https://www.ejournal.org.cn/thesisDetails#10.12263/DZXB.20250470&lang=zh" style="color:#000; text-decoration:none;">
-      面向社交网络跨语言虚假信息检测的 LLM 增强自监督域自适应方法</a>, 
-      <i>电子学报</i>, 2025, 53(11): 3865-3879.
-      <b>(CCF推荐A类中文期刊)</b> 
-  <span style="color:#1E90FF; font-weight:500;">
-    把论文写在祖国的大地上
-  </span>
- <a href="https://shen-hang.github.io/files/电子学报2025.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
-    </li>
-
 <li>
-  <b>Hang Shen*</b>, Qi Liu, Fang Li, Tianjing Wang, Yuanfei Dai, and Guangwei Bai. 
-  <a href="https://ieeexplore.ieee.org/document/11457945" style="color:#000; text-decoration:none;">
-    Split-Federated BERT with Adversarial Training for Edge Intrusion Detection
-  </a>, 
-  <i>IEEE Internet of Things Journal (IoT-J)</i>, 2026, 13(12), pp. 27382-27394. 
-  <b>(新锐一区)</b> 
-  <a href="https://shen-hang.github.io/files/IoT2026.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
-</li>
-    <li>
-      <b>Hang Shen</b>, Xiang Li, Xu Wang, Yuanfei Dai*, Tianjing Wang, and Guangwei Bai. 
-      <a href="https://ieeexplore.ieee.org/document/11170418" style="color:#000; text-decoration:none;">
-      LACL: LLM-Augmented Contrastive Learning for Misinformation Detection in Social Networks</a>, 
-      <i>IEEE Transactions on Computational Social Systems (TCSS)</i>, 2026, 13(1), pp. 999-1014. 
-      <b>(CCF推荐国际期刊)</b> 
-      <a href="https://shen-hang.github.io/files/TCSS2026.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
-    </li>
-    <li>
-      Fang Li, <b>Hang Shen*</b>, Jieai Mai, Tianjing Wang, Yuanfei Dai, and Xiaodong Miao. 
-      <a href="https://link.springer.com/article/10.1007/s12083-023-01595-6" style="color:#000; text-decoration:none;">
-      Pre-trained Language Model-Enhanced Conditional Generative Adversarial Networks for Intrusion Detection</a>, 
-      <i>Peer-to-Peer Networking and Applications (PPNA)</i>, 2024, vol. 17, pp. 227–245. 
-      <b>(CCF推荐国际期刊)</b> 
-      <a href="https://shen-hang.github.io/files/PPNA2024.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
-    </li>
-  </ol>
-</div>
-
-
-<!-- D. Security & Privacy --> 
-<div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.45; font-size:15px; margin-bottom:14px;">
-  <h3 style="color:#8B0000; margin-top:0; margin-bottom:6px;">D. Security & Privacy</h3>
-  <ol style="margin-top:6px; margin-bottom:0;">
-
-      <li>
-      Qi Liu, <b>Hang Shen*</b>, Tianjing Wang, and Guangwei Bai. 
-      <a href="https://www.sciencedirect.com/science/article/pii/S1389128626009497" style="color:#000; text-decoration:none;">
-        Self-Training Mamba for Source-Free Offline and Online Adaptation in Encrypted Traffic Detection</a>,  
-      <i>Elsevier Computer Networks (ComNet)</i>, 2026, to appear. 
-      <b>(CCF推荐B类国际期刊)</b>
-    </li>
-
-    <li>
-      Tianjing Wang, Qi Liu, <b>Hang Shen*</b>, and Guangwei Bai. 
-      <a href="https://www.sciencedirect.com/science/article/pii/S1389128626003488" style="color:#000; text-decoration:none;">
-        IDNet: Instance-adaptive Dynamic Network with Adversarial Training for Intrusion Detection</a>,  
-      <i>Elsevier Computer Networks (ComNet)</i>, 2026, Volume 283, no. 112336. 
-      <b>(CCF推荐B类国际期刊)</b>
-        <a href="https://shen-hang.github.io/files/IDNet.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
-    </li>
-
-    <li>
       <b>Hang Shen</b>, Guangwei Bai*, Yujia Hu, and Tianjing Wang. 
       <a href="https://www.sciencedirect.com/science/article/pii/S138376211830451X" style="color:#000; text-decoration:none;">
       P2TA: Privacy-Preserving Task Allocation for Edge Computing Enhanced Mobile Crowdsensing</a>, 
@@ -192,144 +213,102 @@ redirect_from:
       <b>(CCF推荐B类国际期刊)</b>
     </li>
 
-    <li>
-      <b>Hang Shen</b>, Xiang Li, Yan Wang, Tianjing Wang* and Guangwei Bai. 
-      <a href="https://link.springer.com/article/10.1007/s12083-025-01939-4" style="color:#000; text-decoration:none;">
-      Collaborative Path Penetration in 5G-IoT Networks: A Multi-Agent Deep Reinforcement Learning Approach</a>, 
-      <i>Peer-to-Peer Networking and Applications</i>, 2025, Vol. 18, Article 113, pp. 1–20. 
+<li>
+      <b>Hang Shen</b>, Beining Zhang, Tianjing Wang*, Xin Liu, and Guangwei Bai. 
+      <a href="https://link.springer.com/article/10.1007/s12083-024-01674-2" style="color:#000; text-decoration:none;">
+      Consortium Blockchain-Based Secure Cross-Operator V2V Video Content Distribution</a>, 
+      <i>Peer-to-Peer Networking and Applications (PPNA)</i>, 2024, Vol. 17, pp. 1631–1644. 
       <b>(CCF推荐国际期刊)</b> 
-      <a href="https://shen-hang.github.io/files/PPNA2025.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
+      <a href="http://shen-hang.github.io/files/Consortium%20blockchain.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
+    </li>
+<li>
+      Beining Zhang, <b>Hang Shen*</b>, Tianjing Wang, and Guangwei Bai. 
+      <a href="https://link.springer.com/article/10.1007/s12083-024-01728-5" style="color:#000; text-decoration:none;">
+      Invisible Man: Blockchain-Enabled Peer-to-Peer Collaborative Privacy Games in LBSs</a>, 
+      <i>Peer-to-Peer Networking and Applications</i>, 2024, Vol. 17, pp. 2595–2607. 
+      <b>(CCF推荐国际期刊)</b> 
+      <a href="http://shen-hang.github.io/files/Invisible%20man.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
+    </li>
+<li>
+      <b>Hang Shen</b>, Xin Liu, Ning Shi, Tianjing Wang* and Guangwei Bai. 
+      <a href="https://link.springer.com/article/10.1007/s12083-022-01432-2" style="color:#000; text-decoration:none;">
+      Blockchain-Enabled Solution for Secure and Scalable V2V Video Content Dissemination</a>, 
+      <i>Peer-to-Peer Networking and Applications (PPNA)</i>, 2023, 16(3), pp. 554–570. 
+      <b>(CCF推荐国际期刊)</b> 
+      <a href="http://shen-hang.github.io/files/PPNA2023.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
 
-    <li>
-      Tianjing Wang, Qi Liu, <b>Hang Shen*</b>, Xiaokang Luo, and Guangwei Bai. 
-      <a href="https://onlinelibrary.wiley.com/doi/10.4218/etrij.2025-0152" style="color:#000; text-decoration:none;">
-      Graph Neural Network‐Enhanced Auxiliary Classifier Generative Adversarial Network Framework for Robust Intrusion Detection</a>, 
-      <i>ETRI Journal</i>, 2026, 48(3), pp. 554-569. 
-      <b>(SCI)</b> 
-      <a href="https://shen-hang.github.io/files/ETRI2026.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
-    </li>
-
-    <li>
+<li>
       <b>Hang Shen</b>, Guangwei Bai*, Mei Yang, and Zhonghui Wang. 
       <a href="https://www.sciencedirect.com/science/article/pii/S1084804517300413" style="color:#000; text-decoration:none;">
       Protecting Trajectory Privacy: A User-Centric Analysis</a>, 
       <i>Elsevier Journal of Network and Computer Applications (JNCA)</i>, 2017, 82, pp. 128–139. 
       <b>(CCF推荐国际期刊)</b>
     </li>
-
-    <li>
-      <b>Hang Shen</b>, Jiajia Xu, Tianjing Wang, and Guangwei Bai*. 
-      <a href="https://ieeexplore.ieee.org/document/8761835" style="color:#000; text-decoration:none;">
-      Detecting Link Correlation Spoofing Attack: A Beacon-Trap Approach</a>, 
-      in <i>Proc. of the 53rd IEEE International Conference on Communications (ICC)</i>, 
-      Shanghai, China, May 20–24, 2019, pp. 1–6. 
-      <b>(CCF推荐国际会议, IEEE通信学会旗舰会议)</b> 
-      <a href="https://shen-hang.github.io/files/ICC2019.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
+<li>
+      <b>Hang Shen</b>, Yanjing Zhou, Tianjing Wang* et al. 
+      <a href="https://ieeexplore.ieee.org/document/11134474" style="color:#000; text-decoration:none;">
+      Blockchain-Assisted Cross-Silo Graph Federated Learning for Network Intrusion Detection</a>, 
+      <i>IEEE Global Blockchain Conference (GBC)</i>, Shanghai, China, Jun. 19–21, 2025, pp. 1–8. 
+      <b>(IEEE区块链旗舰会议)</b> 
+      <a href="http://shen-hang.github.io/files/GBC2025-Graph.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
+<li>
+      Beining Zhang, <b>Hang Shen*</b>, Tianjing Wang, and Guangwei Bai. 
+      <a href="https://ieeexplore.ieee.org/document/11134462" style="color:#000; text-decoration:none;">
+      Monero Covert Communication-Enhanced Collaboration for Privacy-Preserving Queries</a>, 
+      <i>IEEE Global Blockchain Conference (GBC)</i>, Shanghai, China, Jun. 19–21, 2025, pp. 1–6. 
+      <b>(IEEE区块链旗舰会议)</b> 
+      <a href="http://shen-hang.github.io/files/GBC2025-Monero.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
+    </li>
+
+
   </ol>
 </div>
 
-
-<!-- E. Wireless Algorithms -->
+<!-- E. Wireless Networking and Mobile Crowdsensing -->
 <div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.45; font-size:15px; margin-bottom:14px;">
-  <h3 style="color:#8B0000; margin-top:0; margin-bottom:6px;">E. Wireless Algorithms</h3>
+  <h3 style="color:#8B0000; margin-top:0; margin-bottom:6px;">E. Wireless Networking and Mobile Crowdsensing</h3>
   <ol style="margin-top:6px; margin-bottom:0;">
-    <li>
+<li>
       Tianjing Wang, Yu Zhang, <b>Hang Shen*</b>, and Guangwei Bai. 
       <a href="https://ieeexplore.ieee.org/document/10550173" style="color:#000; text-decoration:none;">
       Task Partitioning and Scheduling Based on Stochastic Policy Gradient in Mobile Crowdsensing</a>, 
       <i>IEEE Transactions on Computational Social Systems (TCSS)</i>, 2024, 11(5), pp. 6580–6591. 
       <b>(CCF推荐国际期刊)</b> 
-      <a href="https://shen-hang.github.io/files/TCSS2024.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
+      <a href="http://shen-hang.github.io/files/TCSS2024.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
-
-    <li>
+<li>
       <b>Hang Shen</b> and Guangwei Bai*. 
       <a href="http://ieeexplore.ieee.org/abstract/document/8291004/" style="color:#000; text-decoration:none;">
       QoS-Guaranteed Wireless Broadcast Scheduling with Network Coding and Rate Adaptation</a>, 
       <i>IEEE Transactions on Vehicular Technology (TVT)</i>, 2018, 67(7), pp. 6492–6503. 
-      <b>(新锐二区Top)</b> 
-      <a href="https://shen-hang.github.io/files/TVT2018.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
+      <b>(二区)</b> 
+      <a href="http://shen-hang.github.io/files/TVT2018.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
-
-    <li>
+<li>
       Yiren Gu, <b>Hang Shen*</b>, Guangwei Bai, Tianjing Wang <i>et al.</i> 
       <a href="https://link.springer.com/article/10.1007/s00530-019-00616-w" style="color:#000; text-decoration:none;">
       QoI-Aware Incentive for Multimedia Crowdsensing Enabled Learning System</a>, 
       <i>Multimedia Systems</i>, 2020, 26(1), pp. 3–16. 
       <b>(CCF推荐国际期刊)</b>
     </li>
-
-    <li>
+<li>
       <b>Hang Shen</b>, Guangwei Bai*, Junyuan Wang, and Lu Zhao. 
       <a href="https://link.springer.com/article/10.1007/s11277-019-06289-y" style="color:#000; text-decoration:none;">
       WGM: Wavelet-Based Gamma Model for Video Traffic in Wireless Multi-hop Networks</a>, 
       <i>Wireless Personal Communications (WPC)</i>, 2019, 107(1), pp. 565–587. 
       <b>(SCI)</b>
-      <a href="https://shen-hang.github.io/files/WPC2019.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
+      <a href="http://shen-hang.github.io/files/WPC2019.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
 
-    <li>
+<li>
       <b>Hang Shen</b> and Guangwei Bai*. 
       <a href="https://www.sciencedirect.com/science/article/pii/S1084804516301102" style="color:#000; text-decoration:none;">
       Routing in Wireless Multimedia Sensor Networks: A Survey and Challenges Ahead</a>, 
       <i>Elsevier Journal of Network and Computer Applications (JNCA)</i>, 2016, 71, pp. 30–49. 
       <b>(研究综述, CCF推荐国际期刊)</b> 
-      <a href="https://shen-hang.github.io/files/JNCA2016.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
-    </li>
-  </ol>
-</div>
-
-
-
-<!-- F. Blockchain -->
-<div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.45; font-size:15px; margin-bottom:14px;">
-  <h3 style="color:#8B0000; margin-top:0; margin-bottom:6px;">F. Blockchain</h3>
-  <ol style="margin-top:6px; margin-bottom:0;">
-    <li>
-      <b>Hang Shen</b>, Yanjing Zhou, Tianjing Wang* et al. 
-      <a href="https://ieeexplore.ieee.org/document/11134474" style="color:#000; text-decoration:none;">
-      Blockchain-Assisted Cross-Silo Graph Federated Learning for Network Intrusion Detection</a>, 
-      <i>IEEE Global Blockchain Conference (GBC)</i>, Shanghai, China, Jun. 20–22, 2025, pp. 1–8. 
-      <b>(IEEE区块链旗舰会议)</b> 
-      <a href="https://shen-hang.github.io/files/GBC2025-Graph.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
-    </li>
-
-    <li>
-      Beining Zhang, <b>Hang Shen*</b>, Tianjing Wang, and Guangwei Bai. 
-      <a href="https://ieeexplore.ieee.org/document/11134462" style="color:#000; text-decoration:none;">
-      Monero Covert Communication-Enhanced Collaboration for Privacy-Preserving Queries</a>, 
-      <i>IEEE Global Blockchain Conference (GBC)</i>, Shanghai, China, Jun. 20–22, 2025, pp. 1–6. 
-      <b>(IEEE区块链旗舰会议)</b> 
-      <a href="https://shen-hang.github.io/files/GBC2025-Monero.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
-    </li>
-
-    <li>
-      <b>Hang Shen</b>, Beining Zhang, Tianjing Wang*, Xin Liu, and Guangwei Bai. 
-      <a href="https://link.springer.com/article/10.1007/s12083-024-01674-2" style="color:#000; text-decoration:none;">
-      Consortium Blockchain-Based Secure Cross-Operator V2V Video Content Distribution</a>, 
-      <i>Peer-to-Peer Networking and Applications (PPNA)</i>, 2024, Vol. 17, pp. 1631–1644. 
-      <b>(CCF推荐国际期刊)</b> 
-      <a href="https://shen-hang.github.io/files/Consortium%20blockchain.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
-    </li>
-
-    <li>
-      Beining Zhang, <b>Hang Shen*</b>, Tianjing Wang, and Guangwei Bai. 
-      <a href="https://link.springer.com/article/10.1007/s12083-024-01728-5" style="color:#000; text-decoration:none;">
-      Invisible Man: Blockchain-Enabled Peer-to-Peer Collaborative Privacy Games in LBSs</a>, 
-      <i>Peer-to-Peer Networking and Applications</i>, 2024, Vol. 17, pp. 2595–2607. 
-      <b>(CCF推荐国际期刊)</b> 
-      <a href="https://shen-hang.github.io/files/Invisible%20man.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
-    </li>
-
-    <li>
-      <b>Hang Shen</b>, Xin Liu, Ning Shi, Tianjing Wang* and Guangwei Bai. 
-      <a href="https://link.springer.com/article/10.1007/s12083-022-01432-2" style="color:#000; text-decoration:none;">
-      Blockchain-Enabled Solution for Secure and Scalable V2V Video Content Dissemination</a>, 
-      <i>Peer-to-Peer Networking and Applications (PPNA)</i>, 2023, 16(3), pp. 554–570. 
-      <b>(CCF推荐国际期刊)</b> 
-      <a href="https://shen-hang.github.io/files/PPNA2023.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
+      <a href="http://shen-hang.github.io/files/JNCA2016.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
   </ol>
 </div>
