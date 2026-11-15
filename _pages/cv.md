@@ -188,7 +188,7 @@ redirect_from:
   <li> 
   <b>Hang Shen</b>, Juan Huang, Tianyuan Hu*, Tianjing Wang, and Guangwei Bai. 
     Large-Small Model Cooperative Threat Deception in Space-Air-Ground Integrated Vehicular Networks, 
-  <i>IEEE Transactions on Mobile Computing (TMC)</i>, 2026, Accepted for publication. 
+  <i>IEEE Transactions on Mobile Computing (TMC)</i>, 2026, doi: 10.1109/TMC.2026.375501. 
   <b>(CCF Rank-A)</b> 
   <a href="http://shen-hang.github.io/files/TMC2026-2.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
 </li>
