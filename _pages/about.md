@@ -14,37 +14,57 @@ redirect_from:
   <!-- 招生与本科生项目实践：宽屏双栏、窄屏自动单栏 -->
   <div style="display:flex; flex-wrap:wrap; gap:12px 18px; align-items:flex-start;">
 
+    <!-- 研究生与本科生招生 -->
     <div style="flex:1 1 295px; min-width:0;">
-  <div style="color:#8B0000; font-weight:bold; margin-bottom:7px;">
-    🎯 诚邀本科同学参与横向项目「特种设备检验智能体」、「事故致因推理知识图谱」、「农业机器人视觉计算」：
-  </div>
+      <div style="color:#8B0000; font-weight:bold; margin-bottom:5px;">
+        🎓 招收研究生和有科研动力的本科生，共同探索如下前沿科研方向：
+      </div>
+      <div style="margin-bottom:3px;">🚗 <b>车联网与车计算</b>：智能驾驶与V2X协同推理</div>
+      <div style="margin-bottom:3px;">🧠 <b>垂直领域大模型</b>：安全及智能驾驶领域大模型</div>
+      <div style="margin-bottom:3px;">🔐 <b>网络与信息安全</b>：加密流量检测、网络防御与渗透测试</div>
+      <div>🚁 <b>无人机视觉计算</b>：跨模态感知与动态神经网络</div>
+    </div>
 
-  <div style="margin-bottom:5px;">
-    <b>实践支持：</b>团队专业指导，参与真实项目研发；根据参与情况发放津贴，提供项目实践及实习证明。
-  </div>
+    <!-- 本科生项目实践招募 -->
+    <div style="flex:1 1 295px; min-width:0;">
+      <div style="color:#8B0000; font-weight:bold; margin-bottom:7px;">
+        🎯 诚邀本科同学参与横向项目「特种设备检验智能体」、「事故致因推理知识图谱」、「农业机器人视觉计算」：
+      </div>
 
-  <div style="margin-bottom:4px;">
-    <b>招募要求：</b>对AI系统开发感兴趣，有责任心，能稳定持续参与。
-  </div>
+      <div style="margin-bottom:5px;">
+        <b>实践支持：</b>团队专业指导，参与真实项目研发；根据参与情况发放津贴，提供项目实践及实习证明。
+      </div>
 
-  <div>
-    💌 英雄不问专业，欢迎
-    <a href="mailto:hshen@njtech.edu.cn"
-       style="color:#1E90FF; text-decoration:none; font-weight:bold;">邮件联系</a>！
-  </div>
-</div>
+      <div style="margin-bottom:4px;">
+        <b>招募要求：</b>对AI系统开发感兴趣，认真负责，能持续参与项目研发。
+      </div>
+
+      <div>
+        💌 英雄不问专业，欢迎
+        <a href="mailto:hshen@njtech.edu.cn"
+           style="color:#1E90FF; text-decoration:none; font-weight:bold;">邮件联系</a>！
+      </div>
+    </div>
+
+  </div> <!-- 正确关闭双栏 Flex 容器 -->
 
   <!-- 毕业去向：完整展示，不折叠 -->
   <div style="border-top:1px dashed #d6d6d6; margin-top:9px; padding-top:7px;">
-<div style="margin-bottom:3px;">
-  课题组众多毕业生受聘于国内外知名IT企业，包括
-  <b>华为（南京、上海、深圳、武汉）｜中兴｜大疆｜展锐（上海）｜字节跳动（南京）｜腾讯（广州）｜海康威视（杭州）｜大华（杭州）｜百度（北京）｜新华三｜微软中国（无锡）｜德州仪器（苏州）｜爱立信（上海）｜诺基亚-贝尔｜三星电子研究所（南京）</b>，
-  以及中行软开、微众银行、蚂蚁集团、南京证券等知名科技金融机构。
-</div>
-    <div><b style="color:#2f4f4f;">继续深造：</b>可推荐至国内外知名高校（<b>2026年一位同学被推荐至东南大学读博</b>）。</div>
+
+    <div style="margin-bottom:3px;">
+      课题组众多毕业生受聘于国内外知名IT企业，包括
+      <b>华为（南京、上海、深圳、武汉）｜中兴｜大疆｜展锐（上海）｜字节跳动（南京）｜腾讯（广州）｜海康威视（杭州）｜大华（杭州）｜百度（北京）｜新华三｜微软中国（无锡）｜德州仪器（苏州）｜爱立信（上海）｜诺基亚-贝尔｜三星电子研究所（南京）</b>，
+      以及中行软开、微众银行、蚂蚁集团、南京证券等知名科技金融机构。
+    </div>
+
+    <div>
+      <b style="color:#2f4f4f;">继续深造：</b>可推荐至国内外知名高校（<b>2026年一位同学被推荐至东南大学读博</b>）。
+    </div>
+
   </div>
 
 </div>
+
 
 
 
