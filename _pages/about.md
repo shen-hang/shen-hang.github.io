@@ -15,22 +15,24 @@ redirect_from:
   <div style="display:flex; flex-wrap:wrap; gap:12px 18px; align-items:flex-start;">
 
     <div style="flex:1 1 295px; min-width:0;">
-      <div style="color:#8B0000; font-weight:bold; margin-bottom:5px;">🎓 招收研究生和有科研动力的本科生，共同探索如下前沿科研方向：</div>
-      <div style="margin-bottom:3px;">🚗 <b>车联网与车计算</b>：智能驾驶与V2X协同推理</div>
-      <div style="margin-bottom:3px;">🧠 <b>垂直领域大模型</b>：安全及智驶领域大模型</div>
-      <div style="margin-bottom:3px;">🔐 <b>网络与信息安全</b>：加密流量检测、网络防御与渗透</div>
-      <div>🚁 <b>无人机视觉计算</b>：跨模态感知与动态神经网络</div>
-    </div>
-
-    <div style="flex:1 1 295px; min-width:0;">
-      <div style="color:#8B0000; font-weight:bold; margin-bottom:7px;">
-  🎯 诚邀本科同学参与横向项目「特种设备检验智能体」、「事故致因推理知识图谱」、「农业机器人视觉计算」：
-</div>
-      <div style="margin-bottom:5px;"><b>实践支持：</b>团队协同指导、真实项目开发；根据参与情况发放津贴，提供项目实践及实习证明</div>
-      <div><b>招募要求：</b>对大模型、智能体或视觉计算有兴趣，认真负责，能够持续参与项目。<a href="mailto:hshen@njtech.edu.cn" style="color:#1E90FF; text-decoration:none; font-weight:bold;">邮件联系</a></div>
-    </div>
-
+  <div style="color:#8B0000; font-weight:bold; margin-bottom:7px;">
+    🎯 诚邀本科同学参与横向项目「特种设备检验智能体」、「事故致因推理知识图谱」、「农业机器人视觉计算」：
   </div>
+
+  <div style="margin-bottom:5px;">
+    <b>实践支持：</b>团队专业指导，参与真实项目研发；根据参与情况发放津贴，提供项目实践及实习证明。
+  </div>
+
+  <div style="margin-bottom:4px;">
+    <b>招募要求：</b>对技术研发有热情，有责任心，善于沟通，能稳定持续参与。
+  </div>
+
+  <div>
+    💌 英雄不问专业，欢迎
+    <a href="mailto:hshen@njtech.edu.cn"
+       style="color:#1E90FF; text-decoration:none; font-weight:bold;">邮件联系</a>！
+  </div>
+</div>
 
   <!-- 毕业去向：完整展示，不折叠 -->
   <div style="border-top:1px dashed #d6d6d6; margin-top:9px; padding-top:7px;">
