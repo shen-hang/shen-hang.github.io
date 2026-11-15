@@ -24,7 +24,7 @@ redirect_from:
   </div>
 
   <div style="margin-bottom:4px;">
-    <b>招募要求：</b>对AI系统开发感兴趣，有责任心，善于沟通，能稳定持续参与。
+    <b>招募要求：</b>对AI系统开发感兴趣，有责任心，能稳定持续参与。
   </div>
 
   <div>
