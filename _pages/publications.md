@@ -167,9 +167,9 @@ redirect_from:
   </ol>
 </div>
 
-<!-- C. Car/Drone Vision Computing (无人车/机视觉计算) -->
+<!-- C. Car/Drone Vision Computing -->
 <div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.45; font-size:15px; margin-bottom:14px;">
-  <h3 style="color:#8B0000; margin-top:0; margin-bottom:6px;">C. Car/Drone Vision Computing</h3>
+  <h3 style="color:#8B0000; margin-top:0; margin-bottom:6px;">C. Car/Drone Vision Computing (无人车/机视觉计算)</h3>
   <ol style="margin-top:6px; margin-bottom:0;">
 <li>
       <b>Hang Shen*</b>, Qi Liu, Yuanyi Wang, Tianjing Wang, and Guangwei Bai. 
