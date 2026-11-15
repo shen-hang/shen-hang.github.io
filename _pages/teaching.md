@@ -172,178 +172,155 @@ redirect_from:
 </div>
 
 
-
 <h3 style="font-size:17px; color:#2c3e50; margin-bottom:6px; margin-top:20px;">
-  网络流量分析与评价报告
+  网络流量分析与评价报告（2026）
 </h3>
 
-<!-- 简介 + Trace 链接（合并强调重点） -->
+<!-- 作业简介 -->
 <div style="background-color:#ffffff; border-radius:10px; padding:12px 14px; line-height:1.75; font-size:14px; color:#555; box-shadow:0 1px 5px rgba(0,0,0,0.05); margin-bottom:12px;">
-  本研究报告分析一个采集自 Web 浏览场景的
-  <a href="http://shen-hang.github.io/files/trace.pcapng" style="color:#3A6EA5; text-decoration:none;">
-    <code>trace文件</code>
-  </a>
-  （包含 TCP、DNS 与 HTTP 多层交互）。同学们需要从中挖掘网络链路质量、资源加载模式与用户体验相关的性能特征。
+  本次大作业提供一份包含多种网络协议与通信场景的网络流量 Trace 文件（<code>trace.zip</code>）。
+  同学们需要使用 Wireshark 等工具自行探索原始数据，<b>自主确定分析问题</b>，从中提取具有时间连续性与逻辑关联性的通信过程，
+  分析协议工作机制、通信行为及可观察的网络性能特征，并撰写具有独立分析与讨论的研究报告。
+  <b>不限定具体协议类型或分析方向</b>，鼓励结合课程知识发现有价值的网络现象。
 </div>
 
+<!-- 数据与模板 -->
 <div style="margin:0 0 14px 2px; font-size:13.5px; color:#666;">
   📄 <b>数据与说明文件下载：</b>
 
-  <a href="http://shen-hang.github.io/files/trace.txt"
-     target="_blank" rel="noopener noreferrer"
+  <a href="https://shen-hang.github.io/files/trace.zip"
+     target="_blank" rel="noopener noreferrer" download
      style="display:inline-block; margin:6px 6px 0 0; padding:6px 10px; border-radius:8px; background:#ffffff; border:1px solid rgba(58,110,165,0.35); color:#3A6EA5; text-decoration:none;">
-    trace 文件（.pcapng）
+    Trace 文件（trace.zip）
   </a>
 
-  <a href="http://shen-hang.github.io/files/报告格式要求.doc"
+  <a href="https://shen-hang.github.io/files/报告格式要求.doc"
      target="_blank" rel="noopener noreferrer"
-     style="display:inline-block; margin:6px 6px 0 6px; padding:6px 10px; border-radius:8px; background:#ffffff; border:1px solid rgba(58,110,165,0.35); color:#3A6EA5; text-decoration:none;">
+     style="display:inline-block; margin:6px 6px 0 0; padding:6px 10px; border-radius:8px; background:#ffffff; border:1px solid rgba(58,110,165,0.35); color:#3A6EA5; text-decoration:none;">
     报告格式模板（.doc）
   </a>
 
-  <a href="http://shen-hang.github.io/files/图片格式要求.doc"
+  <a href="https://shen-hang.github.io/files/图片格式要求.doc"
      target="_blank" rel="noopener noreferrer"
      style="display:inline-block; margin:6px 6px 0 0; padding:6px 10px; border-radius:8px; background:#ffffff; border:1px solid rgba(58,110,165,0.35); color:#3A6EA5; text-decoration:none;">
     图片格式要求（.doc）
   </a>
 
   <p style="margin:6px 0 0 2px; font-size:12.5px; color:#888;">
-    注：由于浏览器与 GitHub Pages 的限制，<b>文件点击后可能不会自动下载</b>。
-    如遇此情况，请 <b>右键另存为</b> 下载文件。
+    注：请先下载并解压 <code>trace.zip</code>，再使用 Wireshark 等工具打开其中的抓包文件。如点击链接后未自动下载，可尝试右键另存为。
   </p>
 </div>
 
-<!-- 结构提示 -->
 <p style="margin:0 0 10px 2px; font-size:14px; color:#555;">
-  报告的结构和内容覆盖参考如下（但不限于此）：
+  报告的结构和内容可参考以下安排，<b>不要求逐项照搬</b>；允许根据选题调整章节、分析方法与侧重点。
 </p>
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:14px 18px; line-height:1.7; font-size:15px; box-shadow:0 1px 5px rgba(0,0,0,0.06);">
 
-  <!-- A. 引言 -->
   <details style="margin-bottom:10px;">
-    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">1. 引言</summary>
-
+    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">1. 引言与研究问题</summary>
     <p style="margin:6px 0 0 4px;">
-      引言部分用于描述研究的目的与意义，并说明你分析 trace 的手段（如 Wireshark、程序化提取与可视化）。可在引言中简要概括网页加载场景、跨层交互问题与性能分析思路。
+      简要介绍研究背景，结合所选协议或通信场景提出明确的分析问题，说明为什么值得分析，以及计划采用的工具与方法。
     </p>
-
     <ul style="margin-top:6px; margin-left:24px;">
-      <li>研究目标与问题背景（链路质量、加载性能、协议交互）</li>
-      <li>分析工具与方法说明（Wireshark、可视化）</li>
-      <li>面向 trace 的性能分析目标与意义</li>
+      <li>选题背景、分析目标与拟回答的关键问题</li>
+      <li>所涉及的网络协议、通信场景及理论知识</li>
+      <li>分析工具与方法（如 Wireshark、TShark、Python、可视化）</li>
     </ul>
   </details>
 
-  <!-- 2. TCP 行为分析 -->
   <details style="margin-bottom:10px;">
-    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">2. TCP 行为分析</summary>
-    
+    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">2. Trace 数据理解与通信过程提取</summary>
     <p style="margin:6px 0 0 4px;">
-      从 TCP 层入手，可以通过工具或编程观察连接建立、传输与关闭，再通过编程提取 RTT、吞吐率等定量指标，并以图表展示性能变化，从而诊断链路稳定性、拥塞或重传等问题。
+      原始 Trace 可能包含不同时间或不同网络环境下的采集片段，<b>不能简单地将全部报文视为同一次连续抓包</b>。应先探索数据，识别具有合理时间连续性和逻辑关联性的通信过程，并说明选择理由与提取依据。
     </p>
-
     <ul style="margin-top:6px; margin-left:24px;">
-      <li>连接建立与关闭（SYN、ACK、FIN、RST）</li>
-      <li>数据传输中的异常（重传、重复 ACK、乱序）</li>
-      <li>时间序列 RTT 提取与可视化（RTT vs Time）</li>
-      <li>固定时间窗口的吞吐率统计与可视化（Throughput vs Time）</li>
-      <li>链路稳定性与拥塞迹象（波动、峰值、下降段）</li>
+      <li>根据实际观察概括原始 Trace 的主要特点，提出分析问题并说明所选通信过程的价值</li>
+      <li>可借助 Protocol Hierarchy、Conversations、Follow Stream 或显示过滤器定位报文</li>
+      <li>优先提取同一会话、同一次协议交互，或有明确证据关联的多个会话；不得随意拼接无关报文</li>
+      <li>记录通信双方、过滤条件、关键报文编号、起止时间与报文数量，检查时间跳跃、报文缺失及抓包是否完整</li>
+      <li>报文编号不必相邻，同一会话之间也可能穿插其他报文；重点说明为何这些报文属于同一通信过程。建议将提取的子 Trace 单独保存，以备核查</li>
     </ul>
   </details>
 
-  <!-- 3. DNS 行为分析 -->
   <details style="margin-bottom:10px;">
-    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">3. DNS 行为分析</summary>
-
+    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">3. 协议机制与通信行为分析</summary>
     <p style="margin:6px 0 0 4px;">
-      分析 DNS 查询与响应过程，观察解析数量、缓存复用与响应时延，并结合统计与可视化判断 DNS 是否影响网页启动阶段的性能。
+      围绕自行选定的研究问题，对<b>至少一个具有足够分析深度的典型通信过程</b>展开详细分析，并可结合其他相关通信过程进行比较或拓展。重点是解释报文之间的联系和协议机制，而非简单罗列字段。
     </p>
-
     <ul style="margin-top:6px; margin-left:24px;">
-      <li>DNS 请求与响应数量、解析的域名与 IP 映射</li>
-      <li>DNS 是否单次解析后长期缓存复用</li>
-      <li>DNS 响应时延统计与可视化（直方图或时间序列）</li>
-      <li>DNS 在整体加载流程中的性能影响（是否成为启动瓶颈）</li>
+      <li>还原关键报文交互顺序，解释其作用与协议状态变化</li>
+      <li>结合报文内容分析协议设计中的关键机制及其实现方式</li>
+      <li>可选方向：TCP 连接与可靠传输、DNS 解析与加密 DNS、IPv6 邻居发现、OSPF/BGP 路由交互、QUIC/TLS、ICMP 与路径 MTU 发现、IPsec/IKEv2 等</li>
+      <li>鼓励使用通信时序图、字段标注、协议状态图等方式呈现证据</li>
     </ul>
   </details>
 
-  <!-- 4. HTTP 对象加载分析 -->
   <details style="margin-bottom:10px;">
-    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">4. HTTP 对象加载分析</summary>
-
+    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">4. 定量分析与可视化</summary>
     <p style="margin:6px 0 0 4px;">
-      梳理 HTML、CSS、JS、图片等对象的加载结构与时间关系，并通过编程提取关键时间信息，构建瀑布图用于展示关键路径、阻塞情况与首屏加载体验。
+      根据选取的通信过程和报文完整性，自主确定可计算的指标。鼓励使用程序化提取及图表展示，但不要求所有选题都计算相同的性能指标。
     </p>
-
     <ul style="margin-top:6px; margin-left:24px;">
-      <li>主要 HTTP 对象的数量、类别、大小与加载顺序</li>
-      <li>并行请求与串行依赖关系分析</li>
-      <li>请求起始时间、首字节时间、完成时间提取（自动统计）</li>
-      <li>对象加载瀑布图或时间线可视化（Waterfall / Timeline）</li>
-      <li>关键路径识别、渲染阻塞与首屏体验影响</li>
+      <li>可选指标：报文数量、字节数、报文间隔、通信持续时间、响应时延、RTT、吞吐率、重传或控制报文比例等</li>
+      <li>说明指标定义、统计对象、计算方法与必要的有效性假设</li>
+      <li>图表应服务于具体问题，并解释其所反映的网络现象</li>
+      <li><b>不得跨越无关采集片段计算整体吞吐率、RTT、丢包率或拥塞趋势</b>；对于无法从 Trace 可靠推断的指标，应说明限制，而非强行计算</li>
     </ul>
   </details>
 
-  <!-- 5. 综合性能分析 -->
   <details style="margin-bottom:10px;">
-    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">5. 综合性能分析（总结）</summary>
-
+    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">5. 综合讨论与结论</summary>
     <p style="margin:6px 0 0 4px;">
-      整合 TCP、DNS 与 HTTP 分析结果，通过延迟、异常、对象依赖等表现诊断网页加载瓶颈，并讨论用户体验表现、白屏等待与优化方向。
+      将关键报文证据、协议机制和定量结果结合起来，回答引言提出的问题，形成有依据的解释，并讨论分析的适用范围与局限性。
     </p>
-
     <ul style="margin-top:6px; margin-left:24px;">
-      <li>链路质量诊断（RTT 稳定性、抖动、重传）</li>
-      <li>加载瓶颈定位（DNS、慢启动、大对象、串行依赖）</li>
-      <li>页面渲染体验推断（是否出现等待、白屏、首屏延迟）</li>
-      <li>跨层性能影响讨论（TCP-DNS-HTTP）</li>
-      <li>优化建议或未来改进方向（可选）</li>
+      <li>概括主要发现，说明相应的报文证据与推理过程</li>
+      <li>可结合协议对比、异常现象、设计权衡或改进思路展开讨论</li>
+      <li>区分“Trace 直接支持的事实”和“基于机制的合理推测”</li>
+      <li>说明抓包不完整、加密、采集位置或时间不连续等限制对结论的影响</li>
     </ul>
   </details>
 
-  <!-- 6. 参考文献 -->
   <details style="margin-bottom:10px;">
     <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">6. 参考文献</summary>
-
     <p style="margin:6px 0 0 4px;">
-      列出在分析与撰写报告过程中参考的论文、技术文档或工具说明等资料。参考文献应与正文内容相关，并采用统一、规范的引用格式。
+      列出实际参考的 RFC、协议标准、Wireshark 文档、论文及其他技术资料，引用应与正文对应且格式统一。
     </p>
-
-    <ul style="margin-top:6px; margin-left:24px;">
-      <li> TCP/IP、HTTP 协议相关资料</li>
-      <li>RFC 文档（如 TCP、DNS、HTTP 等协议规范）</li>
-      <li>Wireshark 官方文档或使用指南</li>
-      <li>与网络测量、性能分析相关的学术论文</li>
-    </ul>
   </details>
 
-<!-- 📌 报告撰写注意事项 -->
-<div style="margin-top:12px; background-color:#f6fffa; border-left:4px solid #32CD32; padding:12px 14px; border-radius:6px; font-size:14.5px; color:#444;">
-  <b>【报告撰写注意事项】</b><br/>
-  篇幅不少于 <b>5 页</b>。鼓励大家从 trace 中尽可能多地挖掘各类性能特征，包括时间序列指标、异常行为、对象依赖关系以及可视化图表等；只要图表清晰、指标准确、解释合理，均认定为高质量分析成果。
+  <!-- 重点说明 -->
+  <div style="margin-top:12px; background-color:#f6fffa; border-left:4px solid #32CD32; padding:12px 14px; border-radius:6px; font-size:14.5px; color:#444;">
+    <b>【报告撰写注意事项】</b>
+    <ul style="margin:6px 0 0 18px; padding:0;">
+      <li>报告篇幅不少于 <b>5 页</b>，鼓励独立选题与深入探索；<b>不以分析协议数量或图表数量作为唯一评价标准</b>。</li>
+      <li>优先保证通信过程提取的合理性、协议分析的深度、定量结果的可信度和结论的可追溯性。</li>
+      <li>关键结论应提供相关报文编号、过滤表达式、截图或数据统计作为证据；建议至少绘制一幅有解释价值的通信时序图或统计图。</li>
+      <li>鼓励独立发现问题并形成个人分析结论。可参考协议标准、论文、工具文档和技术文章，但使用的资料与他人成果必须规范注明来源，<b>不得照搬现成的 Trace 分析案例、截图、数据或结论</b>。</li>
+      <li>可以借助 AI 工具辅助整理与分析，但必须独立核验结果。<b>报告中的主要结论须有原始报文证据支持，不得编造数据、图表或分析过程，切记切记！</b></li>
+    </ul>
+  </div>
+
+  <!-- 提交要求 -->
+  <div style="margin-top:10px; background-color:#fff7e6; border-left:4px solid #ff9800; padding:12px 14px; border-radius:6px; font-size:14.5px; color:#444;">
+    <b>【报告提交方式与时间】</b><br/>
+    <b>截止日期：2026 年 12 月 09 日。</b>
+    <ul style="margin:6px 0 0 18px; padding:0;">
+      <li>
+        <b>计算机学院同学：</b>
+        请于 <b>2026 年 12 月 09 日</b> 将 <b>PDF 电子版</b>统一提交给<b>班长</b>，
+        文件命名为 <b>“姓名-学号.pdf”</b>。辛苦班长整理所有文件并打包后发送给我。
+      </li>
+      <li style="margin-top:6px;">
+        <b>非计算机学院同学：</b>
+        请于 <b>2026 年 12 月 09 日</b> 将 <b>PDF 电子版</b>直接发送至
+        <b>hshen@njtech.edu.cn</b>，附件命名为 <b>“姓名-学号.pdf”</b>，
+        邮件主题为 <b>“网络流量分析与评价报告-姓名-学号”</b>。
+      </li>
+    </ul>
+  </div>
 </div>
 
-<div style="margin-top:10px; background-color:#fff7e6; border-left:4px solid #ff9800; padding:12px 14px; border-radius:6px; font-size:14.5px; color:#444;">
-  <b>【报告提交方式与时间】</b><br/>
-  <ul style="margin:6px 0 0 18px; padding:0;">
-    <li>
-      <b>计算机学院同学：</b>
-      请于 <b>1 月 8 日上午</b> 将<b>pdf电子版</b>统一提交给<b>班长</b>，
-      文件命名为 <b>“姓名-学号.pdf”</b>。
-      <br/>
-      辛苦班长将所有文件<b>统一打包后发送给我</b>。
-    </li>
-    <li style="margin-top:6px;">
-      <b>非计算机学院同学：</b>
-      请于 <b>1 月 8 日</b> 将<b>pdf电子版</b>直接发送至
-      <b>hshen@njtech.edu.cn</b>，
-      文件（作为附件）命名为 <b>“姓名-学号.pdf”</b>，邮件主题为 <b>“网络流量分析与评价报告-姓名-学号”</b>。
-    </li>
-  </ul>
-</div>
-
-</div>
 
 
 <hr style="border: 0; border-top: 2px solid #1E90FF; margin: 24px 0 16px 0; opacity: 0.6;">
