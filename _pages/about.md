@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+
 <div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.48; font-size:14px; box-shadow:0 1px 5px rgba(0,0,0,0.06); margin-top:0; margin-bottom:8px;">
 
   <!-- 招生与本科生项目实践：宽屏双栏、窄屏自动单栏 -->
@@ -23,12 +24,21 @@ redirect_from:
 
     <div style="flex:1 1 295px; min-width:0;">
       <div style="color:#8B0000; font-weight:bold; margin-bottom:5px;">🎯 本科生项目实践招募</div>
-      <div style="margin-bottom:5px;"><b>横向项目：</b>特种设备检验智能体 · 事故致因推理知识图谱 · 农业机器人视觉计算</div>
+      <div style="margin-bottom:7px;">诚邀本科生参与<b>特种设备检验智能体、事故致因推理知识图谱、农业机器人视觉计算</b>等横向项目。</div>
       <div style="margin-bottom:5px;"><b>实践支持：</b>团队协同指导、真实项目开发；根据参与情况发放津贴，提供项目实践及实习证明</div>
       <div><b>招募要求：</b>对大模型、智能体或视觉计算有兴趣，认真负责，能够持续参与项目。<a href="mailto:hshen@njtech.edu.cn" style="color:#1E90FF; text-decoration:none; font-weight:bold;">邮件联系</a></div>
     </div>
 
   </div>
+
+  <!-- 毕业去向：完整展示，不折叠 -->
+  <div style="border-top:1px dashed #d6d6d6; margin-top:9px; padding-top:7px;">
+    <div style="margin-bottom:3px;"><b style="color:#2f4f4f;">毕业去向 · IT企业：</b>华为（南京、上海、深圳、武汉）｜中兴｜大疆｜展锐（上海）｜字节跳动（南京）｜腾讯（广州）｜海康威视（杭州）｜大华（杭州）｜百度（北京）｜新华三｜微软中国（无锡）｜德州仪器（苏州）｜爱立信（上海）｜诺基亚-贝尔｜三星电子研究所（南京）</div>
+    <div style="margin-bottom:3px;"><b style="color:#2f4f4f;">科技金融机构：</b>中行软开｜微众银行｜蚂蚁集团｜南京证券</div>
+    <div><b style="color:#2f4f4f;">继续深造：</b>可推荐至国内外知名高校（<b>2026年一位同学被推荐至东南大学读博</b>）。</div>
+  </div>
+
+</div>
 
   <!-- 毕业去向：完整展示，不折叠 -->
   <div style="border-top:1px dashed #d6d6d6; margin-top:9px; padding-top:7px;">
