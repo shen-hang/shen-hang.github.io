@@ -53,7 +53,7 @@ redirect_from:
 <p>Nov. 2026: 我们<b>大小模型与网联汽车</b>方向的论文<i>"Large-Small Model Cooperative Threat Deception in Space-Air-Ground Integrated Vehicular Networks"</i> 被 <b><i>IEEE Transactions on Mobile Computing</i></b> (<b>CCF推荐A类国际期刊</b>) 录用为长文。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
 
-<p>Nov. 2026: 我们<b>密态网络安全</b>方向的论文<i>"Self-Training Mamba for Source-Free Offline and Online Adaptation in Encrypted Traffic Detectio"</i> 被 <b><i>Computer Networks</i></b> (<b>CCF推荐B类国际期刊</b>) 录用为长文。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
+<p>Nov. 2026: 我们<b>密态网络安全</b>方向的论文<i>"Self-Training Mamba for Source-Free Offline and Online Adaptation in Encrypted Traffic Detection"</i> 被 <b><i>Computer Networks</i></b> (<b>CCF推荐B类国际期刊</b>) 录用为长文。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
 
 <p>Oct. 2026: 企业横向项目 “基于<b>Agentic AI</b>的承压类特种设备检验方案生成模型” 启动。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
@@ -115,7 +115,7 @@ redirect_from:
 
 <p>Feb. 2025: 我们 <b>多智能体渗透测试</b> 方向的论文 <i>"Collaborative Path Penetration in 5G-IoT Networks: A Multi-Agent Deep Reinforcement Learning Approach"</i> 被 CCF 推荐国际期刊 <b><i>Peer-to-Peer Networking and Applications</i></b> 录用为长文。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
- <p>Dec. 2024: 李想、王孝琦、吴华峰同学同学获得 <b>全球校园人工智能算法大赛（推理知识图谱赛道）全国总决赛一等奖（排名第一）</b>。</p> 
+ <p>Dec. 2024: 李想、王孝琦、吴华峰同学获得 <b>全球校园人工智能算法大赛（推理知识图谱赛道）全国总决赛一等奖（排名第一）</b>。</p> 
 
 <p>Dec. 2024: 刘宇同学关于 <b>无人机视觉计算</b> 的论文 “Vehicle Counting in UAV Images: An Adaptive Approach with Spatial Attention and Multi-Scale Receptive Fields” 被 SCI 期刊 <b><i>ETRI Journal</i></b> 编委会评选为 <b>2025 年 1–2 月唯一亮点论文 (Featured Article)</b> 并邀请制作图形化封面。</p>
 
