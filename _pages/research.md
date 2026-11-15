@@ -41,7 +41,7 @@ redirect_from:
     <div style="color:#666; font-size:13px; margin-top:2px;">通信与网络技术国家工程研究中心资助项目 · GCZX012 · 2017/07–2019/06 · <b style="color:#2c3e50;">负责人</b></div>
   </li>
   <li style="padding-left:2px; margin-bottom:11px;">
-    <span style="font-weight:600;">Medical Image Information Sharing Platform Based on Internet of Things Technology</span>
+    <span style="font-weight:600;">基于物联网技术的跨医疗机构医学影像信息共享平台</span>
     <div style="color:#666; font-size:13px; margin-top:2px;">Nanjing Municipal Science and Technology Plan Project · Grant No. 201608009 · 2017/01–2019/12 · <b style="color:#2c3e50;">Research Staff</b></div>
   </li>
   <li style="padding-left:2px; margin-bottom:11px;">
