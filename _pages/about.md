@@ -20,7 +20,7 @@ redirect_from:
         🎓 招收研究生和有科研动力的本科生，共同探索：
       </div>
       <div style="margin-bottom:3px;">🚗 <b>车联网与车计算</b>：智能驾驶与V2X协同推理</div>
-      <div style="margin-bottom:3px;">🧠 <b>垂直领域大模型</b>：安全及智能驾驶领域大模型</div>
+      <div style="margin-bottom:3px;">🧠 <b>AI智能体与知识图谱</b>：长链推理及智能驾驶</div>
       <div style="margin-bottom:3px;">🔐 <b>网络与信息安全</b>：加密流量检测、网络防御与渗透测试</div>
       <div>🚁 <b>无人机视觉计算</b>：跨模态感知与动态神经网络</div>
     </div>
