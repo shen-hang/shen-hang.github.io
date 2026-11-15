@@ -15,7 +15,7 @@ redirect_from:
   <div style="display:flex; flex-wrap:wrap; gap:12px 18px; align-items:flex-start;">
 
     <div style="flex:1 1 295px; min-width:0;">
-      <div style="color:#8B0000; font-weight:bold; margin-bottom:5px;">🎓 招收研究生和有科研动力的本科生</div>
+      <div style="color:#8B0000; font-weight:bold; margin-bottom:5px;">🎓 招收研究生和有科研动力的本科生，共同探索如下前沿科研方向：</div>
       <div style="margin-bottom:3px;">🚗 <b>车联网与车计算</b>：智能驾驶与V2X协同推理</div>
       <div style="margin-bottom:3px;">🧠 <b>垂直领域大模型</b>：安全及智驶领域大模型</div>
       <div style="margin-bottom:3px;">🔐 <b>网络与信息安全</b>：加密流量检测、网络防御与渗透</div>
