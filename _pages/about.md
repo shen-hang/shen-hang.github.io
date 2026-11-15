@@ -40,12 +40,11 @@ redirect_from:
       </div>
 
       <div style="margin-top:4px;">
-        💌 <span style="color:#8B0000; font-weight:700; font-size:15px;">英雄不问专业！</span>
+        💌 <span style="color:#D97706; font-weight:700; font-size:15px;">英雄不问专业！</span>
         欢迎
         <a href="mailto:hshen@njtech.edu.cn"
           style="color:#1E90FF; text-decoration:none; font-weight:bold;">邮件联系</a>！
       </div>
-    </div>
 
   </div> <!-- 正确关闭双栏 Flex 容器 -->
 
