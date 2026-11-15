@@ -143,15 +143,10 @@ redirect_from:
   开课学期：Spring 2023–2025
 </p>
 
-<!-- 阴影部分仅包含表格 -->
 <div style="background-color:#f9f9f9; border-radius:10px; padding:14px 18px; line-height:1.65; font-size:15px; box-shadow:0 1px 5px rgba(0,0,0,0.06); margin-bottom:16px;">
   <table style="width:100%; border-collapse:collapse; font-size:14px;">
     <tr>
-      <td style="width:120px; vertical-align:top; font-weight:bold; color:#2c3e50;">教材</td>
-      <td>None</td>
-    </tr>
-    <tr>
-      <td style="vertical-align:top; font-weight:bold; color:#2c3e50;">参考书目</td>
+      <td style="width:120px; vertical-align:top; font-weight:bold; color:#2c3e50;">参考书目</td>
       <td>
         1. <a href="https://www.cs.csubak.edu/~jyang/Computer-Networks---A-Tanenbaum---5th-edition.pdf" style="color:#1E90FF; text-decoration:none;">《Computer Networks》, Andrew S. Tanenbaum, 第5版</a><br/>
         2. 《高级计算机网络(第2版)》, 徐恪 著，清华大学出版社<br/>
@@ -163,13 +158,14 @@ redirect_from:
     <tr>
       <td style="vertical-align:top; font-weight:bold; color:#2c3e50;">基础课件资料</td>
       <td>
-        <a href="http://shen-hang.github.io/files/CH1_Architecture-I.pdf" style="color:#1E90FF; text-decoration:none;">CH1_Architecture-I</a>, 
-        <a href="http://shen-hang.github.io/files/CH1_Architecture-II.pdf" style="color:#1E90FF; text-decoration:none;">CH1_Architecture-II</a>, 
+        <a href="http://shen-hang.github.io/files/CH1_Architecture-I.pdf" style="color:#1E90FF; text-decoration:none;">CH1_Architecture-I</a>,
+        <a href="http://shen-hang.github.io/files/CH1_Architecture-II.pdf" style="color:#1E90FF; text-decoration:none;">CH1_Architecture-II</a>,
         <a href="http://shen-hang.github.io/files/CH1_Architecture-III.pdf" style="color:#1E90FF; text-decoration:none;">CH1_Architecture-III</a>
       </td>
     </tr>
   </table>
 </div>
+
 
 
 <h3 style="font-size:17px; color:#2c3e50; margin-bottom:6px; margin-top:20px;">
