@@ -9,40 +9,42 @@ redirect_from:
 ---
 
 
-<div style="background-color:#f9f9f9; border-radius:10px; padding:18px 22px; line-height:1.7; font-size:15px; box-shadow:0 1px 5px rgba(0,0,0,0.06); margin-top:0px;">  
 
-🎓 <span style="color:#8B0000; font-weight:bold;">
-招收研究生和（有科研动力的）本科生，共同探索以下前沿科研方向：
-</span><br/>
-🚗 <b>车联网与车计算</b> —— 面向智能驾驶与V2X协同推理的架构与方法<br/>
-🧠 <b>垂直领域大模型</b> —— 质检、安全及智能交通领域的大模型及应用<br/>
-🔐 <b>网络与信息安全</b> —— 加密流量检测、网络防御与渗透测试新方法<br/>
-🚁 <b>无人机视觉计算</b> —— 空地协同、跨模态感知与动态神经网络技术<br/>
+<div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.48; font-size:14px; box-shadow:0 1px 5px rgba(0,0,0,0.06); margin-top:0; margin-bottom:8px;">
 
-<hr style="border:none; border-top:1px dashed #ccc; margin:18px 0;">
+  <!-- 招生与项目实践：桌面端双栏、窄屏自动单栏 -->
+  <div style="display:flex; flex-wrap:wrap; gap:12px 18px; align-items:flex-start;">
 
-🎯 <span style="color:#8B0000; font-weight:bold;">诚邀本科同学参与横向项目「特种设备检验智能体」、「事故致因推理知识图谱」、「农业机器人视觉计算」：</span><br/>
+    <div style="flex:1 1 295px; min-width:0;">
+      <div style="color:#8B0000; font-weight:bold; margin-bottom:5px;">🎓 招收研究生和有科研动力的本科生</div>
+      <div style="margin-bottom:3px;">🚗 <b>车联网与车计算</b> —— 面向智能驾驶与V2X协同推理的架构与方法</div>
+      <div style="margin-bottom:3px;">🧠 <b>垂直领域大模型</b> —— 质检、安全及智能交通领域的大模型及应用</div>
+      <div style="margin-bottom:3px;">🔐 <b>网络与信息安全</b> —— 加密流量检测、网络防御与渗透测试新方法</div>
+      <div>🚁 <b>无人机视觉计算</b> —— 空地协同、跨模态感知与动态神经网络技术</div>
+    </div>
 
-<b>团队指导</b> —— 团队协同推进，让你在真实项目中快速成长<br/> 
-<b>津贴支持</b> —— 根据参与度发放补贴，认可你的努力与成果<br/> 
-<b>能力认证</b> —— 提供项目实践和实习证明，助力升学与求职<br/> 
+    <div style="flex:1 1 295px; min-width:0;">
+      <div style="color:#8B0000; font-weight:bold; margin-bottom:5px;">🎯 本科生项目实践招募</div>
+      <div style="margin-bottom:6px;">诚邀参与横向项目：<b>特种设备检验智能体、事故致因推理知识图谱、农业机器人视觉计算</b>。</div>
+      <div style="margin-bottom:5px;"><b>项目支持：</b>团队协同指导 · 按参与度发放津贴 · 提供项目实践和实习证明</div>
+      <div><b>招募要求：</b>对AI大模型/智能体/视觉计算方向有浓厚兴趣、有责任心、能稳定参与项目开发。</div>
+    </div>
 
-<span style="color:#2f4f4f; background-color:#eef3f8; border-radius:4px; padding:1px 6px; font-weight:500;">
-  <i>招募要求</i>
-</span>对AI大模型/智能体/视觉计算方向有浓厚兴趣、有责任心、能稳定参与项目开发<br/> 
+  </div>
 
-<hr style="border:none; border-top:1px dashed #ccc; margin:18px 0;">
-
-<p style="margin:0 0 10px 0;">
-  课题组众多毕业研究生受聘于国内外顶尖 IT 企业，包括：
-  <b>华为（南京、上海、深圳、武汉）｜中兴｜大疆｜展锐（上海）｜字节跳动（南京）｜ 腾讯（广州）｜海康威视（杭州）｜大华（杭州）｜百度（北京）｜新华三 ｜微软中国（无锡）｜德州仪器（苏州）｜爱立信（上海）｜诺基亚-贝尔｜三星电子研究所（南京）</b>
-  以及知名科技金融机构，包括：
-  <b>中行软开｜微众银行｜蚂蚁集团｜南京证券</b>。
-</p>
-<span style="color:#2f4f4f; background-color:#eef3f8; border-radius:4px; padding:1px 6px; font-weight:500;">
-  <i>有志于继续深造的同学</i>
-</span>
-可推荐至国内外知名高校（<b>2026年一位同学被推荐至东南大学读博</b>）。
+  <!-- 毕业去向保留完整名单，默认折叠以缩短首页首屏 -->
+  <div style="border-top:1px dashed #d6d6d6; margin-top:9px; padding-top:7px;">
+    <details style="margin:0;">
+      <summary style="cursor:pointer; color:#2f4f4f;">
+        <b>毕业去向：</b>华为、中兴、大疆、字节跳动、腾讯、微软中国等IT企业及知名科技金融机构（查看完整名单）
+      </summary>
+      <div style="padding:5px 0 2px 15px; color:#444;">
+        <b>IT企业：</b>华为（南京、上海、深圳、武汉）｜中兴｜大疆｜展锐（上海）｜字节跳动（南京）｜腾讯（广州）｜海康威视（杭州）｜大华（杭州）｜百度（北京）｜新华三｜微软中国（无锡）｜德州仪器（苏州）｜爱立信（上海）｜诺基亚-贝尔｜三星电子研究所（南京）<br/>
+        <b>科技金融机构：</b>中行软开｜微众银行｜蚂蚁集团｜南京证券
+      </div>
+    </details>
+    <div style="margin-top:4px;"><b>继续深造：</b>可推荐至国内外知名高校（<b>2026年一位同学被推荐至东南大学读博</b>）。</div>
+  </div>
 
 </div>
 
