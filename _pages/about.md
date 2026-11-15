@@ -17,7 +17,7 @@ redirect_from:
     <!-- 研究生与本科生招生 -->
     <div style="flex:1 1 295px; min-width:0;">
       <div style="color:#8B0000; font-weight:bold; margin-bottom:5px;">
-        🎓 招收研究生和有科研动力的本科生，共同探索如下方向：
+        🎓 招收研究生和有科研动力的本科生，共同探索：
       </div>
       <div style="margin-bottom:3px;">🚗 <b>车联网与车计算</b>：智能驾驶与V2X协同推理</div>
       <div style="margin-bottom:3px;">🧠 <b>垂直领域大模型</b>：安全及智能驾驶领域大模型</div>
