@@ -23,8 +23,9 @@ redirect_from:
     </div>
 
     <div style="flex:1 1 295px; min-width:0;">
-      <div style="color:#8B0000; font-weight:bold; margin-bottom:5px;">🎯 本科生项目实践招募</div>
-      <div style="margin-bottom:7px;">诚邀本科生参与<b>特种设备检验智能体、事故致因推理知识图谱、农业机器人视觉计算</b>等横向项目。</div>
+      <div style="color:#8B0000; font-weight:bold; margin-bottom:7px;">
+  🎯 诚邀本科同学参与横向项目「特种设备检验智能体」、「事故致因推理知识图谱」、「农业机器人视觉计算」：
+</div>
       <div style="margin-bottom:5px;"><b>实践支持：</b>团队协同指导、真实项目开发；根据参与情况发放津贴，提供项目实践及实习证明</div>
       <div><b>招募要求：</b>对大模型、智能体或视觉计算有兴趣，认真负责，能够持续参与项目。<a href="mailto:hshen@njtech.edu.cn" style="color:#1E90FF; text-decoration:none; font-weight:bold;">邮件联系</a></div>
     </div>
