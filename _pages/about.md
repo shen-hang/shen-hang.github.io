@@ -39,10 +39,11 @@ redirect_from:
         <b>要求：</b>对AI系统开发感兴趣，有责任心，能稳定参与。
       </div>
 
-      <div>
-        💌 英雄不问专业，欢迎
+      <div style="margin-top:4px;">
+        💌 <span style="color:#8B0000; font-weight:700; font-size:15px;">英雄不问专业！</span>
+        欢迎
         <a href="mailto:hshen@njtech.edu.cn"
-           style="color:#1E90FF; text-decoration:none; font-weight:bold;">邮件联系</a>！
+          style="color:#1E90FF; text-decoration:none; font-weight:bold;">邮件联系</a>！
       </div>
     </div>
 
