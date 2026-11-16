@@ -105,8 +105,7 @@ redirect_from:
 <li>
       <b>Hang Shen*</b>, Kerui Li, Xin Liang, Tianjing Wang, and Guangwei Bai. 
       <a href="https://ieeexplore.ieee.org/document/11745569" style="color:#000; text-decoration:none;">
-    LLM-guided RL for Cybersecurity Orchestration
-  </a>, 
+    LLM-guided RL for Cybersecurity Orchestration</a>, 
       <i>IEEE Transactions on Network and Service Management (TNSM)</i>, 2026, Vol 23: 8531-8547.
        <b>(CCF推荐国际期刊)</b> 
  <a href="http://shen-hang.github.io/files/TNSM2026.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
@@ -114,8 +113,7 @@ redirect_from:
 <li>
   <b>Hang Shen*</b>, Qi Liu, Fang Li, Tianjing Wang, Yuanfei Dai, and Guangwei Bai. 
   <a href="https://ieeexplore.ieee.org/document/11457945" style="color:#000; text-decoration:none;">
-    Split-Federated BERT with Adversarial Training for Edge Intrusion Detection
-  </a>, 
+    Split-Federated BERT with Adversarial Training for Edge Intrusion Detection</a>, 
   <i>IEEE Internet of Things Journal (IoT-J)</i>, 2026, 12(13), pp. 27382-27394. 
   <b>(一区)</b> 
   <a href="http://shen-hang.github.io/files/IoT2026.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
