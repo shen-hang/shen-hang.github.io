@@ -28,19 +28,19 @@ redirect_from:
     <!-- 本科生项目实践招募 -->
     <div style="flex:1 1 295px; min-width:0;">
       <div style="color:#8B0000; font-weight:bold; margin-bottom:7px;">
-        🎯 诚邀本科同学参与横向项目特种设备检验智能体、事故致因推理知识图谱、农业机器人视觉计算：
+        🎯 诚邀本科同学参与横向项目（特种设备检验智能体、事故致因推理知识图谱、农业机器人视觉计算）：
       </div>
 
       <div style="margin-bottom:5px;">
-        <b>支持：</b>团队指导，发放津贴，提供实践/实习证明。
+        <b>支持：</b>团队指导，发放津贴，提供实习证明。
       </div>
 
       <div style="margin-bottom:4px;">
-        <b>要求：</b>对AI系统开发感兴趣，有责任心，能稳定参与。
+        <b>要求：</b>对开发感兴趣，有责任心，能稳定参与。
       </div>
 
       <div style="margin-top:4px;">
-        💌 <span style="color:#D97706; font-weight:700; font-size:15px;">英雄不问专业！</span>
+        💌 <span style="color:#D97706; font-weight:700; font-size:15px;">专业不限！</span>
         欢迎
         <a href="mailto:hshen@njtech.edu.cn"
           style="color:#1E90FF; text-decoration:none; font-weight:bold;">邮件联系</a>！
