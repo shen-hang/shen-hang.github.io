@@ -542,9 +542,9 @@ redirect_from:
   <li style="break-inside:avoid; margin-bottom:5px;">ACM Transactions on Design Automation of Electronic Systems (TODAES)</li>
   <li style="break-inside:avoid; margin-bottom:5px;">ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)</li>
   </ul>
-  <h4 style="font-size:14px; color:#2c3e50; margin:13px 0 6px;">IEEE / IEEE-ACM Journals and Magazines</h4>
+  <h4 style="font-size:14px; color:#2c3e50; margin:13px 0 6px;">IEEE Journals and Magazines</h4>
   <ul style="margin:0; padding-left:19px; column-width:280px; column-gap:24px;">
-  <li style="break-inside:avoid; margin-bottom:5px;">IEEE/ACM Transactions on Networking (TON)</li>
+  <li style="break-inside:avoid; margin-bottom:5px;">IEEE Transactions on Networking (TON)</li>
   <li style="break-inside:avoid; margin-bottom:5px;">IEEE Transactions on Mobile Computing (TMC)</li>
   <li style="break-inside:avoid; margin-bottom:5px;">IEEE Transactions on Dependable and Secure Computing (TDSC)</li>
   <li style="break-inside:avoid; margin-bottom:5px;">IEEE Transactions on Information Forensics and Security (TIFS)</li>
