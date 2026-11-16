@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-<div style="background-color:#f9f9f9; border-radius:10px; padding:12px 16px; line-height:1.48; font-size:14px; box-shadow:0 1px 5px rgba(0,0,0,0.06); margin-top:0; margin-bottom:8px;">
+<div style="background-color:#f9f9f9; border:1px solid #e5e5e5; border-radius:10px; padding:12px 16px; line-height:1.48; font-size:14px; box-shadow:0 1px 5px rgba(0,0,0,0.06); margin-top:0; margin-bottom:16px;">
 
   <!-- 招生与本科生项目实践：宽屏双栏、窄屏自动单栏 -->
   <div style="display:flex; flex-wrap:wrap; gap:12px 18px; align-items:flex-start;">
@@ -19,16 +19,16 @@ redirect_from:
       <div style="color:#8B0000; font-weight:bold; margin-bottom:5px;">
         🎓 招收研究生和有科研动力的本科生，共同探索：
       </div>
-      <div style="margin-bottom:3px;">🚗 <b>车联网与车计算</b>：智能驾驶与V2X协同推理</div>
-      <div style="margin-bottom:3px;">🧠 <b>AI智能体与知识图谱</b>：长链推理及智能驾驶</div>
-      <div style="margin-bottom:3px;">🔐 <b>网络与信息安全</b>：加密流量检测、网络防御与渗透测试</div>
-      <div>🚁 <b>无人机视觉计算</b>：跨模态感知与动态神经网络</div>
+      <div style="margin-bottom:3px;">🚗 <b>车联网与车计算</b>：网联汽车在线感知与推理</div>
+      <div style="margin-bottom:3px;">🧠 <b>AI智能体与知识图谱</b>：长链推理及安全驾驶</div>
+      <div style="margin-bottom:3px;">🔐 <b>网络与信息安全</b>：加密流量检测、防御、渗透</div>
+      <div style="margin-bottom:3px;">🚁 <b>无人车/机视觉计算</b>：跨模态感知与智能驾驶</div>
     </div>
 
     <!-- 本科生项目实践招募 -->
     <div style="flex:1 1 295px; min-width:0;">
       <div style="color:#8B0000; font-weight:bold; margin-bottom:7px;">
-        🎯 诚邀本科同学参与横向项目「特种设备检验智能体」、「事故致因推理知识图谱」、「农业机器人视觉计算」：
+        🎯 诚邀本科同学参与横向项目特种设备检验智能体、事故致因推理知识图谱、农业机器人视觉计算：
       </div>
 
       <div style="margin-bottom:5px;">
@@ -45,8 +45,9 @@ redirect_from:
         <a href="mailto:hshen@njtech.edu.cn"
           style="color:#1E90FF; text-decoration:none; font-weight:bold;">邮件联系</a>！
       </div>
+    </div> <!-- 关闭本科生项目实践栏 -->
 
-  </div> <!-- 正确关闭双栏 Flex 容器 -->
+  </div> <!-- 关闭双栏 Flex 容器 -->
 
   <!-- 毕业去向：完整展示，不折叠 -->
   <div style="border-top:1px dashed #d6d6d6; margin-top:9px; padding-top:7px;">
@@ -65,11 +66,10 @@ redirect_from:
 
 </div>
 
+<hr style="border:none; border-top:1px solid #dedede; margin:16px 0 12px;">
 
-
-
-<h2 align="left" style="margin-bottom:8px; margin-top:16px;">Recent Highlights</h2>
-<div style="background-color:#f9f9f9; border-radius:10px; padding:12px 18px; line-height:1.4; font-size:15px; margin-bottom:24px;">
+<h2 align="left" style="margin-bottom:8px; margin-top:0;">Recent Highlights</h2>
+<div style="background-color:#f9f9f9; border:1px solid #e5e5e5; border-radius:10px; padding:12px 18px; line-height:1.4; font-size:15px; margin-bottom:24px; box-shadow:0 1px 5px rgba(0,0,0,0.04);">
 
 
 <p>Nov. 2026: 我们<b>大小模型与网联汽车</b>方向的论文<i>"Large-Small Model Cooperative Threat Deception in Space-Air-Ground Integrated Vehicular Networks"</i> 被 <b><i>IEEE Transactions on Mobile Computing</i></b> (<b>CCF推荐A类国际期刊</b>) 录用为长文。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
@@ -213,7 +213,7 @@ redirect_from:
 </div>
 
 <h2 align="left" style="margin-bottom:8px; margin-top:0;">Biography</h2>
-<div style="background-color:#f9f9f9; border-radius:10px; padding:12px 18px; line-height:1.4; font-size:15px;">
+<div style="background-color:#f9f9f9; border:1px solid #e5e5e5; border-radius:10px; padding:12px 18px; line-height:1.4; font-size:15px; box-shadow:0 1px 5px rgba(0,0,0,0.04);">
   <b>沈航</b>，入选“江苏省六大人才高峰”高层次人才计划、“南工英才”优秀青年科技创新人才计划。毕业于南京理工大学（优秀博士毕业生 / 优秀博士学位论文 / 博士生国奖获得者），师从白光伟教授、唐振民教授。曾在加拿大滑铁卢大学电子与计算机工程系BBCR实验室担任全职博士后研究员，师从IEEE Fellow 、加拿大皇家科学院院士、加拿大工程院院士Weihua Zhuang教授。2015年加入南京工业大学。主要研究车联网（车计算）、领域大模型、网络安全、无人机视觉计算等。2025年以来，以第一作者在<i>IEEE TMC</i>、<i>IEEE TITS</i>、<i>IEEE TNSM</i>、<i>IEEE TVT</i>、<i>IEEE IoT-J</i>、<i>IEEE TBC</i>、<i>IEEE TCSS</i>、<i>IEEE TCE</i>、<i>电子学报</i>、<i>IEEE ICC</i>等著名期刊与会议发表论文三十余篇，指导学生发表论文110余篇；
   参编学术专著《Encyclopedia of Wireless Networks》，授权国家发明专利四十余件。
   主持国家自然科学基金和省自然科学基金项目三项，厅级项目两项，企业横向项目十项。
@@ -230,8 +230,8 @@ redirect_from:
   以及中行软开、微众银行、蚂蚁集团、南京证券等知名科技金融机构，
   有意愿继续深造的学生被推荐至知名高校读博。
 </div>
-<hr style="border:none; border-top:1px solid #ddd; margin:18px 0;">
-<div style="background-color:#f9f9f9; border-radius:10px; padding:18px 22px; line-height:1.6; font-size:15px; text-align:justify;">
+<hr style="border:none; border-top:1px solid #dedede; margin:16px 0;">
+<div style="background-color:#f9f9f9; border:1px solid #e5e5e5; border-radius:10px; padding:18px 22px; line-height:1.6; font-size:15px; text-align:justify; box-shadow:0 1px 5px rgba(0,0,0,0.04);">
 <b>Hang Shen</b> received the Ph.D. degree with honors in Computer Science from the Nanjing University of Science and Technology. 
   He worked as a Full-Time Postdoctoral Fellow under the supervision of Prof. Weihua Zhuang (IEEE Fellow) in the Broadband Communications Research (BBCR) Lab, Department of Electrical and Computer Engineering at the University of Waterloo in Waterloo, Canada from 2018 to 2019. He is currently an Associate Professor in the Department of Computer Science and Technology at Nanjing Tech University in Nanjing, China. His research interests include space-air-ground integrated networks, and agentic AI for autonomous vehicles and cybersecurity. He serves as an Associate Editor for <i>Journal of Information Processing Systems</i>, <i>J. Inf. Process.</i>, <i>Front. Blockchain</i>, and <i>IEEE Access</i>, and was a Guest Editor for <i>Peer-to-Peer Netw. Appl.</i>. He serves/served as a program committee member of IEEE GLOBECOM, IEEE HPCC, IEEE SVCC, IEEE ISPA, IEEE CCECE, ICA3PP, PST. He is a member of the IEEE Computer Society, Communication Society, and Vehicular Technology Society, a CCF Senior Member, and an Executive Committee Member of the ACM Nanjing Chapter.
   
