@@ -73,7 +73,6 @@ redirect_from:
 
 <p>Nov. 2026: 我们<b>密态网络安全</b>方向的论文<i>"Self-Training Mamba for Source-Free Offline and Online Adaptation in Encrypted Traffic Detection"</i> 被 <b><i>Computer Networks</i></b> (<b>CCF推荐B类国际期刊</b>) 录用为长文。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
-
 <p>Oct. 2026: 企业横向项目 “基于<b>Agentic AI</b>的承压类特种设备检验方案生成模型” 启动。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
 
@@ -103,35 +102,35 @@ redirect_from:
 
 <p>Dec. 2025: 我们的成果“面向大型特种设备安全的无人机智能巡检技术与应用”获得 <b>中国商业联合会科技进步三等奖</b>（排名第五）。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
 
-<p>Dec. 2025: 作为合作单位承担的 “基于人工智能的承压特种设备检验流程再造及技术研发” 项目获得国家市场监督管理总局立项。<span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
+<p>Dec. 2025: 作为合作单位承担的 “基于人工智能的承压特种设备检验流程再造及技术研发” 项目被国家市场监督管理总局立项。</p>
 
-<p>Oct. 2025: 我们 <b>智能无人机网络</b> 方向的论文 <i>"MobiFormer: Split-Federated Transfer Learning for Drone RAN Slicing with Multi-Head Attention"</i> 被计算机网络领域顶级期刊 <b><i>IEEE Transactions on Mobile Computing</i></b> (<b>CCF推荐A类国际期刊</b>) 录用为长文。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
+<p>Oct. 2025: 我们 <b>智能无人机网络</b> 方向的论文 <i>"MobiFormer: Split-Federated Transfer Learning for Drone RAN Slicing with Multi-Head Attention"</i> 被计算机网络领域顶级期刊 <b><i>IEEE Transactions on Mobile Computing</i></b> (<b>CCF推荐A类国际期刊</b>) 录用为长文。</p>
 
-<p>Oct. 2025: 我们 <b>大模型与社交网络</b> 方向的论文 “面向社交网络跨语言虚假信息检测的 LLM 增强自监督域自适应方法” 被 <b><i>电子学报</i></b> (<b>CCF推荐A类中文期刊</b>) 刊用。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
+<p>Oct. 2025: 我们 <b>大模型与社交网络</b> 方向的论文 “面向社交网络跨语言虚假信息检测的 LLM 增强自监督域自适应方法” 被 <b><i>电子学报</i></b> (<b>CCF推荐A类中文期刊</b>) 刊用。</p>
 
-<p>Oct. 2025: 李想、刘棋同学获得硕士 <b>研究生国家奖学金</b>。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
+<p>Oct. 2025: 李想、刘棋同学获得硕士 <b>研究生国家奖学金</b>。</p>
 
-<p>Oct. 2025: 校企合作项目 “同异构分布式算力协同 <b>串行并行推理</b> 算法研究” 启动。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
+<p>Oct. 2025: 校企合作项目 “同异构分布式算力协同 <b>串行并行推理</b> 算法研究” 启动。</p>
 
-<p>Sep. 2025: 企业横向项目 “压力容器 <b>定检方案大模型</b>” 启动。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
+<p>Sep. 2025: 企业横向项目 “压力容器 <b>定检方案大模型</b>” 启动。</p>
 
-<p>Sep. 2025: 作为合作单位承担的 “<b>大语言模型与知识图谱</b> 双驱动的承压特种设备检验方案生成技术及应用示范” 被江苏省市场监管局立项为重点项目。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
+<p>Sep. 2025: 作为合作单位承担的 “<b>大语言模型与知识图谱</b> 双驱动的承压特种设备检验方案生成技术及应用示范” 被江苏省市场监管局立项为重点项目。</p>
 
-<p>Aug. 2025: 我们 <b>无人机视觉计算</b> 方向的论文 <i>"MA-DyNN: Modal-Adaptive Dynamic Neural Network for Crowd-Counting on Consumer Drones"</i> 被国际著名期刊 <b><i>IEEE Transactions on Consumer Electronics</i></b> 录用为长文。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
+<p>Aug. 2025: 我们 <b>无人机视觉计算</b> 方向的论文 <i>"MA-DyNN: Modal-Adaptive Dynamic Neural Network for Crowd-Counting on Consumer Drones"</i> 被国际著名期刊 <b><i>IEEE Transactions on Consumer Electronics</i></b> 录用为长文。</p>
 
-<p>Aug. 2025: 我们 <b>大模型与社交网络</b> 方向的论文 <i>"LACL: LLM-Augmented Contrastive Learning for Misinformation Detection in Social Networks"</i> 被国际著名期刊 <b><i>IEEE Transactions on Computational Social Systems</i></b> 录用为长文。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
+<p>Aug. 2025: 我们 <b>大模型与社交网络</b> 方向的论文 <i>"LACL: LLM-Augmented Contrastive Learning for Misinformation Detection in Social Networks"</i> 被国际著名期刊 <b><i>IEEE Transactions on Computational Social Systems</i></b> 录用为长文。</p>
 
-<p>Aug. 2025: 沈航应邀担任 CCF 推荐国际会议 <b><i>International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2025)</i></b> Program Committee (PC) member. <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
+<p>Aug. 2025: 沈航应邀担任 CCF 推荐国际会议 <b><i>International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2025)</i></b> Program Committee (PC) member. </p>
 
-<p>Jul. 2025: 沈航应邀在 第二十七届中国科协年会 <b>“大模型时代的计算机网络新技术”</b> 专题论坛做学术报告。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
+<p>Jul. 2025: 沈航应邀在 第二十七届中国科协年会 <b>“大模型时代的计算机网络新技术”</b> 专题论坛做学术报告。</p>
 
-<p>Jun. 2025: 司天铖同学的本科毕业论文 “基于 LLM 增强自监督对比学习的加密流量检测” 被评选为 <b>校优秀本科毕业论文</b>。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
+<p>Jun. 2025: 司天铖同学的本科毕业论文 “基于 LLM 增强自监督对比学习的加密流量检测” 被评选为 <b>校优秀本科毕业论文</b>。</p>
 
-<p>Apr. 2025: 沈航应邀担任 CCF 推荐国际会议 <b><i>IEEE International Conference on High Performance Computing and Communications (HPCC)</i></b> Program Committee (PC) member. <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
+<p>Apr. 2025: 沈航应邀担任 CCF 推荐国际会议 <b><i>IEEE International Conference on High Performance Computing and Communications (HPCC)</i></b> Program Committee (PC) member. </p>
 
-<p>Mar. 2025: 我们 <b>网联汽车视觉计算</b> 方向的论文 <i>"MT-DyNN: Multi-Teacher Distilled Dynamic Neural Network for Instance-Adaptive Detection in Autonomous Driving"</i> 被 <b><i>IEEE Transactions on Intelligent Transportation Systems</i></b> (<b>CCF推荐B类国际期刊</b>) 录用为长文。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
+<p>Mar. 2025: 我们 <b>网联汽车视觉计算</b> 方向的论文 <i>"MT-DyNN: Multi-Teacher Distilled Dynamic Neural Network for Instance-Adaptive Detection in Autonomous Driving"</i> 被 <b><i>IEEE Transactions on Intelligent Transportation Systems</i></b> (<b>CCF推荐B类国际期刊</b>) 录用为长文。</p>
 
-<p>Feb. 2025: 我们 <b>多智能体渗透测试</b> 方向的论文 <i>"Collaborative Path Penetration in 5G-IoT Networks: A Multi-Agent Deep Reinforcement Learning Approach"</i> 被 CCF 推荐国际期刊 <b><i>Peer-to-Peer Networking and Applications</i></b> 录用为长文。 <span style="border:1px solid #ccc; background-color:#fafafa; color:#666; font-style:italic; border-radius:4px; padding:1px 6px; font-size:12px;">new</span></p>
+<p>Feb. 2025: 我们 <b>多智能体渗透测试</b> 方向的论文 <i>"Collaborative Path Penetration in 5G-IoT Networks: A Multi-Agent Deep Reinforcement Learning Approach"</i> 被 CCF 推荐国际期刊 <b><i>Peer-to-Peer Networking and Applications</i></b> 录用为长文。</p>
 
  <p>Dec. 2024: 李想、王孝琦、吴华峰同学获得 <b>全球校园人工智能算法大赛（推理知识图谱赛道）全国总决赛一等奖（排名第一）</b>。</p> 
 
@@ -224,7 +223,7 @@ redirect_from:
   课题组研究生就职于华为（南京、上海、深圳、武汉）、中兴、大疆、展锐、海康威视、大华、字节跳动、百度、腾讯、H3C、微软中国、
   德州仪器、爱立信、诺基亚贝尔、三星研究院等顶尖IT企业，
   以及中行软开、微众银行、蚂蚁集团、南京证券等知名科技金融机构，
-  有意愿继续深造的学生被推荐至知名高校读博。
+  有意愿继续深造的学生可推荐至知名高校读博。
 </div>
 <hr style="border:none; border-top:1px solid #dedede; margin:16px 0;">
 <div style="background-color:#f9f9f9; border:1px solid #e5e5e5; border-radius:10px; padding:18px 22px; line-height:1.6; font-size:15px; text-align:justify; box-shadow:0 1px 5px rgba(0,0,0,0.04);">
