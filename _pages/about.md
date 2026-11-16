@@ -174,6 +174,10 @@ redirect_from:
 
 <p>Jan. 2023: 企业横向项目 “哲学领域知识图谱构建和应用系统研发” 获立项。</p>
 
+<!-- 2023 年条目之后的历史动态：2022 年及以前，默认折叠 -->
+<details style="border-top:1px dashed #d6d6d6; margin-top:12px;">
+  <summary style="cursor:pointer; color:#2f4f4f; font-weight:700; padding:7px 2px; line-height:1.5;">📂 2022 年及以前的历史动态（15 条，点击展开）</summary>
+  <div style="padding:4px 2px 0;">
 <p>Nov. 2022: 刘鑫同学论文 “Blockchain-Enabled Solution for Secure and Scalable V2V Video Content Dissemination” 被 CCF 推荐 SCI 期刊 <b><i>Peer-to-Peer Networking and Applications</i></b> 录用。</p>
 
 <p>Nov. 2022: 我们的成果“端边云协同的涉危化品承压特种设备智慧监测与应急关键技术”获得 <b>中国特种设备检测协会科学技术二等奖</b> (排名第三)。</p>
@@ -203,6 +207,8 @@ redirect_from:
 <p>May 2021: 我们论文 “Drone-Small-Cell-Assisted Resource Slicing for 5G Uplink Radio Access Networks” 被国际著名期刊 <b><i>IEEE Transactions on Vehicular Technology</i></b> 录用。</p>
 
 <p>Dec. 2020: 沈航获得 <b>中国仪器仪表学会科技进步二等奖</b> (排名第五)。</p>
+  </div>
+</details>
 
 
 </div>
