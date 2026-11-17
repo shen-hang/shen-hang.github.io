@@ -228,8 +228,7 @@ redirect_from:
   指导学生多次获得国家奖学金、优秀毕业研究生、优秀硕士学位论文与优秀本科毕业论文，
   课题组研究生就职于华为（南京、上海、深圳、武汉）、中兴、大疆、展锐、海康威视、大华、字节跳动、百度、腾讯、H3C、微软中国、
   德州仪器、爱立信、诺基亚贝尔、三星研究院等顶尖IT企业，
-  以及中行软开、微众银行、蚂蚁集团、南京证券等知名科技金融机构，
-  有意愿继续深造的学生可推荐至知名高校读博。
+  以及中行软开、微众银行、蚂蚁集团、南京证券等知名科技金融机构。
 </div>
 <hr style="border:none; border-top:1px solid #dedede; margin:16px 0;">
 <div style="background-color:#f9f9f9; border:1px solid #e5e5e5; border-radius:10px; padding:18px 22px; line-height:1.6; font-size:15px; text-align:justify; box-shadow:0 1px 5px rgba(0,0,0,0.04);">
