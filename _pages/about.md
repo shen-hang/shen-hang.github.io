@@ -19,7 +19,7 @@ redirect_from:
       <div style="color:#8B0000; font-weight:bold; margin-bottom:5px;">
         🎓 招收研究生和有科研动力的本科生，共同探索：
       </div>
-      <div style="margin-bottom:3px;">🚗 <b>车联网与车计算</b>：智能网联汽车感知与推理</div>
+      <div style="margin-bottom:3px;">🚗 <b>车联网与车计算</b>：车-边/空-天-地协同推理</div>
       <div style="margin-bottom:3px;">🧠 <b>AI智能体与知识图谱</b>：长链推理及安全驾驶</div>
       <div style="margin-bottom:3px;">🔐 <b>网络与信息安全</b>：加密流量检测、防御、渗透</div>
       <div style="margin-bottom:3px;">🚁 <b>无人车/机视觉计算</b>：跨模态感知与智能驾驶</div>
