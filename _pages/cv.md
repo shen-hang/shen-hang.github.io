@@ -126,7 +126,7 @@ redirect_from:
       <b>(CCF Rank-B)</b>
   <a href="http://shen-hang.github.io/files/Self-Training-Mamba.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
-</li>
+
 <li style="padding-left:2px; margin-bottom:13px; line-height:1.58;">
       Tianjing Wang, Qi Liu, <b>Hang Shen*</b>, and Guangwei Bai. 
       <a href="https://www.sciencedirect.com/science/article/pii/S1389128626003488" style="color:#2c3e50; text-decoration:none; font-weight:600;">
