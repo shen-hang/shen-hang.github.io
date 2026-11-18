@@ -80,8 +80,9 @@ redirect_from:
       Qi Liu, <b>Hang Shen*</b>, Tianjing Wang, and Guangwei Bai. 
       <a href="https://www.sciencedirect.com/science/article/pii/S1389128626009497" style="color:#000; text-decoration:none;">
         Self-Training Mamba for Source-Free Offline and Online Adaptation in Encrypted Traffic Detection</a>,  
-      <i>Elsevier Computer Networks (ComNet)</i>, 2026, to appear. 
+      <i>Elsevier Computer Networks (ComNet)</i>, 2027, Volume 292, no. 112937.
       <b>(CCF推荐B类国际期刊)</b>
+  <a href="http://shen-hang.github.io/files/Self-Training-Mamba.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
     </li>
 <li>
       Tianjing Wang, Qi Liu, <b>Hang Shen*</b>, and Guangwei Bai. 
@@ -89,7 +90,7 @@ redirect_from:
         IDNet: Instance-adaptive Dynamic Network with Adversarial Training for Intrusion Detection</a>,  
       <i>Elsevier Computer Networks (ComNet)</i>, 2026, Volume 283, no. 112336. 
       <b>(CCF推荐B类国际期刊)</b>
-        <a href="http://shen-hang.github.io/files/IDNet.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
+        <a href="http://shen-hang.github.io/files/IDNet.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a> 
     </li>
 <li>
       <b>沈航*</b>, 王旭, 王天荆, 戴远飞, 白光伟. 
