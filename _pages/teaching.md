@@ -174,7 +174,7 @@ redirect_from:
 
 <!-- 作业简介 -->
 <div style="background-color:#ffffff; border-radius:10px; padding:12px 14px; line-height:1.75; font-size:14px; color:#555; box-shadow:0 1px 5px rgba(0,0,0,0.05); margin-bottom:12px;">
-  本次大作业提供一份包含多种网络协议与通信场景的网络流量 Trace 文件（<code>trace.zip</code>）。
+  我们提供一份包含多种网络协议与通信场景的网络流量 Trace 文件（<code>trace.zip</code>）。
   同学们可使用Wireshark和编程方法探索原始数据，<b>自主确定分析问题</b>，从中提取具有时间连续性与逻辑关联性的通信过程，
   分析协议工作机制、通信行为及可观察的网络性能特征，并撰写具有独立分析与讨论的研究报告。
   <b>不限定具体协议类型或分析方向</b>，鼓励结合课程知识发现有价值的网络现象。
