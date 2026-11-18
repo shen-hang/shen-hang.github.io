@@ -118,11 +118,14 @@ redirect_from:
       <b>(CCF Rank-B)</b>
 <a href="https://shen-hang.github.io/files/TITS2025.pdf" style="color:#1E90FF; text-decoration:none; white-space:nowrap;">[Download]</a>
 </li>
-<li style="padding-left:2px; margin-bottom:13px; line-height:1.58;">
+<li>
       Qi Liu, <b>Hang Shen*</b>, Tianjing Wang, and Guangwei Bai. 
-      <a href="https://www.sciencedirect.com/science/article/pii/S1389128626009497" style="color:#2c3e50; text-decoration:none; font-weight:600;">
+      <a href="https://www.sciencedirect.com/science/article/pii/S1389128626009497" style="color:#000; text-decoration:none;">
         Self-Training Mamba for Source-Free Offline and Online Adaptation in Encrypted Traffic Detection</a>,  
-      <i>Elsevier Computer Networks (ComNet)</i>, 2026, to appear. <b>(CCF Rank-B)</b>
+      <i>Elsevier Computer Networks (ComNet)</i>, 2027, Volume 292, no. 112937.
+      <b>(CCF Rank-B)</b>
+  <a href="http://shen-hang.github.io/files/Self-Training-Mamba.pdf" style="color:#1E90FF; text-decoration:none;">[Download]</a>
+    </li>
 </li>
 <li style="padding-left:2px; margin-bottom:13px; line-height:1.58;">
       Tianjing Wang, Qi Liu, <b>Hang Shen*</b>, and Guangwei Bai. 
