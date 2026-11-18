@@ -214,7 +214,7 @@ redirect_from:
 <div style="background-color:#f9f9f9; border-radius:10px; padding:14px 18px; line-height:1.7; font-size:15px; box-shadow:0 1px 5px rgba(0,0,0,0.06);">
 
   <details style="margin-bottom:10px;">
-    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">1. 引言与研究问题</summary>
+    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">1. 引言与研究动机</summary>
     <p style="margin:6px 0 0 4px;">
       简要介绍研究背景，结合所选协议或通信场景提出明确的分析问题，说明为什么值得分析，以及计划采用的工具与方法。
     </p>
@@ -291,7 +291,7 @@ redirect_from:
     <ul style="margin:6px 0 0 18px; padding:0;">
       <li>报告篇幅不少于 <b>5 页</b>，鼓励独立选题与深入探索；<b>不以分析协议数量或图表数量作为唯一评价标准</b>。</li>
       <li>优先保证通信过程提取的合理性、协议分析的深度、定量结果的可信度和结论的可追溯性。</li>
-      <li>关键结论应提供相关报文编号、过滤表达式、截图或数据统计作为证据；建议至少绘制一幅有解释价值的通信时序图或统计图。</li>
+      <li>关键结论应提供相关报文编号、过滤表达式、截图或数据统计作为证据；至少绘制2幅有解释价值的通信时序图或统计图。</li>
       <li>鼓励独立发现问题并形成个人分析结论。可参考协议标准、论文、工具文档和技术文章，但使用的资料与他人成果必须规范注明来源，<b>不得照搬现成的 Trace 分析案例、截图、数据或结论</b>。</li>
       <li>可以借助 AI 工具辅助整理与分析，但必须独立核验结果。<b>报告中的主要结论须有原始报文证据支持，不得编造数据、图表或分析过程，切记切记！</b></li>
     </ul>
