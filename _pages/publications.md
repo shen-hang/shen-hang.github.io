@@ -8,9 +8,9 @@ redirect_from:
 ---
 <p><b>Selected Publications by Research Area <i>(* indicates the corresponding author)</i></b></p>
 
-<!-- A. Vehicular and Space-Air-Ground Integrated Networks -->
+<!-- A. Vehicular Networks and Space-Air-Ground Integrated Networks -->
 <div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.45; font-size:15px; margin-bottom:14px;">
-  <h3 style="color:#8B0000; margin-top:0; margin-bottom:6px;">A. Vehicular and Space-Air-Ground Integrated Networks (车联网与空天地一体化网络)</h3>
+  <h3 style="color:#8B0000; margin-top:0; margin-bottom:6px;">A. Vehicular Networks and Space-Air-Ground Integrated Networks (车联网与空天地网络)</h3>
   <ol style="margin-top:6px; margin-bottom:0;">
 <li> 
   <b>Hang Shen</b>, Juan Huang, Tianyuan Hu*, Tianjing Wang, and Guangwei Bai. 
