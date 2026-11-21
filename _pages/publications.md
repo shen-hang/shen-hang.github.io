@@ -72,9 +72,9 @@ redirect_from:
   </ol>
 </div>
 
-<!-- B. AI and LLMs for Cybersecurity -->
+<!-- B. AI for Cybersecurity -->
 <div style="background-color:#f9f9f9; border-radius:10px; padding:16px 20px; line-height:1.45; font-size:15px; margin-bottom:14px;">
-  <h3 style="color:#8B0000; margin-top:0; margin-bottom:6px;">B. AI and LLMs for Cybersecurity (AI增强的网络安全)</h3>
+  <h3 style="color:#8B0000; margin-top:0; margin-bottom:6px;">B. AI for Cybersecurity (AI赋能网络安全)</h3>
   <ol style="margin-top:6px; margin-bottom:0;">
 <li>
       Qi Liu, <b>Hang Shen*</b>, Tianjing Wang, and Guangwei Bai. 
