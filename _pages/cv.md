@@ -589,6 +589,7 @@ redirect_from:
   <li style="break-inside:avoid; margin-bottom:5px;">IEEE Transactions on Emerging Topics in Computing (TETC)</li>
   <li style="break-inside:avoid; margin-bottom:5px;">IEEE Transactions on Machine Learning in Communications and Networking (TMLCN)</li>
   <li style="break-inside:avoid; margin-bottom:5px;">IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)</li>
+  <li style="break-inside:avoid; margin-bottom:5px;">IEEE Journal of Biomedical and Health Informatics (JBHI)</li>
   <li style="break-inside:avoid; margin-bottom:5px;">IEEE Internet of Things Journal</li>
   <li style="break-inside:avoid; margin-bottom:5px;">IEEE Network Magazine</li>
   <li style="break-inside:avoid; margin-bottom:5px;">IEEE Communications Magazine</li>
