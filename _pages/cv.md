@@ -567,7 +567,7 @@ redirect_from:
   <li style="break-inside:avoid; margin-bottom:5px;">IEEE Transactions on Human-Machine Systems (THMS)</li>
   <li style="break-inside:avoid; margin-bottom:5px;">IEEE Transactions on Systems, Man and Cybernetics: Systems (SMCA)</li>
   <li style="break-inside:avoid; margin-bottom:5px;">IEEE Transactions on Big Data (TBD)</li>
-  <li style="break-inside:avoid; margin-bottom:5px;">IEEE Transactions on Artificial Intelligence</li>
+  <li style="break-inside:avoid; margin-bottom:5px;">IEEE Transactions on Artificial Intelligence (TAI)</li>
   <li style="break-inside:avoid; margin-bottom:5px;">IEEE Transactions on Cloud Computing (TCC)</li>
   <li style="break-inside:avoid; margin-bottom:5px;">IEEE Transactions on Vehicular Technology (TVT)</li>
   <li style="break-inside:avoid; margin-bottom:5px;">IEEE Transactions on Computational Biology and Bioinformatics (TCBB)</li>
@@ -602,6 +602,7 @@ redirect_from:
   <li style="break-inside:avoid; margin-bottom:5px;">IEEE Wireless Communications Letters</li>
   <li style="break-inside:avoid; margin-bottom:5px;">IEEE Networking Letters</li>
   <li style="break-inside:avoid; margin-bottom:5px;">IEEE Signal Processing Letters</li>
+  <li style="break-inside:avoid; margin-bottom:5px;">IEEE Photonics Technology Letters (PTL)</li>
   </ul>
   <h4 style="font-size:14px; color:#2c3e50; margin:13px 0 6px;">Other Journals</h4>
   <ul style="margin:0; padding-left:19px; column-width:280px; column-gap:24px;">
