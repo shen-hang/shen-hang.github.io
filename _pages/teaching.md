@@ -250,11 +250,7 @@ redirect_from:
   <!-- 提交要求 -->
   <div style="margin-top:10px; background-color:#fff7e6; border-left:4px solid #ff9800; padding:12px 14px; border-radius:6px; font-size:14.5px; color:#444;">
     <b>【报告提交方式与时间】</b><br/>
-    <b>提交日期：2026 年 12 月 30 日（当天）。</b>
-    <ul style="margin:6px 0 0 18px; padding:0;">
-      <li>请各位同学于 <b>2026 年 12 月 30 日当天</b> 将大作业的 <b>PDF 电子版</b>发送至 <b>only_669@qq.com</b>，附件命名为 <b>“姓名-学号.pdf”</b>，邮件主题为 <b>“物联网大作业-姓名-学号”</b>。</li>
-      <li style="margin-top:6px;">辛苦 <b>计2304班李双阳</b> 同学汇总所有大作业，整理后统一打包发我。</li>
-    </ul>
+    请各位同学于 <b>2026年12月30日当天</b> 将大作业的 <b>PDF电子版</b>发送至 <b>only_669@qq.com</b>，附件命名为 <b>“姓名-学号.pdf”</b>，邮件主题为 <b>“物联网大作业-姓名-学号”</b>。
   </div>
 </div>
 
