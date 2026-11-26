@@ -173,7 +173,7 @@ redirect_from:
   </a>
 
   <p style="margin:6px 0 0 2px; font-size:12.5px; color:#888;">
-    注：请先下载并解压 <code>iot_trace_2026.zip</code>，再使用 Wireshark 等工具打开其中的抓包文件。如点击链接后未自动下载，可尝试右键另存为。
+    注：请先下载并解压 <code>iot-trace.zip</code>，再使用 Wireshark 等工具打开其中的抓包文件。如点击链接后未自动下载，可尝试右键另存为。
   </p>
 </div>
 
