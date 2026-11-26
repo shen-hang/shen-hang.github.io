@@ -177,7 +177,7 @@ redirect_from:
 </div>
 
 <p style="margin:0 0 10px 2px; font-size:14px; color:#555;">
-  报告的结构和内容可参考以下安排，<b>不要求逐项照搬</b>；同学们可根据实际观察自主拟定报告题目、组织章节、选择分析方法及评价指标。
+  报告的结构和内容可参考以下安排，<b>不要求逐项照搬</b>；同学们可根据实际观察自主拟定报告题目、调整内容划分、选择分析方法及评价指标。
 </p>
 
 <div style="background-color:#f9f9f9; border-radius:10px; padding:14px 18px; line-height:1.7; font-size:15px; box-shadow:0 1px 5px rgba(0,0,0,0.06);">
