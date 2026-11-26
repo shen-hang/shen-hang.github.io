@@ -139,19 +139,19 @@ redirect_from:
 <!-- 作业简介 -->
 <div style="background-color:#ffffff; border-radius:10px; padding:12px 14px; line-height:1.75; font-size:14px; color:#555; box-shadow:0 1px 5px rgba(0,0,0,0.05); margin-bottom:12px;">
   本次大作业提供一份在实际物联网实验环境中采集的网络流量 Trace 文件（<code>iot_trace_2026.zip</code>）。
-  同学们可使用 Wireshark 等工具探索原始报文，<b>自主发现具有分析价值的物联网通信现象，提出问题并开展分析与验证</b>，
+  同学们可使用Wireshark等工具探索原始报文，<b>自主发现具有分析价值的物联网通信现象，提出问题并开展分析与验证</b>，
   结合课程知识理解设备通信行为、协议工作机制及其应用特点，形成有数据依据的评价结论。
   <b>不限定具体协议、分析方向或报告结构</b>，不要求购买物联网设备，也不强制编程。
 </div>
 
 <!-- 数据与模板 -->
 <div style="margin:0 0 14px 2px; font-size:13.5px; color:#666;">
-  📄 <b>数据与说明文件下载：</b>
+  📄 <b>下载：</b>
 
-  <a href="https://shen-hang.github.io/files/iot-tracezip"
+  <a href="https://shen-hang.github.io/files/iot-trace.zip"
      target="_blank" rel="noopener noreferrer" download
      style="display:inline-block; margin:6px 6px 0 0; padding:6px 10px; border-radius:8px; background:#ffffff; border:1px solid rgba(58,110,165,0.35); color:#3A6EA5; text-decoration:none;">
-    Trace 文件（iot_trace_2026.zip）
+    Trace文件（iot-trace.zip）
   </a>
 
   <a href="https://shen-hang.github.io/files/报告格式要求.doc"
@@ -169,7 +169,7 @@ redirect_from:
   <a href="https://www.wireshark.org/download.html"
      target="_blank" rel="noopener noreferrer"
      style="display:inline-block; margin:6px 6px 0 0; padding:6px 10px; border-radius:8px; background:#ffffff; border:1px solid rgba(58,110,165,0.35); color:#3A6EA5; text-decoration:none;">
-    Wireshark 下载
+    Wireshark下载
   </a>
 
   <p style="margin:6px 0 0 2px; font-size:12.5px; color:#888;">
