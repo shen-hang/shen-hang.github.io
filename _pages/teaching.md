@@ -117,7 +117,7 @@ redirect_from:
   <span style="font-weight:normal; color:#666; font-size:13px;">— Undergraduate Course</span>
 </h3>
 <p style="margin:0 0 10px 0; color:#555; font-size:13px;">
-  Offered Semester：Fall 2015-2017, Fall 2019-2024
+  Offered Semester：Fall 2015-2017, Fall 2019-2024, 2026
 </p>
 
 | Item          | Links & Description                                          |
@@ -127,9 +127,136 @@ redirect_from:
 | RFID          | [RFID原理](https://blog.csdn.net/yuyangyg/article/details/78253069), [RFID攻防](https://blog.csdn.net/sinat_23338865/article/details/71195810) |
 | 定位技术      | [GPS定位基本原理](https://www.cnblogs.com/sddai/p/9692722.html), [AGPS定位机制](https://www.cnblogs.com/prayer521/p/6636457.html), [LANDMARC室内定位算法](https://zhuanlan.zhihu.com/p/349745108) |
 | 信息安全      | [私钥vs公钥vs地址](https://www.cnblogs.com/kumata/p/10477369.html), [加密vs签名](https://www.zhihu.com/question/27669212), [哈希锁](https://www.jianshu.com/p/d78196150350), [数字签名](http://www.youdzone.com/signature.html), [数字证书](https://www.cnblogs.com/JeffreySun/archive/2010/06/24/1627247.html), [HTTPS原理](https://github.com/ljianshu/blog/issues/50), [非对称加密](https://blog.csdn.net/jijianshuai/article/details/80582187), [认证(authentication)vs授权(authorization)](https://www.cnblogs.com/xosg/p/10257792.html), [同态加密](https://blog.csdn.net/weixin_41564401/article/details/82777335), [椭圆曲线密码](https://www.cnblogs.com/pupilheart/p/9977458.html), [安全多方计算(Yao's两方协议)](https://blog.csdn.net/weixin_42934313/article/details/84989801), [私钥vs公钥vs地址](https://www.jianshu.com/p/af6328cc693e), [拜占庭将军问题](https://charlesliuyx.github.io/2018/03/03/%E3%80%90%E5%8C%BA%E5%9D%97%E9%93%BE%E3%80%91%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3%E6%8B%9C%E5%8D%A0%E5%BA%AD%E5%B0%86%E5%86%9B%E9%97%AE%E9%A2%98/) |
-| Google三剑客  | [Google File System](https://mp.weixin.qq.com/s/HtfSVE93ycAv7xFofvPFmg), [Bigtable](https://mp.weixin.qq.com/s/cVAzAmKJbVDfbDSkjiM38g), [MapReduce](https://mp.weixin.qq.com/s/mxWxyCHhYU2mx_DXfEUh_Q) |
+| Google框架  | [Google File System](https://mp.weixin.qq.com/s/HtfSVE93ycAv7xFofvPFmg), [Bigtable](https://mp.weixin.qq.com/s/cVAzAmKJbVDfbDSkjiM38g), [MapReduce](https://mp.weixin.qq.com/s/mxWxyCHhYU2mx_DXfEUh_Q) |
 | 前沿技术&观点 | [无源感知网络](https://dl.ccf.org.cn/article/articleDetail.html?type=xhtx_thesis&_ack=1&id=3738875752663040),  [物联网的连接引擎：无源感知网络](https://dl.ccf.org.cn/article/articleDetail.html?type=xhtx_thesis&_ack=1&id=3744263179765760), [无源物联网的求索--后向散射通信系统](https://dl.ccf.org.cn/article/articleDetail.html?type=xhtx_thesis&_ack=1&id=4494308210345984), [群智融合计算](https://dl.ccf.org.cn/article/articleDetail.html?type=xhtx_thesis&_ack=1&id=4150934277408768), [感知-协同融合计算：群智能体决策与控制](https://dl.ccf.org.cn/article/articleDetail.html?type=xhtx_thesis&_ack=1&id=5569607915030528), [C-V2X车联网](https://baijiahao.baidu.com/s?id=1687496871370500729&wfr=spider&for=pc), [智能交通系统中的安全与隐私保护](https://dl.ccf.org.cn/article/articleDetail.html?type=xhtx_thesis&_ack=1&id=3933861195778048), [工业互联网：新兴技术展望](https://dl.ccf.org.cn/article/articleDetail.html?type=xhtx_thesis&_ack=1&id=5569209647122432), [边缘计算](https://dl.ccf.org.cn/article/articleDetail.html?type=xhtx_thesis&_ack=1&id=4756247983065088), [边缘计算的可靠性](https://dl.ccf.org.cn/article/articleDetail.html?type=xhtx_thesis&_ack=1&id=5055149814499328), [物联网时代的搜索引擎演进思考](https://dl.ccf.org.cn/article/articleDetail.html?type=xhtx_thesis&_ack=1&id=5318964192446464), [万物皆变，网络安全进入大安全时代](https://dl.ccf.org.cn/article/articleDetail.html?type=xhtx_thesis&_ack=1&id=3744263253297152), [工业互联网与新工业革命](https://dl.ccf.org.cn/article/articleDetail.html?type=xhtx_thesis&_ack=1&id=5568265264236544), [工业4.0：一次新的工业革命？](https://dl.ccf.org.cn/article/articleDetail.html?type=xhtx_thesis&_ack=1&id=3744263017859072), [软件定义时代的基础软件](https://dl.ccf.org.cn/article/articleDetail.html?type=xhtx_thesis&_ack=1&id=5228453505681408), [软件定义的云际存储](https://dl.ccf.org.cn/article/articleDetail.html?type=xhtx_thesis&_ack=1&id=3744262970787840) |
-| 研究报告 | 请用指定[模板(修改自计算机学报)(r31d)](https://pan.baidu.com/s/1a9DSHIBwy324lbjiANqDRw), 长度不少于6页。<br/>[参考综述文献(7bri)](https://pan.baidu.com/s/1ey_eY8KiY0EkR1BXh8I3bg), [文献查阅](https://shen-hang.github.io//links/)。<br/>范围包括但不限于此：<br/>1. AI for Networks or Networks for AI<br/>2. 网络体系架构和协议<br/>3. 多媒体网络和服务质量<br/>4. 网络安全与隐私计算<br/>5. 无线网络与移动计算<br/>6. 云计算、边缘计算和分散计算<br/>7. 定位和基于位置的服务<br/>8. 移动群智感知、参与式感知、众包<br/>9. Software-Defined Networking and Network Functions Virtualization<br/>10. 未来网络和新兴网络技术|
+
+
+
+<h3 style="font-size:17px; color:#2c3e50; margin-bottom:6px; margin-top:20px;">
+  物联网流量分析与评价报告（2026）
+</h3>
+
+<!-- 作业简介 -->
+<div style="background-color:#ffffff; border-radius:10px; padding:12px 14px; line-height:1.75; font-size:14px; color:#555; box-shadow:0 1px 5px rgba(0,0,0,0.05); margin-bottom:12px;">
+  本次大作业提供一份在实际物联网实验环境中采集的网络流量 Trace 文件（<code>iot_trace_2026.zip</code>）。
+  同学们可使用 Wireshark 等工具探索原始报文，<b>自主发现具有分析价值的物联网通信现象，提出问题并开展分析与验证</b>，
+  结合课程知识理解设备通信行为、协议工作机制及其应用特点，形成有数据依据的评价结论。
+  <b>不限定具体协议、分析方向或报告结构</b>，不要求购买物联网设备，也不强制编程。
+</div>
+
+<!-- 数据与模板 -->
+<div style="margin:0 0 14px 2px; font-size:13.5px; color:#666;">
+  📄 <b>数据与说明文件下载：</b>
+
+  <a href="https://shen-hang.github.io/files/iot-tracezip"
+     target="_blank" rel="noopener noreferrer" download
+     style="display:inline-block; margin:6px 6px 0 0; padding:6px 10px; border-radius:8px; background:#ffffff; border:1px solid rgba(58,110,165,0.35); color:#3A6EA5; text-decoration:none;">
+    Trace 文件（iot_trace_2026.zip）
+  </a>
+
+  <a href="https://shen-hang.github.io/files/报告格式要求.doc"
+     target="_blank" rel="noopener noreferrer"
+     style="display:inline-block; margin:6px 6px 0 0; padding:6px 10px; border-radius:8px; background:#ffffff; border:1px solid rgba(58,110,165,0.35); color:#3A6EA5; text-decoration:none;">
+    报告格式模板（.doc）
+  </a>
+
+  <a href="https://shen-hang.github.io/files/图片格式要求.doc"
+     target="_blank" rel="noopener noreferrer"
+     style="display:inline-block; margin:6px 6px 0 0; padding:6px 10px; border-radius:8px; background:#ffffff; border:1px solid rgba(58,110,165,0.35); color:#3A6EA5; text-decoration:none;">
+    图片格式要求（.doc）
+  </a>
+
+  <a href="https://www.wireshark.org/download.html"
+     target="_blank" rel="noopener noreferrer"
+     style="display:inline-block; margin:6px 6px 0 0; padding:6px 10px; border-radius:8px; background:#ffffff; border:1px solid rgba(58,110,165,0.35); color:#3A6EA5; text-decoration:none;">
+    Wireshark 下载
+  </a>
+
+  <p style="margin:6px 0 0 2px; font-size:12.5px; color:#888;">
+    注：请先下载并解压 <code>iot_trace_2026.zip</code>，再使用 Wireshark 等工具打开其中的抓包文件。如点击链接后未自动下载，可尝试右键另存为。
+  </p>
+</div>
+
+<p style="margin:0 0 10px 2px; font-size:14px; color:#555;">
+  报告的结构和内容可参考以下安排，<b>不要求逐项照搬</b>；同学们可根据实际观察自主拟定报告题目、组织章节、选择分析方法及评价指标。
+</p>
+
+<div style="background-color:#f9f9f9; border-radius:10px; padding:14px 18px; line-height:1.7; font-size:15px; box-shadow:0 1px 5px rgba(0,0,0,0.06);">
+
+  <details style="margin-bottom:10px;">
+    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">1. 引言</summary>
+    <p style="margin:6px 0 0 4px;">
+      简要介绍所研究的物联网通信场景，结合对 Trace 的初步观察提出明确、可分析的问题，说明研究价值及拟采用的分析方法。避免大篇幅介绍协议的基本概念。
+    </p>
+  </details>
+
+  <details style="margin-bottom:10px;">
+    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">2. Trace 数据理解与通信行为识别</summary>
+    <ul style="margin-top:6px; margin-left:24px;">
+      <li>了解原始 Trace 的时间范围、协议组成、主要通信对象及流量特点，尝试识别设备与服务之间的通信关系。</li>
+      <li>自主选取具有分析价值的通信对象、会话或时间区间，说明选择依据，并记录过滤条件、起止时间、关键报文编号等。</li>
+      <li>根据实际报文判断所选通信过程是否完整；不要将缺乏关联的报文拼接成一次通信过程，也不要仅凭端口号认定应用层协议。</li>
+    </ul>
+  </details>
+
+  <details style="margin-bottom:10px;">
+    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">3. 物联网通信机制与现象分析</summary>
+    <p style="margin:6px 0 0 4px;">
+      围绕自行提出的问题，对至少一个具有足够分析深度的物联网通信过程展开分析，并结合相关报文或其他通信过程加以验证。
+    </p>
+    <ul style="margin-top:6px; margin-left:24px;">
+      <li>还原关键报文的交互过程，解释协议机制与设备通信行为之间的关系。</li>
+      <li>可从数据采集与上报、消息交互、连接管理、通信可靠性、设备与服务的协作或安全性等角度选择分析方向；具体内容以实际报文为准。</li>
+      <li>鼓励通过不同设备、会话或时间区间的对照，验证所发现的现象是否具有一致性，分析差异及其可能原因。</li>
+    </ul>
+  </details>
+
+  <details style="margin-bottom:10px;">
+    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">4. 定量分析与结果验证</summary>
+    <ul style="margin-top:6px; margin-left:24px;">
+      <li>围绕具体问题自主选择可计算的指标，例如报文数量、字节数、消息间隔、响应时间、控制报文比例或通信开销等。</li>
+      <li>说明指标定义、统计对象、过滤条件、计算方法及必要假设，通过图表或关键报文证据验证分析结果。</li>
+      <li>进行比较时应考虑业务量、消息长度、通信条件等差异，避免仅凭总流量判断协议优劣。</li>
+      <li>不得将抓包中未观察到的报文直接视为丢包，也不得仅凭流量大小推断设备实际能耗。对于无法可靠计算的指标，应说明原因。</li>
+    </ul>
+  </details>
+
+  <details style="margin-bottom:10px;">
+    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">5. 综合评价与结论</summary>
+    <p style="margin:6px 0 0 4px;">
+      结合原始报文、协议原理与定量结果回答所提出的问题，从通信效率、可靠性、实时性、资源开销或物联网应用适用性等角度开展评价。
+      区分 Trace 直接支持的事实与基于机制的合理推测，说明结论的适用范围及局限性。鼓励提出有依据的改进建议，但不强制设计新算法或开发系统。
+    </p>
+  </details>
+
+  <details style="margin-bottom:10px;">
+    <summary style="font-weight:bold; color:#3A6EA5; cursor:pointer;">6. 参考文献</summary>
+    <p style="margin:6px 0 0 4px;">
+      列出实际参考的协议标准、RFC、论文及工具文档，引用应与正文对应且格式统一。本次课程统一提供的 Trace 可直接注明文件名，无需追溯原始数据集。
+    </p>
+  </details>
+
+  <!-- 重点说明 -->
+  <div style="margin-top:12px; background-color:#f6fffa; border-left:4px solid #32CD32; padding:12px 14px; border-radius:6px; font-size:14.5px; color:#444;">
+    <b>【报告撰写注意事项】</b>
+    <ul style="margin:6px 0 0 18px; padding:0;">
+      <li>报告篇幅不少于 <b>5 页</b>，独立完成。重点考查问题选择、分析思路、证据可靠性及评价深度，不以分析协议数量或图表数量作为唯一评价标准。</li>
+      <li>至少绘制 2 幅具有解释价值的通信时序图或统计图。重要结论应注明原始报文编号、时间区间、过滤表达式或计算方法，确保结果可复核。</li>
+      <li>可参考相关协议标准及技术资料，但不得照搬现成的 Trace 分析案例、日志统计、图表或结论。鼓励使用 Wireshark 完成分析，不强制编程。</li>
+      <li>允许借助 AI 工具辅助分析，但必须独立核验结果。<b>不得编造报文、数据、图表或分析过程。</b></li>
+    </ul>
+  </div>
+
+  <!-- 提交要求 -->
+  <div style="margin-top:10px; background-color:#fff7e6; border-left:4px solid #ff9800; padding:12px 14px; border-radius:6px; font-size:14.5px; color:#444;">
+    <b>【报告提交方式与时间】</b><br/>
+    <b>提交日期：2026 年 12 月 30 日（当天）。</b>
+    <ul style="margin:6px 0 0 18px; padding:0;">
+      <li>请各位同学于 <b>2026 年 12 月 30 日当天</b> 将大作业的 <b>PDF 电子版</b>发送至 <b>only_669@qq.com</b>，附件命名为 <b>“姓名-学号.pdf”</b>，邮件主题为 <b>“物联网大作业-姓名-学号”</b>。</li>
+      <li style="margin-top:6px;">辛苦 <b>计2304班李双阳</b> 同学汇总所有大作业，整理后统一打包发我。</li>
+    </ul>
+  </div>
+</div>
 
 
 <hr style="border: 0; border-top: 2px solid #1E90FF; margin: 24px 0 16px 0; opacity: 0.6;">
