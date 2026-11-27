@@ -138,7 +138,7 @@ redirect_from:
 
 <!-- 作业简介 -->
 <div style="background-color:#ffffff; border-radius:10px; padding:12px 14px; line-height:1.75; font-size:14px; color:#555; box-shadow:0 1px 5px rgba(0,0,0,0.05); margin-bottom:12px;">
-  我们提供一份在物联网环境中采集的流量Trace文件（<code>iot_trace_2026.zip</code>）。
+  我们提供一份在物联网环境中采集的流量Trace文件（<code>iot-trace.zip</code>）。
   同学们可使用Wireshark等工具探索原始报文，<b>自主发现具有分析价值的物联网通信现象，提出问题并开展分析与验证</b>，
   结合课程知识理解设备通信行为、协议工作机制及其应用特点，形成有数据依据的评价结论。
 </div>
